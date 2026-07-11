@@ -20,7 +20,7 @@ En este sentido, el presente informe se basa en:
 
 - Una evaluación detallada
 
-- La aplicación estricta del PPTP
+- La aplicación estricta del Documento de Invitación
 
 - Una motivación extensa y trazable
 
@@ -40,7 +40,7 @@ La valoración realizada se ha ajustado a los principios esenciales de la contra
 
 ### 2.3 Umbral mínimo de puntuación
 
-El PPTP establece expresamente:
+El Documento de Invitación establece expresamente:
 
 La obligación de alcanzar al menos el 50% de la puntuación en los criterios sujetos a juicio de valor (15 puntos sobre 30)
 
@@ -130,7 +130,7 @@ Es plenamente legítimo reducir significativamente la puntuación cuando la plan
 
 ### 4.4 Proporcionalidad de la puntuación
 
-La puntuación asignada no responde a una penalización arbitraria, sino a una aplicación proporcional de los criterios del PPTP.
+La puntuación asignada no responde a una penalización arbitraria, sino a una aplicación proporcional de los criterios del Documento de Invitación.
 
 En particular:
 
@@ -164,7 +164,7 @@ Esta decisión:
 
 - No depende de una comparación con otras ofertas
 
-- Es consecuencia directa del PPTP
+- Es consecuencia directa del Documento de Invitación
 
 ### 5.2 Ausencia de arbitrariedad
 
@@ -198,7 +198,7 @@ La respuesta técnica es clara:
 
 Cumplir formalmente el pliego no implica obtener una puntuación suficiente.
 
-El PPTP no exige únicamente cumplimiento, sino:
+El Documento de Invitación no exige únicamente cumplimiento, sino:
 
 - Nivel técnico
 
@@ -210,7 +210,7 @@ El PPTP no exige únicamente cumplimiento, sino:
 
 La valoración:
 
-- Está basada en criterios del PPTP
+- Está basada en criterios del Documento de Invitación
 
 - Está motivada de forma detallada
 
@@ -230,7 +230,7 @@ La ausencia de leyenda en el Gantt no es un error formal menor, sino una deficie
 
 A la vista de lo expuesto, puede afirmarse que:
 
-La valoración técnica realizada es correcta, proporcionada y plenamente ajustada a los criterios del PPTP.
+La valoración técnica realizada es correcta, proporcionada y plenamente ajustada a los criterios del Documento de Invitación.
 
 Asimismo:
 

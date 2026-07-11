@@ -8,7 +8,7 @@ Asimismo, considera que la evaluación se basa en juicios de valor excesivamente
 
 ## 1.2 Alegación segunda: incorrecta valoración del Gantt
 
-La recurrente alega que el diagrama de Gantt presentado cumple con los requisitos del pliego, al incluir una planificación temporal completa de las actividades del servicio, y que la valoración negativa realizada por el órgano evaluador responde a criterios no previstos en el PPTP, tales como la exigencia de dependencias, hitos o desagregación adicional.
+La recurrente alega que el diagrama de Gantt presentado cumple con los requisitos del pliego, al incluir una planificación temporal completa de las actividades del servicio, y que la valoración negativa realizada por el órgano evaluador responde a criterios no previstos en el Documento de Invitación, tales como la exigencia de dependencias, hitos o desagregación adicional.
 
 Además, señala que los valores numéricos y códigos de color utilizados forman parte de una metodología interna de gestión y que su interpretación debería haber sido solicitada en fase de aclaraciones en lugar de penalizarse directamente.
 
@@ -106,7 +106,7 @@ El informe reconoce expresamente que la propuesta:
 
 - pero no desarrolla soluciones técnicas suficientes
 
-El PPTP no exige una mera reproducción de requisitos, sino una propuesta técnica que permita evaluar:
+El Documento de Invitación no exige una mera reproducción de requisitos, sino una propuesta técnica que permita evaluar:
 
 - cómo se ejecutará el servicio
 
@@ -126,7 +126,7 @@ Las denominadas mejoras propuestas no han sido ignoradas, sino analizadas, concl
 
 ## 2.4 Respuesta a la alegación de desproporcionalidad
 
-La puntuación asignada responde a una aplicación directa de la escala del PPTP, basada en:
+La puntuación asignada responde a una aplicación directa de la escala del Documento de Invitación, basada en:
 
 - el nivel de desarrollo técnico
 
@@ -182,7 +182,7 @@ Además, el informe no se limita a invocar la puntuación, sino que:
 
 El recurso presentado por empresa_n carece de fundamento técnico y jurídico, al basarse en:
 
-- una interpretación incorrecta del PPTP
+- una interpretación incorrecta del Documento de Invitación
 
 - una confusión entre cumplimiento formal y técnico
 

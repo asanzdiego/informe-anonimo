@@ -41,7 +41,7 @@ SERVICIOS DE MANTENIMIENTO Y SOPORTE PARA PROYECTOS EXTERIORES ALOJADOS EN LA PL
 
 No aplica.
 
-1.1 Identificación de la empresa licitadora 
+1.1 Identificación de la empresa licitadora
 
 No aplica.
 

@@ -4,7 +4,7 @@
 
 El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa **empresa_n** en el procedimiento de contratación relativo al desarrollo evolutivo y correctivo del portal educativo, LDAP, cloud, sistema operativo MAX y otros sistemas integrados en la plataforma EducaMadrid, en el marco del expediente BAC06_2026: **Desarrollo evolutivo y correctivo del portal educativo, LDAP, cloud, MAX y otros sistemas de EducaMadrid**
 
-La evaluación se realiza conforme a los criterios establecidos en el Pliego de Prescripciones Técnicas Particulares, en particular los definidos en el apartado 7.2 relativos a criterios sujetos a juicio de valor.
+La evaluación se realiza conforme a los criterios establecidos en el Documento de Invitación, en particular los definidos en el apartado 7.2 relativos a criterios sujetos a juicio de valor.
 
 ## 1.2. Alcance de la evaluación
 
@@ -18,7 +18,7 @@ La evaluación comprende el análisis integral de la memoria técnica presentada
 
 - la coherencia entre planteamiento teórico y operativa real
 
-A efectos de garantizar la trazabilidad y objetividad del análisis, la evaluación se ha reestructurado conforme a los 89 subproyectos definidos en el Anexo II del PPTP, identificados mediante los códigos usados en dicho Anexo.
+A efectos de garantizar la trazabilidad y objetividad del análisis, la evaluación se ha reestructurado conforme a los 89 subproyectos definidos en el Anexo II del Documento de Invitación, identificados mediante los códigos usados en dicho Anexo.
 
 ## 1.3. Contexto técnico del servicio
 
@@ -28,11 +28,11 @@ Este ecosistema exige soluciones altamente especializadas, con capacidad de gest
 
 ## 1.4. Metodología de evaluación
 
-El análisis se ha realizado mediante una revisión técnica exhaustiva de la memoria presentada, contrastando cada subproyecto con los requisitos del PPTP, evaluando el grado de concreción técnica, la existencia de metodologías, la identificación de herramientas y la capacidad real de ejecución.
+El análisis se ha realizado mediante una revisión técnica exhaustiva de la memoria presentada, contrastando cada subproyecto con los requisitos del Documento de Invitación, evaluando el grado de concreción técnica, la existencia de metodologías, la identificación de herramientas y la capacidad real de ejecución.
 
 Se ha prestado especial atención a la verificabilidad de la solución, entendida como la capacidad de demostrar objetivamente su funcionamiento mediante métricas, procedimientos y evidencia técnica.
 
-Una vez evaluada la capacidad técnica subproyecto a subproyecto se ha procedido a hacer una evaluación completa de la propuesta según los requisitos del apartado 7.2.2 del PPTP, considerando especialmente las carencias técnicas, la ausencia de procedimientos, las inconsistencias y el nivel de concreción de la propuesta.
+Una vez evaluada la capacidad técnica subproyecto a subproyecto se ha procedido a hacer una evaluación completa de la propuesta según los requisitos del apartado 7.2.2 del Documento de Invitación, considerando especialmente las carencias técnicas, la ausencia de procedimientos, las inconsistencias y el nivel de concreción de la propuesta.
 
 ## 1.5. ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
 
@@ -64,7 +64,7 @@ Las propuestas de mejora identificadas se basan en la ampliación de las tareas 
 
 **Este subproyecto exige el desarrollo de una CMDB avanzada, incluyendo la incorporación de relaciones físicas y lógicas, el modelado de dependencias, la automatización de la carga de información y el uso de herramientas de software libre.** Se trata de un requisito clave para la gestión integral de la infraestructura.
 
-**La propuesta de empresa_n se limita a describir actividades como la revisión de elementos registrados, la actualización de información y la importación de datos, sin desarrollar mecanismos de descubrimiento automático, inventariado dinámico ni integración con otras plataformas.** Tampoco se describen modelos de relaciones ni estructuras de dependencias entre sistemas, ni se identifican herramientas concretas de software libre, como exige el PPTP.
+**La propuesta de empresa_n se limita a describir actividades como la revisión de elementos registrados, la actualización de información y la importación de datos, sin desarrollar mecanismos de descubrimiento automático, inventariado dinámico ni integración con otras plataformas.** Tampoco se describen modelos de relaciones ni estructuras de dependencias entre sistemas, ni se identifican herramientas concretas de software libre, como exige el Documento de Invitación.
 
 Las propuestas de mejora siguen el mismo patrón observado en el resto del bloque, consistiendo en la ampliación de las tareas de revisión y actualización, sin incorporar automatización ni evolución funcional del sistema.
 
@@ -72,9 +72,9 @@ Las propuestas de mejora siguen el mismo patrón observado en el resto del bloqu
 
 ## 1.9. BD4 — Mantenimiento de las bases de datos de las Aulas Virtuales
 
-El PPTP establece que este subproyecto debe abordar la gestión de un entorno de alta complejidad, con miles de bases de datos distribuidas en múltiples servidores, incluyendo el análisis de carga, la redistribución de información y la adaptación arquitectónica.
+El Documento de Invitación establece que este subproyecto debe abordar la gestión de un entorno de alta complejidad, con miles de bases de datos distribuidas en múltiples servidores, incluyendo el análisis de carga, la redistribución de información y la adaptación arquitectónica.
 
-**La propuesta de empresa_n describe actividades como la revisión de carga, el seguimiento de rendimiento y la incorporación o eliminación de servidores, manteniéndose en un nivel descriptivo.** No se identifican herramientas de análisis de rendimiento, ni metodologías de redistribución, ni mecanismos de balanceo o replicación orientados a entornos de gran escala. Tampoco se desarrolla una estrategia específica para gestionar el volumen de bases de datos indicado en el PPTP.
+**La propuesta de empresa_n describe actividades como la revisión de carga, el seguimiento de rendimiento y la incorporación o eliminación de servidores, manteniéndose en un nivel descriptivo.** No se identifican herramientas de análisis de rendimiento, ni metodologías de redistribución, ni mecanismos de balanceo o replicación orientados a entornos de gran escala. Tampoco se desarrolla una estrategia específica para gestionar el volumen de bases de datos indicado en el Documento de Invitación.
 
 Las mejoras propuestas consisten en reforzar las labores de seguimiento y control, sin introducir procedimientos técnicos adicionales, lo que no permite identificar una evolución real de la solución.
 
@@ -268,7 +268,7 @@ Las propuestas de mejora se centran en reforzar estas ideas, sin concretar los e
 
 El subproyecto UPD13 exige el uso de herramientas específicas como CMDBuild y Ansible, así como la automatización de procesos y la correlación de datos.
 
-La propuesta de empresa_n incluye referencias a automatización básica y revisión de datos, pero omite las herramientas específicas indicadas en el PPTP. **No se desarrollan mecanismos de correlación de información ni integración entre sistemas, lo que limita la capacidad del sistema de gestión de configuración.**
+La propuesta de empresa_n incluye referencias a automatización básica y revisión de datos, pero omite las herramientas específicas indicadas en el Documento de Invitación. **No se desarrollan mecanismos de correlación de información ni integración entre sistemas, lo que limita la capacidad del sistema de gestión de configuración.**
 
 Las propuestas de mejora no introducen las herramientas ni los mecanismos requeridos, manteniéndose en un enfoque generalista.
 
@@ -300,7 +300,7 @@ Las propuestas de mejora consisten en ampliar las tareas de revisión, sin intro
 
 **El subproyecto CLO1 requiere la mejora y evolución de la infraestructura cloud, incluyendo la distribución de carga para un entorno de aproximadamente dos millones de usuarios, la redistribución del almacenamiento, la planificación de capacidad a medio y largo plazo y la gestión de cuotas.** Se trata de un requisito claramente orientado a entornos de alta escalabilidad y gestión avanzada de infraestructura.
 
-La propuesta presentada por empresa_n no desarrolla este subproyecto de forma específica, limitándose a referencias genéricas al mantenimiento del entorno cloud. No se describen procedimientos concretos de distribución de carga ni planificación de capacidad, ni se identifican mecanismos de escalabilidad, ni estrategias de redistribución de almacenamiento o gestión de cuotas. **La falta de desarrollo resulta especialmente significativa considerando el volumen de usuarios indicado en el PPTP, ya que no se define cómo se abordaría este requisito en términos operativos.**
+La propuesta presentada por empresa_n no desarrolla este subproyecto de forma específica, limitándose a referencias genéricas al mantenimiento del entorno cloud. No se describen procedimientos concretos de distribución de carga ni planificación de capacidad, ni se identifican mecanismos de escalabilidad, ni estrategias de redistribución de almacenamiento o gestión de cuotas. **La falta de desarrollo resulta especialmente significativa considerando el volumen de usuarios indicado en el Documento de Invitación, ya que no se define cómo se abordaría este requisito en términos operativos.**
 
 Las propuestas de mejora mantienen el mismo nivel de generalidad, sin introducir elementos técnicos adicionales ni procedimientos concretos, lo que impide identificar un planteamiento operativo para la evolución del servicio.
 
@@ -342,7 +342,7 @@ Las propuestas de mejora se centran en reforzar aspectos ya descritos, como el b
 
 El subproyecto OTR2 se centra en la gestión de la autenticación multifactor, incluyendo la integración con sistemas existentes, la correlación con directorios LDAP y la configuración de métodos de verificación.
 
-La propuesta de empresa_n incluye referencias a OTP, TOTP, Google Authenticator y LDAP, lo que indica un conocimiento general del ámbito. Sin embargo, se detecta una **inconsistencia relevante** al hacer referencia a la sincronización con Directorio Activo, lo que no se corresponde con el entorno descrito en el PPTP, basado en LDAP/OpenLDAP.
+La propuesta de empresa_n incluye referencias a OTP, TOTP, Google Authenticator y LDAP, lo que indica un conocimiento general del ámbito. Sin embargo, se detecta una **inconsistencia relevante** al hacer referencia a la sincronización con Directorio Activo, lo que no se corresponde con el entorno descrito en el Documento de Invitación, basado en LDAP/OpenLDAP.
 
 Las propuestas de mejora mantienen este enfoque general, sin corregir la inconsistencia identificada ni desarrollar mecanismos concretos de integración y correlación de identidades.
 
@@ -500,7 +500,7 @@ Las propuestas de mejora no introducen cambios relevantes.
 
 **Valoración cualitativa: Baja**
 
-En la propuesta de empresa_n referente al bloque COR se detecta una **desviación relevante**, ya que al final del bloque se incluye con una imagen que representa una arquitectura de Active Directory en Cluster activo/pasivo. Esta arquitectura no corresponde con la que tiene EducaMadrid en producción actualmente, evidenciando desconocimiento de la plataforma real de EducaMadrid, y una falta de comprensión de los requisitos planteados en el Anexo II del PPTP, en donde se especifican las tecnologías usadas por EducaMadrid.
+En la propuesta de empresa_n referente al bloque COR se detecta una **desviación relevante**, ya que al final del bloque se incluye con una imagen que representa una arquitectura de Active Directory en Cluster activo/pasivo. Esta arquitectura no corresponde con la que tiene EducaMadrid en producción actualmente, evidenciando desconocimiento de la plataforma real de EducaMadrid, y una falta de comprensión de los requisitos planteados en el Anexo II del Documento de Invitación, en donde se especifican las tecnologías usadas por EducaMadrid.
 
 ### 1.50.1. BLOQUE MAX — SISTEMA OPERATIVO MAX
 
@@ -508,7 +508,7 @@ En la propuesta de empresa_n referente al bloque COR se detecta una **desviació
 
 El bloque MAX incluye un conjunto amplio de subproyectos relacionados con el sistema operativo MAX, abarcando mantenimiento, desarrollo de distribuciones, soporte a centros educativos, gestión de repositorios y asistencia técnica.
 
-El análisis de la memoria técnica de empresa_n pone de manifiesto que **no se presenta contenido técnico evaluable para este bloque completo**. Los apartados correspondientes se limitan a reproducir o reformular los requisitos del PPTP sin aportar nada adicional.
+El análisis de la memoria técnica de empresa_n pone de manifiesto que **no se presenta contenido técnico evaluable para este bloque completo**. Los apartados correspondientes se limitan a reproducir o reformular los requisitos del Documento de Invitación sin aportar nada adicional.
 
 **Valoración cualitativa: Muy baja en todos los subproyectos del bloque MAX**
 
@@ -768,7 +768,7 @@ La propuesta de empresa_n describe el soporte de forma general, haciendo referen
 
 El bloque IA incluye un conjunto de subproyectos orientados a la incorporación y gestión de capacidades de inteligencia artificial dentro de la plataforma EducaMadrid, abarcando la evaluación de modelos, la ingeniería de prompts, la implantación de mecanismos de control, la integración con otros sistemas y la gestión del consumo por usuario.
 
-El análisis de la memoria técnica presentada por empresa_n pone de manifiesto que no se presenta contenido técnico evaluable para este bloque en su conjunto. **Los apartados correspondientes se limitan a reproducir o reformular los enunciados de los requisitos definidos en el Anexo II del PPTP, sin desarrollar propuestas técnicas, metodologías, herramientas ni procedimientos operativos asociados a estos subproyectos.** No se identifican arquitecturas de integración, métricas de evaluación, mecanismos de control ni elementos de despliegue que permitan valorar la capacidad real de ejecución en este ámbito.
+El análisis de la memoria técnica presentada por empresa_n pone de manifiesto que no se presenta contenido técnico evaluable para este bloque en su conjunto. **Los apartados correspondientes se limitan a reproducir o reformular los enunciados de los requisitos definidos en el Anexo II del Documento de Invitación, sin desarrollar propuestas técnicas, metodologías, herramientas ni procedimientos operativos asociados a estos subproyectos.** No se identifican arquitecturas de integración, métricas de evaluación, mecanismos de control ni elementos de despliegue que permitan valorar la capacidad real de ejecución en este ámbito.
 
 Como consecuencia, no es posible realizar una evaluación técnica individualizada de los subproyectos incluidos en este bloque, al no existir un desarrollo específico que permita analizar su adecuación a los requisitos planteados.
 
@@ -786,21 +786,21 @@ Por otra parte, la propuesta **evidencia en distintos apartados una falta de ade
 
 **En conjunto, la propuesta técnica presenta un carácter marcadamente descriptivo, con escaso nivel de detalle técnico, ausencia de arquitecturas definidas y falta de identificación de herramientas y metodologías.** Estas circunstancias limitan de forma significativa la capacidad de evaluar la viabilidad real de la solución, así como su adecuación a un entorno de alta complejidad como el que constituye la plataforma EducaMadrid.
 
-Las deficiencias técnicas identificadas de forma reiterada en los distintos bloques, en particular la ausencia de desarrollo operativo, la falta de herramientas y metodologías, así como la inexistencia de contenido técnico evaluable en determinados ámbitos, tienen un impacto directo en la valoración realizada conforme a los criterios del apartado 7.2.2 del PPTP, justificando las puntuaciones asignadas en el capítulo 3 del presente informe.
+Las deficiencias técnicas identificadas de forma reiterada en los distintos bloques, en particular la ausencia de desarrollo operativo, la falta de herramientas y metodologías, así como la inexistencia de contenido técnico evaluable en determinados ámbitos, tienen un impacto directo en la valoración realizada conforme a los criterios del apartado 7.2.2 del Documento de Invitación, justificando las puntuaciones asignadas en el capítulo 3 del presente informe.
 
-## 1.78. EVALUACIÓN CONFORME A LOS CRITERIOS DEL APARTADO 7.2.2 DEL PPTP
+## 1.78. EVALUACIÓN CONFORME A LOS CRITERIOS DEL APARTADO 7.2.2 DEL Documento de Invitación
 
 ### 1.78.1. EVALUACIÓN DE LA SOLUCIÓN TÉCNICA OFERTADA (HASTA 15 PUNTOS)
 
-De conformidad con lo establecido en el apartado 7.2.2 del Pliego de Prescripciones Técnicas Particulares, la evaluación de la solución técnica ofertada se realiza atendiendo a los subcriterios definidos en dicho apartado, que incluyen la arquitectura planteada, el grado de comprensión de los requisitos, la viabilidad del proyecto, la metodología de trabajo, el rendimiento previsible de las soluciones y, de forma especialmente relevante, la satisfacción de los requisitos establecidos en el Anexo II.
+De conformidad con lo establecido en el apartado 7.2.2 del Documento de Invitación, la evaluación de la solución técnica ofertada se realiza atendiendo a los subcriterios definidos en dicho apartado, que incluyen la arquitectura planteada, el grado de comprensión de los requisitos, la viabilidad del proyecto, la metodología de trabajo, el rendimiento previsible de las soluciones y, de forma especialmente relevante, la satisfacción de los requisitos establecidos en el Anexo II.
 
-**La valoración se ha llevado a cabo aplicando de forma estricta la escala cualitativa recogida en el propio PPTP, conforme a la cual los distintos subcriterios se clasifican en los niveles de excelente, alta, media, baja o muy baja, siendo estos niveles posteriormente transformados en puntuaciones cuantitativas proporcionales al peso de cada subcriterio.** Para la aplicación de dicha escala se han considerado como elementos determinantes el nivel de concreción técnica de la propuesta, su verificabilidad, la existencia de procedimientos operativos definidos, la identificación de herramientas específicas y la coherencia global entre los distintos componentes de la solución planteada.
+**La valoración se ha llevado a cabo aplicando de forma estricta la escala cualitativa recogida en el propio Documento de Invitación, conforme a la cual los distintos subcriterios se clasifican en los niveles de excelente, alta, media, baja o muy baja, siendo estos niveles posteriormente transformados en puntuaciones cuantitativas proporcionales al peso de cada subcriterio.** Para la aplicación de dicha escala se han considerado como elementos determinantes el nivel de concreción técnica de la propuesta, su verificabilidad, la existencia de procedimientos operativos definidos, la identificación de herramientas específicas y la coherencia global entre los distintos componentes de la solución planteada.
 
 #### 1.78.1.1. Arquitectura planteada en los distintos subproyectos (máximo 2 puntos)
 
 La propuesta presentada por empresa_n incluye una descripción amplia del ecosistema tecnológico de EducaMadrid, en la que se identifican los principales sistemas, su carácter distribuido y la interrelación entre los diferentes componentes que configuran la plataforma. **Este aspecto evidencia una adecuada comprensión del entorno tecnológico en el que se desarrollará el servicio, así como de su complejidad y criticidad.**
 
-**Sin embargo, desde el punto de vista de los criterios establecidos en el PPTP, la evaluación de la arquitectura no se limita a la correcta identificación del entorno existente, sino que exige la definición de una arquitectura propia, específica y técnicamente desarrollada que permita verificar cómo se implementará la solución propuesta.** En este sentido, el análisis detallado permite constatar que la propuesta no incorpora una arquitectura técnica definida, sino que se limita en gran medida a describir el estado actual del sistema o a reproducir elementos ya existentes en el entorno.
+**Sin embargo, desde el punto de vista de los criterios establecidos en el Documento de Invitación, la evaluación de la arquitectura no se limita a la correcta identificación del entorno existente, sino que exige la definición de una arquitectura propia, específica y técnicamente desarrollada que permita verificar cómo se implementará la solución propuesta.** En este sentido, el análisis detallado permite constatar que la propuesta no incorpora una arquitectura técnica definida, sino que se limita en gran medida a describir el estado actual del sistema o a reproducir elementos ya existentes en el entorno.
 
 **Se observa, en particular, la ausencia de diagramas arquitectónicos desarrollados por el licitador que representen la solución propuesta, la falta de definición de relaciones entre componentes y la inexistencia de modelos concretos de distribución de servicios, escalabilidad o alta disponibilidad.** Asimismo, no se identifican arquitecturas específicas por subproyecto ni se definen mecanismos técnicos asociados a elementos críticos como balanceo de carga, replicación, segmentación funcional o resiliencia del sistema.
 
@@ -808,39 +808,39 @@ La propuesta presentada por empresa_n incluye una descripción amplia del ecosis
 
 **Adicionalmente, se han detectado algunos elementos que no se ajustan adecuadamente al entorno tecnológico de EducaMadrid, como la inclusión de arquitecturas no alineadas con el modelo real del sistema o la reutilización de esquemas no adaptados al contexto específico del contrato.** Este tipo de inconsistencias reduce la credibilidad de la propuesta y añade incertidumbre respecto a su adecuación técnica.
 
-**Como consecuencia de todo lo anterior, no resulta posible evaluar adecuadamente aspectos esenciales exigidos por el PPTP, tales como la capacidad de escalado del sistema, su comportamiento ante situaciones de alta carga, la distribución eficiente de los servicios o la resiliencia frente a fallos.** En consecuencia, la arquitectura presentada debe considerarse identificada a nivel conceptual, pero no definida ni desarrollada a nivel técnico, lo que limita de forma significativa su verificabilidad.
+**Como consecuencia de todo lo anterior, no resulta posible evaluar adecuadamente aspectos esenciales exigidos por el Documento de Invitación, tales como la capacidad de escalado del sistema, su comportamiento ante situaciones de alta carga, la distribución eficiente de los servicios o la resiliencia frente a fallos.** En consecuencia, la arquitectura presentada debe considerarse identificada a nivel conceptual, pero no definida ni desarrollada a nivel técnico, lo que limita de forma significativa su verificabilidad.
 
-De acuerdo con la escala de valoración establecida en el PPTP, esta situación se corresponde con un nivel de evaluación medio, en tanto existe una comprensión general del entorno, pero no una propuesta arquitectónica definida y verificable.
+De acuerdo con la escala de valoración establecida en el Documento de Invitación, esta situación se corresponde con un nivel de evaluación medio, en tanto existe una comprensión general del entorno, pero no una propuesta arquitectónica definida y verificable.
 
 En consecuencia, la valoración asignada a este subcriterio asciende a 0,90 puntos sobre un máximo de 2 puntos.
 
 #### 1.78.1.2. Grado de comprensión de los requisitos planteados (máximo 2 puntos)
 
-**La memoria técnica presentada por empresa_n incluye un desarrollo extenso de la comprensión de los requisitos del PPTP, en el que se identifican adecuadamente el objeto del contrato, su carácter evolutivo y correctivo, la criticidad del entorno y la necesidad de garantizar la continuidad del servicio junto con elevados niveles de disponibilidad, rendimiento y seguridad.** Esta exposición evidencia un esfuerzo significativo por parte del licitador en la interpretación global del alcance del contrato.
+**La memoria técnica presentada por empresa_n incluye un desarrollo extenso de la comprensión de los requisitos del Documento de Invitación, en el que se identifican adecuadamente el objeto del contrato, su carácter evolutivo y correctivo, la criticidad del entorno y la necesidad de garantizar la continuidad del servicio junto con elevados niveles de disponibilidad, rendimiento y seguridad.** Esta exposición evidencia un esfuerzo significativo por parte del licitador en la interpretación global del alcance del contrato.
 
-**Asimismo, se reconoce de forma adecuada la estructura del PPTP por bloques funcionales y se identifican los distintos ámbitos tecnológicos implicados, lo que permite afirmar que la comprensión conceptual del servicio es correcta desde un punto de vista teórico.** No obstante, el análisis conjunto de la memoria técnica y del desarrollo por subproyectos realizado en el capítulo 2 pone de manifiesto una diferencia significativa entre dicha comprensión declarada y su traducción efectiva en soluciones técnicas concretas.
+**Asimismo, se reconoce de forma adecuada la estructura del Documento de Invitación por bloques funcionales y se identifican los distintos ámbitos tecnológicos implicados, lo que permite afirmar que la comprensión conceptual del servicio es correcta desde un punto de vista teórico.** No obstante, el análisis conjunto de la memoria técnica y del desarrollo por subproyectos realizado en el capítulo 2 pone de manifiesto una diferencia significativa entre dicha comprensión declarada y su traducción efectiva en soluciones técnicas concretas.
 
 **En particular, se observa que la identificación de requisitos no se acompaña de una definición de procedimientos específicos que permitan su cumplimiento, ni de la selección de herramientas técnicas que soporten su ejecución.** Del mismo modo, en numerosos subproyectos no se desarrollan mecanismos operativos que permitan materializar las necesidades identificadas, lo que evidencia una limitación en la capacidad de trasladar la comprensión conceptual a una solución técnica efectiva.
 
 **Esta situación resulta especialmente visible en ámbitos como la monitorización, donde se identifica la necesidad de disponer de sistemas avanzados pero no se definen métricas ni herramientas; en el ámbito de bases de datos, donde se reconoce la importancia de la optimización sin desarrollar metodologías concretas; o en el caso de las migraciones, donde no se establecen fases ni procedimientos detallados.** Asimismo, en bloques completos como inteligencia artificial o sistema MAX, la comprensión teórica no se traduce en ningún contenido técnico evaluable.
 
-**A estas limitaciones se añaden determinadas inconsistencias técnicas detectadas en la propuesta, tales como la inclusión de referencias a tecnologías no alineadas con el entorno del PPTP o la reutilización de contenidos no adaptados a los subproyectos correspondientes.** Estas circunstancian afectan de forma directa a la valoración de la comprensión real del servicio, al evidenciar una falta de ajuste en determinados aspectos técnicos.
+**A estas limitaciones se añaden determinadas inconsistencias técnicas detectadas en la propuesta, tales como la inclusión de referencias a tecnologías no alineadas con el entorno del Documento de Invitación o la reutilización de contenidos no adaptados a los subproyectos correspondientes.** Estas circunstancian afectan de forma directa a la valoración de la comprensión real del servicio, al evidenciar una falta de ajuste en determinados aspectos técnicos.
 
-**En consecuencia, si bien la comprensión del PPTP puede considerarse adecuada en términos conceptuales, su aplicación práctica resulta limitada, lo que condiciona su valoración global.** De acuerdo con la escala del PPTP, esta situación se corresponde con un nivel medio, dado que la comprensión es correcta pero no se materializa de forma suficiente en la solución técnica.
+**En consecuencia, si bien la comprensión del Documento de Invitación puede considerarse adecuada en términos conceptuales, su aplicación práctica resulta limitada, lo que condiciona su valoración global.** De acuerdo con la escala del Documento de Invitación, esta situación se corresponde con un nivel medio, dado que la comprensión es correcta pero no se materializa de forma suficiente en la solución técnica.
 
 La puntuación asignada a este subcriterio asciende, por tanto, a 1,00 puntos sobre un máximo de 2 puntos.
 
 #### 1.78.1.3. Viabilidad del proyecto en general (máximo 1 punto)
 
-**La propuesta presentada por empresa_n plantea una viabilidad general coherente desde un punto de vista estructural, en la medida en que se articula en torno a los distintos bloques funcionales definidos en el PPTP y recoge, al menos a nivel descriptivo, las principales líneas de actuación requeridas para la prestación del servicio.** Esta aproximación permite identificar una cierta lógica interna en la organización del documento, así como una alineación formal con el alcance del contrato.
+**La propuesta presentada por empresa_n plantea una viabilidad general coherente desde un punto de vista estructural, en la medida en que se articula en torno a los distintos bloques funcionales definidos en el Documento de Invitación y recoge, al menos a nivel descriptivo, las principales líneas de actuación requeridas para la prestación del servicio.** Esta aproximación permite identificar una cierta lógica interna en la organización del documento, así como una alineación formal con el alcance del contrato.
 
 **No obstante, el análisis técnico detallado evidencia que la viabilidad real del proyecto se encuentra condicionada por la falta de desarrollo de los elementos necesarios para su ejecución efectiva.** En particular, se constata que la propuesta no define procedimientos operativos concretos que permitan determinar cómo se llevarán a cabo las actuaciones descritas, ni identifica herramientas específicas que sirvan de base tecnológica para la prestación del servicio. Asimismo, no se desarrollan arquitecturas que permitan comprender cómo se integran los distintos componentes del sistema ni cómo se gestionarán aspectos críticos como la disponibilidad, la escalabilidad o la distribución de cargas.
 
-**Estas carencias se refuerzan al analizar determinados bloques en los que la propuesta no presenta contenido técnico evaluable, como ocurre en el caso del sistema operativo MAX o en el ámbito de inteligencia artificial, donde se limita a reproducir los requisitos del PPTP sin aportar soluciones.** Esta ausencia de desarrollo técnico en ámbitos completos introduce una incertidumbre relevante respecto a la capacidad global de ejecución del servicio.
+**Estas carencias se refuerzan al analizar determinados bloques en los que la propuesta no presenta contenido técnico evaluable, como ocurre en el caso del sistema operativo MAX o en el ámbito de inteligencia artificial, donde se limita a reproducir los requisitos del Documento de Invitación sin aportar soluciones.** Esta ausencia de desarrollo técnico en ámbitos completos introduce una incertidumbre relevante respecto a la capacidad global de ejecución del servicio.
 
 **Adicionalmente, la presencia de determinadas inconsistencias técnicas, derivadas de la reutilización de contenidos no adaptados o de la inclusión de referencias tecnológicas incorrectas, reduce la confianza en la adecuación real de la propuesta al entorno específico de EducaMadrid.** Estas circunstancias, en conjunto, impiden evaluar con precisión la capacidad operativa del licitador, así como la viabilidad efectiva de la solución planteada.
 
-**En consecuencia, si bien la propuesta presenta coherencia desde un punto de vista formal, la falta de concreción técnica y de elementos verificables limita de forma significativa su viabilidad real.** De acuerdo con la escala del PPTP, esta situación se corresponde con un nivel de valoración medio, al existir una cobertura general del alcance pero sin acreditación suficiente de la capacidad de ejecución.
+**En consecuencia, si bien la propuesta presenta coherencia desde un punto de vista formal, la falta de concreción técnica y de elementos verificables limita de forma significativa su viabilidad real.** De acuerdo con la escala del Documento de Invitación, esta situación se corresponde con un nivel de valoración medio, al existir una cobertura general del alcance pero sin acreditación suficiente de la capacidad de ejecución.
 
 La puntuación asignada a este subcriterio asciende a 0,40 puntos sobre un máximo de 1 punto.
 
@@ -852,9 +852,9 @@ La propuesta de empresa_n incorpora como marco metodológico la metodología Mé
 
 Asimismo, la propuesta no establece una integración clara entre la metodología descrita y la operativa real del servicio, especialmente en ámbitos como la gestión de incidencias, la ejecución de tareas recurrentes o la gestión de cambios. **Tampoco se identifican herramientas que soporten la aplicación efectiva de la metodología, lo que limita su capacidad para ser utilizada como un instrumento operativo dentro del servicio.**
 
-Esta falta de adaptación al contexto específico del contrato implica que la metodología se presenta como un marco conceptual de referencia, pero no como un modelo de trabajo directamente aplicable. **Como consecuencia, su impacto en la calidad y en la ejecución del servicio resulta limitado desde el punto de vista de los criterios del PPTP.**
+Esta falta de adaptación al contexto específico del contrato implica que la metodología se presenta como un marco conceptual de referencia, pero no como un modelo de trabajo directamente aplicable. **Como consecuencia, su impacto en la calidad y en la ejecución del servicio resulta limitado desde el punto de vista de los criterios del Documento de Invitación.**
 
-De acuerdo con la escala establecida en el PPTP, esta situación se corresponde con un nivel de valoración medio, al existir una referencia a metodologías reconocidas pero sin un desarrollo operativo concreto que permita su aplicación efectiva.
+De acuerdo con la escala establecida en el Documento de Invitación, esta situación se corresponde con un nivel de valoración medio, al existir una referencia a metodologías reconocidas pero sin un desarrollo operativo concreto que permita su aplicación efectiva.
 
 La valoración asignada a este subcriterio asciende a 0,50 puntos sobre un máximo de 1 punto.
 
@@ -868,7 +868,7 @@ Del mismo modo, no se identifican herramientas específicas de monitorización n
 
 **Estas carencias son especialmente relevantes en un entorno como el de EducaMadrid, caracterizado por un elevado número de usuarios y por la necesidad de garantizar un funcionamiento continuo y estable.** La ausencia de un modelo de evaluación del rendimiento impide verificar la adecuación de la solución propuesta a estos requisitos.
 
-**En consecuencia, el rendimiento planteado presenta un carácter declarativo, basado en afirmaciones generales que no pueden ser contrastadas mediante elementos técnicos objetivos.** De acuerdo con la escala del PPTP, esta situación se corresponde con un nivel de valoración bajo, al no existir evidencia suficiente que permita evaluar el rendimiento de la solución.
+**En consecuencia, el rendimiento planteado presenta un carácter declarativo, basado en afirmaciones generales que no pueden ser contrastadas mediante elementos técnicos objetivos.** De acuerdo con la escala del Documento de Invitación, esta situación se corresponde con un nivel de valoración bajo, al no existir evidencia suficiente que permita evaluar el rendimiento de la solución.
 
 La puntuación asignada a este subcriterio asciende a 0,25 puntos sobre un máximo de 1 punto.
 
@@ -876,17 +876,17 @@ La puntuación asignada a este subcriterio asciende a 0,25 puntos sobre un máxi
 
 **El subcriterio de satisfacción de los requisitos constituye el elemento de mayor ponderación dentro de la evaluación de la solución técnica, por lo que su análisis resulta determinante para la valoración global de la propuesta.** Este criterio no se limita a verificar la cobertura formal de los subproyectos incluidos en el Anexo II, sino que exige evaluar el grado en que la solución presentada permite satisfacer de manera efectiva los requisitos técnicos planteados, incluyendo la existencia de procedimientos, herramientas, metodologías y capacidades operativas que garanticen su ejecución.
 
-A efectos de la presente evaluación, se entiende por solución técnica adecuada aquella que incorpore elementos verificables, tales como procedimientos definidos, herramientas identificadas y mecanismos de ejecución contrastables, de conformidad con el criterio de verificabilidad implícito en el apartado 7.2.2 del PPTP.
+A efectos de la presente evaluación, se entiende por solución técnica adecuada aquella que incorpore elementos verificables, tales como procedimientos definidos, herramientas identificadas y mecanismos de ejecución contrastables, de conformidad con el criterio de verificabilidad implícito en el apartado 7.2.2 del Documento de Invitación.
 
 El análisis realizado en el capítulo 2 permite concluir que la propuesta de empresa_n presenta una cobertura formal amplia de los subproyectos, en el sentido de que identifica los distintos ámbitos funcionales del servicio y desarrolla descripciones asociadas a cada uno de ellos. **No obstante, esta cobertura formal no se traduce en una satisfacción técnica efectiva de los requisitos, ya que en la mayoría de los casos las propuestas se limitan a describir actividades genéricas de mantenimiento, supervisión o revisión, sin aportar desarrollo técnico suficiente.**
 
 De forma generalizada, las soluciones planteadas no incorporan procedimientos operativos concretos, ni identifican herramientas específicas que permitan su ejecución. **Tampoco se desarrollan arquitecturas, metodologías o mecanismos de automatización que aporten valor añadido al cumplimiento de los requisitos.** Esta situación impide considerar que la propuesta satisface los requisitos desde un punto de vista técnico, al no demostrar cómo se llevarán a cabo las actuaciones en un entorno real.
 
-Asimismo, se identifican bloques completos en los que no existe contenido técnico evaluable, como ocurre en el caso del sistema operativo MAX o en el ámbito de inteligencia artificial. **En estos casos, la propuesta se limita a reproducir los requisitos del PPTP sin aportar soluciones, lo que supone una deficiencia estructural que afecta de manera directa a la valoración del conjunto.**
+Asimismo, se identifican bloques completos en los que no existe contenido técnico evaluable, como ocurre en el caso del sistema operativo MAX o en el ámbito de inteligencia artificial. **En estos casos, la propuesta se limita a reproducir los requisitos del Documento de Invitación sin aportar soluciones, lo que supone una deficiencia estructural que afecta de manera directa a la valoración del conjunto.**
 
 **A estas carencias se añaden determinadas inconsistencias, derivadas de la reutilización de contenidos no adaptados o de la inclusión de referencias incorrectas, que reducen la adecuación de la propuesta a los requisitos planteados.** Del mismo modo, las denominadas propuestas de mejora no introducen elementos técnicos adicionales, sino que se limitan a reforzar las tareas ya descritas, sin aportar metodologías ni herramientas que permitan considerarlas como un valor diferencial.
 
-**En consecuencia, la propuesta presenta una cobertura formal de los requisitos, pero una satisfacción técnica limitada, caracterizada por un reducido nivel de desarrollo, una baja verificabilidad y una ausencia de elementos críticos en ámbitos relevantes del servicio.** Conforme a la escala del PPTP, esta situación se corresponde con un nivel de valoración bajo, al situarse claramente por debajo de los niveles exigidos para considerar la solución como adecuada desde un punto de vista técnico.
+**En consecuencia, la propuesta presenta una cobertura formal de los requisitos, pero una satisfacción técnica limitada, caracterizada por un reducido nivel de desarrollo, una baja verificabilidad y una ausencia de elementos críticos en ámbitos relevantes del servicio.** Conforme a la escala del Documento de Invitación, esta situación se corresponde con un nivel de valoración bajo, al situarse claramente por debajo de los niveles exigidos para considerar la solución como adecuada desde un punto de vista técnico.
 
 La valoración asignada a este subcriterio asciende a 2,00 puntos sobre un máximo de 8 puntos.
 
@@ -907,7 +907,7 @@ La suma de las valoraciones obtenidas en los distintos subcriterios permite esta
 
 ### 1.78.2. EVALUACIÓN DE LA PLANIFICACIÓN DEL SERVICIO (HASTA 15 PUNTOS)
 
-De conformidad con lo establecido en el apartado 7.2.2 del Pliego de Prescripciones Técnicas Particulares, la planificación del servicio se evalúa atendiendo a la calidad, coherencia y nivel de detalle del modelo organizativo y temporal propuesto por el licitador, incluyendo el calendario de ejecución, el análisis de riesgos, el plan de contingencias, el modelo de calidad y los mecanismos de trazabilidad.
+De conformidad con lo establecido en el apartado 7.2.2 del Documento de Invitación, la planificación del servicio se evalúa atendiendo a la calidad, coherencia y nivel de detalle del modelo organizativo y temporal propuesto por el licitador, incluyendo el calendario de ejecución, el análisis de riesgos, el plan de contingencias, el modelo de calidad y los mecanismos de trazabilidad.
 
 En el caso analizado, la propuesta de empresa_n incorpora un diagrama de Gantt como elemento central de planificación temporal, tal y como se recoge en la documentación técnica presentada.
 
@@ -915,7 +915,7 @@ El análisis conjunto de ambos diagramas, junto con el contenido descriptivo aso
 
 #### 1.78.2.1. Planificación temporal y cronograma de ejecución (máximo 11 puntos)
 
-La propuesta presentada por empresa_n incluye un cronograma estructurado por bloques funcionales y distribuido a lo largo de un periodo anual, en el que se contemplan los distintos ámbitos del servicio definidos en el PPTP. **Este planteamiento evidencia un cumplimiento formal del requisito exigido, al incorporar un elemento gráfico que pretende reflejar la planificación temporal de las actuaciones.**
+La propuesta presentada por empresa_n incluye un cronograma estructurado por bloques funcionales y distribuido a lo largo de un periodo anual, en el que se contemplan los distintos ámbitos del servicio definidos en el Documento de Invitación. **Este planteamiento evidencia un cumplimiento formal del requisito exigido, al incorporar un elemento gráfico que pretende reflejar la planificación temporal de las actuaciones.**
 
 No obstante, el análisis técnico detallado del diagrama de Gantt revela que dicho cronograma no responde a un modelo de planificación operativo propiamente dicho, sino que presenta un carácter híbrido que dificulta su interpretación y limita su utilidad como herramienta de gestión del servicio. En particular, el diagrama combina elementos propios de una planificación temporal con matrices de asignación de cargas o prioridades representadas mediante valores numéricos, **sin que se proporcione una leyenda o modelo interpretativo que permita comprender el significado de dichos valores ni la lógica de los colores empleados**.
 
@@ -929,13 +929,13 @@ Asimismo, el diagrama no incorpora relaciones de dependencia entre tareas, ni es
 
 Otro aspecto relevante es la falta de asignación explícita de recursos a las distintas actividades. **El cronograma no identifica los perfiles técnicos asociados a cada tarea ni el volumen de dedicación requerido, lo que impide evaluar si la planificación es compatible con los medios propuestos por el licitador.** Aunque se incluyen valores numéricos en las celdas, la ausencia de definición de estos impide utilizarlos como referencia válida para el análisis de cargas de trabajo.
 
-Por otra parte, no se observa una vinculación clara entre el cronograma y los subproyectos definidos en el Anexo II del PPTP. Si bien se incluyen denominaciones similares a las del PPTP, no se establece una correspondencia trazable que permita verificar qué actuaciones se ejecutan en cada momento para cada requisito. **Esta carencia limita de forma directa la trazabilidad de la planificación y su alineación con el alcance real del contrato.**
+Por otra parte, no se observa una vinculación clara entre el cronograma y los subproyectos definidos en el Anexo II del Documento de Invitación. Si bien se incluyen denominaciones similares a las del Documento de Invitación, no se establece una correspondencia trazable que permita verificar qué actuaciones se ejecutan en cada momento para cada requisito. **Esta carencia limita de forma directa la trazabilidad de la planificación y su alineación con el alcance real del contrato.**
 
 El diagrama tampoco incluye hitos o puntos de control que permitan realizar un seguimiento estructurado del servicio, tales como entregables, revisiones o validaciones intermedias. **La ausencia de estos elementos impide definir mecanismos de control del avance del proyecto y dificulta la evaluación de su ejecución a lo largo del tiempo.**
 
 Finalmente, el cronograma no contempla mecanismos de adaptación a riesgos ni incluye márgenes o buffers que permitan absorber desviaciones, lo que evidencia una planificación rígida y poco resiliente.
 
-En conjunto, el diagrama de Gantt presentado cumple con el requisito formal de incluir un cronograma, pero no constituye una planificación operativa completa ni verificable. **De acuerdo con la escala establecida en el PPTP, estas deficiencias sitúan la valoración de este subcriterio en un nivel medio-bajo, cercano al límite inferior, al no permitir acreditar de forma suficiente la capacidad de planificación del servicio.**
+En conjunto, el diagrama de Gantt presentado cumple con el requisito formal de incluir un cronograma, pero no constituye una planificación operativa completa ni verificable. **De acuerdo con la escala establecida en el Documento de Invitación, estas deficiencias sitúan la valoración de este subcriterio en un nivel medio-bajo, cercano al límite inferior, al no permitir acreditar de forma suficiente la capacidad de planificación del servicio.**
 
 En consecuencia, la puntuación asignada a este subcriterio se fija en **5,00 puntos** sobre un máximo de 11 puntos.
 
@@ -947,7 +947,7 @@ En consecuencia, la puntuación asignada a este subcriterio se fija en **5,00 pu
 
 **Asimismo, los riesgos identificados no se vinculan de forma directa con los subproyectos concretos definidos en el Anexo II, lo que limita la capacidad de trasladar este análisis a un contexto operativo real.** Tampoco se definen mecanismos específicos de seguimiento o indicadores que permitan monitorizar la evolución de los riesgos a lo largo del tiempo.
 
-**En consecuencia, el análisis de riesgos presentado puede considerarse adecuado desde un punto de vista conceptual, pero insuficiente desde una perspectiva operativa, al no proporcionar las herramientas necesarias para una gestión efectiva del riesgo.** Conforme a la escala del PPTP, esta situación se corresponde con un nivel medio.
+**En consecuencia, el análisis de riesgos presentado puede considerarse adecuado desde un punto de vista conceptual, pero insuficiente desde una perspectiva operativa, al no proporcionar las herramientas necesarias para una gestión efectiva del riesgo.** Conforme a la escala del Documento de Invitación, esta situación se corresponde con un nivel medio.
 
 La valoración asignada a este subcriterio asciende a **0,***25 puntos** sobre un máximo de 1 punto.
 
@@ -959,7 +959,7 @@ La valoración asignada a este subcriterio asciende a **0,***25 puntos** sobre u
 
 **Asimismo, no se establece una relación directa entre el plan de contingencias y los riesgos previamente identificados, lo que limita la coherencia global del modelo de gestión propuesto.** Esta falta de integración reduce la eficacia del plan y dificulta su aplicación en situaciones reales.
 
-**En consecuencia, el plan de contingencias presenta un carácter generalista, basado en principios de actuación comunes, pero sin un desarrollo técnico suficiente que permita su implantación.** De acuerdo con la escala del PPTP, esta situación se corresponde con un nivel medio-bajo.
+**En consecuencia, el plan de contingencias presenta un carácter generalista, basado en principios de actuación comunes, pero sin un desarrollo técnico suficiente que permita su implantación.** De acuerdo con la escala del Documento de Invitación, esta situación se corresponde con un nivel medio-bajo.
 
 La puntuación asignada a este subcriterio asciende a **0,***25 puntos** sobre un máximo de 1 punto.
 
@@ -973,7 +973,7 @@ En particular, no se definen indicadores cuantificables que permitan medir el re
 
 Asimismo, no se observa la existencia de procesos estructurados de mejora continua basados en resultados medibles, lo que limita la capacidad evolutiva del modelo propuesto.
 
-En consecuencia, el plan de calidad presenta un carácter generalista, con un nivel de desarrollo insuficiente para su aplicación efectiva, lo que justifica su valoración en un nivel medio-bajo conforme a la escala del PPTP.
+En consecuencia, el plan de calidad presenta un carácter generalista, con un nivel de desarrollo insuficiente para su aplicación efectiva, lo que justifica su valoración en un nivel medio-bajo conforme a la escala del Documento de Invitación.
 
 La valoración asignada a este subcriterio asciende a **0,***5***0 puntos** sobre un máximo de 1 punto.
 
@@ -981,13 +981,13 @@ La valoración asignada a este subcriterio asciende a **0,***5***0 puntos** sobr
 
 **La propuesta contempla mecanismos generales de seguimiento y registro de las actuaciones realizadas, incluyendo referencias a la documentación de intervenciones y al uso de herramientas de gestión.** Este planteamiento permite identificar una intención inicial de dotar al servicio de trazabilidad.
 
-**Sin embargo, el análisis detallado pone de manifiesto que estos mecanismos no se desarrollan hasta constituir un sistema completo y verificable de trazabilidad.** En particular, no se define un modelo que permita relacionar de forma directa los requisitos del PPTP con las actividades ejecutadas, ni se establecen vínculos claros entre los subproyectos del Anexo II y la planificación temporal del servicio.
+**Sin embargo, el análisis detallado pone de manifiesto que estos mecanismos no se desarrollan hasta constituir un sistema completo y verificable de trazabilidad.** En particular, no se define un modelo que permita relacionar de forma directa los requisitos del Documento de Invitación con las actividades ejecutadas, ni se establecen vínculos claros entre los subproyectos del Anexo II y la planificación temporal del servicio.
 
-**Esta carencia resulta especialmente evidente al analizar el diagrama de Gantt, en el que no existe una correspondencia estructurada entre las tareas planificadas y los subproyectos definidos en el PPTP, ni se proporciona una codificación o sistema de referencia que permita realizar dicha vinculación.** Como consecuencia, no es posible determinar con precisión qué actividades se ejecutan para cada requisito ni en qué momento temporal.
+**Esta carencia resulta especialmente evidente al analizar el diagrama de Gantt, en el que no existe una correspondencia estructurada entre las tareas planificadas y los subproyectos definidos en el Documento de Invitación, ni se proporciona una codificación o sistema de referencia que permita realizar dicha vinculación.** Como consecuencia, no es posible determinar con precisión qué actividades se ejecutan para cada requisito ni en qué momento temporal.
 
 Asimismo, no se identifican herramientas concretas ni procedimientos específicos de gestión de la trazabilidad que permitan garantizar el seguimiento de las actuaciones a lo largo del ciclo de vida del servicio.
 
-En consecuencia, la trazabilidad propuesta presenta un nivel de desarrollo insuficiente y un carácter fundamentalmente declarativo, lo que limita su aplicabilidad real y justifica su valoración en un nivel bajo conforme a la escala del PPTP.
+En consecuencia, la trazabilidad propuesta presenta un nivel de desarrollo insuficiente y un carácter fundamentalmente declarativo, lo que limita su aplicabilidad real y justifica su valoración en un nivel bajo conforme a la escala del Documento de Invitación.
 
 La puntuación asignada a este subcriterio asciende a **0,***4***0 puntos** sobre un máximo de 1 punto.
 
@@ -1020,19 +1020,19 @@ La puntuación total obtenida por la propuesta como resultado de la suma de los 
 
 ### 1.80.1. Valoración de la solución técnica ofertada
 
-El análisis de la solución técnica ofertada por la empresa empresa_n, realizado conforme a los criterios establecidos en el apartado 7.2.2 del Pliego de Prescripciones Técnicas Particulares, pone de manifiesto que la propuesta presenta un adecuado grado de estructuración formal y una correcta identificación del entorno tecnológico de EducaMadrid, si bien adolece de una falta significativa de desarrollo técnico en los aspectos clave exigidos para la prestación del servicio.
+El análisis de la solución técnica ofertada por la empresa empresa_n, realizado conforme a los criterios establecidos en el apartado 7.2.2 del Documento de Invitación, pone de manifiesto que la propuesta presenta un adecuado grado de estructuración formal y una correcta identificación del entorno tecnológico de EducaMadrid, si bien adolece de una falta significativa de desarrollo técnico en los aspectos clave exigidos para la prestación del servicio.
 
-**En este sentido, la propuesta evidencia un nivel adecuado de comprensión conceptual del objeto del contrato, reflejado en la identificación del carácter evolutivo, correctivo y adaptativo del servicio, así como en la descripción de los distintos bloques funcionales que integran la plataforma.** No obstante, dicha comprensión no se traduce de manera efectiva en el desarrollo de soluciones técnicas concretas, lo que constituye un elemento esencial en la evaluación conforme al PPTP.
+**En este sentido, la propuesta evidencia un nivel adecuado de comprensión conceptual del objeto del contrato, reflejado en la identificación del carácter evolutivo, correctivo y adaptativo del servicio, así como en la descripción de los distintos bloques funcionales que integran la plataforma.** No obstante, dicha comprensión no se traduce de manera efectiva en el desarrollo de soluciones técnicas concretas, lo que constituye un elemento esencial en la evaluación conforme al Documento de Invitación.
 
-El análisis detallado realizado permite concluir que la solución técnica se apoya fundamentalmente en descripciones generales, en muchos casos coincidentes con la propia redacción del PPTP, sin incorporar elementos suficientes de concreción tales como arquitecturas técnicas definidas, herramientas específicas, procedimientos operativos o metodologías aplicadas a los distintos subproyectos. **Esta circunstancia limita de manera significativa la verificabilidad de la solución y su aplicabilidad en un entorno real.**
+El análisis detallado realizado permite concluir que la solución técnica se apoya fundamentalmente en descripciones generales, en muchos casos coincidentes con la propia redacción del Documento de Invitación, sin incorporar elementos suficientes de concreción tales como arquitecturas técnicas definidas, herramientas específicas, procedimientos operativos o metodologías aplicadas a los distintos subproyectos. **Esta circunstancia limita de manera significativa la verificabilidad de la solución y su aplicabilidad en un entorno real.**
 
 **Asimismo, se han detectado carencias relevantes en la definición de la arquitectura técnica de la solución, que no se desarrolla más allá de una descripción del entorno existente, sin aportar un diseño propio que permita evaluar aspectos fundamentales como la escalabilidad, la resiliencia o la distribución de cargas.** Esta limitación se ve reforzada por la ausencia de métricas de rendimiento, indicadores operativos y modelos de validación que permitan verificar el comportamiento de la solución.
 
 Especial relevancia adquiere el análisis del subcriterio de satisfacción de los requisitos, que constituye el elemento de mayor peso dentro de la valoración de la solución técnica. En este ámbito, si bien la propuesta presenta una cobertura formal de los subproyectos definidos en el Anexo II, no se acredita un grado suficiente de desarrollo técnico que permita concluir que dichos requisitos se encuentran efectivamente satisfechos. **La falta de procedimientos específicos, la ausencia de herramientas identificadas y la inexistencia de desarrollo técnico en determinados bloques, como inteligencia artificial o sistema MAX, limitan de forma significativa la valoración de este subcriterio.**
 
-Hay que tener en cuenta que, a efectos de la evaluación realizada, se entiende por solución técnica adecuada aquella que incorpore elementos verificables, tales como procedimientos definidos, herramientas identificadas y mecanismos de ejecución contrastables, de conformidad con el criterio de verificabilidad implícito en el apartado 7.2.2 del PPTP.
+Hay que tener en cuenta que, a efectos de la evaluación realizada, se entiende por solución técnica adecuada aquella que incorpore elementos verificables, tales como procedimientos definidos, herramientas identificadas y mecanismos de ejecución contrastables, de conformidad con el criterio de verificabilidad implícito en el apartado 7.2.2 del Documento de Invitación.
 
-**En consecuencia, la solución técnica ofertada presenta un nivel de desarrollo limitado desde el punto de vista técnico, con una elevada componente descriptiva y una reducida capacidad de acreditación de la ejecución real del servicio.** De acuerdo con la aplicación de la escala cualitativa establecida en el PPTP, la valoración global de este bloque se sitúa en un nivel medio-bajo.
+**En consecuencia, la solución técnica ofertada presenta un nivel de desarrollo limitado desde el punto de vista técnico, con una elevada componente descriptiva y una reducida capacidad de acreditación de la ejecución real del servicio.** De acuerdo con la aplicación de la escala cualitativa establecida en el Documento de Invitación, la valoración global de este bloque se sitúa en un nivel medio-bajo.
 
 La puntuación asignada a la solución técnica ofertada asciende a 5,05 puntos sobre un máximo de 15 puntos.
 
@@ -1040,9 +1040,9 @@ La puntuación asignada a la solución técnica ofertada asciende a 5,05 puntos 
 
 El análisis del bloque correspondiente a la planificación del servicio pone de manifiesto la existencia de deficiencias estructurales de especial relevancia, que afectan de manera directa a la capacidad del licitador para garantizar una ejecución adecuada del contrato en términos operativos.
 
-La propuesta incorpora un diagrama de Gantt como elemento principal de planificación temporal. **Sin embargo, el examen detallado de dicho diagrama evidencia que el cronograma presentado no se ajusta al concepto de planificación operativa exigido en el PPTP, ya que presenta un carácter híbrido que dificulta su interpretación y limita su utilidad como herramienta de gestión del servicio.** En particular, el diagrama combina la representación temporal de actividades con valores numéricos y códigos de color cuya naturaleza no se define, ya que no se proporciona una leyenda o modelo interpretativo que permita comprender su significado.
+La propuesta incorpora un diagrama de Gantt como elemento principal de planificación temporal. **Sin embargo, el examen detallado de dicho diagrama evidencia que el cronograma presentado no se ajusta al concepto de planificación operativa exigido en el Documento de Invitación, ya que presenta un carácter híbrido que dificulta su interpretación y limita su utilidad como herramienta de gestión del servicio.** En particular, el diagrama combina la representación temporal de actividades con valores numéricos y códigos de color cuya naturaleza no se define, ya que no se proporciona una leyenda o modelo interpretativo que permita comprender su significado.
 
-Esta ausencia de definición impide determinar si dichos valores representan cargas de trabajo, niveles de prioridad, dedicación de recursos u otros parámetros, lo que impide, no solo la interpretación del cronograma, sino también su evaluación objetiva conforme a los criterios del PPTP, al no ser posible determinar el alcance real, intensidad ni naturaleza de las actividades planificadas, viéndose, por tanto, comprometida la verificabilidad del cronograma en su conjunto y su adecuación a los criterios de evaluación establecidos en el PPTP.
+Esta ausencia de definición impide determinar si dichos valores representan cargas de trabajo, niveles de prioridad, dedicación de recursos u otros parámetros, lo que impide, no solo la interpretación del cronograma, sino también su evaluación objetiva conforme a los criterios del Documento de Invitación, al no ser posible determinar el alcance real, intensidad ni naturaleza de las actividades planificadas, viéndose, por tanto, comprometida la verificabilidad del cronograma en su conjunto y su adecuación a los criterios de evaluación establecidos en el Documento de Invitación.
 
 Asimismo, se observa que la planificación no refleja una secuencia temporal estructurada de las actividades, sino que presenta la activación puntual de tareas en determinados meses sin continuidad ni definición clara de su duración. **Esta circunstancia resulta incoherente con la naturaleza del servicio, que se basa en actividades recurrentes y continuas, especialmente en ámbitos como el mantenimiento de sistemas, la gestión de infraestructuras o la seguridad de la plataforma.**
 
@@ -1054,7 +1054,7 @@ El cronograma tampoco incorpora asignación de recursos ni permite vincular las 
 
 Del mismo modo, el modelo de calidad y los mecanismos de trazabilidad presentan un carácter generalista, sin el desarrollo necesario en términos de indicadores, herramientas o procedimientos que permitan su aplicación efectiva en el contexto del servicio.
 
-En consecuencia, la planificación del servicio, si bien cumple formalmente con los requisitos del PPTP, presenta un nivel de desarrollo insuficiente desde el punto de vista técnico y operativo, lo que limita su capacidad para garantizar una ejecución eficaz del contrato.
+En consecuencia, la planificación del servicio, si bien cumple formalmente con los requisitos del Documento de Invitación, presenta un nivel de desarrollo insuficiente desde el punto de vista técnico y operativo, lo que limita su capacidad para garantizar una ejecución eficaz del contrato.
 
 La puntuación asignada a este bloque asciende a **6,40 puntos sobre un máximo de 15 puntos**.
 
@@ -1134,11 +1134,11 @@ La valoración conjunta de los distintos subcriterios evaluados mediante juicio 
 
 ### 1.80.4. Conclusión del análisis
 
-De acuerdo con el análisis técnico efectuado y la aplicación de los criterios de valoración establecidos en el apartado 7.2.2 del PPTP, la propuesta presentada por la empresa empresa_n alcanza una puntuación total de **1***1***,***45 puntos sobre un máximo de 30 puntos**, lo que representa un **3***8,17***% de la puntuación máxima posible** en los criterios evaluables mediante juicio de valor.
+De acuerdo con el análisis técnico efectuado y la aplicación de los criterios de valoración establecidos en el apartado 7.2.2 del Documento de Invitación, la propuesta presentada por la empresa empresa_n alcanza una puntuación total de **1***1***,***45 puntos sobre un máximo de 30 puntos**, lo que representa un **3***8,17***% de la puntuación máxima posible** en los criterios evaluables mediante juicio de valor.
 
 Este resultado refleja un nivel de adecuación insuficiente tanto en la solución técnica ofertada como en la planificación del servicio, motivado principalmente por la falta de concreción técnica de la propuesta y por las deficiencias estructurales identificadas en el modelo de planificación, particularmente en el diagrama de Gantt presentado, que no permite verificar la viabilidad operativa del servicio ni su correcta organización temporal.
 
-En conjunto, la propuesta presenta un enfoque predominantemente descriptivo, con una limitada capacidad de acreditación técnica, lo que condiciona de manera significativa su valoración global y su adecuación a las exigencias del PPTP.
+En conjunto, la propuesta presenta un enfoque predominantemente descriptivo, con una limitada capacidad de acreditación técnica, lo que condiciona de manera significativa su valoración global y su adecuación a las exigencias del Documento de Invitación.
 
 Estas deficiencias afectan de forma significativa a la viabilidad real del servicio y justifican la puntuación obtenida.
 
@@ -1146,19 +1146,19 @@ Estas deficiencias afectan de forma significativa a la viabilidad real del servi
 
 ### 1.81.1. Conclusiones finales
 
-El análisis técnico efectuado sobre la propuesta presentada por la empresa empresa_n, llevado a cabo conforme a los criterios establecidos en el apartado 7.2.2 del PPTP de Prescripciones Técnicas Particulares, permite concluir que la propuesta evaluada presenta un nivel de adecuación insuficiente para garantizar el cumplimiento efectivo de los requisitos del contrato.
+El análisis técnico efectuado sobre la propuesta presentada por la empresa empresa_n, llevado a cabo conforme a los criterios establecidos en el apartado 7.2.2 del Documento de Invitación de Prescripciones Técnicas Particulares, permite concluir que la propuesta evaluada presenta un nivel de adecuación insuficiente para garantizar el cumplimiento efectivo de los requisitos del contrato.
 
-**En relación con la solución técnica ofertada, se ha constatado que, si bien la propuesta presenta una estructura formal alineada con el contenido del PPTP y una adecuada comprensión conceptual del entorno de EducaMadrid, el desarrollo técnico de la misma resulta limitado.** En concreto, se ha identificado una carencia significativa de elementos fundamentales como arquitecturas técnicas definidas, procedimientos operativos específicos, herramientas concretas y metodologías aplicadas de forma efectiva a los distintos subproyectos. Esta circunstancia impide verificar de manera objetiva la capacidad del licitador para ejecutar el servicio en las condiciones exigidas.
+**En relación con la solución técnica ofertada, se ha constatado que, si bien la propuesta presenta una estructura formal alineada con el contenido del Documento de Invitación y una adecuada comprensión conceptual del entorno de EducaMadrid, el desarrollo técnico de la misma resulta limitado.** En concreto, se ha identificado una carencia significativa de elementos fundamentales como arquitecturas técnicas definidas, procedimientos operativos específicos, herramientas concretas y metodologías aplicadas de forma efectiva a los distintos subproyectos. Esta circunstancia impide verificar de manera objetiva la capacidad del licitador para ejecutar el servicio en las condiciones exigidas.
 
 Especial relevancia presenta el subcriterio de satisfacción de los requisitos, en el que, pese a existir una cobertura formal de los ámbitos definidos en el Anexo II, no se acredita un grado suficiente de desarrollo técnico que permita concluir que dichos requisitos se encuentran efectivamente satisfechos. **La ausencia de contenido técnico evaluable en determinados bloques, unida a la falta de concreción en el resto, refleja una propuesta con un enfoque predominantemente descriptivo y con limitada capacidad de ejecución real.**
 
 **Por lo que respecta a la planificación del servicio, el análisis realizado ha puesto de manifiesto deficiencias de carácter estructural que afectan directamente a la viabilidad operativa de la propuesta.** En particular, el diagrama de Gantt presentado como eje central de la planificación temporal evidencia una serie de limitaciones que condicionan de manera significativa su utilización como herramienta de gestión.
 
-**El cronograma no responde a un modelo de planificación operativa en sentido estricto, al carecer de un sistema de interpretación que permita comprender el significado de los valores representados, no reflejar una secuencia temporal coherente de las actividades, no incorporar dependencias entre tareas ni establecer mecanismos de asignación de recursos.** Asimismo, no se observa una adecuada correspondencia entre la planificación temporal y los subproyectos definidos en el PPTP, lo que impide garantizar la trazabilidad de las actuaciones.
+**El cronograma no responde a un modelo de planificación operativa en sentido estricto, al carecer de un sistema de interpretación que permita comprender el significado de los valores representados, no reflejar una secuencia temporal coherente de las actividades, no incorporar dependencias entre tareas ni establecer mecanismos de asignación de recursos.** Asimismo, no se observa una adecuada correspondencia entre la planificación temporal y los subproyectos definidos en el Documento de Invitación, lo que impide garantizar la trazabilidad de las actuaciones.
 
 Estas deficiencias, de carácter transversal, afectan a la totalidad del bloque de planificación, incluyendo el análisis de riesgos, el plan de contingencias, el modelo de calidad y los mecanismos de trazabilidad, que presentan un desarrollo insuficiente y un carácter fundamentalmente declarativo, sin que se integren de manera efectiva en la planificación operativa del servicio.
 
-Como resultado de la aplicación de los criterios establecidos en el PPTP, la propuesta ha obtenido una puntuación de 5,05 puntos sobre 15 en el bloque de solución técnica y de 6,40 puntos sobre 15 en el bloque de planificación del servicio, alcanzando una puntuación total de 11,45 puntos sobre un máximo de 30 puntos, lo que representa un 38,17% de la puntuación máxima posible en los criterios evaluables mediante juicio de valor.
+Como resultado de la aplicación de los criterios establecidos en el Documento de Invitación, la propuesta ha obtenido una puntuación de 5,05 puntos sobre 15 en el bloque de solución técnica y de 6,40 puntos sobre 15 en el bloque de planificación del servicio, alcanzando una puntuación total de 11,45 puntos sobre un máximo de 30 puntos, lo que representa un 38,17% de la puntuación máxima posible en los criterios evaluables mediante juicio de valor.
 
 Este nivel de puntuación se sitúa claramente por debajo del umbral mínimo exigible para considerar que la propuesta presenta un grado de calidad técnica suficiente en relación con las exigencias del contrato, evidenciando una insuficiente acreditación de la capacidad del licitador para ejecutar el servicio con el nivel requerido.
 
@@ -1180,7 +1180,7 @@ En particular, la falta de desarrollo técnico de la propuesta, la insuficiente 
 
 De acuerdo con lo anterior, y en aplicación de lo dispuesto en el artículo 146.3 de la LCSP, así como de las previsiones establecidas en el Acuerdo de Contratación Centralizada SDA 26/2021, procede proponer la exclusión de la propuesta presentada por la empresa empresa_n del procedimiento de adjudicación, al no haber alcanzado la puntuación mínima exigida en los criterios evaluables mediante juicio de valor.
 
-Esta propuesta de exclusión se fundamenta en criterios objetivos, previamente establecidos en el PPTP y aplicados de manera homogénea en el proceso de evaluación, garantizando en todo momento los principios de transparencia, igualdad de trato y no discriminación que rigen la contratación pública.
+Esta propuesta de exclusión se fundamenta en criterios objetivos, previamente establecidos en el Documento de Invitación y aplicados de manera homogénea en el proceso de evaluación, garantizando en todo momento los principios de transparencia, igualdad de trato y no discriminación que rigen la contratación pública.
 
 Además, la exclusión propuesta no se fundamenta exclusivamente en la puntuación obtenida, sino en las deficiencias técnicas sustantivas identificadas durante el proceso de evaluación, las cuales se traducen en la puntuación final obtenida y evidencian la insuficiencia de la propuesta para cumplir adecuadamente con los requisitos del contrato.
 
@@ -1192,7 +1192,7 @@ En consecuencia, se propone al órgano de contratación la exclusión de la prop
 
 ## 1.83. Introducción y criterios de clasificación
 
-En el presente anexo se recoge la clasificación del grado de desarrollo de las propuestas técnicas presentadas por empresa_n para los distintos subproyectos definidos en el Anexo II del PPTP.
+En el presente anexo se recoge la clasificación del grado de desarrollo de las propuestas técnicas presentadas por empresa_n para los distintos subproyectos definidos en el Anexo II del Documento de Invitación.
 
 A efectos de este análisis, se han establecido los siguientes niveles de clasificación:
 

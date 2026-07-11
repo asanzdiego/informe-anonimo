@@ -8,7 +8,7 @@ empresa_u
 
 El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa_u en el procedimiento basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo, soporte y mejora del ecosistema tecnológico Educamadrid.
 
-La valoración se realiza exclusivamente conforme a los criterios establecidos en el Pliego de Prescripciones Técnicas Particulares, en particular los contemplados en su apartado 7.2, relativos a los criterios sometidos a juicio de valor, sin considerar en ningún caso aspectos económicos ni capacidades no acreditadas en la documentación aportada.
+La valoración se realiza exclusivamente conforme a los criterios establecidos en el Documento de Invitación, en particular los contemplados en su apartado 7.2, relativos a los criterios sometidos a juicio de valor, sin considerar en ningún caso aspectos económicos ni capacidades no acreditadas en la documentación aportada.
 
 ### 1.1.2. Metodología de evaluación
 
@@ -16,7 +16,7 @@ La evaluación se ha desarrollado mediante un enfoque estructurado en dos fases.
 
 En primer lugar, se ha realizado un análisis técnico exhaustivo del contenido de la memoria presentada, examinando de forma individualizada el grado de desarrollo de las soluciones propuestas para los distintos proyectos definidos en el Anexo II del pliego.
 
-En segundo lugar, dicho análisis se ha trasladado al sistema de valoración previsto en el PPTP, asignando puntuaciones en función del nivel real de adecuación observado y atendiendo de forma prioritaria al principio de evaluabilidad, entendido como la capacidad de las propuestas para ser verificadas a partir de elementos concretos y objetivos.
+En segundo lugar, dicho análisis se ha trasladado al sistema de valoración previsto en el Documento de Invitación, asignando puntuaciones en función del nivel real de adecuación observado y atendiendo de forma prioritaria al principio de evaluabilidad, entendido como la capacidad de las propuestas para ser verificadas a partir de elementos concretos y objetivos.
 
 Este enfoque se ajusta a lo dispuesto en la normativa de contratación pública, en particular al artículo 145 y siguientes de la Ley 9/2017 de Contratos del Sector Público, que exige que la valoración se fundamente en criterios objetivos y verificables.
 
@@ -44,9 +44,9 @@ Finalmente, en relación con la planificación, se constata la ausencia de un di
 
 ### 1.1.5. Resultado de la valoración
 
-Como resultado de la aplicación del baremo establecido en el PPTP, la propuesta obtiene las siguientes puntuaciones:
+Como resultado de la aplicación del baremo establecido en el Documento de Invitación, la propuesta obtiene las siguientes puntuaciones:
 
-Solución técnica ofertada: 2,20 puntos sobre 15  
+Solución técnica ofertada: 2,20 puntos sobre 15 
 **Planificación del servicio: 1,50 puntos sobre 15**
 
 **Resultado total: 3,70 puntos sobre un máximo de 30 puntos**
@@ -57,7 +57,7 @@ La propuesta técnica presentada por la empresa_u no acredita un nivel suficient
 
 Las carencias detectadas no tienen carácter puntual, sino estructural, afectando a la evaluabilidad de la solución, a la cobertura del alcance del contrato y a la viabilidad de las actuaciones propuestas.
 
-**En consecuencia, la oferta se sitúa en niveles claramente insuficientes dentro del baremo de valoración técnica y no alcanza el umbral mínimo exigido, lo que justifica su exclusión del procedimiento conforme a lo establecido en el PPTP y en la normativa de contratación pública aplicable.**
+**En consecuencia, la oferta se sitúa en niveles claramente insuficientes dentro del baremo de valoración técnica y no alcanza el umbral mínimo exigido, lo que justifica su exclusión del procedimiento conforme a lo establecido en el Documento de Invitación y en la normativa de contratación pública aplicable.**
 
 ## 1.2. CAPÍTULO INTRODUCCIÓN Y MARCO DE REFERENCIA
 
@@ -65,13 +65,13 @@ Las carencias detectadas no tienen carácter puntual, sino estructural, afectand
 
 El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa_u en el marco del procedimiento basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo, soporte y mejora del ecosistema tecnológico Educamadrid.
 
-La valoración se efectúa exclusivamente conforme a los criterios establecidos en el Pliego de Prescripciones Técnicas Particulares, en particular los contemplados en su apartado 7.2, relativos a los criterios sujetos a juicio de valor, en aplicación de los principios de objetividad, transparencia e igualdad de trato entre licitadores.
+La valoración se efectúa exclusivamente conforme a los criterios establecidos en el Documento de Invitación, en particular los contemplados en su apartado 7.2, relativos a los criterios sujetos a juicio de valor, en aplicación de los principios de objetividad, transparencia e igualdad de trato entre licitadores.
 
 En ningún caso se han incorporado elementos externos a la documentación presentada ni se han realizado inferencias sobre capacidades no acreditadas expresamente en la memoria técnica aportada por el licitador.
 
 ### 1.2.2. Alcance del contrato
 
-El alcance del contrato viene determinado por el Anexo II del Pliego de Prescripciones Técnicas Particulares, el cual define un conjunto amplio y heterogéneo de proyectos que afectan a múltiples sistemas interdependientes dentro del ecosistema Educamadrid.
+El alcance del contrato viene determinado por el Anexo II del Documento de Invitación, el cual define un conjunto amplio y heterogéneo de proyectos que afectan a múltiples sistemas interdependientes dentro del ecosistema Educamadrid.
 
 Este ecosistema presenta un elevado grado de complejidad técnica y operativa, derivado de la concurrencia de diversos factores, entre los que cabe destacar la coexistencia de múltiples plataformas tecnológicas, la dependencia funcional entre sistemas, la necesidad de garantizar la continuidad permanente del servicio y la exigencia de integración coherente entre componentes de distinta naturaleza.
 
@@ -115,7 +115,7 @@ Adicionalmente, se han detectado incoherencias técnicas y planteamientos no ada
 
 El presente capítulo ha definido el marco jurídico, técnico y metodológico en el que se ha desarrollado la evaluación de la propuesta.
 
-A partir de este punto, el informe se centra en el análisis detallado de la solución técnica ofertada, con el objetivo de determinar su grado real de adecuación a los requisitos del Pliego de Prescripciones Técnicas Particulares y su capacidad de ejecución en el contexto del contrato.
+A partir de este punto, el informe se centra en el análisis detallado de la solución técnica ofertada, con el objetivo de determinar su grado real de adecuación a los requisitos del Documento de Invitación y su capacidad de ejecución en el contexto del contrato.
 
 La información recogida en este capítulo resulta fundamental para interpretar correctamente las conclusiones técnicas desarrolladas en los apartados siguientes y la valoración final asignada a la propuesta.
 
@@ -159,7 +159,7 @@ En el presente caso, la propuesta presenta una grave limitación en este ámbito
 
 Adicionalmente, la inclusión de contenido no finalizado y de referencias a apartados inexistentes impide establecer una relación clara entre los requisitos del pliego y las soluciones propuestas.
 
-En consecuencia, no se trata de una propuesta que pueda considerarse parcialmente incompleta, sino de una propuesta en la que una parte significativa del alcance no es evaluable conforme a los criterios del PPTP.
+En consecuencia, no se trata de una propuesta que pueda considerarse parcialmente incompleta, sino de una propuesta en la que una parte significativa del alcance no es evaluable conforme a los criterios del Documento de Invitación.
 
 #### 1.3.1.4. Indicios de contenido no validado
 
@@ -257,7 +257,7 @@ Estas deficiencias afectan de manera directa a la evaluabilidad de la propuesta 
 
 ### 1.4.1. Fundamentación de la valoración
 
-La valoración técnica de la propuesta presentada por la empresa_u se ha llevado a cabo en estricta aplicación de los criterios establecidos en el apartado 7.2 del Pliego de Prescripciones Técnicas Particulares, tomando como base el análisis técnico detallado desarrollado en el Capítulo 2 del presente informe.
+La valoración técnica de la propuesta presentada por la empresa_u se ha llevado a cabo en estricta aplicación de los criterios establecidos en el apartado 7.2 del Documento de Invitación, tomando como base el análisis técnico detallado desarrollado en el Capítulo 2 del presente informe.
 
 **El sistema de valoración previsto en el pliego establece un modelo de carácter cualitativo, sujeto a juicio de valor, que permite asignar puntuaciones dentro de rangos continuos en función del grado de adecuación observado en cada uno de los subcriterios definidos.** En consecuencia, la puntuación final no responde a una aplicación automática o aritmética, sino a un juicio técnico fundado, sustentado en elementos objetivos y verificables.
 
@@ -546,7 +546,7 @@ Se reconoce valor parcial, de carácter conceptual.
 
 Como resultado de la evaluación realizada, la propuesta presentada por la empresa_u obtiene las siguientes puntuaciones:
 
-**Solución técnica: 2,20 puntos sobre 15**  
+**Solución técnica: 2,20 puntos sobre 15** 
 **Planificación del servicio: 1,50 puntos sobre 15**
 
 **La puntuación total asciende a 3,70 puntos sobre un máximo de 30.**
@@ -557,13 +557,13 @@ La puntuación obtenida refleja de manera fiel el nivel de desarrollo técnico r
 
 Debe señalarse que esta valoración no se basa en la ausencia de determinados elementos aislados, sino en la existencia de carencias estructurales que afectan a la mayor parte del contenido de la propuesta, impidiendo su evaluación objetiva.
 
-En consecuencia, la puntuación asignada responde a un análisis técnico coherente, proporcional y plenamente alineado con los criterios del PPTP, constituyendo una valoración sólida y defendible desde el punto de vista jurídico.
+En consecuencia, la puntuación asignada responde a un análisis técnico coherente, proporcional y plenamente alineado con los criterios del Documento de Invitación, constituyendo una valoración sólida y defendible desde el punto de vista jurídico.
 
 ## 1.5. CONCLUSIONES Y PROPUESTA DE EXCLUSIÓN
 
 ### 1.5.1. Conclusión global de la evaluación técnica
 
-El análisis técnico desarrollado a lo largo del presente informe permite concluir de manera fundada que la propuesta presentada por la empresa_u no alcanza el nivel mínimo exigido para garantizar la correcta ejecución del contrato en los términos establecidos en el Pliego de Prescripciones Técnicas Particulares.
+El análisis técnico desarrollado a lo largo del presente informe permite concluir de manera fundada que la propuesta presentada por la empresa_u no alcanza el nivel mínimo exigido para garantizar la correcta ejecución del contrato en los términos establecidos en el Documento de Invitación.
 
 Esta conclusión no se basa en deficiencias puntuales o en aspectos secundarios de la propuesta, sino en la existencia de carencias de carácter estructural que afectan a los elementos esenciales de la valoración técnica, en particular a la definición de la solución técnica, a la cobertura efectiva del alcance del contrato y a la planificación del servicio.
 
@@ -573,7 +573,7 @@ En consecuencia, la propuesta no puede considerarse adecuada a los requisitos de
 
 ### 1.5.2. Coherencia entre análisis técnico y resultado de la valoración
 
-La puntuación final obtenida, de 3,70 puntos sobre un máximo de 30, es el resultado directo del análisis técnico realizado, existiendo una correspondencia clara y trazable entre las deficiencias detectadas y la valoración asignada en cada uno de los subcriterios definidos en el apartado 7.2 del PPTP.
+La puntuación final obtenida, de 3,70 puntos sobre un máximo de 30, es el resultado directo del análisis técnico realizado, existiendo una correspondencia clara y trazable entre las deficiencias detectadas y la valoración asignada en cada uno de los subcriterios definidos en el apartado 7.2 del Documento de Invitación.
 
 En particular, debe destacarse que las puntuaciones más bajas se han asignado en aquellos subcriterios que presentan mayor impacto en la ejecución del contrato, tales como la satisfacción de los requisitos del Anexo II, la arquitectura de la solución y la planificación del servicio.
 
@@ -623,7 +623,7 @@ Estos elementos no solo limitan la evaluación de la propuesta, sino que constit
 
 ### 1.5.6. Aplicación del umbral mínimo de calidad
 
-El Pliego de Prescripciones Técnicas Particulares establece la existencia de un umbral mínimo de calidad en los criterios sujetos a juicio de valor, cuya superación resulta imprescindible para continuar en el procedimiento de adjudicación.
+El Documento de Invitación establece la existencia de un umbral mínimo de calidad en los criterios sujetos a juicio de valor, cuya superación resulta imprescindible para continuar en el procedimiento de adjudicación.
 
 Este umbral se configura como un requisito objetivo, orientado a garantizar que únicamente las ofertas que acrediten un nivel técnico suficiente puedan ser consideradas en fases posteriores del procedimiento.
 
@@ -663,7 +663,7 @@ El informe se presenta con la debida motivación técnica, trazabilidad en la va
 
 El presente capítulo tiene por objeto formular la propuesta final derivada del análisis técnico realizado, integrando las conclusiones obtenidas en los capítulos anteriores y estableciendo de forma expresa las consecuencias administrativas que se derivan de la valoración efectuada.
 
-Asimismo, se incluye la fundamentación técnica y jurídica de la decisión adoptada, con el fin de garantizar su plena coherencia con el Pliego de Prescripciones Técnicas Particulares y su adecuación a los principios que rigen la contratación pública.
+Asimismo, se incluye la fundamentación técnica y jurídica de la decisión adoptada, con el fin de garantizar su plena coherencia con el Documento de Invitación y su adecuación a los principios que rigen la contratación pública.
 
 ### 1.6.2. Síntesis de la valoración técnica
 
@@ -671,17 +671,17 @@ Como resultado del proceso de evaluación desarrollado, la propuesta presentada 
 
 Esta puntuación se deriva de la aplicación conjunta de los distintos subcriterios de valoración y refleja de manera fiel el nivel de desarrollo técnico de la propuesta, conforme a los siguientes aspectos fundamentales:
 
-la ausencia de desarrollo técnico en la mayor parte de los proyectos del Anexo II,  
-la imposibilidad de evaluar objetivamente una parte sustancial del contenido,  
-la falta de definición de soluciones técnicas aplicables al entorno real del contrato,  
-la inexistencia de una planificación verificable que permita acreditar la viabilidad temporal del servicio,  
+la ausencia de desarrollo técnico en la mayor parte de los proyectos del Anexo II, 
+la imposibilidad de evaluar objetivamente una parte sustancial del contenido, 
+la falta de definición de soluciones técnicas aplicables al entorno real del contrato, 
+la inexistencia de una planificación verificable que permita acreditar la viabilidad temporal del servicio, 
 y la presencia de contenido no finalizado que impide garantizar la coherencia y fiabilidad de la propuesta.
 
 En su conjunto, estos elementos configuran una oferta que no alcanza el nivel mínimo exigido en términos de calidad técnica.
 
 ### 1.6.3. Aplicación del criterio de umbral mínimo
 
-El Pliego de Prescripciones Técnicas Particulares establece la obligación de que las ofertas sometidas a juicio de valor alcancen un umbral mínimo de calidad técnica como requisito necesario para su continuidad en el procedimiento.
+El Documento de Invitación establece la obligación de que las ofertas sometidas a juicio de valor alcancen un umbral mínimo de calidad técnica como requisito necesario para su continuidad en el procedimiento.
 
 Este umbral, fijado en el 50 por ciento de la puntuación máxima asignable a dichos criterios, constituye un elemento objetivo de evaluación orientado a garantizar que únicamente las propuestas con un nivel técnico suficiente puedan ser consideradas en fases posteriores del procedimiento de adjudicación.
 

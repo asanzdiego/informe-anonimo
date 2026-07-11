@@ -1,12 +1,12 @@
-Quiero que analices el PPTP que te paso, específicamente los criterios de valoración del apartado 7.2.2 y la lista de requisitos para los 89 subproyectos pertenecientes a los 13 proyectos recogidos en el Anexo II de ese mismo PPTP. Cuando lo hayas analizado quiero que analices los dos informes que te paso y me digas si los dos informes son homogéneos, si tienen criterios de evaluación equivalentes y si se ajustan ambos a lo esperado de un informe de valoración de unas memorias técnicas presentadas como respuesta al PPTP.
+Quiero que analices el Documento de Invitación que te paso, específicamente los criterios de valoración del apartado 7.2.2 y la lista de requisitos para los 89 subproyectos pertenecientes a los 13 proyectos recogidos en el Anexo II de ese mismo Documento de Invitación. Cuando lo hayas analizado quiero que analices los dos informes que te paso y me digas si los dos informes son homogéneos, si tienen criterios de evaluación equivalentes y si se ajustan ambos a lo esperado de un informe de valoración de unas memorias técnicas presentadas como respuesta al Documento de Invitación.
 
 ###### Copilot said:
 
 **Copilot**
 
-He realizado el análisis cruzado de los tres documentos (PPTP + ambos informes). Te lo estructuro en tres bloques:
+He realizado el análisis cruzado de los tres documentos (Documento de Invitación + ambos informes). Te lo estructuro en tres bloques:
 
-# 1) Análisis del PPTP (clave para evaluar los informes)
+# 1) Análisis del Documento de Invitación (clave para evaluar los informes)
 
 ## 1.1. Criterios del apartado 7.2.2 (juicio de valor)
 
@@ -34,7 +34,7 @@ Aunque el texto detallado del 7.2.2 no aparece completo en el extracto, sí qued
 
     - Coherencia entre planteamiento teórico y ejecución
 
-👉 Es decir: el PPTP pide **una evaluación técnica profunda, verificable y orientada a ejecución real**, no una revisión superficial.
+👉 Es decir: el Documento de Invitación pide **una evaluación técnica profunda, verificable y orientada a ejecución real**, no una revisión superficial.
 
 ## 1.2. Estructura del Anexo II (89 subproyectos)
 
@@ -64,9 +64,9 @@ El Anexo II define:
 
     - Realismo operativo
 
-## ✅ Conclusión sobre el PPTP
+## ✅ Conclusión sobre el Documento de Invitación
 
-El PPTP exige un informe que sea:
+El Documento de Invitación exige un informe que sea:
 
 - Sistemático (por subproyecto)
 
@@ -84,7 +84,7 @@ El PPTP exige un informe que sea:
 
 ### Fortalezas
 
-- Sigue claramente el enfoque del PPTP:
+- Sigue claramente el enfoque del Documento de Invitación:
 
     - Análisis **subproyecto a subproyecto (los 89)**Informe JR - SISTEMAS - empresa_s\_largo v2
 
@@ -116,9 +116,9 @@ El PPTP exige un informe que sea:
 
     - falta sistemática de evaluación cuantitativa (aunque esto lo señala correctamente)
 
-- Puede ser exigente, pero es coherente con el PPTP
+- Puede ser exigente, pero es coherente con el Documento de Invitación
 
-👉 En global:  
+👉 En global: 
 **Informe técnicamente profundo, crítico y alineado con el método esperado.**
 
 ## 2.2. Informe empresa_n
@@ -161,7 +161,7 @@ El PPTP exige un informe que sea:
 
     - evaluación casi uniforme (baja/muy baja) → puede reducir granularidad
 
-👉 En global:  
+👉 En global: 
 **Informe crítico y coherente, pero más centrado en evidenciar fallos que en analizar técnicamente con la misma riqueza que el de empresa_s***.**
 
 # 3) Comparación directa entre ambos informes
@@ -218,7 +218,7 @@ Ambos evalúan exactamente los mismos ejes:
 
 - “capacidad de ejecución”
 
-👉 Por tanto: **los criterios son equivalentes y coherentes con el PPTP.**
+👉 Por tanto: **los criterios son equivalentes y coherentes con el Documento de Invitación.**
 
 ## 3.3. ¿Son igualmente profundos?
 
@@ -237,7 +237,7 @@ Ambos evalúan exactamente los mismos ejes:
 
 - **empresa_n = análisis más declarativo (fallo/no fallo)**
 
-## 3.4. ¿Se ajustan ambos a lo esperado en un informe del PPTP?
+## 3.4. ¿Se ajustan ambos a lo esperado en un informe del Documento de Invitación?
 
 ✅ **Sí, ambos cumplen en términos generales**, pero con distinta calidad:
 
@@ -257,7 +257,7 @@ Ambos evalúan exactamente los mismos ejes:
 
 ### ⚠ Diferencias de adecuación
 
-- **empresa_s → ajuste alto al espíritu del PPTP**
+- **empresa_s → ajuste alto al espíritu del Documento de Invitación**
 
     - análisis técnico real
 
@@ -287,7 +287,7 @@ Ambos evalúan exactamente los mismos ejes:
 
 - **Sí, totalmente equivalentes**
 
-- Evalúan exactamente los mismos factores técnicos exigidos por el PPTP
+- Evalúan exactamente los mismos factores técnicos exigidos por el Documento de Invitación
 
 ### ⚠ Diferencia clave
 
@@ -297,7 +297,7 @@ Ambos evalúan exactamente los mismos ejes:
 
     - empresa_n → más crítico, repetitivo y menos desarrollado técnicamente
 
-### ✅ Adecuación al PPTP
+### ✅ Adecuación al Documento de Invitación
 
 - Ambos **se ajustan al modelo esperado**
 

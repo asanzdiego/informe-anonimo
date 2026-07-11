@@ -4,7 +4,7 @@
 
 **El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa empresa_s S.A.** en el marco del procedimiento basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo, soporte técnico y mejora continua del ecosistema tecnológico EducaMadrid.
 
-**La valoración se realiza conforme a los criterios establecidos en el Pliego de Prescripciones Técnicas Particulares, en particular los recogidos en su apartado relativo a los criterios sujetos a juicio de valor.** El análisis se ha efectuado exclusivamente sobre el contenido de la memoria técnica presentada por el licitador, sin considerar aspectos de naturaleza económica.
+**La valoración se realiza conforme a los criterios establecidos en el Documento de Invitación, en particular los recogidos en su apartado relativo a los criterios sujetos a juicio de valor.** El análisis se ha efectuado exclusivamente sobre el contenido de la memoria técnica presentada por el licitador, sin considerar aspectos de naturaleza económica.
 
 ## 1.2. Metodología de evaluación
 
@@ -78,7 +78,7 @@ El contenido de la memoria permite verificar de manera objetiva la adecuación d
 
 **El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por empresa_s S.A.** en el procedimiento de contratación basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo y mejora del ecosistema EducaMadrid.
 
-La valoración se realiza conforme a los criterios establecidos en el Pliego de Prescripciones Técnicas Particulares, centrándose en los aspectos sujetos a juicio de valor.
+La valoración se realiza conforme a los criterios establecidos en el Documento de Invitación, centrándose en los aspectos sujetos a juicio de valor.
 
 ### 1.7.2. Alcance del contrato
 
@@ -136,7 +136,7 @@ Asimismo, la propuesta permite identificar con claridad la forma en que se abord
 
 #### 1.8.1.1. Enfoque global de evaluación de la propuesta
 
-El análisis de la propuesta técnica presentada por empresa_s se ha llevado a cabo atendiendo a un criterio fundamental: la capacidad de la oferta para traducir los requisitos definidos en el Anexo II en soluciones técnicas concretas, coherentes y verificables. **Esta aproximación, plenamente alineada con el modelo de evaluación previsto en el Pliego de Prescripciones Técnicas Particulares, permite diferenciar entre propuestas meramente descriptivas y aquellas que, como la analizada, incorporan un desarrollo técnico suficientemente detallado como para garantizar su evaluabilidad.**
+El análisis de la propuesta técnica presentada por empresa_s se ha llevado a cabo atendiendo a un criterio fundamental: la capacidad de la oferta para traducir los requisitos definidos en el Anexo II en soluciones técnicas concretas, coherentes y verificables. **Esta aproximación, plenamente alineada con el modelo de evaluación previsto en el Documento de Invitación, permite diferenciar entre propuestas meramente descriptivas y aquellas que, como la analizada, incorporan un desarrollo técnico suficientemente detallado como para garantizar su evaluabilidad.**
 
 **A este respecto, la propuesta presenta una estructura claramente orientada a facilitar dicha evaluación, en la medida en que cada uno de los ámbitos funcionales analizados incorpora un desarrollo técnico específico, evitando enfoques genéricos o abstractos.** Esta circunstancia reviste especial relevancia desde el punto de vista de la valoración, puesto que permite establecer una relación directa entre los requisitos del pliego y las soluciones planteadas, eliminando la necesidad de realizar interpretaciones extensivas o inferencias por parte del órgano evaluador.
 
@@ -990,7 +990,7 @@ En consecuencia, el conjunto de la solución técnica se sitúa en un nivel alto
 
 ### 1.10.1. Fundamentación de la valoración
 
-**La valoración técnica de la propuesta presentada por empresa_s S.A.** se ha llevado a cabo conforme a los criterios definidos en el Pliego de Prescripciones Técnicas Particulares, tomando como base el análisis técnico exhaustivo desarrollado en el Capítulo 2 del presente informe.
+**La valoración técnica de la propuesta presentada por empresa_s S.A.** se ha llevado a cabo conforme a los criterios definidos en el Documento de Invitación, tomando como base el análisis técnico exhaustivo desarrollado en el Capítulo 2 del presente informe.
 
 Este enfoque metodológico garantiza que la puntuación asignada es el resultado directo de un proceso de evaluación objetivo, trazable y verificable, basado exclusivamente en el contenido de la memoria técnica aportada por el licitador.
 
@@ -1252,7 +1252,7 @@ Como resultado de la evaluación:
 
 ### 1.11.1. Alcance y naturaleza de la valoración realizada
 
-La valoración técnica recogida en el presente informe se ha realizado en estricta aplicación de lo previsto en el Pliego de Prescripciones Técnicas Particulares, y en particular conforme a los criterios sujetos a juicio de valor definidos en su apartado correspondiente.
+La valoración técnica recogida en el presente informe se ha realizado en estricta aplicación de lo previsto en el Documento de Invitación, y en particular conforme a los criterios sujetos a juicio de valor definidos en su apartado correspondiente.
 
 **El análisis se ha limitado exclusivamente al contenido de la memoria técnica presentada por la empresa empresa_s S.A., sin incorporar inferencias, presunciones de ejecución futura ni referencias a capacidades no explicitadas en la documentación aportada.** Este criterio responde al principio de objetividad que rige los procedimientos de contratación pública, conforme al cual la evaluación de las ofertas debe fundamentarse en elementos verificables contenidos en las mismas.
 
@@ -1559,13 +1559,13 @@ Debe destacarse que, a diferencia de otras propuestas analizadas, la de empresa_
 
 El análisis de la memoria técnica de empresa_s permite establecer, de forma objetiva, las siguientes conclusiones:
 
-**1. Cobertura completa del Anexo II**  
+**1. Cobertura completa del Anexo II** 
 La propuesta desarrolla la totalidad de los proyectos y subproyectos incluidos en el alcance del contrato, sin identificarse omisiones relevantes.
 
-**2. Desarrollo técnico individualizado**  
+**2. Desarrollo técnico individualizado** 
 A diferencia de enfoques genéricos o transversales, la propuesta presenta una **arquitectura y solución específica por sistema**, permitiendo evaluar cada proyecto de manera independiente y objetiva.
 
-**3. Alto nivel de detalle y evaluabilidad**  
+**3. Alto nivel de detalle y evaluabilidad** 
 La inmensa mayoría de los proyectos incluyen:
 
 - definición de arquitectura,
@@ -1580,7 +1580,7 @@ La inmensa mayoría de los proyectos incluyen:
 
 lo que garantiza su evaluabilidad directa sin necesidad de inferencias.
 
-**4. Coherencia global del conjunto**  
+**4. Coherencia global del conjunto** 
 Todos los proyectos se integran dentro de un modelo arquitectónico común, manteniendo:
 
 - criterios homogéneos de seguridad,

@@ -54,7 +54,7 @@ Además, tu redacción:
 
 Podrías reforzar con una frase tipo:
 
-“La puntuación asignada resulta de la aplicación proporcional de los criterios del PPTP, estableciéndose una correspondencia directa entre las carencias identificadas y los subcriterios evaluados.”
+“La puntuación asignada resulta de la aplicación proporcional de los criterios del Documento de Invitación, estableciéndose una correspondencia directa entre las carencias identificadas y los subcriterios evaluados.”
 
 ✔ Esto conecta directamente con doctrina TACRC.
 
@@ -118,7 +118,7 @@ Has argumentado que el Gantt:
 
 - No tiene dependencias
 
-Y añades algo clave:  
+Y añades algo clave: 
 👉 **no es un problema formal, sino funcional**
 
 ### ⚠️ Refuerzo recomendable (MUY IMPORTANTE)
@@ -235,7 +235,7 @@ A veces dicen:
 
 Directa:
 
-Cada procedimiento es independiente y se rige por su propio PPTP
+Cada procedimiento es independiente y se rige por su propio Documento de Invitación
 
 No necesitas cambiar nada.
 
@@ -255,8 +255,8 @@ No necesitas cambiar nada.
 
 Tu informe ahora mismo está:
 
-✅ Técnicamente sólido  
-✅ Jurídicamente defendible  
+✅ Técnicamente sólido 
+✅ Jurídicamente defendible 
 ✅ Bien posicionado para TACRC
 
 El único **punto realmente crítico (y bien resuelto)** es:
@@ -265,6 +265,6 @@ El único **punto realmente crítico (y bien resuelto)** es:
 
 Y está correctamente defendido porque lo has planteado como:
 
-✅ Falta de verificabilidad  
-✅ No funcionalidad operativa  
+✅ Falta de verificabilidad 
+✅ No funcionalidad operativa 
 ✅ No simple error formal

@@ -2,7 +2,7 @@
 
 **El presente documento tiene por objeto la realización de una evaluación técnica detallada de la memoria presentada por la empresa empresa_s S.A.** en el marco del procedimiento de contratación correspondiente al expediente BAC01\_2026, relativo a los servicios de mantenimiento y soporte para proyectos exteriores alojados en la plataforma EducaMadrid.
 
-La valoración se ha llevado a cabo atendiendo de forma estricta a lo establecido en el Pliego de Prescripciones Técnicas Particulares, y en particular a los criterios de adjudicación sujetos a juicio de valor descritos en el apartado 7.2, los cuales definen tanto la estructura de la evaluación como el baremo cualitativo aplicable en cada uno de los apartados considerados. **En este sentido, resulta especialmente relevante señalar que la valoración no se basa en una verificación binaria de cumplimiento, sino en un análisis cualitativo del grado de adecuación, profundidad, viabilidad y rigor técnico de la propuesta presentada, situando cada uno de los aspectos evaluados dentro de los niveles de excelencia, alta, media, baja o muy baja definidos en el pliego.**
+La valoración se ha llevado a cabo atendiendo de forma estricta a lo establecido en el Documento de Invitación, y en particular a los criterios de adjudicación sujetos a juicio de valor descritos en el apartado 7.2, los cuales definen tanto la estructura de la evaluación como el baremo cualitativo aplicable en cada uno de los apartados considerados. **En este sentido, resulta especialmente relevante señalar que la valoración no se basa en una verificación binaria de cumplimiento, sino en un análisis cualitativo del grado de adecuación, profundidad, viabilidad y rigor técnico de la propuesta presentada, situando cada uno de los aspectos evaluados dentro de los niveles de excelencia, alta, media, baja o muy baja definidos en el pliego.**
 
 **El análisis se articula sobre una doble dimensión.** Por un lado, se desarrolla un examen pormenorizado de la solución técnica ofertada, estructurado por bloques funcionales y subproyectos conforme a lo recogido en el Anexo II del pliego, lo que permite valorar individualmente el grado de respuesta a cada uno de los requisitos específicos exigidos. Por otro lado, se realiza una evaluación global alineada con los criterios del apartado 7.2, integrando las conclusiones parciales en una valoración consolidada de la solución en términos de arquitectura, comprensión, viabilidad, metodología, rendimiento y grado de satisfacción de los requisitos.
 
@@ -844,9 +844,9 @@ Sin embargo, de forma sistemática, se identifican limitaciones relevantes en:
 
 Este patrón será clave en la valoración final del apartado 7.2.2.
 
-## 1.4. EVALUACIÓN DE LA SOLUCIÓN TÉCNICA (APARTADO 7.2.2 DEL PPTP)
+## 1.4. EVALUACIÓN DE LA SOLUCIÓN TÉCNICA (APARTADO 7.2.2 DEL Documento de Invitación)
 
-La presente sección tiene como finalidad realizar la valoración global de la **solución técnica ofertada por la empresa empresa_s S.A.**, conforme a los criterios establecidos en el apartado 7.2.2 del Pliego de Prescripciones Técnicas Particulares, en el que se define un sistema de evaluación basado en juicio de valor, estructurado en distintos subcriterios cualitativos y asociado a una puntuación máxima en función del grado de cumplimiento.
+La presente sección tiene como finalidad realizar la valoración global de la **solución técnica ofertada por la empresa empresa_s S.A.**, conforme a los criterios establecidos en el apartado 7.2.2 del Documento de Invitación, en el que se define un sistema de evaluación basado en juicio de valor, estructurado en distintos subcriterios cualitativos y asociado a una puntuación máxima en función del grado de cumplimiento.
 
 A diferencia del análisis realizado en el capítulo anterior, que se ha orientado a la evaluación detallada de cada subproyecto del Anexo II, el presente apartado realiza una **síntesis integradora**, agrupando las valoraciones parciales en torno a los ejes definidos en el pliego, con el objetivo de determinar el nivel de calidad global de la solución ofrecida.
 
@@ -1042,16 +1042,16 @@ representa de forma equilibrada:
 
 - una propuesta sólida y bien desarrollada
 
-- pero sin el nivel de detalle, precisión y cuantificación requerido  
+- pero sin el nivel de detalle, precisión y cuantificación requerido 
   para alcanzar las franjas más altas del baremo
 
-## 1.6. EVALUACIÓN DE LA PLANIFICACIÓN (APARTADO 7.2.3 DEL PPTP)
+## 1.6. EVALUACIÓN DE LA PLANIFICACIÓN (APARTADO 7.2.3 DEL Documento de Invitación)
 
-La presente sección tiene como finalidad analizar la planificación propuesta por la empresa empresa_s S.A. desde una perspectiva técnica y operativa, de acuerdo con los criterios definidos en el apartado 7.2.3 del Pliego de Prescripciones Técnicas Particulares. **Este análisis no se limita a verificar la existencia de un plan de trabajo, sino que evalúa en profundidad su nivel de detalle, su coherencia interna, su alineación con la complejidad del servicio y su capacidad para garantizar una ejecución controlada, trazable y verificable de las actuaciones previstas.**
+La presente sección tiene como finalidad analizar la planificación propuesta por la empresa empresa_s S.A. desde una perspectiva técnica y operativa, de acuerdo con los criterios definidos en el apartado 7.2.3 del Documento de Invitación. **Este análisis no se limita a verificar la existencia de un plan de trabajo, sino que evalúa en profundidad su nivel de detalle, su coherencia interna, su alineación con la complejidad del servicio y su capacidad para garantizar una ejecución controlada, trazable y verificable de las actuaciones previstas.**
 
 En este contexto, la planificación debe ser entendida como un elemento estructural fundamental de la propuesta, que permite transformar la solución técnica en una realidad operativa, articulando temporalmente las actividades, identificando dependencias, estableciendo hitos y definiendo mecanismos de control que aseguren el cumplimiento de los objetivos del contrato.
 
-A continuación, se desarrolla el análisis individualizado de los distintos subcriterios definidos en el PPTP.
+A continuación, se desarrolla el análisis individualizado de los distintos subcriterios definidos en el Documento de Invitación.
 
 ### 1.6.1. Calendario y planificación del servicio
 
@@ -1178,7 +1178,7 @@ En consecuencia, la planificación presentada por empresa_s se sitúa de forma c
 
 ## 1.7. PUNTUACIÓN GLOBAL JUSTIFICADA
 
-A partir del análisis detallado desarrollado en los capítulos anteriores, tanto en lo relativo a la solución técnica ofertada como a la planificación del servicio, se procede a establecer una valoración global integrada de la propuesta presentada por la empresa empresa_s S.A., conforme al modelo de juicio de valor definido en el apartado 7.2 del Pliego de Prescripciones Técnicas Particulares.
+A partir del análisis detallado desarrollado en los capítulos anteriores, tanto en lo relativo a la solución técnica ofertada como a la planificación del servicio, se procede a establecer una valoración global integrada de la propuesta presentada por la empresa empresa_s S.A., conforme al modelo de juicio de valor definido en el apartado 7.2 del Documento de Invitación.
 
 **La evaluación realizada pone de manifiesto que la oferta presenta un nivel de desarrollo técnico global elevado, caracterizado por una amplia cobertura de los requisitos del Anexo II, una comprensión clara del entorno tecnológico y una arquitectura coherente y adecuadamente estructurada.** Este posicionamiento se ha visto reflejado de manera consistente en el análisis del capítulo 3, donde la propuesta se sitúa de forma estable en la franja de valoración alta, sin alcanzar el nivel máximo exigido para obtener la puntuación plena.
 
@@ -1436,7 +1436,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s incorpo
 
 ## 1.20. Conclusión global del análisis del grado de desarrollo
 
-El análisis conjunto realizado sobre los distintos proyectos y subproyectos incluidos en el Anexo II del PPTP permite extraer una serie de conclusiones globales respecto al grado de desarrollo de la propuesta técnica presentada por empresa_s.
+El análisis conjunto realizado sobre los distintos proyectos y subproyectos incluidos en el Anexo II del Documento de Invitación permite extraer una serie de conclusiones globales respecto al grado de desarrollo de la propuesta técnica presentada por empresa_s.
 
 En primer lugar, debe destacarse que la propuesta técnica **cubre la totalidad de los subproyectos definidos en el pliego**, no habiéndose identificado casos en los que no exista respuesta técnica. Este hecho evidencia un adecuado nivel de comprensión del alcance del contrato y una correspondencia directa entre los requisitos establecidos y las soluciones planteadas.
 

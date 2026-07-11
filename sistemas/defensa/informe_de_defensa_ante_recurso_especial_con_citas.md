@@ -114,7 +114,7 @@ Por tanto, en ausencia de prueba suficiente, prevalece la valoración técnica r
 
 A la vista de la doctrina del TACRC y de los tribunales administrativos autonómicos, puede afirmarse de forma concluyente que:
 
-**La valoración técnica realizada se encuentra plenamente amparada por la discrecionalidad técnica, está suficientemente motivada y resulta coherente con los criterios del PPTP.**
+**La valoración técnica realizada se encuentra plenamente amparada por la discrecionalidad técnica, está suficientemente motivada y resulta coherente con los criterios del Documento de Invitación.**
 
 Asimismo:
 

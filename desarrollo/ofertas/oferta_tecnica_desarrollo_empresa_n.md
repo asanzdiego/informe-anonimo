@@ -75,7 +75,7 @@ Entre sus características clave destacan:
 - Gestión de incidencias basada en prioridad e impacto.
 - Coordinación centralizada con el cliente y equipos existentes.
 - Ejecución de tareas en ventanas controladas para minimizar impacto.
-- Registro y trazabilidad de todas las actuaciones realizadas. 
+- Registro y trazabilidad de todas las actuaciones realizadas.
 
 Este modelo garantiza una operación estable, predecible y controlada, donde cada intervención se ejecuta con rigor y visibilidad.
 
@@ -161,7 +161,7 @@ La Plataforma Educativa EducaMadrid (en adelante EducaMadrid ) está compuesta p
 
 La Consejería de Digitalización considera la utilización de las Tecnologías de la Información y la Comunicación como un recurso actualmente imprescindible en los procesos de enseñanza y aprendizaje.
 
-Con esta finalidad proporciona un conjunto de servicios y herramientas a la comunidad educativa a través del portal EducaMadrid: https://www.educa2.madrid.org/. Estos servicios y herramientas ofrecen los medios necesarios para facilitar el proceso enseñanza - aprendizaje y de comunicación entre los distintos actores que intervienen en el mismo. Por este motivo es necesario dar soporte a sus usuarios y desarrollar, actualizar, evolucionar y mantener los servicios y aplicaciones educativas, herramientas de comu nicación entre ellas y sus interfaces, que mantendrán un aspecto y forma de uso comunes para facilitar su uso y para que el usuario identifique todas ellas como componentes de la misma plataforma.
+Con esta finalidad proporciona un conjunto de servicios y herramientas a la comunidad educativa a través del portal EducaMadrid: <https://www.educa2.madrid.org/> Estos servicios y herramientas ofrecen los medios necesarios para facilitar el proceso enseñanza - aprendizaje y de comunicación entre los distintos actores que intervienen en el mismo. Por este motivo es necesario dar soporte a sus usuarios y desarrollar, actualizar, evolucionar y mantener los servicios y aplicaciones educativas, herramientas de comu nicación entre ellas y sus interfaces, que mantendrán un aspecto y forma de uso comunes para facilitar su uso y para que el usuario identifique todas ellas como componentes de la misma plataforma.
 
 La arquitectura tecnológica de EducaMadrid está constituida por más de 25 aplicaciones que ofrecen servicios a la Comunidad Educativa a través de un acceso en Cloud (Nube Privada Educativa). Estas aplicaciones deben interactuar entre sí. Algunas de ellas están basadas en adaptaciones de software e xistente (en su mayoría OpenSource) y otras se han desarrollado completamente para dar servicios concretos desde EducaMadrid. La mayoría de estas aplicaciones y servicios están en producción y necesitan un mantenim iento; otras están en fase de desarrollo y otras se solicitan en este pliego para comenzar su desarrollo. Las más relevantes dentro de este contrato son:
 
@@ -209,7 +209,7 @@ A través de la integración de la gestión de grupos de EMPieza, también se pu
 
 #### Retransmisión “en vivo” por Internet
 
-Este servicio, basado tanto en Software Libre (Red5) como en software propietario (WOWZA), permite que los centros educativos dispongan de su propio canal de retransmisión en vivo (streaming). 
+Este servicio, basado tanto en Software Libre (Red5) como en software propietario (WOWZA), permite que los centros educativos dispongan de su propio canal de retransmisión en vivo (streaming).
 
 También se dispone de una aplicación (PeerTube) que permite retransmitir eventos de interés común a todos los centros y usuarios de la plataforma.
 
@@ -253,7 +253,7 @@ Este servicio, de desarrollo propio proporciona la capacidad de dar avisos impor
 
 #### Formularios
 
-Este servicio, basado en código de fuentes abiertas (LimeSurvey), proporciona la capacidad de poder crear formularios para la recogida de datos por parte de la comunidad educativa. 
+Este servicio, basado en código de fuentes abiertas (LimeSurvey), proporciona la capacidad de poder crear formularios para la recogida de datos por parte de la comunidad educativa.
 
 #### Videoconferencias
 
@@ -261,7 +261,7 @@ Este servicio, basado en códigos de fuentes abiertas (Jitsi y BigBlueButton) pr
 
 #### Servicios de Inteligencia Artificial
 
-Este servicio, basado en software libre y modelos de lenguaje de gran tamaño (LLM), proporciona un entorno para integrar con los diferentes servicios de la plataforma como son las Aulas Virtuales, el correo web y el Cloud, para dar la capacidad de generar mediante Inteligencia artificial, diferentes actividades y resúmenes de datos por parte de la comunidad educativa. 
+Este servicio, basado en software libre y modelos de lenguaje de gran tamaño (LLM), proporciona un entorno para integrar con los diferentes servicios de la plataforma como son las Aulas Virtuales, el correo web y el Cloud, para dar la capacidad de generar mediante Inteligencia artificial, diferentes actividades y resúmenes de datos por parte de la comunidad educativa.
 
 Actualmente, EducaMadrid se encuentra inmersa en un proceso de integración de la Inteligencia Artificial en otros servicios. Para garantizar la calidad, seguridad y privacidad de los servicios ofrecidos, los modelos usados siempre son locales y basados en software OpenSource. De esta forma todo el tratamiento de la información está alojado en los sistemas de EducaMadrid, sin compartir ningún tipo de información con terceros.
 
@@ -484,7 +484,7 @@ Así, empresa_n no solo demuestra conocer los requisitos técnicos, sino que evi
 
 En consecuencia, la propuesta se consolida como una respuesta técnica sólida y madura, capaz de abordar con garantías los retos de un ecosistema tecnológico complejo, y de contribuir de manera decisiva a la prestación de un servicio fiable, seguro, escalable y orientado al futuro.
 
-#### Comprensión de los requisitos organizativos y de equipo 
+#### Comprensión de los requisitos organizativos y de equipo
 
 empresa_n identifica correctamente que el éxito del servicio depende de:
 
@@ -574,7 +574,7 @@ En este sentido, el refuerzo de la automatización y la monitorización introduc
 
 Especial mención merece la integración de servicios de inteligencia artificial, que representa uno de los elementos más innovadores de la propuesta. empresa_n no solo reconoce la relevancia de estas tecnologías, sino que plantea su incorporación de manera coherente, segura y alineada con las necesidades del entorno educativo. La utilización de inteligencia artificial abre nuevas posibilidades en ámbitos como la generación de contenidos, el análisis de información o la personalización del aprendizaje, posicio nando a EducaMadrid en una línea de vanguardia dentro del ámbito tecnológico educativo.
 
-Todo ello se articula a través de una propuesta que destaca por su carácter dinámico, adaptativo y orientado a la innovación, donde cada evolución tecnológica se integra de forma coherente en el conjunto del sistema, evitando rupturas y asegurando la conti nuidad del servicio. Este enfoque permite no solo responder a las necesidades presentes, sino también anticiparse a tendencias futuras, garantizando la sostenibilidad del modelo a largo plazo. 
+Todo ello se articula a través de una propuesta que destaca por su carácter dinámico, adaptativo y orientado a la innovación, donde cada evolución tecnológica se integra de forma coherente en el conjunto del sistema, evitando rupturas y asegurando la conti nuidad del servicio. Este enfoque permite no solo responder a las necesidades presentes, sino también anticiparse a tendencias futuras, garantizando la sostenibilidad del modelo a largo plazo.
 
 Además, esta comprensión de la evolución como un proceso continuo implica asumir que la mejora no es un evento puntual, sino una dinámica permanente, basada en el análisis, la experimentación y la incorporación progresiva de soluciones innovadoras. Este planteamiento dota al servicio de una capacidad de adaptación especialmente valiosa en un entorno caracterizado por la rápida evolución tecnológica y la creciente demanda de nuevas funcionalidades.
 
@@ -582,7 +582,7 @@ En conjunto, la interpretación de empresa_n consolida un modelo en el que la in
 
 De este modo, empresa_n no solo garantiza el cumplimiento de los requisitos definidos, sino que impulsa un modelo de evolución tecnológica que refuerza la calidad, la eficiencia y la competitividad del entorno educativo digital. La propuesta se configura así como una solución or ientada al futuro, capaz de acompañar a la Consejería de Digitalización en su proceso de transformación, asegurando que EducaMadrid continúe siendo una plataforma innovadora, adaptable y preparada para los retos del entorno educativo del mañana
 
-#### Conclusión
+#### Conclusión del punto 2.2
 
 empresa_n demuestra una comprensión profunda y transversal de los requisitos del pliego, abarcando:
 
@@ -657,7 +657,14 @@ Todas las actuaciones se realizan:
 
 - En coordinación con los responsables del servicio.
 - En ventanas de baja actividad cuando procede.
-- Bajo procedimientos operativos estandarizados. Esto asegura un impacto mínimo en la operación y en los usuarios finales, lo que es clave en una plataforma con alta criticidad y volumen de uso. Supervisión continua y control del entorno La propuesta enfatiza la monitorización permanente mediante:
+- Bajo procedimientos operativos estandarizados.
+
+Esto asegura un impacto mínimo en la operación y en los usuarios finales, lo que es clave en una plataforma con alta criticidad y volumen de uso.
+
+##### Supervisión continua y control del entorno
+
+La propuesta enfatiza la monitorización permanente mediante:
+
 - Herramientas centralizadas.
 - Análisis de métricas.
 - Generación de informes de uso y rendimiento. Este control continuo permite una gestión proactiva del servicio, aumentando significativamente su fiabilidad. En conjunto, este modelo operativo constituye un factor determinante de viabilidad, ya que garantiza la continuidad del servicio conforme a los ANS exigidos en el contrato. Solvencia técnica y capacidad de ejecución La viabilidad técnica de la propuesta se sustenta en la capacidad de empresa_n para operar sobre un entorno complejo, heterogéneo y distribuido como EducaMadrid, que integra múltiples tecnologías y servicios. Cobertura tecnológica completa La propuesta aborda de forma detallada:
@@ -669,6 +676,7 @@ Todas las actuaciones se realizan:
 - Servicios de inteligencia artificial y microservicios. Esta amplitud demuestra una capacidad técnica transversal, imprescindible para la ejecución del contrato. Uso de herramientas y buenas prácticas
 
 Se propone el uso de:
+
 - Herramientas de monitorización estándar del mercado.
 - Soluciones corporativas de gestión.
 - Procedimientos de mantenimiento estructurados. Esto garantiza una ejecución basada en estándares consolidados de la industria, reduciendo riesgos técnicos. Especialización en entornos críticos La propuesta refleja experiencia en:
@@ -686,6 +694,7 @@ Se propone el uso de:
 - Experiencia de usuario.
 
 Este modelo garantiza que el servicio no permanezca estático, sino que evolucione en paralelo a las necesidades de la plataforma, asegurando su sostenibilidad a medio y largo plazo. Gestión de riesgos y capacidad de adaptación La viabilidad del proyecto también se sustenta en la capacidad de anticipación y respuesta ante riesgos técnicos y operativos. Identificación y mitigación de riesgos La propuesta incluye mecanismos como:
+
 - Monitorización proactiva.
 - Pruebas de estrés y rendimiento.
 - Seguimiento de incidencias. Esto permite detectar desviaciones antes de que impacten en el servicio. Adaptación a la carga y crecimiento Se contemplan actuaciones de:

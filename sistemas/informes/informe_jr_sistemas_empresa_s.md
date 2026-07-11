@@ -2,7 +2,7 @@
 
 ## 1.1. Objeto del informe
 
-**El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa empresa_s S.A.** en el procedimiento relativo al desarrollo evolutivo y correctivo del portal educativo, LDAP, cloud, sistema operativo MAX y otros sistemas de la plataforma EducaMadrid. La evaluación se realiza conforme a los criterios establecidos en el Pliego de Prescripciones Técnicas Particulares, con especial atención a los definidos en el apartado 7.2.2 relativos a criterios sujetos a juicio de valor.
+**El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa empresa_s S.A.** en el procedimiento relativo al desarrollo evolutivo y correctivo del portal educativo, LDAP, cloud, sistema operativo MAX y otros sistemas de la plataforma EducaMadrid. La evaluación se realiza conforme a los criterios establecidos en el Documento de Invitación, con especial atención a los definidos en el apartado 7.2.2 relativos a criterios sujetos a juicio de valor.
 
 El análisis tiene como finalidad determinar el nivel real de adecuación de la propuesta tanto en términos de calidad técnica como de viabilidad operativa, considerando la capacidad efectiva del licitador para ejecutar el servicio en un entorno de alta complejidad tecnológica y criticidad operativa como el descrito en el pliego.
 
@@ -28,7 +28,7 @@ El análisis se ha realizado mediante la revisión detallada de la memoria técn
 
 Se ha prestado especial atención a la verificabilidad de la solución, entendida como la capacidad de demostrar objetivamente cómo se ejecutará el servicio mediante procedimientos, herramientas, métricas y mecanismos de control.
 
-Una vez completado el análisis pormenorizado de los subproyectos, se procederá a una evaluación global conforme a los criterios establecidos en el apartado 7.2.2 del PPTP.
+Una vez completado el análisis pormenorizado de los subproyectos, se procederá a una evaluación global conforme a los criterios establecidos en el apartado 7.2.2 del Documento de Invitación.
 
 ## 1.5. ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
 
@@ -1190,7 +1190,7 @@ En términos globales, el bloque presenta un **nivel medio-alto**, condicionado 
 
 ### 1.94.1. EVALUACIÓN DE LA SOLUCIÓN TÉCNICA OFERTADA (HASTA 15 PUNTOS)
 
-De conformidad con lo establecido en el apartado 7.2.2 del Pliego de Prescripciones Técnicas Particulares, la evaluación de la solución técnica ofertada se realiza atendiendo a los subcriterios definidos en dicho apartado, que comprenden la arquitectura planteada, el grado de comprensión de los requisitos, la viabilidad general del proyecto, la metodología de trabajo, el rendimiento previsible de las soluciones aportadas y el nivel de satisfacción de los requisitos recogidos en el Anexo II.
+De conformidad con lo establecido en el apartado 7.2.2 del Documento de Invitación, la evaluación de la solución técnica ofertada se realiza atendiendo a los subcriterios definidos en dicho apartado, que comprenden la arquitectura planteada, el grado de comprensión de los requisitos, la viabilidad general del proyecto, la metodología de trabajo, el rendimiento previsible de las soluciones aportadas y el nivel de satisfacción de los requisitos recogidos en el Anexo II.
 
 La valoración se ha efectuado considerando el contenido íntegro de la memoria técnica presentada por empresa_s, analizando la adecuación real de las soluciones propuestas a los distintos bloques funcionales del contrato y verificando el grado de desarrollo técnico, la existencia de herramientas concretas, la definición de procedimientos operativos, la coherencia arquitectónica y la capacidad efectiva de ejecución del servicio en un entorno de elevada complejidad tecnológica como EducaMadrid. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7B36A976CB-B711-4141-81C9-0F24FDEF2817%7D&file=Informe%20JR%20-%20SISTEMAS%20-%20empresa_s\_largo%20v2.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7B36A976CB-B711-4141-81C9-0F24FDEF2817%7D&file=Informe%20JR%20-%20SISTEMAS%20-%20empresa_s_largo%20v2.docx&action=default&mobileredirect=true>)
 
@@ -1302,7 +1302,7 @@ En consecuencia, la propuesta satisface los requisitos del pliego de forma clara
 
 ## 1.95. EVALUACIÓN DE LA PLANIFICACIÓN DEL SERVICIO
 
-De conformidad con lo establecido en el apartado 7.2.2 del Pliego de Prescripciones Técnicas Particulares, la planificación del servicio debe permitir acreditar la capacidad organizativa del licitador para ejecutar el contrato de forma ordenada, controlada y alineada con las necesidades operativas de EducaMadrid. **Para ello se evalúan el calendario de ejecución, el análisis de riesgos, el plan de contingencias, el plan de calidad y los mecanismos de trazabilidad del servicio.**
+De conformidad con lo establecido en el apartado 7.2.2 del Documento de Invitación, la planificación del servicio debe permitir acreditar la capacidad organizativa del licitador para ejecutar el contrato de forma ordenada, controlada y alineada con las necesidades operativas de EducaMadrid. **Para ello se evalúan el calendario de ejecución, el análisis de riesgos, el plan de contingencias, el plan de calidad y los mecanismos de trazabilidad del servicio.**
 
 La evaluación realizada se ha basado en el examen conjunto del cronograma aportado, de la organización propuesta para la prestación del servicio, de los mecanismos de control descritos en la memoria y de los procesos de seguimiento y mejora continua asociados a la operación de la plataforma.
 
@@ -1431,7 +1431,7 @@ La puntuación obtenida refleja una oferta competitiva pero no sobresaliente, po
 
 ## 1.98. ANEXO CLASIFICACIÓN DEL GRADO DE DESARROLLO DE LAS PROPUESTAS
 
-En el presente anexo se recoge la clasificación del grado de desarrollo de las propuestas técnicas presentadas por empresa_s para los distintos subproyectos definidos en el Anexo II del PPTP.
+En el presente anexo se recoge la clasificación del grado de desarrollo de las propuestas técnicas presentadas por empresa_s para los distintos subproyectos definidos en el Anexo II del Documento de Invitación.
 
 A efectos de este análisis, se han establecido los siguientes niveles de clasificación:
 
@@ -1613,7 +1613,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 
 ## 1.113. CONCLUSIÓN DEL ANEXO
 
-Del análisis sistemático realizado sobre la memoria técnica presentada por empresa_s, se concluye que la totalidad de los subproyectos analizados presenta un grado de desarrollo técnico elevado, caracterizado por la existencia de propuestas concretas, estructuradas y plenamente alineadas con los requisitos establecidos en el Anexo II del PPTP.
+Del análisis sistemático realizado sobre la memoria técnica presentada por empresa_s, se concluye que la totalidad de los subproyectos analizados presenta un grado de desarrollo técnico elevado, caracterizado por la existencia de propuestas concretas, estructuradas y plenamente alineadas con los requisitos establecidos en el Anexo II del Documento de Invitación.
 
 Asimismo, se observa un patrón homogéneo en la estructura de las propuestas, basado en la correspondencia explícita **requisito → solución → mejora → valor**, lo que permite evidenciar de manera clara la trazabilidad entre las necesidades planteadas en el pliego y las soluciones técnicas ofrecidas.
 

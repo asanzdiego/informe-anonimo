@@ -8,7 +8,7 @@
 
 El presente informe tiene por objeto realizar una evaluación comparativa de las propuestas técnicas presentadas por las empresas licitadoras **empresa_s***, S.A.** y **empresa_n***, S.A.** en el procedimiento de contratación correspondiente al expediente BAC01\_2026, relativo a los servicios de mantenimiento y soporte de proyectos exteriores de la plataforma EducaMadrid.
 
-La finalidad del documento es analizar de forma homogénea, objetiva, motivada y proporcional las memorias técnicas presentadas por ambos licitadores, aplicando los criterios sometidos a juicio de valor establecidos en el Pliego de Prescripciones Técnicas Particulares (PPTP), y determinar la puntuación correspondiente a cada oferta en los apartados evaluables mediante juicio técnico.
+La finalidad del documento es analizar de forma homogénea, objetiva, motivada y proporcional las memorias técnicas presentadas por ambos licitadores, aplicando los criterios sometidos a juicio de valor establecidos en el Documento de Invitación (Documento de Invitación), y determinar la puntuación correspondiente a cada oferta en los apartados evaluables mediante juicio técnico.
 
 Asimismo, el informe tiene por finalidad verificar el cumplimiento del umbral mínimo exigido por el pliego para continuar en el procedimiento, así como formular la propuesta correspondiente respecto de la admisión o exclusión de las ofertas evaluadas.
 
@@ -58,9 +58,9 @@ El Pliego de Cláusulas Administrativas Particulares constituye la norma especí
 
 De acuerdo con dicho pliego, la adjudicación debe realizarse mediante la aplicación de criterios objetivos previamente establecidos y conocidos por los licitadores, garantizando la transparencia del procedimiento y la trazabilidad de la valoración realizada.
 
-### 1.4.3. Pliego de Prescripciones Técnicas Particulares
+### 1.4.3. Documento de Invitación
 
-El PPTP constituye el documento técnico de referencia para la evaluación de las ofertas.
+El Documento de Invitación constituye el documento técnico de referencia para la evaluación de las ofertas.
 
 En particular, el apartado 7.2 establece los criterios sometidos a juicio de valor y define el marco metodológico que debe utilizarse para analizar las memorias técnicas.
 
@@ -74,7 +74,7 @@ La evaluación desarrollada en este informe se ha fundamentado íntegramente en 
 
 - los criterios de planificación y organización del servicio.
 
-Toda conclusión reflejada en el presente informe encuentra su justificación directa en alguno de los requisitos expresamente definidos por el PPTP.
+Toda conclusión reflejada en el presente informe encuentra su justificación directa en alguno de los requisitos expresamente definidos por el Documento de Invitación.
 
 ## 1.5. NATURALEZA DE LA EVALUACIÓN TÉCNICA
 
@@ -178,7 +178,7 @@ En consecuencia, el presente informe no pretende determinar cuál es la única v
 
 ## 1.8. UMBRAL MÍNIMO DE SUPERACIÓN DE LOS CRITERIOS SUJETOS A JUICIO DE VALOR
 
-El PPTP establece una puntuación máxima de treinta puntos para los criterios sometidos a juicio de valor.
+El Documento de Invitación establece una puntuación máxima de treinta puntos para los criterios sometidos a juicio de valor.
 
 Asimismo, el pliego determina la necesidad de alcanzar una puntuación mínima equivalente al cincuenta por ciento de dicha puntuación máxima para poder continuar en el procedimiento de adjudicación.
 
@@ -212,17 +212,17 @@ Este esquema permite separar claramente los fundamentos normativos, la metodolog
 
 ## 1.10. METODOLOGÍA DE VALORACIÓN DE LAS PROPUESTAS TÉCNICAS
 
-La valoración de las propuestas técnicas presentadas por las empresas licitadoras se ha realizado conforme a lo establecido en el apartado 7.2 del Pliego de Prescripciones Técnicas Particulares del expediente BAC01\_2026, aplicando un modelo de análisis técnico estructurado que permite garantizar la objetividad, proporcionalidad y trazabilidad de todas las puntuaciones asignadas.
+La valoración de las propuestas técnicas presentadas por las empresas licitadoras se ha realizado conforme a lo establecido en el apartado 7.2 del Documento de Invitación del expediente BAC01\_2026, aplicando un modelo de análisis técnico estructurado que permite garantizar la objetividad, proporcionalidad y trazabilidad de todas las puntuaciones asignadas.
 
 La metodología empleada tiene como finalidad asegurar que la evaluación realizada responda exclusivamente al contenido efectivamente desarrollado en las memorias técnicas aportadas por los licitadores, evitando en todo momento la realización de inferencias favorables no respaldadas documentalmente, así como la consideración de capacidades, experiencias o soluciones que no hayan sido descritas de manera expresa dentro de las ofertas sometidas a valoración.
 
-La evaluación se ha llevado a cabo tomando como referencia simultáneamente dos marcos de análisis complementarios. Por una parte, los criterios cualitativos definidos en el apartado 7.2 del PPTP, que establecen los elementos susceptibles de valoración y los distintos niveles de cumplimiento previstos por el pliego. Por otra, los requisitos funcionales y técnicos descritos en el Anexo II, que constituyen el alcance material del servicio y permiten determinar el grado real de adecuación de cada propuesta a las necesidades de la plataforma EducaMadrid.
+La evaluación se ha llevado a cabo tomando como referencia simultáneamente dos marcos de análisis complementarios. Por una parte, los criterios cualitativos definidos en el apartado 7.2 del Documento de Invitación, que establecen los elementos susceptibles de valoración y los distintos niveles de cumplimiento previstos por el pliego. Por otra, los requisitos funcionales y técnicos descritos en el Anexo II, que constituyen el alcance material del servicio y permiten determinar el grado real de adecuación de cada propuesta a las necesidades de la plataforma EducaMadrid.
 
 La combinación de ambos elementos resulta especialmente relevante en un contrato de estas características, donde la calidad de una solución técnica no puede medirse únicamente por la existencia formal de una respuesta a cada requisito, sino por el nivel de desarrollo, madurez, viabilidad y verificabilidad con que dicha respuesta es planteada.
 
 ### 1.10.1. Estructura general de la valoración
 
-El modelo de valoración definido en el PPTP se articula en torno a dos grandes bloques diferenciados, que permiten evaluar tanto la calidad técnica de las soluciones propuestas como la capacidad de los licitadores para planificar y organizar la prestación efectiva del servicio.
+El modelo de valoración definido en el Documento de Invitación se articula en torno a dos grandes bloques diferenciados, que permiten evaluar tanto la calidad técnica de las soluciones propuestas como la capacidad de los licitadores para planificar y organizar la prestación efectiva del servicio.
 
 El primero de estos bloques corresponde a la solución técnica ofertada y cuenta con una ponderación máxima de quince puntos. El segundo bloque corresponde a la planificación del servicio, igualmente valorado con un máximo de quince puntos. Ambos apartados configuran conjuntamente los treinta puntos asignados a los criterios sometidos a juicio de valor.
 
@@ -238,7 +238,7 @@ La evaluación se ha desarrollado considerando que ambos ámbitos mantienen una 
 
 ### 1.10.2. Valoración de la solución técnica ofertada
 
-El PPTP establece que los licitadores deben presentar una memoria técnica descriptiva de la prestación del servicio en la que se describan de manera detallada los trabajos a desarrollar, tanto desde un punto de vista técnico como funcional, así como la metodología prevista para su ejecución.
+El Documento de Invitación establece que los licitadores deben presentar una memoria técnica descriptiva de la prestación del servicio en la que se describan de manera detallada los trabajos a desarrollar, tanto desde un punto de vista técnico como funcional, así como la metodología prevista para su ejecución.
 
 La evaluación de este bloque se ha realizado a través de los seis subcriterios establecidos expresamente en el pliego:
 
@@ -270,13 +270,13 @@ Asimismo, se ha prestado una especial atención al criterio de satisfacción de 
 
 Resulta importante destacar que la metodología aplicada distingue claramente entre la mera descripción de una actuación y la definición efectiva de una solución técnica. En consecuencia, no se ha considerado equivalente una propuesta basada en afirmaciones genéricas o principios de actuación a otra en la que existan procedimientos, arquitecturas, tecnologías, herramientas y mecanismos de validación claramente identificados.
 
-Del mismo modo, la existencia de propuestas de mejora no ha supuesto automáticamente una valoración superior. Para que una mejora pudiera ser considerada como un elemento efectivamente positivo dentro de la evaluación, debía aportar una capacidad técnica adicional verificable, una ventaja operativa objetiva o una evolución real respecto a los requisitos definidos en el PPTP.
+Del mismo modo, la existencia de propuestas de mejora no ha supuesto automáticamente una valoración superior. Para que una mejora pudiera ser considerada como un elemento efectivamente positivo dentro de la evaluación, debía aportar una capacidad técnica adicional verificable, una ventaja operativa objetiva o una evolución real respecto a los requisitos definidos en el Documento de Invitación.
 
 ### 1.10.3. Valoración de la planificación del servicio
 
 El segundo bloque de evaluación corresponde a la planificación del servicio y tiene como finalidad determinar la capacidad real de cada licitador para organizar, coordinar y controlar la ejecución de las actividades previstas durante toda la vigencia del contrato.
 
-El PPTP establece expresamente que las memorias técnicas deben incorporar una planificación temporal de las actuaciones, así como un análisis de riesgos, un plan de contingencias, un plan de calidad y una descripción de los mecanismos previstos para garantizar la trazabilidad del servicio.
+El Documento de Invitación establece expresamente que las memorias técnicas deben incorporar una planificación temporal de las actuaciones, así como un análisis de riesgos, un plan de contingencias, un plan de calidad y una descripción de los mecanismos previstos para garantizar la trazabilidad del servicio.
 
 La distribución de puntuaciones definida para este bloque es la siguiente:
 
@@ -311,7 +311,7 @@ En consecuencia, las propuestas basadas exclusivamente en planteamientos concept
 
 ### 1.10.4. Escala de valoración cualitativa
 
-La interpretación de las puntuaciones asignadas se ha realizado conforme al esquema cualitativo definido en el PPTP, que establece distintos niveles de adecuación de las propuestas en función de su grado de cumplimiento.
+La interpretación de las puntuaciones asignadas se ha realizado conforme al esquema cualitativo definido en el Documento de Invitación, que establece distintos niveles de adecuación de las propuestas en función de su grado de cumplimiento.
 
 La aplicación de esta escala se ha fundamentado en un análisis conjunto de los siguientes factores:
 
@@ -343,7 +343,7 @@ La metodología aplicada permite por tanto establecer una correspondencia direct
 
 ### 1.11.1. Propuesta técnica de empresa_s S.A.
 
-La propuesta técnica presentada por empresa_s se caracteriza por un nivel de desarrollo global elevado, una cobertura prácticamente completa de los requisitos incluidos en el Anexo II del PPTP y una orientación claramente alineada con los entornos tecnológicos objeto del contrato. A lo largo de la memoria se aprecia una comprensión sólida tanto de la naturaleza de los servicios solicitados como de las interrelaciones existentes entre los distintos sistemas que componen el ecosistema EducaMadrid, circunstancia que se refleja en la definición de arquitecturas coherentes, metodologías de migración estructuradas, modelos de integración entre plataformas y procedimientos orientados al mantenimiento evolutivo y a la operación continuada del servicio.
+La propuesta técnica presentada por empresa_s se caracteriza por un nivel de desarrollo global elevado, una cobertura prácticamente completa de los requisitos incluidos en el Anexo II del Documento de Invitación y una orientación claramente alineada con los entornos tecnológicos objeto del contrato. A lo largo de la memoria se aprecia una comprensión sólida tanto de la naturaleza de los servicios solicitados como de las interrelaciones existentes entre los distintos sistemas que componen el ecosistema EducaMadrid, circunstancia que se refleja en la definición de arquitecturas coherentes, metodologías de migración estructuradas, modelos de integración entre plataformas y procedimientos orientados al mantenimiento evolutivo y a la operación continuada del servicio.
 
 Uno de los elementos más relevantes de la oferta reside en su capacidad para adaptar las soluciones propuestas a las particularidades de cada bloque tecnológico. Frente a aproximaciones genéricas aplicadas de manera uniforme a todos los ámbitos del contrato, la memoria desarrolla propuestas específicas para entornos tan diferentes como Liferay, Drupal, Moodle, sistemas heredados desarrollados sobre PHP/MySQL, plataformas de identidad, arquitecturas de integración o servicios de ciberseguridad. Esta diferenciación contribuye a reforzar la sensación de conocimiento real del entorno y permite valorar positivamente el esfuerzo realizado para ajustar las soluciones a la naturaleza concreta de cada subproyecto.
 
@@ -357,7 +357,7 @@ Igualmente, relevante resulta la escasa identificación de herramientas concreta
 
 También se observa un uso recurrente de formulaciones abiertas que trasladan determinadas decisiones técnicas a fases posteriores de análisis, diseño o ejecución. Si bien este enfoque resulta comprensible en algunos contextos, reduce el grado de concreción de la propuesta y dificulta valorar con precisión el comportamiento esperado de determinadas soluciones en fase de licitación. Del mismo modo, la planificación asociada al servicio, aun siendo estructurada y coherente desde un punto de vista conceptual, carece del nivel de detalle temporal, definición de hitos y formalización documental que exigirían las categorías superiores del baremo de valoración.
 
-En términos globales, la propuesta de empresa_s puede considerarse una solución técnicamente sólida, completa y razonablemente madura, que demuestra una comprensión adecuada del entorno tecnológico objeto del contrato y una capacidad significativa para cubrir los requisitos establecidos en el pliego. Sin embargo, las limitaciones detectadas en materia de métricas, cuantificación de resultados, herramientas concretas y nivel de detalle operativo impiden situarla en los niveles de excelencia previstos por el PPTP. Esta combinación de fortalezas y debilidades justifica la valoración obtenida tanto en el bloque de solución técnica como en el de planificación del servicio.
+En términos globales, la propuesta de empresa_s puede considerarse una solución técnicamente sólida, completa y razonablemente madura, que demuestra una comprensión adecuada del entorno tecnológico objeto del contrato y una capacidad significativa para cubrir los requisitos establecidos en el pliego. Sin embargo, las limitaciones detectadas en materia de métricas, cuantificación de resultados, herramientas concretas y nivel de detalle operativo impiden situarla en los niveles de excelencia previstos por el Documento de Invitación. Esta combinación de fortalezas y debilidades justifica la valoración obtenida tanto en el bloque de solución técnica como en el de planificación del servicio.
 
 ### 1.11.2. Propuesta técnica de empresa_n S.A.
 
@@ -371,27 +371,27 @@ El informe individual pone además de manifiesto varias inconsistencias que afec
 
 Otro aspecto significativo es el reducido número de propuestas que alcanzan un grado de desarrollo considerado suficiente dentro del análisis de trazabilidad realizado sobre el Anexo II. Aunque la memoria cubre formalmente la mayoría de los requisitos incluidos en el pliego, una parte importante de los subproyectos presenta desarrollos clasificados como deficientes o insuficientemente detallados, circunstancia que afecta negativamente a la valoración global del criterio de satisfacción de requisitos. Esta situación resulta particularmente relevante en un contrato de elevada complejidad técnica donde la capacidad de ejecución debe apoyarse en mecanismos concretos, verificables y adaptados a las características específicas de cada sistema.
 
-Las limitaciones observadas en la solución técnica tienen además un reflejo directo en la planificación del servicio. Aunque la propuesta incorpora elementos relacionados con calidad, riesgos, continuidad o trazabilidad, dichos apartados presentan un nivel de desarrollo claramente inferior al exigido por el PPTP. La planificación se mantiene en un plano predominantemente conceptual, sin establecer cronogramas suficientemente detallados, hitos verificables, indicadores de seguimiento ni mecanismos de control que permitan evaluar con precisión la evolución futura del servicio. Esta circunstancia reduce significativamente la capacidad de considerar la planificación como un instrumento real de gestión y seguimiento contractual.
+Las limitaciones observadas en la solución técnica tienen además un reflejo directo en la planificación del servicio. Aunque la propuesta incorpora elementos relacionados con calidad, riesgos, continuidad o trazabilidad, dichos apartados presentan un nivel de desarrollo claramente inferior al exigido por el Documento de Invitación. La planificación se mantiene en un plano predominantemente conceptual, sin establecer cronogramas suficientemente detallados, hitos verificables, indicadores de seguimiento ni mecanismos de control que permitan evaluar con precisión la evolución futura del servicio. Esta circunstancia reduce significativamente la capacidad de considerar la planificación como un instrumento real de gestión y seguimiento contractual.
 
-En conjunto, la propuesta de empresa_n presenta fortalezas relacionadas con la comprensión general del alcance funcional y con la cobertura formal de una parte importante de los requisitos del contrato. No obstante, estas fortalezas se ven claramente limitadas por deficiencias estructurales en materia de desarrollo técnico, definición metodológica, concreción operativa y capacidad de verificación de las soluciones propuestas. Como consecuencia de ello, la oferta se sitúa por debajo de los niveles de calidad exigidos para alcanzar el umbral mínimo previsto en el PPTP, circunstancia que explica la diferencia de valoración obtenida respecto a la propuesta presentada por empresa_s.
+En conjunto, la propuesta de empresa_n presenta fortalezas relacionadas con la comprensión general del alcance funcional y con la cobertura formal de una parte importante de los requisitos del contrato. No obstante, estas fortalezas se ven claramente limitadas por deficiencias estructurales en materia de desarrollo técnico, definición metodológica, concreción operativa y capacidad de verificación de las soluciones propuestas. Como consecuencia de ello, la oferta se sitúa por debajo de los niveles de calidad exigidos para alcanzar el umbral mínimo previsto en el Documento de Invitación, circunstancia que explica la diferencia de valoración obtenida respecto a la propuesta presentada por empresa_s.
 
 ## 1.12. VALORACIÓN COMPARATIVA DE LAS PROPUESTAS TÉCNICAS
 
 ### 1.12.1. Introducción y síntesis comparativa
 
-El análisis conjunto de las propuestas presentadas por empresa_s, S.A. y empresa_n, S.A. pone de manifiesto la existencia de diferencias significativas tanto en el grado de desarrollo técnico de las soluciones planteadas como en la profundidad con la que cada licitador aborda los distintos requisitos definidos en el Anexo II del PPTP. Aunque ambas propuestas evidencian una comprensión general del alcance funcional del contrato y de los principales sistemas que componen el ecosistema EducaMadrid, la forma en que dicha comprensión se transforma en soluciones técnicas concretas presenta diferencias sustanciales que afectan de manera directa a la valoración obtenida dentro de los criterios sometidos a juicio de valor. citeturn10search1turn13search1
+El análisis conjunto de las propuestas presentadas por empresa_s, S.A. y empresa_n, S.A. pone de manifiesto la existencia de diferencias significativas tanto en el grado de desarrollo técnico de las soluciones planteadas como en la profundidad con la que cada licitador aborda los distintos requisitos definidos en el Anexo II del Documento de Invitación. Aunque ambas propuestas evidencian una comprensión general del alcance funcional del contrato y de los principales sistemas que componen el ecosistema EducaMadrid, la forma en que dicha comprensión se transforma en soluciones técnicas concretas presenta diferencias sustanciales que afectan de manera directa a la valoración obtenida dentro de los criterios sometidos a juicio de valor. citeturn10search1turn13search1
 
-Desde una perspectiva general, la propuesta de empresa_s destaca por la amplitud de cobertura de los requisitos, la existencia de arquitecturas identificables para una parte importante de los subproyectos, la incorporación de metodologías de actuación estructuradas y una adaptación razonablemente consistente a la naturaleza específica de los distintos entornos tecnológicos incluidos en el contrato. A ello se suma la presencia de propuestas de mejora y elementos de valor añadido en numerosos ámbitos relacionados con automatización, gobierno de infraestructuras, gestión avanzada de identidades, aprovisionamiento de sistemas, integración de plataformas y observabilidad de servicios. Aunque la memoria presenta limitaciones relevantes en materia de métricas, definición de herramientas concretas y cuantificación de resultados, el conjunto de la solución mantiene un nivel de coherencia y madurez técnica que permite considerarla alineada con los objetivos perseguidos por el PPTP.
+Desde una perspectiva general, la propuesta de empresa_s destaca por la amplitud de cobertura de los requisitos, la existencia de arquitecturas identificables para una parte importante de los subproyectos, la incorporación de metodologías de actuación estructuradas y una adaptación razonablemente consistente a la naturaleza específica de los distintos entornos tecnológicos incluidos en el contrato. A ello se suma la presencia de propuestas de mejora y elementos de valor añadido en numerosos ámbitos relacionados con automatización, gobierno de infraestructuras, gestión avanzada de identidades, aprovisionamiento de sistemas, integración de plataformas y observabilidad de servicios. Aunque la memoria presenta limitaciones relevantes en materia de métricas, definición de herramientas concretas y cuantificación de resultados, el conjunto de la solución mantiene un nivel de coherencia y madurez técnica que permite considerarla alineada con los objetivos perseguidos por el Documento de Invitación.
 
 Por el contrario, la propuesta presentada por empresa_n se caracteriza por una orientación considerablemente más descriptiva. Si bien la memoria cubre formalmente la mayoría de los ámbitos funcionales contemplados en el contrato y demuestra una comprensión general de los servicios solicitados, en numerosos casos las respuestas se mantienen en un plano conceptual insuficientemente desarrollado desde un punto de vista arquitectónico, metodológico u operativo. La práctica totalidad del informe individual evidencia dificultades para identificar mecanismos verificables de ejecución, procedimientos detallados, herramientas concretas o métricas de control que permitan valorar con suficiente solidez la forma en que se llevarían a cabo muchas de las actuaciones descritas. A ello se añaden determinadas inconsistencias técnicas relacionadas con el conocimiento de componentes específicos del entorno EducaMadrid que debilitan adicionalmente la credibilidad de algunas partes de la propuesta.
 
-Estas diferencias no implican que la propuesta de empresa_n carezca por completo de valor técnico. De hecho, la memoria incorpora elementos metodológicos, referencias a procesos de calidad, mecanismos de gobierno y determinados planteamientos de mejora que evidencian un esfuerzo por construir una solución integral. Sin embargo, el nivel de concreción y desarrollo alcanzado resulta sensiblemente inferior al observado en la oferta de empresa_s, circunstancia que termina reflejándose de forma acumulativa en la valoración de los distintos subcriterios definidos en el apartado 7.2 del PPTP.
+Estas diferencias no implican que la propuesta de empresa_n carezca por completo de valor técnico. De hecho, la memoria incorpora elementos metodológicos, referencias a procesos de calidad, mecanismos de gobierno y determinados planteamientos de mejora que evidencian un esfuerzo por construir una solución integral. Sin embargo, el nivel de concreción y desarrollo alcanzado resulta sensiblemente inferior al observado en la oferta de empresa_s, circunstancia que termina reflejándose de forma acumulativa en la valoración de los distintos subcriterios definidos en el apartado 7.2 del Documento de Invitación.
 
 Como consecuencia de todo ello, el análisis comparativo realizado pone de manifiesto que ambas empresas se sitúan en posiciones técnicas claramente diferenciadas. Mientras que empresa_s presenta una propuesta globalmente consistente, con carencias localizadas pero sin comprometer la viabilidad del servicio, empresa_n presenta una oferta que, aun comprendiendo el alcance general del contrato, no alcanza el nivel mínimo de desarrollo técnico exigible para considerar suficientemente acreditada la forma en que se ejecutarían una parte importante de los trabajos objeto de contratación.
 
 ### 1.12.2. Valoración de la solución técnica ofertada
 
-La valoración comparativa de la solución técnica se ha realizado atendiendo a los seis subcriterios definidos en el apartado 7.2 del PPTP y siguiendo la metodología descrita en el capítulo anterior.
+La valoración comparativa de la solución técnica se ha realizado atendiendo a los seis subcriterios definidos en el apartado 7.2 del Documento de Invitación y siguiendo la metodología descrita en el capítulo anterior.
 
 ### 1.12.3. Tabla 1. Valoración comparativa de la solución técnica ofertada
 
@@ -407,7 +407,7 @@ La valoración comparativa de la solución técnica se ha realizado atendiendo a
 
 ### 1.12.4. Valoración de la planificación del servicio
 
-Del mismo modo, se ha efectuado la comparación de los criterios relativos a la planificación del servicio definidos en el apartado 7.2.3 del PPTP.
+Del mismo modo, se ha efectuado la comparación de los criterios relativos a la planificación del servicio definidos en el apartado 7.2.3 del Documento de Invitación.
 
 ### 1.12.5. Tabla 2. Valoración comparativa de la planificación del servicio
 
@@ -434,13 +434,13 @@ Las diferencias más importantes aparecen en el criterio de satisfacción de req
 
 La misma tendencia se reproduce en la valoración de la planificación del servicio. Si bien ninguna de las dos propuestas alcanza niveles de excelencia en este bloque, la planificación presentada por empresa_s incorpora una estructura general de fases, identifica mecanismos básicos de control y establece una aproximación reconocible a la gestión de riesgos, calidad y contingencias. En cambio, la planificación incluida en la oferta de empresa_n presenta un desarrollo considerablemente más limitado, con escasa definición temporal, falta de hitos verificables y una insuficiente formalización de los mecanismos de seguimiento y control del servicio. Esta situación explica la diferencia existente entre las puntuaciones obtenidas por ambos licitadores en este apartado.
 
-A la vista de todo lo anterior, la diferencia final observada entre ambas ofertas no responde a un tratamiento desigual de las propuestas ni a la aplicación de criterios distintos para cada licitador. Por el contrario, constituye una consecuencia directa de la distinta profundidad técnica, grado de desarrollo, nivel de concreción y capacidad de verificación observados en las memorias evaluadas. Desde esta perspectiva, las puntuaciones obtenidas resultan coherentes con la metodología definida en el PPTP y reflejan de forma proporcionada las fortalezas y debilidades identificadas en cada una de las ofertas analizadas.
+A la vista de todo lo anterior, la diferencia final observada entre ambas ofertas no responde a un tratamiento desigual de las propuestas ni a la aplicación de criterios distintos para cada licitador. Por el contrario, constituye una consecuencia directa de la distinta profundidad técnica, grado de desarrollo, nivel de concreción y capacidad de verificación observados en las memorias evaluadas. Desde esta perspectiva, las puntuaciones obtenidas resultan coherentes con la metodología definida en el Documento de Invitación y reflejan de forma proporcionada las fortalezas y debilidades identificadas en cada una de las ofertas analizadas.
 
 ## 1.13. CONCLUSIONES DE LA VALORACIÓN COMPARADA
 
-El análisis técnico comparado de las propuestas presentadas por empresa_s, S.A. y empresa_n, S.A. permite establecer, con un grado elevado de certeza técnica y sobre la base de evidencias objetivamente verificables, que ambas ofertas presentan niveles de madurez, desarrollo y adecuación sustancialmente diferentes respecto a los requisitos establecidos en el Pliego de Prescripciones Técnicas Particulares. Esta diferencia se refleja de forma consistente a lo largo de la totalidad de los bloques analizados, tanto en la solución técnica ofertada como en la planificación prevista para la ejecución del servicio.
+El análisis técnico comparado de las propuestas presentadas por empresa_s, S.A. y empresa_n, S.A. permite establecer, con un grado elevado de certeza técnica y sobre la base de evidencias objetivamente verificables, que ambas ofertas presentan niveles de madurez, desarrollo y adecuación sustancialmente diferentes respecto a los requisitos establecidos en el Documento de Invitación. Esta diferencia se refleja de forma consistente a lo largo de la totalidad de los bloques analizados, tanto en la solución técnica ofertada como en la planificación prevista para la ejecución del servicio.
 
-Debe señalarse, en primer lugar, que ninguna de las dos ofertas puede considerarse una propuesta de excelencia en los términos definidos por el PPTP. Ambas presentan limitaciones relacionadas con la escasa definición de métricas cuantificables, la falta de indicadores operativos suficientemente desarrollados y la ausencia de determinados mecanismos de control que permitan verificar de forma objetiva el comportamiento futuro de las soluciones propuestas. Esta circunstancia ha tenido reflejo en las puntuaciones asignadas y explica que ninguna de las empresas alcance las franjas superiores previstas por el pliego para las valoraciones excelentes.
+Debe señalarse, en primer lugar, que ninguna de las dos ofertas puede considerarse una propuesta de excelencia en los términos definidos por el Documento de Invitación. Ambas presentan limitaciones relacionadas con la escasa definición de métricas cuantificables, la falta de indicadores operativos suficientemente desarrollados y la ausencia de determinados mecanismos de control que permitan verificar de forma objetiva el comportamiento futuro de las soluciones propuestas. Esta circunstancia ha tenido reflejo en las puntuaciones asignadas y explica que ninguna de las empresas alcance las franjas superiores previstas por el pliego para las valoraciones excelentes.
 
 No obstante, una vez reconocido este punto común, las diferencias entre ambas ofertas resultan claramente apreciables. La propuesta presentada por empresa_s demuestra un conocimiento profundo de los distintos ámbitos tecnológicos incluidos en el contrato, desarrolla arquitecturas reconocibles para una parte significativa de los subproyectos, plantea metodologías de actuación coherentes y mantiene una alineación razonablemente consistente con las necesidades específicas del ecosistema EducaMadrid. A lo largo de la memoria se observa una capacidad clara para transformar los requisitos funcionales definidos en el pliego en soluciones técnicas concretas, incorporando además elementos complementarios relacionados con automatización, observabilidad, gobierno de sistemas, seguridad y operación continuada del servicio.
 
@@ -463,13 +463,13 @@ Como resultado de todo lo anterior, las puntuaciones finales obtenidas por los l
 | empresa_s, S.A. | 10,85 | 7,85 | **18,70** |
 | empresa_n, S.A. | 7,25 | 2,80 | **9,90** |
 
-En consecuencia, la valoración realizada permite afirmar que ambas ofertas no se sitúan en un nivel técnico equiparable y que la diferencia observada entre las puntuaciones finales constituye una consecuencia directa del distinto grado de desarrollo, concreción y madurez alcanzado por las soluciones propuestas. Desde esta perspectiva, las valoraciones asignadas resultan coherentes con la metodología de evaluación aplicada, con los criterios definidos en el PPTP y con las evidencias objetivamente identificadas en la documentación analizada.
+En consecuencia, la valoración realizada permite afirmar que ambas ofertas no se sitúan en un nivel técnico equiparable y que la diferencia observada entre las puntuaciones finales constituye una consecuencia directa del distinto grado de desarrollo, concreción y madurez alcanzado por las soluciones propuestas. Desde esta perspectiva, las valoraciones asignadas resultan coherentes con la metodología de evaluación aplicada, con los criterios definidos en el Documento de Invitación y con las evidencias objetivamente identificadas en la documentación analizada.
 
 ## 1.14. PROPUESTA DE EXCLUSIÓN Y CONTINUACIÓN DEL PROCEDIMIENTO
 
-De conformidad con lo establecido en el Pliego de Prescripciones Técnicas Particulares y en la documentación reguladora del procedimiento BAC01\_2026, las ofertas sometidas a valoración mediante juicio de valor deben superar el umbral mínimo de calidad técnica fijado para poder continuar en el proceso de adjudicación.
+De conformidad con lo establecido en el Documento de Invitación y en la documentación reguladora del procedimiento BAC01\_2026, las ofertas sometidas a valoración mediante juicio de valor deben superar el umbral mínimo de calidad técnica fijado para poder continuar en el proceso de adjudicación.
 
-Tal y como se establece en el apartado correspondiente del PPTP, la puntuación máxima asociada a los criterios sometidos a juicio de valor asciende a treinta puntos, fijándose como requisito mínimo la obtención de una puntuación equivalente al cincuenta por ciento de dicha valoración máxima. En consecuencia, el umbral mínimo exigido para continuar en el procedimiento queda establecido en quince puntos sobre treinta.
+Tal y como se establece en el apartado correspondiente del Documento de Invitación, la puntuación máxima asociada a los criterios sometidos a juicio de valor asciende a treinta puntos, fijándose como requisito mínimo la obtención de una puntuación equivalente al cincuenta por ciento de dicha valoración máxima. En consecuencia, el umbral mínimo exigido para continuar en el procedimiento queda establecido en quince puntos sobre treinta.
 
 Una vez finalizada la evaluación técnica comparada de las ofertas y consolidadas las puntuaciones obtenidas en los distintos criterios objeto de valoración, los resultados finales son los siguientes:
 
@@ -478,16 +478,16 @@ Una vez finalizada la evaluación técnica comparada de las ofertas y consolidad
 | empresa_s, S.A. | 18,70 / 30 | Sí |
 | empresa_n, S.A. | 9,90 / 30 | No |
 
-A la vista de los resultados anteriores, se constata que la oferta presentada por empresa_s supera el umbral mínimo de calidad exigido por el PPTP, obteniendo una puntuación total de 18,70 puntos sobre 30. Por el contrario, la oferta presentada por empresa_n alcanza únicamente una puntuación total de 9,90 puntos sobre 30, situándose por debajo del umbral mínimo establecido por el pliego para continuar en el procedimiento.
+A la vista de los resultados anteriores, se constata que la oferta presentada por empresa_s supera el umbral mínimo de calidad exigido por el Documento de Invitación, obteniendo una puntuación total de 18,70 puntos sobre 30. Por el contrario, la oferta presentada por empresa_n alcanza únicamente una puntuación total de 9,90 puntos sobre 30, situándose por debajo del umbral mínimo establecido por el pliego para continuar en el procedimiento.
 
-Debe señalarse que esta circunstancia no constituye una valoración discrecional adicional realizada por el órgano evaluador, sino la aplicación directa de una condición objetiva previamente establecida en la documentación contractual y conocida por todos los licitadores desde el inicio del procedimiento. La exclusión derivada de no alcanzar el umbral mínimo de calidad técnica responde, por tanto, a la aplicación automática de una regla expresamente prevista en el PPTP y vinculada a la necesidad de garantizar unos niveles mínimos de solvencia técnica en contratos de elevada complejidad tecnológica.
+Debe señalarse que esta circunstancia no constituye una valoración discrecional adicional realizada por el órgano evaluador, sino la aplicación directa de una condición objetiva previamente establecida en la documentación contractual y conocida por todos los licitadores desde el inicio del procedimiento. La exclusión derivada de no alcanzar el umbral mínimo de calidad técnica responde, por tanto, a la aplicación automática de una regla expresamente prevista en el Documento de Invitación y vinculada a la necesidad de garantizar unos niveles mínimos de solvencia técnica en contratos de elevada complejidad tecnológica.
 
 Asimismo, la motivación de esta exclusión encuentra soporte suficiente en el contenido de los informes individuales y en el análisis comparativo desarrollado en el presente documento. Las limitaciones identificadas en la propuesta de empresa_n afectan a aspectos esenciales de la valoración técnica, incluyendo el grado de desarrollo de las soluciones, la definición metodológica de las actuaciones, la verificabilidad de los procesos propuestos y la consistencia de la planificación asociada a la ejecución del servicio. La acumulación de estas circunstancias explica de forma razonada la puntuación final obtenida y, en consecuencia, la imposibilidad de alcanzar el umbral mínimo exigido por el pliego.
 
 Por todo lo anteriormente expuesto, se formula la siguiente propuesta:
 
-**Primero.** Proponer la exclusión de la empresa **empresa_n***, S.A.** del procedimiento BAC01\_2026 por no haber alcanzado la puntuación mínima exigida en los criterios sometidos a juicio de valor, de conformidad con lo establecido en el PPTP y en la normativa aplicable en materia de contratación pública.
+**Primero.** Proponer la exclusión de la empresa **empresa_n***, S.A.** del procedimiento BAC01\_2026 por no haber alcanzado la puntuación mínima exigida en los criterios sometidos a juicio de valor, de conformidad con lo establecido en el Documento de Invitación y en la normativa aplicable en materia de contratación pública.
 
 **Segundo.** Proponer que la empresa **empresa_s***, S.A.**, única oferta que ha superado el umbral mínimo de calidad técnica exigido, continúe en el procedimiento de adjudicación, procediéndose a la valoración de los criterios evaluables mediante fórmulas y a la continuación de las actuaciones previstas en la documentación reguladora del expediente.
 
-Con ello queda completada la evaluación comparativa de las ofertas presentadas en el procedimiento, quedando debidamente acreditadas tanto las puntuaciones otorgadas como la propuesta resultante de admisión y exclusión derivada de la aplicación de los criterios establecidos en el Pliego de Prescripciones Técnicas Particulares.
+Con ello queda completada la evaluación comparativa de las ofertas presentadas en el procedimiento, quedando debidamente acreditadas tanto las puntuaciones otorgadas como la propuesta resultante de admisión y exclusión derivada de la aplicación de los criterios establecidos en el Documento de Invitación.

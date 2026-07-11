@@ -16,20 +16,20 @@ Fecha de emisión: 20- 05- 2026
 3. RESUMEN EJECUTIVO ........................................... 5
 4. MEMORIA TÉCNICA  .......8
 4.1. SOLUCIÓN TÉCNICA OFERTADA ....... 9
-4.1.1. Arquitectura Planteada y Metodología de Trabajo ......................... 9 
-4.1.2. Comprensión y Satisfacción de los Requisitos .............................. 16 
-4.1.3. Viabilidad y Rendimiento Previsible de la Solución .......................22 
-4.2. PLANIFICACIÓN DEL SERV IC IO ........ 28 
-4.2.1. CALENDARIO DE LOS TRABAJOS A DESARROLLAR .......................... 29 
-II.1.1. Mejoras y Mantenimientos Transversales (TRA) ........................... 30 
-II.1.2. Mejoras y Mantenimiento de las Aulas Virtuales (AV) .................... 35 
-II.1.3. Evolución y Mantenimiento de la Mediateca (MED)....................... 37 
-4.2.2. ANÁLISIS DE RIESGOS DEL PROYECTO .......................................... 39 
-Riesgos Técnicos ...................................41 
-Riesgos Operativos ............................... 43 
-Riesgos de Gestión ...............................44 
-4.2.3. Plan de Gestión de Contingencias  45 
-4.2.4. Plan de Gestión de la Calidad del Servicio ..................................... 51 
+4.1.1. Arquitectura Planteada y Metodología de Trabajo ......................... 9
+4.1.2. Comprensión y Satisfacción de los Requisitos .............................. 16
+4.1.3. Viabilidad y Rendimiento Previsible de la Solución .......................22
+4.2. PLANIFICACIÓN DEL SERV IC IO ........ 28
+4.2.1. CALENDARIO DE LOS TRABAJOS A DESARROLLAR .......................... 29
+II.1.1. Mejoras y Mantenimientos Transversales (TRA) ........................... 30
+II.1.2. Mejoras y Mantenimiento de las Aulas Virtuales (AV) .................... 35
+II.1.3. Evolución y Mantenimiento de la Mediateca (MED)....................... 37
+4.2.2. ANÁLISIS DE RIESGOS DEL PROYECTO .......................................... 39
+Riesgos Técnicos ...................................41
+Riesgos Operativos ............................... 43
+Riesgos de Gestión ...............................44
+4.2.3. Plan de Gestión de Contingencias  45
+4.2.4. Plan de Gestión de la Calidad del Servicio ..................................... 51
 4.2.5. Trazabilidad del Servicio ............... 57
 
 1. 1. INTRODUCCIÓN
