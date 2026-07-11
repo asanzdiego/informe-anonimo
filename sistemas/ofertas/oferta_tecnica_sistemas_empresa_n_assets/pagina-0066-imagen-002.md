@@ -1,0 +1,3 @@
+- Captura del panel de resultados de una encuesta en LimeSurvey.
+- Resume 1.200 participantes, 982 respuestas, una tasa de respuesta del 82 por ciento y 74 encuestas descartadas.
+- Incluye un gráfico radial que compara dos grupos y un gráfico de barras horizontales con las respuestas más consistentes.

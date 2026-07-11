@@ -1,0 +1,3 @@
+- Esquema de la plataforma ELK Stack.
+- Elasticsearch almacena e indexa datos de forma escalable, Logstash procesa y normaliza los registros y Kibana los visualiza y analiza en tiempo real.
+- La base destaca alta disponibilidad, escalabilidad, seguridad y balanceo de carga.

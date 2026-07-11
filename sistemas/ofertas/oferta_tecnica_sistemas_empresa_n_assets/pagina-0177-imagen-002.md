@@ -1,0 +1,3 @@
+- Infografía sobre mantenimiento y soporte durante y después de una migración.
+- Advierte de falta de supervisión de la disponibilidad, ausencia de verificación de datos y configuraciones y falta de control de estabilidad y acciones correctivas.
+- La conclusión indica que no disponer de soporte posterior provoca incidencias y servicios inestables.

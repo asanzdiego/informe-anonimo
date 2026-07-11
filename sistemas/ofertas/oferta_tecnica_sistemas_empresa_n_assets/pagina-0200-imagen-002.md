@@ -1,0 +1,2 @@
+- Diagrama de causa y efecto o Ishikawa para un defecto importante.
+- Organiza posibles causas en tiempo, máquina, método, material, energía, medición, personal y entorno.

@@ -1,0 +1,2 @@
+- Infografía de gobernanza de inteligencia artificial.
+- Incluye gobierno y versionado de prompts, auditoría de consultas y resultados, protección de datos sensibles, supervisión humana en usos críticos y evaluación continua de precisión, sesgos y errores.

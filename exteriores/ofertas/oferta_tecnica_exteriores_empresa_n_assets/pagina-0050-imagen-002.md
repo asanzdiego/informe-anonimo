@@ -1,0 +1,3 @@
+- Diagrama del proceso de construcción de un sistema de información.
+- Enlaza preparación del entorno, generación de código, pruebas unitarias, de integración y del sistema, manuales, formación y componentes de migración.
+- Todas las líneas terminan en la aprobación del sistema de información.

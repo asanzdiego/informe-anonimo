@@ -1,0 +1,4 @@
+- Infografía del proceso de una auditoría o prueba de seguridad web en cinco fases: planificación, reconocimiento, análisis, explotación e informe.
+- Detalla alcance y autorizaciones, OSINT y mapeo de superficie, revisión de arquitectura y código, pruebas controladas y elaboración de hallazgos, riesgos y recomendaciones.
+- Enumera las diez categorías de OWASP, desde control de acceso roto y fallos criptográficos hasta SSRF, y las áreas de validación de aplicaciones, autenticación, sesiones, red, TLS, DNS y proxy inverso.
+- La salida incluye pruebas manuales y automatizadas, evidencias trazables, valoración CVSS y un plan de remediación con validación posterior.

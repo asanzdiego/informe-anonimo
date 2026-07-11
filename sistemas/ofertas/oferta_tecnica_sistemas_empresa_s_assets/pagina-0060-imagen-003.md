@@ -1,0 +1,3 @@
+- Esquema del funcionamiento de un sistema kanban con límites de trabajo en curso.
+- Las ideas del cliente entran en una cola priorizada y son arrastradas por análisis, diseño, desarrollo, pruebas, aceptación y despliegue.
+- Las tarjetas verdes, naranjas y amarillas representan solicitudes de cambio, defectos y mantenimiento hasta llegar a terminado y archivo.

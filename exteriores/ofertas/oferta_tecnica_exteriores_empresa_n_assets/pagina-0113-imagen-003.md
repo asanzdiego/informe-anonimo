@@ -1,0 +1,4 @@
+- Comparación de dos arquitecturas OpenLDAP para el acceso de proyectos externos.
+- La variante izquierda muestra un inicio de sesión exterior conectado por LDAP a servidores esclavos tras un cortafuegos y a un maestro situado en la zona interna.
+- La variante derecha incorpora varios servidores OpenLDAP exteriores y otros servicios, mantiene réplicas esclavas y conserva el maestro detrás del cortafuegos.
+- Las flechas representan consultas y replicación entre los distintos grupos de servidores.

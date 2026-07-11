@@ -1,0 +1,3 @@
+- Arquitectura LDAP actual y futura de EducaMadrid con un maestro principal y numerosos esclavos distribuidos entre varios centros de datos.
+- Integra sincronización con Google y Microsoft, un esclavo especial para consultas internas y un maestro secundario de alta disponibilidad con dos réplicas.
+- Las conexiones representan autenticación, replicación continua, comunicación cifrada y conmutación ante fallos.

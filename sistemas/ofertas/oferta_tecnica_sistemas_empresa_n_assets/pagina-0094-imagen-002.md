@@ -1,0 +1,3 @@
+- Diagrama de federación de identidades entre un servidor de autenticación propio, Google y otro servidor externo.
+- Un usuario exterior accede mediante una cuenta de servicio al servidor propio, que mantiene representaciones de identidad para usuarios externos y de Google.
+- Las flechas muestran la propagación o validación de esas identidades hacia ambos proveedores remotos.

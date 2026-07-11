@@ -1,0 +1,3 @@
+- Arquitectura de replicación de un directorio entre un servidor maestro y varios servidores de réplica.
+- El maestro distribuye los datos mediante un protocolo de réplica hacia dos nodos secundarios.
+- Los clientes de directorio consultan los servidores de réplica, mientras otro equipo aparece conectado directamente al maestro.

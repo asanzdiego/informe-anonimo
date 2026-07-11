@@ -1,0 +1,3 @@
+- Conjunto de diagramas de flujo para configurar y utilizar autenticación de doble factor en servicios EducaMadrid.
+- El flujo principal permite activar 2FA, confirmar el correo, elegir método secundario y resolver errores de configuración.
+- Otros paneles muestran el inicio de sesión en Correo Web y Empieza con 2FA, mediante acceso directo, correo o aplicación TOTP.

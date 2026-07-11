@@ -1,0 +1,2 @@
+- Banda de beneficios operativos de una actualización.
+- Destaca mejor experiencia de usuario, despliegue rápido y seguro, alta disponibilidad, seguridad reforzada y ausencia de impacto en el servicio.

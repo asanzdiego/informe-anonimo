@@ -1,0 +1,3 @@
+- Diagrama de componentes de una plataforma de videoconferencia o aula virtual basada en servicios conectados mediante Redis pub/sub.
+- Kurento y WebRTC-SFU entran en el bus central, que también conecta aplicaciones, FreeSWITCH, BBB web, servidor y cliente HTML5 y conversión de presentaciones.
+- En la parte inferior aparecen una base Redis, un servicio de grabación y componentes de terceros.

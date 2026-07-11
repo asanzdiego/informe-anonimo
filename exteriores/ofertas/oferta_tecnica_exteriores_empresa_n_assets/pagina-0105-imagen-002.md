@@ -1,0 +1,3 @@
+- Collage de logotipos de software y tecnologías, principalmente de código abierto.
+- Incluye navegadores y herramientas como Firefox, VLC, Thunderbird, FileZilla y OpenOffice, plataformas como Joomla, Magento, WordPress y Drupal, y tecnologías de infraestructura y desarrollo como OpenVPN, Nagios, Apache, PostgreSQL, MySQL, Java, Xen, Ubuntu, Debian y CentOS.
+- La composición transmite diversidad de productos y ecosistemas tecnológicos compatibles.

@@ -1,0 +1,3 @@
+- Tercera parte de un cronograma de doce meses, entre septiembre de 2026 y agosto de 2027.
+- Incluye Animalandia, sincronización de usuarios, Portal CAU, EducaSaaC, cloud, buzón anónimo, DITIC, seguimientos, Albor, avisos, foros, boletines, ayuda, portal, web estática, framework de interfaz, entornos MAX, gestión de títulos, medidas de uso web, Wekan, MaMMod, EMLab y AbiesWeb.
+- Las barras diferencian planificación, ejecución, mantenimiento continuo y cierre; varios triángulos señalan hitos de evolución de la nube, optimización de servicios corporativos e integración de Wekan en agosto de 2027.

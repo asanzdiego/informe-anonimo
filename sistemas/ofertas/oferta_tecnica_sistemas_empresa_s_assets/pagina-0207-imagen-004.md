@@ -1,0 +1,3 @@
+- Cronograma de doce meses para gestionar una migración de servidores entre centros de proceso de datos, desde septiembre de 2026.
+- Planifica coordinación, preparación técnica, documentación, ejecución, verificación y soporte posterior.
+- Las barras separan planificación, ejecución, mantenimiento y cierre, y los hitos marcan finalización técnica, migración, validación y soporte en agosto de 2027.

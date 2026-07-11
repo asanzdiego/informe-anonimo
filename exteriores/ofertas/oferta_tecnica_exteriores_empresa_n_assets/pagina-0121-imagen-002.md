@@ -1,0 +1,3 @@
+- Flujo de acceso desde la documentación de EducaMadrid hacia la sección de sistemas.
+- Una flecha conduce al portal de documentación de sistemas y otra a un bloque de accesos con VPN, FTP y consola de administración.
+- La imagen comunica que estos mecanismos de acceso se consultan o gestionan desde la documentación técnica.

@@ -1,0 +1,3 @@
+- Infografía de escalabilidad predictiva organizada en cuatro etapas.
+- Analiza capacidad y demanda, despliega nuevas islas de servicio con infraestructura como código, redistribuye carga entre grupos y escala horizontalmente frontales y servicios.
+- La franja inferior representa monitorización, análisis de rendimiento, alertas, decisiones de escalado, ajuste y mejora continua.

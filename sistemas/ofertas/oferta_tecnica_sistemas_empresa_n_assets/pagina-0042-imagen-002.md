@@ -1,0 +1,3 @@
+- Diagrama iterativo de diseño y ejecución de un plan de pruebas con Apache JMeter.
+- El flujo pasa por diseño del plan, ejecución funcional, adaptación y control de pruebas antes de llegar a la validación.
+- Los resultados alimentan la decisión final y una flecha de retorno permite repetir la ejecución funcional para corregir el plan.

@@ -1,0 +1,3 @@
+- Flujo lineal de datos y procesos desde una solicitud hasta la respuesta.
+- Las etapas intermedias son validación, enrutamiento, procesamiento y acceso a datos.
+- Una línea de retorno inferior sugiere que la respuesta cierra el ciclo con el origen de la solicitud.

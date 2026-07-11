@@ -1,0 +1,3 @@
+- Proceso de actualización de una aplicación web con alta disponibilidad.
+- La versión anterior se clona a una versión nueva y luego a otro nodo nuevo.
+- Durante el reemplazo, dos instancias de la nueva versión permanecen activas en producción mientras se retiran gradualmente las anteriores.

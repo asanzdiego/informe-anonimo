@@ -1,0 +1,4 @@
+- Infografía de planificación técnica de una migración con visión integral de sistemas y servicios.
+- El mapa conecta usuarios, internet, firewall, web, aplicaciones, base de datos, DNS y almacenamiento.
+- El plan incluye inventario y dependencias, borrador y validación, coordinación del centro de destino y cinco fases desde análisis hasta validación.
+- La conclusión destaca planificación clara, dependencias identificadas y riesgos minimizados.

@@ -1,0 +1,4 @@
+- Arquitectura escalable de Nextcloud con varios nodos de aplicación y balanceo interno.
+- Una base de datos replicada en alta disponibilidad sirve a la capa de aplicaciones.
+- Los servicios compartidos incluyen caché distribuida, colaboración en tiempo real, colas, búsqueda y notificaciones.
+- El almacenamiento se reparte entre varios nodos con redundancia, escalabilidad y distribución inteligente de datos.

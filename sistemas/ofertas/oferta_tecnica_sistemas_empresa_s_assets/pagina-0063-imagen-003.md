@@ -1,0 +1,4 @@
+- Mapa funcional de la plataforma LimeSurvey dividido en toma de encuestas, administración e integraciones.
+- El frontal cubre cuestionarios, estadísticas, autenticación, impresión, sesiones, respuestas, importación y exportación.
+- El backoffice incorpora edición de encuestas, usuarios, permisos, tokens, plantillas, base de datos y utilidades.
+- Las integraciones incluyen LDAP, SSO, API, servicios web, exportación, copias, monitorización, rendimiento y seguridad.

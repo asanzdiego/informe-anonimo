@@ -1,0 +1,2 @@
+- Clasificación de actividades de calidad en planificación, apoyo, operación, producción y provisión, y evaluación.
+- Incluye riesgos, documentación, metodología, requisitos, prototipos, validación, calidad, entregables y desempeño.

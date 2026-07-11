@@ -1,0 +1,4 @@
+- Infografía sobre mejoras de interfaz y optimización del rendimiento web.
+- Las mejoras incluyen modernización de plantillas y estilos, optimización de CSS y JavaScript, renovación de iconos y componentes, navegación, formularios, compatibilidad multidispositivo y experiencia de usuario.
+- El bloque de rendimiento representa la minificación y consolidación de recursos, la optimización de imágenes y multimedia, la caché y la mejora de los tiempos de renderizado.
+- El resultado resumido es mayor velocidad, mejor experiencia de usuario y cumplimiento de estándares.

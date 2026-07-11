@@ -1,0 +1,4 @@
+- Diagrama de dependencias de las diez actividades del proceso IAS, dedicado a la implantación y aceptación de un sistema.
+- La secuencia comienza con el plan de implantación y la formación necesaria; después se incorpora el sistema y se cargan los datos en el entorno de operación.
+- Continúa con las pruebas de implantación y aceptación, la preparación del mantenimiento, la presentación y aprobación del sistema y su paso a producción.
+- El establecimiento del acuerdo de nivel de servicio discurre como una actividad transversal desde la fase de formación hasta la aceptación.

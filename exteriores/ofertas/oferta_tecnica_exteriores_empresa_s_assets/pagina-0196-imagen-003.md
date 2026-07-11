@@ -1,0 +1,4 @@
+- Arquitectura conceptual de una infraestructura virtualizada optimizada para rendimiento, elasticidad, aislamiento, resiliencia, automatización y cargas de inteligencia artificial o GPU.
+- Un clúster de virtualización se apoya en hipervisores KVM, oVirt o RHV, almacenamiento compartido y redes virtuales segmentadas.
+- Los laterales destacan evaluación de capacidad, optimización, pools dedicados, escalado, alta disponibilidad, seguridad, observabilidad, compatibilidad y soporte de código abierto.
+- La infraestructura aloja aplicaciones web, bases de datos, servicios internos, proyectos externos y cargas de IA o aprendizaje automático.

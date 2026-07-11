@@ -1,0 +1,3 @@
+- Fragmento de una hoja de planificación temporal con tareas en filas y meses entre septiembre de 2026 y agosto de 2027 en columnas.
+- Incluye mejoras y mantenimientos transversales, del CPD, de aulas virtuales y de la mediateca, con acciones como actualizaciones de Moodle, PHP y sistemas operativos, integraciones, seguridad, soporte y evolución funcional.
+- Las celdas coloreadas y numeradas distribuyen cargas o hitos recurrentes a lo largo del calendario; las bandas grises separan bloques de trabajo y las filas amarillas resaltan numerosas actuaciones.

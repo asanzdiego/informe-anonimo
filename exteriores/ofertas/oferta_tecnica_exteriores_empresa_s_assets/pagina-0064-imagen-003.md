@@ -1,0 +1,4 @@
+- Diagrama de arquitectura objetivo para la convivencia de Drupal con el entorno actual de EducaMadrid.
+- El entorno gestionado contiene zonas de preproducción y producción, cada una con un frontal Drupal, funcionalidades integradas y su propio servidor de base de datos, además de gestión centralizada de código, despliegue y servidores.
+- Varias API conectan esos entornos con aplicativos del sistema actual: los compatibles se integran con Drupal y los autónomos permanecen sin dependencia de él.
+- El objetivo indicado es trasladar Drupal al entorno gestionado por EducaMadrid mientras los aplicativos no integrables continúan en el entorno existente.

@@ -1,0 +1,3 @@
+- Diagrama de dependencias de las doce actividades de definición y diseño de un sistema.
+- Reúne arquitectura, casos de uso, clases, módulos, datos, construcción, migración, pruebas, implantación y aprobación.
+- Una leyenda distingue tareas comunes, orientadas a objetos y estructuradas.

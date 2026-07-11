@@ -1,0 +1,4 @@
+- Diagrama en tres filas sobre sincronización, transferencia y validación entre una nube y varios servidores.
+- La primera fila muestra un flujo normal y bidireccional desde la nube a una cadena de servidores que termina validada con datos y archivos.
+- La segunda representa una interrupción del enlace inicial y el envío alternativo de base de datos y ficheros hacia otros nodos, que también terminan validados.
+- La tercera muestra una conexión directa de la nube con un único servidor validado que almacena datos y archivos.

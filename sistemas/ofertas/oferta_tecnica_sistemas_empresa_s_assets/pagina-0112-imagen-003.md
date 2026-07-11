@@ -1,0 +1,3 @@
+- Esquema de escalado horizontal de servidores.
+- Un cliente distribuye sus solicitudes entre cinco servidores equivalentes dentro de un grupo.
+- La flecha de escalado indica que la capacidad aumenta añadiendo más nodos.

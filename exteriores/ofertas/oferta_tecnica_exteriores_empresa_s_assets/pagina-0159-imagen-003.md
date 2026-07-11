@@ -1,0 +1,4 @@
+- Diagrama de recuperación ante desastres organizado como un proceso de cinco pasos.
+- Las fases son clasificación de criticidad, definición de RTO y RPO, plan de recuperación, recuperación escalonada y validación mediante pruebas.
+- Las dependencias se ordenan desde servicios críticos y bases de datos hasta aplicaciones y servicios auxiliares.
+- La base del esquema recuerda que deben documentarse procedimientos, órdenes de recuperación y tiempos estimados.

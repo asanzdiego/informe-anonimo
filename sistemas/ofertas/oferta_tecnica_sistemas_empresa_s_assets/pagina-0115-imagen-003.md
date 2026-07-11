@@ -1,0 +1,3 @@
+- Flujo básico de entrega de correo mediante SMTP.
+- El remitente usa un agente de usuario que deposita el mensaje en una cola y lo entrega a un agente de transferencia cliente.
+- Una conexión TCP por el puerto 25 intercambia órdenes, respuestas y mensajes con el agente de transferencia servidor, que los coloca en buzones para el destinatario.

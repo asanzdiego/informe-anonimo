@@ -1,0 +1,2 @@
+- Diagrama lineal del mantenimiento de sistemas de información.
+- Enlaza registro y análisis de una petición, preparación de la modificación y seguimiento de cambios hasta su aceptación.

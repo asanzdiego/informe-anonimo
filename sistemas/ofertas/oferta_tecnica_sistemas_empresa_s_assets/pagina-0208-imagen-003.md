@@ -1,0 +1,3 @@
+- Cronograma de doce meses para ciberseguridad, sistema operativo MAX e inteligencia artificial.
+- Seguridad incluye DNS, LDAP privilegiado, certificados, vulnerabilidades, detección, auditorías, registros, claves RSA y soporte; MAX cubre mantenimiento, distribuciones, aplicaciones y asistencia; IA cubre modelos, prompts, guardarraíles e integraciones.
+- Las barras muestran planificación, ejecución, soporte y cierre, con hitos desde noviembre de 2026 hasta agosto de 2027.

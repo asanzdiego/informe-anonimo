@@ -1,0 +1,3 @@
+- Primera parte de una matriz de planificación de tareas entre septiembre de 2026 y agosto de 2027.
+- Incluye bases de datos, rendimiento, almacenamiento, videoconferencia, Mattermost, Kanban, GitLab, LimeSurvey, SonarQube, Redmine, Wowza, AbiesWeb, contenedores, nube, SSO, automatización y análisis de datos.
+- Las celdas de colores con números distribuyen perfiles, cargas o hitos por mes, mientras el amarillo resalta numerosas tareas de mejora.

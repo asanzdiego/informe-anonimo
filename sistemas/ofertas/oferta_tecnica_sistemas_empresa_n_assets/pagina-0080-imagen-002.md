@@ -1,0 +1,3 @@
+- Bucle de monitorización y control para microservicios de una aplicación nativa de nube.
+- Un microservicio publica métricas en un punto de acceso; un exportador las envía al sistema de monitorización y a un traductor de métricas.
+- Un motor de reglas analiza la información y ordena acciones a un controlador de ejecución que actúa de nuevo sobre los microservicios.

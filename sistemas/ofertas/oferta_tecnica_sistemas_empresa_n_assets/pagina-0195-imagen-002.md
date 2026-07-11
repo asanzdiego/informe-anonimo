@@ -1,0 +1,2 @@
+- Esquema del sistema de gestión de la calidad basado en Planificar, Hacer, Verificar y Actuar.
+- El liderazgo conecta planificación, apoyo y operación, evaluación y mejora, desde las necesidades de entrada hasta resultados y satisfacción.

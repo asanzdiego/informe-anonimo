@@ -1,0 +1,3 @@
+- Captura de una herramienta de monitorización basada en mapa de servicio.
+- La topología enlaza un portal web con un grupo de frontales, un balanceador y servidores de base de datos, y desciende hasta nodos HTTP, HTTPS y PostgreSQL.
+- Varios nodos y enlaces aparecen en naranja con símbolos de alerta, y la tabla inferior enumera alarmas graves de equipos caídos.

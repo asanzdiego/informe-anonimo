@@ -1,0 +1,4 @@
+- Infografía de una plataforma híbrida de inteligencia artificial para EducaMadrid.
+- Las fuentes de aplicaciones, usuarios, contenidos, sensores, registros y bases de datos pasan por entrenamiento, ingesta y almacenamiento hasta inferencia, automatización y recomendaciones.
+- Un ciclo de servicios recoge, procesa, entrena, evalúa, despliega, monitoriza y evoluciona los modelos, apoyado en infraestructura escalable, contenedores, GPU, API y nube híbrida.
+- Los resultados buscados son mejora del aprendizaje, personalización, eficiencia operativa, apoyo a decisiones y mejor experiencia de usuario, con privacidad y gobierno de IA.

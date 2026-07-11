@@ -1,0 +1,3 @@
+- Matriz mensual de asignación de trabajo para proyectos entre junio de 2026 y mayo de 2027.
+- Las filas agrupan proyectos Liferay, web de innovación, MoodleMisc, Dinámicas, integración con EducaMadrid, sistemas externos, seguridad web, desarrollo seguro y programa de recompensas por errores.
+- Cada mes se subdivide en varias celdas de colores con números que representan perfiles, cargas o turnos de trabajo; las bandas azules separan los bloques de proyecto.

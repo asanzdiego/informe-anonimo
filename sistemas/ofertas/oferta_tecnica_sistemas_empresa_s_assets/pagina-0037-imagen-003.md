@@ -1,0 +1,3 @@
+- Arquitectura de base de datos en tres capas con cliente, balanceador y clúster.
+- Las aplicaciones se conectan por MySQL a un proxy inverso MaxScale, ProxySQL o HAProxy, que distribuye lecturas y escrituras entre tres nodos Galera.
+- ClusterControl aparece conectado a los tres nodos para administrar o supervisar el clúster.

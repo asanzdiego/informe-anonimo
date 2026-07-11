@@ -1,0 +1,4 @@
+- Diagrama de dependencias de las once actividades del proceso ASI, dedicado al análisis de un sistema de información.
+- Tras la definición del sistema y el establecimiento de requisitos se desarrollan tareas de identificación de subsistemas, análisis de casos de uso y clases, elaboración de los modelos de datos y procesos y definición de interfaces de usuario.
+- Las actividades convergen en el análisis de consistencia, la especificación del plan de pruebas y la presentación y aprobación del análisis.
+- Una leyenda diferencia las tareas comunes de las exclusivas de orientación a objetos y del enfoque estructurado mediante bordes distintos.

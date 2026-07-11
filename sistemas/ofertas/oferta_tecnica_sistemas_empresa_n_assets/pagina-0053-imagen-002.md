@@ -1,0 +1,3 @@
+- Gráfico de barras que compara usuarios y consultas en Active Directory, Exchange, portal web, VPN y nube.
+- Las barras azules representan usuarios y las naranjas consultas.
+- Active Directory presenta el mayor volumen de consultas, seguido del portal web y la nube; el portal tiene el mayor número de usuarios.

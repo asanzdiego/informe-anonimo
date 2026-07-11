@@ -1,0 +1,3 @@
+- Primera parte del cronograma de continuidad y consolidación técnica para el periodo junio de 2027 a mayo de 2028.
+- Incluye proyectos web Liferay ya cerrados, mantenimiento prolongado de la web de innovación y formación, evolución de MoodleMisc, Dinámicas, integraciones y una primera parte de sistemas externos.
+- Las barras de colores diferencian planificación, ejecución principal, soporte continuo y tareas finalizadas.

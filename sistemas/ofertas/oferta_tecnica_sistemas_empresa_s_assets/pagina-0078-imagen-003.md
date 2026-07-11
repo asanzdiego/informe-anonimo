@@ -1,0 +1,4 @@
+- Flujo gobernado para retirar sistemas y servicios obsoletos desde la CMDB.
+- Tras identificar elementos al final de vida se analizan dependencias e impacto, se migran los servicios, se realiza una retirada segura y se registra toda la trazabilidad.
+- Redmine gestiona ticket, asignación, planificación, ejecución, validación y cierre.
+- Políticas, seguridad, automatización y monitorización acompañan todo el proceso.

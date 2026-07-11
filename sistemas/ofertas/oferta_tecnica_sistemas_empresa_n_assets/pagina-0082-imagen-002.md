@@ -1,0 +1,3 @@
+- Diagrama de un clúster Kubernetes o AKS con un nodo maestro y cinco nodos de trabajo.
+- El maestro proporciona funciones como DNS, planificador y proxy.
+- Cada nodo Linux aloja varios contenedores de colores y aparece conectado dentro de la topología circular del clúster.

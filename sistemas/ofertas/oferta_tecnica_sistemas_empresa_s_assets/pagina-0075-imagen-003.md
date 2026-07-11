@@ -1,0 +1,4 @@
+- Arquitectura de una CMDBuild central como fuente única de verdad para infraestructura y servicios.
+- Recibe datos de infraestructura, nube, bases de datos, ficheros, informes y monitorización, y los procesa con modelo de datos, correlación, calidad, gobierno, API y cuadros de mando.
+- Ansible automatiza descubrimiento, ingesta, correlación y actualización continua.
+- La CMDB se integra con ticketing, monitorización, automatización, analítica y accesos externos, y genera acciones automáticas ante cambios o desviaciones.

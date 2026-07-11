@@ -1,0 +1,3 @@
+- Infografía sobre endurecimiento de seguridad y control continuo.
+- Enumera hardening conforme a guías STIC, revisión de configuraciones, desactivación de servicios innecesarios, control de exposición y escaneos de vulnerabilidades.
+- Los resultados destacados son validaciones recurrentes, cumplimiento y control de la exposición, y reducción de la superficie de ataque.

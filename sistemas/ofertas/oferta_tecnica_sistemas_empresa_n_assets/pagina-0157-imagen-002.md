@@ -1,0 +1,3 @@
+- Diagrama circular de las capacidades de un centro de operaciones de seguridad o SOC.
+- Alrededor del núcleo aparecen gestión SIEM, inteligencia de amenazas, agregación y correlación, investigación y desarrollo, base de conocimiento, recogida de registros, ticketing e informes.
+- Los iconos representan un flujo coordinado de detección, análisis, gestión y comunicación de incidentes.

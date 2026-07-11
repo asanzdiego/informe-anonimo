@@ -1,0 +1,4 @@
+- Arquitectura de gestión centralizada de registros de aplicaciones web mediante Wazuh.
+- Los registros de aplicaciones, servidores, bases de datos, autenticación y otros servicios son normalizados y enviados de forma segura por un agente a Wazuh Manager para correlación, detección e indexado.
+- El almacenamiento aplica retención, copias y seguridad, y la supervisión genera alertas en tiempo real, notificaciones, incidencias y tareas de respuesta.
+- La imagen añade listas de actuaciones y mejoras propuestas y una maqueta de panel con eventos, alertas, agentes, incidentes, severidad y evolución temporal.

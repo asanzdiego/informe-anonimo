@@ -1,0 +1,3 @@
+- Infografía sobre análisis de seguridad de código web, con un portátil que muestra código fuente y una lista de comprobación de código seguro.
+- Los bloques cubren revisión de código, detección y clasificación de vulnerabilidades, análisis de dependencias y librerías y controles de autenticación y sesiones.
+- La salida incluye informes y recomendaciones, análisis de incidencias y riesgo y un ciclo de mejora continua con revisiones periódicas, análisis automatizado y seguimiento.

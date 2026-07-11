@@ -1,0 +1,3 @@
+- Gráfico de líneas sobre la evolución de cuatro métricas durante las fases inicial, preproducción, migración, optimización, validación y producción.
+- Compara CPU global, latencia, contenedores y nivel de sincronización sobre fondo oscuro.
+- La latencia, en naranja, domina la escala y alcanza picos durante migración y validación; las demás series permanecen cerca de la base.

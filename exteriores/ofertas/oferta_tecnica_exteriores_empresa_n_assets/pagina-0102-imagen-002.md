@@ -1,0 +1,3 @@
+- Diagrama de flujo para validar un entorno de pruebas antes de ejecutar pruebas de estrés.
+- El proceso estudia sistema operativo, base de datos, aplicación y red, y realiza pruebas de validación sobre el entorno de test.
+- Si la validación es negativa se vuelve al estudio inicial; si es positiva se pasa al entorno de pruebas de estrés.

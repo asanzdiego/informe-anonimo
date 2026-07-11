@@ -1,0 +1,4 @@
+- Arquitectura de BigBlueButton en alta disponibilidad integrada con aulas virtuales Moodle.
+- El plugin permite crear o unir sesiones distribuidas entre tres servidores con conferencia web, audio, vídeo, pantalla y chat.
+- Las grabaciones se guardan en almacenamiento NFS compartido, centralizado, cifrado y escalable, y pueden consultarse desde Moodle.
+- Grafana, Prometheus y alertas supervisan tanto el clúster como el almacenamiento.

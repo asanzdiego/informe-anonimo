@@ -1,0 +1,2 @@
+- Diagrama del proceso de construcción de un sistema de información.
+- Enlaza entorno, código, pruebas, manuales, formación y migración hasta la aprobación final.

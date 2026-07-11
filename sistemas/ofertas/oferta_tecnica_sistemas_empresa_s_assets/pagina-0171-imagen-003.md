@@ -1,0 +1,4 @@
+- Arquitectura de un repositorio centralizado de secretos basado en Vault RSA.
+- Aplicaciones, usuarios, SSO, sistemas y API consumen secretos desde un almacén con control de accesos y auditoría.
+- Ansible automatiza generación, distribución, rotación y revocación.
+- La supervisión continua cubre uso, dependencias, políticas de rotación, trazabilidad y auditoría.

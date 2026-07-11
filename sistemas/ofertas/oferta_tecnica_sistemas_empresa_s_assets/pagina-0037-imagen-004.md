@@ -1,0 +1,3 @@
+- Esquema de replicación Galera con tres nodos MariaDB.
+- Todos los nodos usan wsrep, comparten la capa de replicación y admiten comunicación bidireccional con el cliente.
+- La disposición representa un clúster multimaestro en el que cualquier nodo puede recibir operaciones.

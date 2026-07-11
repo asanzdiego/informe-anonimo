@@ -1,0 +1,3 @@
+- Diagrama de autenticación centralizada para una aplicación exterior mediante Keycloak.
+- El inicio de sesión dirige al usuario hacia la aplicación, que intercambia autenticación OpenID o SAML con Keycloak.
+- Keycloak utiliza un directorio LDAP como almacén de usuarios.

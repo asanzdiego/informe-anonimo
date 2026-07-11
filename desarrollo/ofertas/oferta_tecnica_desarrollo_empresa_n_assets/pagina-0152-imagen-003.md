@@ -1,0 +1,3 @@
+- Fragmento de una hoja de planificación temporal con tareas en filas y meses entre septiembre de 2026 y agosto de 2027 en columnas.
+- Reúne actuaciones sobre contenidos audiovisuales, correo web, WordPress multisitio, formularios, aulas y cursos, videoconferencia, Animalandia, el portal, EducaSaaC, la nube y diversos servicios como DITIC, buzón anónimo, GESUIMIENTOS, Albor, avisos, foros y boletines.
+- La cuadrícula usa celdas de varios colores con números para señalar cargas, intervenciones o hitos periódicos, y bandas grises para separar familias de servicios.

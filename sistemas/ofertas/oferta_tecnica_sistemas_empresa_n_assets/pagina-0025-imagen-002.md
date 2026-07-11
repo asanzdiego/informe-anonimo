@@ -1,0 +1,2 @@
+- Diagrama de flujo de las nueve actividades del proceso de planificación de sistemas de información.
+- La secuencia avanza desde el inicio y la organización del plan hasta la arquitectura, el plan de acción y su aprobación, con ramas para requisitos, sistemas actuales y modelo de información.

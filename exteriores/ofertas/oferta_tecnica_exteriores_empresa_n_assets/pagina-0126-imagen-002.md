@@ -1,0 +1,3 @@
+- Captura de un informe clásico de estadísticas web correspondiente a julio de 2007.
+- Resume visitantes únicos, número de visitas, páginas, accesos y ancho de banda, diferenciando también tráfico no visualizado.
+- Incluye gráficos y datos de evolución mensual y actividad por día del mes, con barras coloreadas para cada métrica.

@@ -1,0 +1,4 @@
+- Infografía del almacenamiento temporal distribuido de Nextcloud para más de dos millones de usuarios.
+- Los nuevos usuarios parten de una data principal NFS y se redistribuyen a datas secundarias enlazadas simbólicamente cuando se alcanza un umbral de ocupación.
+- La operación incluye monitorización, compatibilidad, balanceo, automatización, trazabilidad y copias paralelas.
+- Se destacan más de 70 TB, millones de ficheros, escalabilidad horizontal, alta disponibilidad y continuidad operativa.

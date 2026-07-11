@@ -1,0 +1,3 @@
+- Diagrama lineal de las seis actividades del proceso EVS, orientado al estudio de viabilidad de un sistema.
+- El flujo parte del establecimiento del alcance y continúa con el estudio de la situación actual; en paralelo se incorpora la definición de requisitos del sistema.
+- Ambas ramas confluyen en el estudio de alternativas de solución, seguido de su valoración y de la selección de la solución final.

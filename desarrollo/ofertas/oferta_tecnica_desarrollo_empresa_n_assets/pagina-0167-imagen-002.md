@@ -1,0 +1,3 @@
+- Clasificación de actividades de calidad en cinco bloques verticales: planificar, apoyo, operación, producción y provisión, y evaluación.
+- Planificar incluye la gestión de riesgos; apoyo reúne la documentación y la metodología de gestión.
+- Operación agrupa requisitos, elaboración de prototipos, validación y verificación y calidad de software; producción se centra en entregables y evaluación en el desempeño.

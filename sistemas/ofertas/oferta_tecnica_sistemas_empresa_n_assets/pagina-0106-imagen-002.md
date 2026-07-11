@@ -1,0 +1,2 @@
+- Ilustración del servicio de correo Educa mediante un sobre azul delante de un servidor y un escudo con marca de verificación.
+- Un avión de papel sugiere envío de mensajes y el escudo comunica protección, fiabilidad o entrega segura.

@@ -1,0 +1,3 @@
+- Arquitectura de almacenamiento con dos cabinas Infinidat conectadas de forma bidireccional a un núcleo central de servicios y carpetas.
+- Un panel superior representa monitorización, métricas y alertas; a la derecha aparecen nube, base de datos y protección.
+- El flujo verde sugiere replicación, alta disponibilidad y acceso compartido a documentos, imágenes, vídeo y otros contenidos.

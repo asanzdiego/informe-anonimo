@@ -1,0 +1,4 @@
+- Diagrama de integración de proyectos bajo control de EducaMadrid.
+- El proyecto integrado reúne código fuente versionado, back-end en varios lenguajes, front-end web, plugins y conectores, y parámetros y secretos gestionados.
+- Una capa intermedia aporta SSO y LDAP, correo, bases de datos, CMDB, API y registros, y enlaza con identidad, datos comunes, correo y avisos, infraestructura, monitorización y seguridad.
+- La propuesta recalca una integración sin acceso FTP de terceros y con control de código, despliegue, configuración y trazabilidad.

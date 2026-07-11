@@ -1,0 +1,3 @@
+- Esquema de ramas y versiones de software entre master y develop.
+- La rama master crea etiquetas 12.0.0 y 12.1.1 que regeneran entornos asociados.
+- Develop contiene una línea MAX 12.1, una rama release para 12.1.1 y una rama de funcionalidad para MAX 12.2.

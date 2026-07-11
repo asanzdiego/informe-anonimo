@@ -1,0 +1,2 @@
+- Ejemplo de gráfico de control con una serie temporal irregular alrededor de una línea media.
+- Muestra límites de control superior e inferior y explica que los puntos fuera de ellos indican un proceso inestable.

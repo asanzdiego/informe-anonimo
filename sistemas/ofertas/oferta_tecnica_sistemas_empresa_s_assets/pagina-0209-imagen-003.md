@@ -1,0 +1,4 @@
+- Cronograma de doce meses para el resto de áreas de trabajo entre septiembre de 2026 y agosto de 2027.
+- Incluye bases de datos, monitorización, servicios y herramientas, nube, SSO y datos, correo, aulas virtuales y LDAP.
+- Cada bloque combina planificación, ejecución principal, mantenimiento continuo y cierre.
+- Los hitos de agosto de 2027 señalan entornos optimizados, monitorización completa, servicios operativos, nube estable, correo escalado, aulas ampliadas y LDAP actualizado.

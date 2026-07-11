@@ -1,0 +1,3 @@
+- Flujo de publicación desde el cambio de una aplicación hasta su despliegue por una organización.
+- La aplicación recibe una petición, modifica ficheros y publica la actualización; la distribución solicita, empaqueta y libera el paquete.
+- La organización pide o actualiza el paquete, lo personaliza, lo libera para despliegue y lo instala en producción.

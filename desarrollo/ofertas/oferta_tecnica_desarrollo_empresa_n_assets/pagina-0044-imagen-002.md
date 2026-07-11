@@ -1,0 +1,4 @@
+- Diagrama de flujo de las nueve actividades del proceso CSI, relativo a la construcción de un sistema de información.
+- La preparación del entorno de generación y construcción da paso a la generación de código y a la ejecución de pruebas unitarias y de integración, que confluyen en las pruebas del sistema.
+- En paralelo se elaboran los manuales de usuario, se define su formación y se construyen los componentes y procedimientos de migración y carga inicial de datos.
+- Todas las líneas terminan en la aprobación del sistema de información.

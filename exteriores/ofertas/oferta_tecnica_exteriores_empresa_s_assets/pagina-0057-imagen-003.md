@@ -1,0 +1,3 @@
+- Comparación visual del antes y después de una modernización de páginas y plantillas JSP/JSTL.
+- La versión antigua aparece como una web genérica en gris; la nueva muestra una interfaz de EducaMoss2000 en tonos azules y violetas, adaptada tanto a escritorio como a móvil.
+- La propuesta destaca HTML5 semántico, diseño responsive avanzado, aspecto moderno y accesibilidad conforme a WCAG 2.1 AA.

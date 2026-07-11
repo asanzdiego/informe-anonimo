@@ -1,0 +1,4 @@
+- Arquitectura de correo con agentes de usuario, transferencia y entrega.
+- El correo saliente entra autenticado por SMTP en el MTA y el entrante llega por el puerto 25; OpenLDAP aporta usuarios, contraseñas, dominios y alias.
+- Rspamd filtra spam, el MDA entrega por LMTP a los buzones y los clientes acceden por IMAPS.
+- Solr proporciona indexación y búsqueda de texto completo.

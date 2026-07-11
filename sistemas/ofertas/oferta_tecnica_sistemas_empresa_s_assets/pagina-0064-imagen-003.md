@@ -1,0 +1,3 @@
+- Flujo de integración continua entre Git, Jenkins, Maven, JaCoCo y SonarQube.
+- Un envío de código activa la construcción y las pruebas; JaCoCo genera cobertura y SonarQube analiza código y métricas.
+- Jenkins espera el resultado de la puerta de calidad: si se supera permite el despliegue y si falla detiene el proceso.

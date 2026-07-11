@@ -1,0 +1,3 @@
+- Ejemplo de gráfico de control con una serie temporal irregular alrededor de una línea media marcada como X barra.
+- Muestra un límite de control superior y otro inferior, además de líneas discontinuas intermedias que representan rangos de variación.
+- El texto inferior explica las tres líneas comunes de un gráfico de control y señala que los puntos fuera de los límites indican un proceso fuera de control o inestable.

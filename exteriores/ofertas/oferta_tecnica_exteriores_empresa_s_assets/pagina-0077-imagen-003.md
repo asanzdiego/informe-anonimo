@@ -1,0 +1,4 @@
+- Arquitectura funcional de la plataforma MoodleMisc con un balanceador o proxy que distribuye subdominios de aulas virtuales entre varios frontales Moodle homogéneos.
+- Los frontales ejecutan PHP, Apache o Nginx y tareas programadas; cada Moodle dispone de una base de datos independiente y de un espacio moodledata separado dentro de volúmenes NFS compartidos.
+- La plataforma se conecta con editoriales, BigBlueButton, Jitsi, Nextcloud, SAML, WebAuth, ClamAV, correo, avisos, Unoconv, LibreOffice, plugins y servicios de búsqueda y estadísticas.
+- El esquema enfatiza escalabilidad de frontales, código común, aislamiento de datos por instalación y conectividad externa.

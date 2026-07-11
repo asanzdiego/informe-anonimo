@@ -1,0 +1,4 @@
+- Leyenda general de un cronograma técnico, dividida en perfiles, responsables principales, niveles de participación, tipos de tarea y referencias de bloques.
+- Los perfiles representados son dirección de proyecto, liderazgo técnico, sistemas, desarrollo, bases de datos, seguridad, diseño UX/UI, pruebas y operación o soporte; cada responsable dispone de una abreviatura entre corchetes.
+- La participación se clasifica desde muy alta hasta muy baja mediante colores, y las tareas se distinguen como planificación, ejecución, mantenimiento continuo, finalización o hito.
+- La referencia de bloques enumera abreviaturas de numerosos servicios, entre ellos aulas virtuales, mediateca, LDAP, correo web, WordPress, formularios, videoconferencia, nube, portal, Wekan y AbiesWeb.

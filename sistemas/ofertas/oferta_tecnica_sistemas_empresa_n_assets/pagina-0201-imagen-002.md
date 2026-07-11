@@ -1,0 +1,2 @@
+- Ejemplo de gráfico de control con una serie temporal alrededor de una media.
+- Presenta límites superior e inferior y explica que los puntos exteriores señalan inestabilidad del proceso.

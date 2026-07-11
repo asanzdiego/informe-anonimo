@@ -1,0 +1,2 @@
+- Diagrama de flujo de solicitud, diseño gráfico, pruebas, aprobaciones y pedido de materiales.
+- Incluye bucles de corrección ante resultados negativos y termina con la firma de especificaciones y la compra.

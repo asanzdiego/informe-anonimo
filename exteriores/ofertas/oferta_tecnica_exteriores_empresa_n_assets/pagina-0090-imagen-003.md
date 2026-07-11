@@ -1,0 +1,2 @@
+- Esquema muy simple de migración o cambio entre dos servidores de producción.
+- Dos iconos de servidor con globo terráqueo están unidos por una flecha roja de izquierda a derecha; ambos extremos aparecen rotulados como producción.

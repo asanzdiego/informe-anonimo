@@ -1,0 +1,3 @@
+- Esquema del sistema de gestión de la calidad basado en el ciclo Planificar, Hacer, Verificar y Actuar.
+- El liderazgo conecta planificación, apoyo y operación, evaluación del desempeño y mejora.
+- Las entradas proceden de la organización, clientes y partes interesadas; las salidas son satisfacción, resultados y productos o servicios.

@@ -1,0 +1,2 @@
+- Clasificación de actividades de calidad en cinco bloques: planificar, apoyo, operación, producción y provisión, y evaluación.
+- Incluye gestión de riesgos, documentación, metodología, requisitos, prototipos, validación, calidad de software, entregables y evaluación del desempeño.

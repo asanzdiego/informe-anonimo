@@ -1,0 +1,2 @@
+- Lista visual de prácticas de operación y DevOps.
+- Reúne GitLab CI/CD, despliegues Blue/Green y Canary, pruebas automatizadas, entornos de desarrollo, preproducción y producción, gestión de configuración con Ansible o Terraform y gestión de incidencias con Redmine o Mattermost.

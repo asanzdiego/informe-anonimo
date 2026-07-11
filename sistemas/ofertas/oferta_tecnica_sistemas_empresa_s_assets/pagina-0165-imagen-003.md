@@ -1,0 +1,3 @@
+- Modelo integral para crear aplicaciones más seguras.
+- Combina DevSecOps en todo el ciclo, auditorías automatizadas con BurpSuite, Nessus y Trivy, métricas y cuadros de mando y seguimiento centralizado de vulnerabilidades.
+- Añade cultura de desarrollo seguro, formación y gobierno con políticas, trazabilidad, cumplimiento y reporting.

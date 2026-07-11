@@ -1,0 +1,2 @@
+- Diagrama lineal de las cuatro actividades del proceso MSI, relativo al mantenimiento de sistemas de información.
+- El flujo enlaza el registro de una petición, su análisis, la preparación de la implementación de la modificación y el seguimiento y evaluación de los cambios hasta su aceptación.

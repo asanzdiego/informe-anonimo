@@ -1,0 +1,3 @@
+- Diagrama de dependencias de las once actividades del análisis de un sistema de información.
+- Reúne requisitos, subsistemas, casos de uso, clases, modelos de datos y procesos e interfaces antes del análisis de consistencia, el plan de pruebas y la aprobación.
+- Una leyenda diferencia tareas comunes de las exclusivas de orientación a objetos y del enfoque estructurado.

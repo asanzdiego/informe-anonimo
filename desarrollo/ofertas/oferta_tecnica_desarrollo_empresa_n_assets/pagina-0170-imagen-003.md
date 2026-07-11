@@ -1,0 +1,4 @@
+- Diagrama de flujo de un proceso de solicitud, diseño gráfico, pruebas, aprobación y compra de materiales.
+- La secuencia comienza con la solicitud del proyecto y la copia de cumplimiento; el diseño pasa por una decisión de aprobación y, si es rechazado, vuelve a desarrollarse.
+- Tras el control de cambios y las pruebas de proveedores aparecen dos decisiones de revisión, una del desarrollo del paquete y otra de control de calidad, con bucles de corrección cuando el resultado es negativo.
+- La aprobación final conduce al envío de la prueba aceptada, la firma de especificaciones y el pedido de materiales.

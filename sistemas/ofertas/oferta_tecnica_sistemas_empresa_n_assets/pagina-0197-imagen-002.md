@@ -1,0 +1,2 @@
+- Cadena vertical de cinco flechas circulares que representa un proceso continuo.
+- Sus etapas son identificación, acciones correctoras, mitigación, revisión y actualización.

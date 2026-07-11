@@ -1,0 +1,4 @@
+- Diagrama de migración de entornos de bases de datos hacia producción y preproducción modernizadas.
+- Cada mitad muestra un entorno de producción que debe validarse antes de alimentar una preproducción contenerizada con Docker, Dockerfile y docker-compose.
+- Si la validación falla se repite la migración; si es correcta se avanza al nuevo entorno.
+- Los beneficios indicados son seguridad, despliegues automatizados, rendimiento, escalabilidad nativa de nube y continuidad.

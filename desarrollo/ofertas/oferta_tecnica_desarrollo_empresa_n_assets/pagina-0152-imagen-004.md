@@ -1,0 +1,3 @@
+- Tramo final de una hoja de planificación temporal, con meses entre septiembre de 2026 y agosto de 2027.
+- Contiene mejoras y mantenimiento del portal, la web estática, el framework de interfaz, entornos MAX, el proyecto de gestión de títulos, mejoras de uso de las webs, Wekan, la conexión con el SSO de EducaMadrid, el código, configuraciones, la nube institucional, MaMobo y eMlab.
+- La cuadrícula distribuye las actuaciones mediante celdas coloreadas y numeradas; varias filas destacadas en amarillo corresponden a líneas de mejora y mantenimiento.

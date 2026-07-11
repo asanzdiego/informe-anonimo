@@ -1,0 +1,4 @@
+- Diagrama de dependencias de las doce actividades del proceso DSI, dedicado a la definición y diseño de un sistema de información.
+- La parte inicial reúne arquitectura, casos de uso, clases, módulos y diseño físico de datos; después aparece la verificación y aceptación conjunta de la arquitectura.
+- El tramo final agrupa especificaciones de construcción, migración, pruebas, requisitos de implantación y aprobación del diseño.
+- Una leyenda distingue actividades comunes, de orientación a objetos y del enfoque estructurado mediante diferentes bordes.

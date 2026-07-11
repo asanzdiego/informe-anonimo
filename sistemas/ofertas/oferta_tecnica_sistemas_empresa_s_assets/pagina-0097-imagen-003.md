@@ -1,0 +1,4 @@
+- Arquitectura de una plataforma de inteligencia artificial de EducaMadrid en producción.
+- Los servicios internos acceden por API a una pasarela con tokens, balanceo y límites de consumo; esta conecta con modelos abiertos, especializados y externos y con un clúster de inferencia Docker con GPU.
+- La plataforma contempla test, acceso seguro de usuarios, monitorización, Prometheus, Grafana, trazabilidad, auditoría, seguridad y gobierno del dato.
+- Los beneficios destacados son rendimiento, escalabilidad, disponibilidad, integración e innovación.

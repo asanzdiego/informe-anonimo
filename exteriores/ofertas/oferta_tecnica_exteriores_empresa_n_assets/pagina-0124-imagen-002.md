@@ -1,0 +1,2 @@
+- Composición de logotipos de tres tecnologías de infraestructura.
+- Aparecen Commvault para protección y gestión de datos, Infinidat para almacenamiento y Red Hat Virtualization como plataforma de virtualización.

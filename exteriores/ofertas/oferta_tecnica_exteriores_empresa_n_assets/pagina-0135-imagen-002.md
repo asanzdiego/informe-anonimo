@@ -1,0 +1,4 @@
+- Diagrama de escenarios de transferencia y recuperación entre nube y servidores.
+- El escenario superior muestra el paso directo entre dos servidores hasta un nodo validado con base de datos y archivos.
+- El escenario central representa una conexión a la nube interrumpida y la transferencia separada de datos y ficheros hacia una cadena alternativa que termina validada.
+- El escenario inferior muestra una nube conectada de forma bidireccional a un servidor final validado con sus datos y archivos.

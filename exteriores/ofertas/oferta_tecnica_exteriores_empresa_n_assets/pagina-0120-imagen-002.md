@@ -1,0 +1,3 @@
+- Plantilla en blanco para solicitar la creación o modificación de un recurso informático.
+- Recoge nombre del host, redes virtuales de frontal y back-end, función y entorno de producción, preproducción o desarrollo.
+- También solicita CPU, memoria, disco, sistema operativo, software y datos sobre clonado, monitorización, copias de seguridad y CMDB o inventario.

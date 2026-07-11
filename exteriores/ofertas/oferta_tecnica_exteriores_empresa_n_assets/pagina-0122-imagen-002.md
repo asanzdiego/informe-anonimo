@@ -1,0 +1,3 @@
+- Flujo desde la documentación de EducaMadrid hacia dos áreas técnicas: seguridad y comunicaciones.
+- La rama de seguridad se representa con un candado digital y la de comunicaciones con una red de equipos.
+- Ambas desembocan en un diagrama técnico detallado de topología de red y dispositivos interconectados.

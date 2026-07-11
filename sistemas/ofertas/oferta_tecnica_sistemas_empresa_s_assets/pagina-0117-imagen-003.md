@@ -1,0 +1,3 @@
+- Flujo de envío de correo mediante MailerQ y colas de mensajes.
+- Una aplicación envía correo normal por SMTP; MailerQ lo transforma en JSON y lo coloca en una cola de entrada.
+- Un script consume, procesa y publica mensajes en una cola de salida, que MailerQ vuelve a consumir para enviarlos a internet por SMTP.

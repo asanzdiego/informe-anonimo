@@ -1,0 +1,3 @@
+- Conjunto de engranajes que representa una estrategia de servicio.
+- El engranaje principal integra diseño, transición y operación alrededor del núcleo de estrategia del servicio.
+- Un engranaje secundario conectado simboliza la mejora continua del servicio.

@@ -1,0 +1,3 @@
+- Imagen promocional de un panel de SonarQube mostrado en un ordenador portátil.
+- El panel resume calidad del código con calificación A, cero errores, cobertura del 80 por ciento, doce vulnerabilidades y 45 defectos de mantenibilidad.
+- Una lupa con un símbolo de código refuerza la idea de inspección y análisis estático.

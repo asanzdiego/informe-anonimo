@@ -1,0 +1,2 @@
+- Lista breve de características de autenticación.
+- Señala SSO transparente, alta disponibilidad, autenticación multifactor para administradores, integración con LDAP y auditoría completa.

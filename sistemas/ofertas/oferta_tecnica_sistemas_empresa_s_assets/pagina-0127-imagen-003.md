@@ -1,0 +1,2 @@
+- Imagen de presentación de la distribución MAX versión 12.5 de EducaMadrid.
+- El logotipo MAX aparece sobre un paisaje rocoso oscuro y encima de la marca institucional EducaMadrid.

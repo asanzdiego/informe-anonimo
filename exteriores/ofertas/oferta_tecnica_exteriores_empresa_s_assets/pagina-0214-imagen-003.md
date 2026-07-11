@@ -1,0 +1,3 @@
+- Primera parte del cronograma de tareas del periodo 2026-2027, desde junio de 2026 hasta mayo de 2027.
+- Planifica proyectos web Liferay, la web de innovación y formación, MoodleMisc, Dinámicas, integración con EducaMadrid y una primera parte de sistemas externos.
+- Las barras distinguen inicio, ejecución, mantenimiento continuo y cierre, y una franja rayada marca la migración con capacidad reducida entre finales de julio y comienzos de agosto.

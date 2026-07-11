@@ -1,0 +1,3 @@
+- Diagrama de intercambio seguro de correo entre dos dominios y un servidor intermedio propio.
+- Los servidores se comunican mediante SMTP cifrado con SSL.
+- Un cliente como Thunderbird accede al servidor propio mediante IMAP también cifrado con SSL.

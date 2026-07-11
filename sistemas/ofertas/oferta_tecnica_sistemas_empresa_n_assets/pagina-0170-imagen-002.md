@@ -1,0 +1,3 @@
+- Infografía sobre deficiencias en la preparación de servidores y documentación antes de una migración.
+- Señala información técnica incompleta, procedimientos de parada no documentados, falta de validación, listados de comprobación inexistentes y riesgo de errores.
+- La conclusión relaciona la falta de preparación con errores y paradas inesperadas.

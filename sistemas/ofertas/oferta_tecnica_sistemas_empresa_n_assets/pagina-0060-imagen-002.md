@@ -1,0 +1,3 @@
+- Ejemplo de tablero kanban básico con tres columnas: tareas pendientes, en curso y terminadas.
+- Las tarjetas de colores contienen números de tarea y algunas muestran un icono de aviso.
+- La columna en curso indica un límite de dos tareas y está ocupada por dos tarjetas.

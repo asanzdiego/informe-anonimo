@@ -1,0 +1,4 @@
+- Arquitectura de un LDAP maestro aislado para usuarios privilegiados.
+- Administradores y cuentas privilegiadas acceden con autenticación segura a un OpenLDAP separado del directorio general, protegido por firewall, segmentación y control de accesos.
+- El directorio mantiene políticas, grupos, trazabilidad y auditoría y se integra con una solución PAM.
+- PAM correlaciona identidades y perfiles y habilita acceso validado a servidores, aplicaciones, bases de datos y servicios críticos.

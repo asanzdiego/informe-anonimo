@@ -1,0 +1,3 @@
+- Esquema simplificado del algoritmo criptográfico RSA.
+- Muestra una clave pública y una clave privada entre un candado inicial y otro final.
+- La imagen relaciona el texto cifrado con el origen y el texto plano con el resultado, aunque no detalla matemáticamente las operaciones de cifrado y descifrado.

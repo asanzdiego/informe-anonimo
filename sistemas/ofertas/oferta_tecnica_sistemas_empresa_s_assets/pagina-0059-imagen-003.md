@@ -1,0 +1,3 @@
+- Captura de un tablero kanban en Wekan para gestionar funcionalidades de una aplicación de viajes.
+- Las columnas recorren backlog, selección, especificación, desarrollo, pruebas y despliegue.
+- Las tarjetas incluyen funciones como mensajería, SSO, filtros, vuelos, alquiler de coches, hoteles y pagos.

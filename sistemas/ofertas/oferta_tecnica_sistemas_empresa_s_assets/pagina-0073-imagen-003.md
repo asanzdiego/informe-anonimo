@@ -1,0 +1,4 @@
+- Arquitectura de la plataforma unificada Empieza de EducaMadrid.
+- Los usuarios acceden por internet y balanceo a un servicio de identidad con portal, servidores de autenticación, directorio central, SSO y alta disponibilidad.
+- La aplicación dispone de dos frontales Linux activos, chat en tiempo real y una capa de datos balanceada con clúster replicado.
+- Producción, preproducción y desarrollo comparten almacenamiento, y la propuesta enfatiza disponibilidad, escalabilidad, rendimiento, seguridad, modularidad y observabilidad.

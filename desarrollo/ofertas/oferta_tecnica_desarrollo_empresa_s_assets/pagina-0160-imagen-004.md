@@ -1,0 +1,4 @@
+- Primera parte de un cronograma de doce meses, desde septiembre de 2026 hasta agosto de 2027, con responsables, barras de actividad e hitos.
+- Abarca mejoras transversales, aulas virtuales, evolución de la mediateca y consultas LDAP, detallando tareas como actualizaciones, integraciones, seguridad, soporte, inteligencia artificial y nuevas funciones.
+- Los colores separan inicio o planificación, ejecución principal, mantenimiento continuo y cierre; los triángulos marcan hitos.
+- A la derecha se fijan hitos de cierre en agosto de 2027 para tareas transversales, Moodle, mediateca y LDAP.

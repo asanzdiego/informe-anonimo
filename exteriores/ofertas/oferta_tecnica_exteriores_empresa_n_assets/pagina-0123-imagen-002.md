@@ -1,0 +1,3 @@
+- Línea temporal que explica los objetivos de recuperación tras un desastre.
+- El punto de recuperación de datos anterior al incidente define el RPO, es decir, cuánto historial debe restaurarse.
+- El intervalo entre el desastre y la recuperación de los sistemas en línea define el RTO o tiempo máximo de recuperación.

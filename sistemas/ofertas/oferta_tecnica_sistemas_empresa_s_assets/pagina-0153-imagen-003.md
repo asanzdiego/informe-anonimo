@@ -1,0 +1,3 @@
+- Clúster LDAP activo y pasivo con dos maestros sincronizados.
+- El maestro uno está activo y el segundo permanece pasivo para asumir el servicio ante fallos.
+- Cuatro o más esclavos replican el directorio y atienden a usuarios, correo, Moodle, aplicaciones y otros servicios.

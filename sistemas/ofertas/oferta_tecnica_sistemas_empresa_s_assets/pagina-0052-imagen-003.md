@@ -1,0 +1,3 @@
+- Captura de un panel de Grafana para supervisar solicitudes de un servicio.
+- Muestra 3.852 solicitudes totales, 3.831 correctas, 21 erróneas y una tasa de error del 0,545 por ciento.
+- Para el rango seleccionado aparecen 164 solicitudes correctas y ningún error, además de contadores de tokens de entrada y salida.

@@ -1,0 +1,3 @@
+- Arquitectura de acceso con autenticación de doble factor a servidores distribuidos en dos redes virtuales.
+- Dos usuarios se conectan por internet y atraviesan una pasarela o cortafuegos protegido con 2FA antes de llegar al encaminador central.
+- La red virtual segregada contiene varios servidores con controles 2FA individuales, mientras la red de EducaMadrid agrupa otros servidores sin esos símbolos locales.

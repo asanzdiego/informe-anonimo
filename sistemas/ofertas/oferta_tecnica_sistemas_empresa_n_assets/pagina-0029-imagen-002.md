@@ -1,0 +1,3 @@
+- Diagrama de actividades del análisis de un sistema de información.
+- Integra requisitos, subsistemas, casos de uso, clases, modelos, interfaces, consistencia, pruebas y aprobación.
+- Una leyenda diferencia actividades comunes, orientadas a objetos y estructuradas.

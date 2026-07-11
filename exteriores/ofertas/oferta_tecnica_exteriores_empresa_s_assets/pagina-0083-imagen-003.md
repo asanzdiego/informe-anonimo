@@ -1,0 +1,4 @@
+- Comparación de la caché actual de MoodleMisc con una evolución propuesta basada en Redis.
+- En la situación actual, cuatro frontales Moodle mantienen cachés APC locales y aisladas, lo que provoca variabilidad y purgas distribuidas.
+- La propuesta conecta todos los frontales a un clúster Redis compartido, con varios nodos, réplica y alta disponibilidad para MUC, sesiones y bloqueo.
+- Se esperan menor latencia, purgas coherentes, mejor comportamiento con varios frontales y menos incidencias relacionadas con la caché.

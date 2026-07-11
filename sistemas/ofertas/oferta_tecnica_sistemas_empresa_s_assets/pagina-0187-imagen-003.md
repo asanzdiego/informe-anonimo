@@ -1,0 +1,3 @@
+- Proceso de verificación de una migración antes, durante y después.
+- Parte de recopilación y diagnóstico, continúa con supervisión en tiempo real y termina con validación y verificación.
+- Las actividades comprenden scripts, estado, métricas, disponibilidad, alertas, incidencias, documentación, coordinación, integridad de datos y funcionamiento de servicios.

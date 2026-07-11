@@ -1,0 +1,3 @@
+- Captura de una plataforma de monitorización de red con un árbol de ubicaciones y equipos.
+- Varias gráficas temporales muestran tráfico de entrada y salida, paquetes unicast, uso de CPU, carga media y usuarios conectados.
+- Los paneles emplean áreas y líneas de colores para comparar métricas actuales, medias, máximos y totales.

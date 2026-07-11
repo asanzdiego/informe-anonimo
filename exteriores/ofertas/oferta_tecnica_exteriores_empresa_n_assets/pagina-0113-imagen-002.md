@@ -1,0 +1,3 @@
+- Diagrama del envío y la recepción segura de correo electrónico mediante SSL o TLS.
+- El emisor se autentica ante el servidor de correo saliente y transmite credenciales y mensajes cifrados por SMTP autenticado.
+- El correo viaja por un túnel cifrado hasta el servidor entrante y el receptor accede mediante POP o IMAP sobre SSL o TLS.

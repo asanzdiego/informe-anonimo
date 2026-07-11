@@ -1,0 +1,3 @@
+- Comparación de dos arquitecturas paralelas para una URL de producción y otra de pruebas.
+- En ambos lados el usuario accede por internet a un balanceador, atraviesa un cortafuegos y llega a dos frontales Linux conectados entre sí y a una base de datos PostgreSQL.
+- La mitad izquierda se rotula como entorno principal con BBDD 1 y la derecha como entorno de test con BBDD 2.

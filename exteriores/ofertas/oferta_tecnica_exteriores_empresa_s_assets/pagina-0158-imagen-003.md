@@ -1,0 +1,4 @@
+- Infografía de una estrategia de copias de seguridad multinivel.
+- Distingue sistemas y máquinas virtuales, almacenamiento NFS, bases de datos con herramientas nativas y aplicativos con sus configuraciones, dependencias, datos funcionales y scripts.
+- Para bases de datos menciona MySQL, MariaDB, PostgreSQL y MongoDB, junto con volcados, copias físicas, validación de consistencia y restauración.
+- La franja inferior resume automatización, validación de copias, control de retención, alertas, monitorización y gestión de capacidad.

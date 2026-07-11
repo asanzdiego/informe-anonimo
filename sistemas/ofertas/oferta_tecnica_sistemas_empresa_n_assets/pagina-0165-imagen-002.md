@@ -1,0 +1,4 @@
+- Infografía sobre problemas de coordinación y planificación durante una migración.
+- CPD, proveedor de infraestructuras, sistemas y otros equipos aparecen aislados alrededor de interrogantes y de una gran duda central.
+- Se enumeran ausencia de reuniones, documentación, identificación de riesgos, comunicación y seguimiento de acciones.
+- La conclusión advierte que la falta de coordinación genera riesgos altos e incidencias.

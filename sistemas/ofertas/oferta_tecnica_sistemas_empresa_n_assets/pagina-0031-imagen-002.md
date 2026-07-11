@@ -1,0 +1,3 @@
+- Diagrama de implantación y aceptación de un sistema.
+- Recorre planificación, formación, incorporación, carga de datos, pruebas, mantenimiento, aprobación y producción.
+- El acuerdo de nivel de servicio aparece como actividad transversal.

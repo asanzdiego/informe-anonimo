@@ -1,0 +1,3 @@
+- Ilustración sobre seguridad y validez de certificados o controles programados.
+- Un monitor con un documento y un sello aparece protegido por un candado, junto a un calendario con marca de verificación.
+- La composición sugiere revisión periódica, cumplimiento y certificación de activos digitales.

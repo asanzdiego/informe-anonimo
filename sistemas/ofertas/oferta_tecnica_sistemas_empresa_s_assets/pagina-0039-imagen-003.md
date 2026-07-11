@@ -1,0 +1,2 @@
+- Franja infográfica con una propuesta de mejora y evolución continua del servicio de bases de datos.
+- Enumera análisis diario de carga, monitorización avanzada, mantenimiento y ajuste automatizados, uso de históricos, inventario de bases y versiones, modelos predictivos y optimización basada en datos reales.

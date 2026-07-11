@@ -1,0 +1,3 @@
+- Segunda parte de un cronograma de doce meses, entre septiembre de 2026 y agosto de 2027.
+- Planifica mejoras del servicio eXeLearning Online, correo web, WordPress Multisite, formularios, Empieza, buscador de aulas y cursos y servicios de retransmisión y videoconferencia.
+- Cada fila combina responsable principal, fase inicial, ejecución, mantenimiento continuo y cierre; los hitos de la derecha sitúan la puesta en operación u optimización en agosto de 2027.

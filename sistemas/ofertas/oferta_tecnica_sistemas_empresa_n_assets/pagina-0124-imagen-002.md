@@ -1,0 +1,3 @@
+- Arquitectura básica de balanceo de carga.
+- Una dirección IP pública virtual llega a un balanceador que distribuye las peticiones a un grupo de cuatro servidores.
+- Todos los nodos forman un único pool de servicio detrás del punto de entrada común.

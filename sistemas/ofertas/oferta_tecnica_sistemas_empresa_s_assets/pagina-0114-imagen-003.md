@@ -1,0 +1,3 @@
+- Arquitectura de un webmail escalable con balanceador, servidores web, colas y almacenamiento especializado.
+- Los mensajes salientes pasan a una cola, luego a SMTP con reintentos y comprobaciones de virus y spam antes de internet; los fallos se separan en una cola de error.
+- La capa de almacenamiento distingue metadatos, índice de búsqueda, adjuntos en objetos y caché para el correo reciente.

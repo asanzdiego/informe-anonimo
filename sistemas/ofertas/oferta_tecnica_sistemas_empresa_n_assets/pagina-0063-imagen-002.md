@@ -1,0 +1,3 @@
+- Representación visual de un tablero de trabajo con cuatro columnas: pendiente, en curso, en revisión y hecho.
+- Varias notas adhesivas de colores se distribuyen por estado.
+- Un engranaje simboliza el proceso de trabajo y un gran círculo con marca de verificación representa la finalización.

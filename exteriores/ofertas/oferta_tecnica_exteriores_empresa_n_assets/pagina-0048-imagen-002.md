@@ -1,0 +1,2 @@
+- Diagrama lineal de las seis actividades del estudio de viabilidad de un sistema.
+- El flujo parte del alcance y el estudio de la situación actual, incorpora la definición de requisitos y continúa con alternativas, valoración y selección de la solución.

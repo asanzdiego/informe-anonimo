@@ -1,0 +1,3 @@
+- Representación del ciclo de vida de un proyecto mediante grandes flechas de colores.
+- El flujo avanza por inicio, planificación, ejecución y cierre, mientras el control envuelve la fase de ejecución.
+- En el centro aparece el ciclo de mejora continua con las fases planear, hacer, verificar y actuar.

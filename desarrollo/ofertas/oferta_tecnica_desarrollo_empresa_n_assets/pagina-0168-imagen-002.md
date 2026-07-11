@@ -1,0 +1,3 @@
+- Diagrama de causa y efecto, también conocido como espina de pescado o Ishikawa, para analizar un defecto importante.
+- Las posibles causas se distribuyen en ocho categorías: tiempo, máquina, método, material, energía, medición, personal y entorno.
+- Todas las ramas convergen en una línea central que conduce al efecto identificado como defecto importante.

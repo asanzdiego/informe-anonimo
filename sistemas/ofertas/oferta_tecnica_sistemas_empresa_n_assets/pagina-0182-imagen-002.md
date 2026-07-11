@@ -1,0 +1,3 @@
+- Segunda parte de una matriz de planificación de tareas entre septiembre de 2026 y agosto de 2027.
+- Cubre Portal CAU, inteligencia artificial, correo electrónico, aulas virtuales, LDAP, DNS, seguridad, registros centralizados, RSA, contenedores, automatización y migración entre centros de proceso de datos.
+- Las celdas coloreadas y numeradas asignan trabajo o hitos en el calendario; las filas amarillas destacan actuaciones prioritarias o de mejora.

@@ -1,0 +1,3 @@
+- Flujo de ingesta de datos DNS en una CMDB con control de cambios.
+- La información se recopila automáticamente, se normaliza, se compara con el estado anterior, se registra con sus relaciones y se somete a aprobación, ejecución y documentación.
+- Una línea inferior indica un ciclo continuo de control y mejora.

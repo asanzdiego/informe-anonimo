@@ -1,0 +1,4 @@
+- Arquitectura de nube para editores de documentos en línea como Collabora u ONLYOFFICE.
+- Internet y SSO con Keycloak, LDAP o Active Directory dan acceso a nodos de aplicación escalables, balanceadores externos e internos y varias instancias de edición.
+- Una red trasera de alta velocidad conecta almacenamiento NFS o Ceph redundante.
+- Las características indicadas son disponibilidad, rendimiento, escalabilidad, monitorización, cifrado y copias automáticas.

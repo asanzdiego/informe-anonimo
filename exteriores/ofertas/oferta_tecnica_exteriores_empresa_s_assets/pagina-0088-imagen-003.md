@@ -1,0 +1,4 @@
+- Esquema del servicio de Dinámicas para alojar y mantener aplicaciones PHP y MySQL.
+- Contrasta el modelo original de espacios FTP por centro, dominio ficticio, recursos propios y autogestión con la explotación actual centralizada.
+- Un servidor con Apache, PHP, MySQL o MariaDB, FTP, hosts virtuales, registros y copias de seguridad aloja varios aplicativos de terceros y heredados, cada uno con espacio propio.
+- El mantenimiento gestionado incluye actualización de PHP, corrección de vulnerabilidades, copias, monitorización y cumplimiento del Esquema Nacional de Seguridad.

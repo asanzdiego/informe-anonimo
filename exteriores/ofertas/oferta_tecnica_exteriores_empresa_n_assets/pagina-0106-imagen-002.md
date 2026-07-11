@@ -1,0 +1,4 @@
+- Flujo de generación de pruebas funcionales y de rendimiento a partir de la actividad de un usuario.
+- Un tester ejecuta una prueba manual mientras una herramienta captura sus interacciones y genera scripts de prueba funcional.
+- La ejecución automática contra el servicio es observada por un analizador HTTP, que produce una sesión y un modelo de sesión HTTP.
+- El modelo se combina con los scripts funcionales para generar scripts de pruebas de rendimiento.

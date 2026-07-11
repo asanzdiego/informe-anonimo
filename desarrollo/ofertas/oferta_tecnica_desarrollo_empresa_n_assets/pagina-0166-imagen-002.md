@@ -1,0 +1,3 @@
+- Cadena vertical de cinco flechas circulares azules que representa un proceso continuo de gestión.
+- Las etapas son identificación, establecimiento de acciones correctoras, mitigación, revisión y actualización.
+- La forma enlazada y descendente de las flechas comunica que el ciclo se repite y que cada fase alimenta a la siguiente.

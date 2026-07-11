@@ -1,0 +1,4 @@
+- Modelo de clases o entidades para representar sesiones de pruebas funcionales HTTP.
+- Una sesión contiene acciones ordenadas; cada acción refiere a un comando de script y puede especializarse en solicitud o validación.
+- Las solicitudes se relacionan con respuesta, cabeceras, cuerpo, campos y parámetros.
+- Los valores utilizados por comandos, campos y parámetros pueden proceder de un conjunto de datos o estar codificados directamente.

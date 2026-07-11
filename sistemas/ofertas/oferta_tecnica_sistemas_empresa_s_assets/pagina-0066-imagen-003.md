@@ -1,0 +1,4 @@
+- Arquitectura de Redmine en producción para centralizar incidencias procedentes de CAU, correo, sistemas externos y API.
+- Incluye proyectos, incidencias, tareas, calendarios, documentos, wiki, flujos automatizados, reglas, alertas, plugins e integración con LDAP, 2FA, correo y SSO.
+- Un entorno de preproducción valida actualizaciones, plugins, flujos y rendimiento antes de desplegar.
+- GitLab, webhooks, API y lanzamientos completan las integraciones DevOps, apoyadas por base de datos optimizada y monitorización.

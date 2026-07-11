@@ -1,0 +1,2 @@
+- Cuatro tarjetas que resumen capacidades de la pila Elastic.
+- Elasticsearch se presenta como motor de búsqueda y API; Observability agrupa registros, métricas y trazas; Security previene y responde a amenazas; Analytics permite explorar y visualizar datos.

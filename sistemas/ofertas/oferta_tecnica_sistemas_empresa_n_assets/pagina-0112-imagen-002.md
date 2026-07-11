@@ -1,0 +1,3 @@
+- Ilustración de filtrado de correo electrónico.
+- Tres sobres pequeños con alertas rojas entran en un embudo y desembocan en un sobre azul grande acompañado de una marca verde de aprobación.
+- La composición representa detección y eliminación de mensajes problemáticos antes de aceptar el correo válido.

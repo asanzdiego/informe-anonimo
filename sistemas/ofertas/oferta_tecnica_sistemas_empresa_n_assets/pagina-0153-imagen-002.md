@@ -1,0 +1,3 @@
+- Ilustración de análisis y clasificación de vulnerabilidades.
+- Un portátil muestra un escudo inspeccionado con una lupa y se acompaña de un engranaje y un destornillador.
+- Una leyenda clasifica los hallazgos por severidad crítica, alta, media y baja mediante rojo, naranja, amarillo y verde.

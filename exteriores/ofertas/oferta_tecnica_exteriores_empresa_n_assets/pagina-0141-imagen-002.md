@@ -1,0 +1,3 @@
+- Modelo de defensa en profundidad formado por capas concéntricas de seguridad.
+- Desde el exterior hacia el interior aparecen seguridad externa, acceso a la interfaz, seguridad interna, aplicación y procesamiento de datos.
+- Iconos de cortafuegos, dispositivo de red, servidor y base de datos ilustran los controles asociados a las distintas capas.

@@ -1,0 +1,3 @@
+- Diagrama de flujo para validar la interoperabilidad antes del paso a producción.
+- Una solicitud de requisitos inicia las pruebas de interoperabilidad y la definición de criterios de aceptación.
+- Si la validación falla se activa un plan de reversión y se repiten las pruebas; si es satisfactoria el sistema pasa a producción.

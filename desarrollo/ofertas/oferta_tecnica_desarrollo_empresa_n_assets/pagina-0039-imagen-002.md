@@ -1,0 +1,3 @@
+- Diagrama de flujo de las nueve actividades del proceso PSI, dedicado a la planificación de sistemas de información.
+- La secuencia principal avanza desde el inicio del plan y la definición y organización del PSI hasta la arquitectura tecnológica, el plan de acción y su revisión y aprobación.
+- Desde el estudio de la información relevante se abren tres tareas relacionadas: identificación de requisitos, estudio de los sistemas de información actuales y diseño del modelo de sistemas de información.

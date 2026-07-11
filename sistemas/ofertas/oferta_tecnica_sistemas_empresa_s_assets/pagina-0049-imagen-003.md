@@ -1,0 +1,4 @@
+- Flujo completo de pruebas de carga y optimización de los entornos EducaMadrid.
+- JMeter genera carga y estrés, mientras Grafana, Prometheus, Zabbix y Metabase proporcionan observabilidad sobre preproducción, producción controlada, otros entornos y servicios críticos.
+- El ciclo pasa por monitorización, análisis, optimización y validación, con retorno para repetir las pruebas.
+- Los resultados buscados son rendimiento, disponibilidad, escalabilidad, experiencia de usuario y detección temprana de problemas.

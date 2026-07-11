@@ -1,0 +1,3 @@
+- Diagrama de flujo de datos de nivel uno para un sistema de biblioteca.
+- Los procesos gestionan existencias, reservas y préstamos, conectados con depósitos de libros, reservas y préstamos.
+- Los prestatarios solicitan, reservan, devuelven y renuevan libros, mientras el responsable de biblioteca recibe estadísticas y actualiza el inventario.

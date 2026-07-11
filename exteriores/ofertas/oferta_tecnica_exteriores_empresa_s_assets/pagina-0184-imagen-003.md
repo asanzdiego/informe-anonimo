@@ -1,0 +1,4 @@
+- Infografía sobre la gestión integral de un proyecto como ciclo continuo.
+- El núcleo conecta seguimiento técnico e indicadores, coordinación y dependencias, mejora y evolución continua, documentación y trazabilidad y gestión del conocimiento.
+- En la parte superior aparecen gobierno técnico, coordinación entre equipos, evolución, documentación, continuidad y reporting.
+- Los paneles de control contemplan estado de proyectos, incidencias y riesgos, KPI y SLA, evolución y capacidad, bajo una visión global con control operativo, mejora continua y cumplimiento del ENS.

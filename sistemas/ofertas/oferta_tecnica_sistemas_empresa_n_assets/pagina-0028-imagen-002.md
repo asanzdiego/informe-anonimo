@@ -1,0 +1,2 @@
+- Diagrama lineal del estudio de viabilidad de un sistema.
+- El flujo enlaza alcance, situación actual y requisitos con alternativas, valoración y selección de la solución.

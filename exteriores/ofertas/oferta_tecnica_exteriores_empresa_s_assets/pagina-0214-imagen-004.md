@@ -1,0 +1,4 @@
+- Segunda parte del cronograma de tareas del periodo 2026-2027.
+- Continúa el bloque de sistemas externos con despliegues, integración, autenticación, copias, recuperación ante desastres, monitorización, ciberseguridad, actualización, segmentación y virtualización.
+- Añade seguridad de aplicaciones web, pruebas de desarrollo seguro y gestión de un programa de recompensas por errores.
+- Dos hitos señalan la estabilización de plataformas en diciembre de 2026 y la consolidación del primer periodo en mayo de 2027.

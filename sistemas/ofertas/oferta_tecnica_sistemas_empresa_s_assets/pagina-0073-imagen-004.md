@@ -1,0 +1,2 @@
+- Banda de observabilidad y seguridad con cuatro capacidades.
+- Incluye monitorización de rendimiento y disponibilidad, registros centralizados y trazables, alertas proactivas, copias y recuperación, y control de accesos con auditoría y permisos.

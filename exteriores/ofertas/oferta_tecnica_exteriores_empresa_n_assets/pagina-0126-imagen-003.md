@@ -1,0 +1,3 @@
+- Captura de un panel moderno de analítica web en español.
+- Muestra visitas en tiempo real, una gráfica de evolución reciente y un resumen de visitas, duración, rebote, acciones y páginas vistas.
+- Incluye un mapa mundial de visitantes y un desglose de canales como entrada directa, sitios de internet, motores de búsqueda y redes sociales.

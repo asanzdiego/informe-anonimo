@@ -1,0 +1,4 @@
+- Arquitectura de una CMDB centralizada alimentada automáticamente desde inventarios, redes, virtualización, bases de datos, seguridad, almacenamiento y monitorización.
+- La ingesta realiza recolección, validación, normalización, transformación ETL y carga periódica en CMDBuild.
+- El modelo central relaciona infraestructura, servicios, aplicaciones, redes, seguridad y almacenamiento.
+- La CMDB sirve para soporte, análisis de impacto y cambios, auditoría, capacidad, reporting y cuadros de mando.

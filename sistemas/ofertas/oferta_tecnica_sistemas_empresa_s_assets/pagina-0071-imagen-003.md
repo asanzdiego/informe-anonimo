@@ -1,0 +1,3 @@
+- Arquitectura de una aplicación en una VPC distribuida entre dos zonas de disponibilidad.
+- El usuario resuelve DNS y accede por una IP elástica a un balanceador que distribuye HTTP entre dos instancias ECS.
+- Las aplicaciones usan una base MySQL RDS con balanceador interno, nodo maestro en una zona y esclavo en la otra.

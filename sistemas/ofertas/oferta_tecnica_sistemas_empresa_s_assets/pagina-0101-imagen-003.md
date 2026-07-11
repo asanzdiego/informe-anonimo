@@ -1,0 +1,3 @@
+- Captura de la página de bienvenida del servicio Listas EducaMadrid.
+- La interfaz ofrece acceso, búsqueda de listas y texto introductorio sobre suscripción, baja, archivos y gestión de listas.
+- Predominan una cabecera azul, un área central oscura y un gran botón de búsqueda.

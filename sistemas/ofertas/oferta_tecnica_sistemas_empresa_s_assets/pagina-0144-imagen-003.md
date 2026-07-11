@@ -1,0 +1,3 @@
+- Esquema de clonación y reemplazo de una base de datos PostgreSQL.
+- La versión anterior del motor se clona para crear la versión nueva y esta se clona de nuevo hacia otro entorno equivalente.
+- La etiqueta final indica que la nueva versión sustituye a la anterior.

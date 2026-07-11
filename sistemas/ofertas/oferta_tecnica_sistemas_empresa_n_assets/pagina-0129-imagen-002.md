@@ -1,0 +1,4 @@
+- Arquitectura de Active Directory presentada como clúster activo y pasivo con monitorización de salud y replicación multimaestro.
+- Ambos controladores ofrecen autenticación, directorio, catálogo global y políticas de grupo.
+- Debajo aparecen servidores de dominio de lectura y escritura y controladores de solo lectura para sucursales con credenciales en caché.
+- Los servicios consumidores abarcan usuarios, archivos, impresoras, permisos, políticas, aplicaciones, bases de datos y seguridad.

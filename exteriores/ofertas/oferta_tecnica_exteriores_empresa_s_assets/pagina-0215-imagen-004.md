@@ -1,0 +1,4 @@
+- Segunda parte del cronograma de continuidad y consolidación técnica entre junio de 2027 y mayo de 2028.
+- Reúne provisión de recursos, configuración, integraciones, documentación, gestión de riesgos, copias, monitorización, ciberseguridad, sistemas operativos, virtualización y seguridad de aplicaciones web.
+- También contempla pruebas de código seguro y mantenimiento del programa de recompensas por errores.
+- Los hitos finales marcan integraciones y seguridad avanzadas en diciembre de 2027 y un servicio consolidado y optimizado en mayo de 2028.

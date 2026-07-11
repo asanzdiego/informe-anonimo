@@ -1,0 +1,3 @@
+- Diagrama iterativo para diseñar y validar un plan de pruebas de rendimiento con Apache JMeter.
+- Parte del diseño del plan, continúa con la configuración o mejora de las pruebas y muestra dos fases consecutivas rotuladas como aplicación del diseño.
+- Los resultados de JMeter llegan a una decisión de validación; el flujo vuelve a la configuración cuando es necesario ajustar el plan.

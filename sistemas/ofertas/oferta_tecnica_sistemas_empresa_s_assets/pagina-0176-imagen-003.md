@@ -1,0 +1,3 @@
+- Centro de automatización basado en playbooks estructurados de Ansible.
+- Convierte scripts existentes, herramientas heredadas, tareas, procesos e inventarios en automatización declarativa, reutilizable y versionada.
+- Incluye ejecución controlada, gestión de errores, idempotencia, escalabilidad, estándares, GitLab, CI/CD y mecanismos de reversión y recuperación.

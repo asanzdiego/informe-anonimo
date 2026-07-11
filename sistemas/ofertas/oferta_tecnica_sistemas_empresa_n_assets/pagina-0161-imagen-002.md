@@ -1,0 +1,3 @@
+- Comparación entre tareas manuales y orquestación automatizada.
+- El lado manual presenta engranajes, listas y muchas flechas cruzadas que simbolizan coordinación compleja y desordenada.
+- El lado automatizado organiza varios servidores bajo un único sistema central con conexiones claras.

@@ -1,0 +1,4 @@
+- Leyenda de perfiles, fases, niveles de participación e hitos de un cronograma.
+- Define abreviaturas para arquitectura, sistemas, bases de datos, desarrollo Linux e inteligencia artificial.
+- Los colores distinguen inicio, ejecución, mantenimiento y cierre; los puntos indican participación alta, media o baja.
+- Los hitos globales cubren bases de datos, monitorización, servicios, nube, sistemas, correo, aulas, LDAP, seguridad e IA.
