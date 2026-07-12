@@ -895,7 +895,7 @@ La valoración asignada a este subcriterio asciende a 2,00 puntos sobre un máxi
 La suma de las valoraciones obtenidas en los distintos subcriterios permite establecer el resultado global de la solución técnica ofertada, que se recoge en la siguiente tabla:
 
 | **Subcriterio** | **Puntuación** |
-| --- | --- |
+| --------------- | -------------- |
 | Arquitectura | 0,90 |
 | Comprensión de requisitos | 1,00 |
 | Viabilidad | 0,40 |
@@ -996,7 +996,7 @@ La puntuación asignada a este subcriterio asciende a **0,***4***0 puntos** sobr
 La suma de las puntuaciones obtenidas en los distintos subcriterios permite establecer el resultado global de la planificación del servicio, que se recoge en la siguiente tabla:
 
 | **Subcriterio** | **Puntuación** |
-| --- | --- |
+| --------------- | -------------- |
 | Planificación y cronograma | 5,00 |
 | Análisis de riesgos | 0,25 |
 | Plan de contingencias | 0,25 |
@@ -1010,7 +1010,7 @@ La suma de las puntuaciones obtenidas en los distintos subcriterios permite esta
 La puntuación total obtenida por la propuesta como resultado de la suma de los bloques de solución técnica y planificación del servicio es la siguiente:
 
 | **Bloque** | **Puntuación** |
-| --- | --- |
+| ---------- | -------------- |
 | Solución técnica ofertada | 5,05 |
 | Planificación del servicio | 6,40 |
 
@@ -1221,7 +1221,7 @@ El análisis evidencia que las propuestas de mejora de empresa_n siguen un patr�
 ### Proyecto BD – Bases de Datos
 
 | **Proyecto** | **Clasificación** | **Propuesta de Mejora o Valor añadido** |
-| --- | --- | --- |
+| ------------ | ----------------- | --------------------------------------- |
 | BD1 | Propuesta técnica incluida (desarrollo deficiente) | PM (refuerzo de revisiones sin técnicas nuevas) |
 | BD2 | Propuesta técnica incluida (desarrollo deficiente) | PM (ampliación mantenimiento sin herramientas) |
 | BD3 | Propuesta técnica incluida (desarrollo deficiente) | PM (actualización CMDB sin automatización) |
@@ -1232,7 +1232,7 @@ El análisis evidencia que las propuestas de mejora de empresa_n siguen un patr�
 ### Proyecto MON – Monitorización
 
 | **Proyecto** | **Clasificación** | **Propuesta de Mejora o Valor añadido** |
-| --- | --- | --- |
+| ------------ | ----------------- | --------------------------------------- |
 | MON1 | Propuesta técnica incluida (desarrollo deficiente) | PM (supervisión ampliada sin criterios técnicos) |
 | MON2 | Propuesta técnica incluida (desarrollo deficiente) | PM (más pruebas sin metodología definida) |
 | MON3 | Propuesta técnica incluida (desarrollo deficiente) | PM (monitorización ampliada sin métricas) |
@@ -1241,7 +1241,7 @@ El análisis evidencia que las propuestas de mejora de empresa_n siguen un patr�
 ### Proyecto UPD – Actualización de servicios
 
 | **Proyecto** | **Clasificación** | **Propuesta de Mejora o Valor añadido** |
-| --- | --- | --- |
+| ------------ | ----------------- | --------------------------------------- |
 | UPD1 | Propuesta técnica incluida (desarrollo deficiente) | PM (validaciones adicionales sin arquitectura) |
 | UPD2 | Propuesta técnica incluida (desarrollo deficiente) | PM (repetición del modelo anterior) |
 | UPD3 | Propuesta técnica incluida (desarrollo deficiente) | PM (tareas ampliadas sin integración técnica) |
@@ -1261,7 +1261,7 @@ El análisis evidencia que las propuestas de mejora de empresa_n siguen un patr�
 ### Proyecto CLO – Cloud
 
 | **Proyecto** | **Clasificación** | **Propuesta de Mejora o Valor añadido** |
-| --- | --- | --- |
+| ------------ | ----------------- | --------------------------------------- |
 | CLO1 | No incluida | No |
 | CLO2 | Propuesta técnica incluida (desarrollo deficiente) | PM (ajustes progresivos sin escalabilidad) |
 | CLO3 | Propuesta técnica incluida (desarrollo deficiente) | PM (uso concurrente sin arquitectura) |
@@ -1269,7 +1269,7 @@ El análisis evidencia que las propuestas de mejora de empresa_n siguen un patr�
 ### Proyecto OTR – Otros desarrollos
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
-| --- | --- | --- |
+| ------------ | ----------------- | ----------------- |
 | OTR1 | Propuesta técnica incluida (desarrollo deficiente) | PM (SSO genérico sin federación técnica) |
 | OTR2 | Propuesta técnica incluida (desarrollo deficiente) | PM (2FA genérico con inconsistencias) |
 | OTR3 | Propuesta técnica incluida (desarrollo deficiente) | PM (scripts sin orquestación) |
@@ -1281,7 +1281,7 @@ El análisis evidencia que las propuestas de mejora de empresa_n siguen un patr�
 ### Proyecto COR – Correo electrónico
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
-| --- | --- | --- |
+| ------------ | ----------------- | ----------------- |
 | COR1 | Propuesta técnica incluida (desarrollo deficiente) | PM (supervisión sin control de tráfico) |
 | COR2 | Propuesta técnica incluida (desarrollo deficiente) | PM (gestión manual sin automatización) |
 | COR3 | Propuesta técnica incluida (desarrollo deficiente) | PM (revisión sin política de cuotas) |
@@ -1296,81 +1296,81 @@ El análisis evidencia que las propuestas de mejora de empresa_n siguen un patr�
 ### Proyecto MAX – Sistema operativo
 
 | **Proyecto** | **Clasificación** | **Propuesta de Mejora o Valor añadido** |
-| --- | --- | --- |
-| MAX1 | No incluida | No |
-| MAX2 | No incluida | No |
-| MAX3 | No incluida | No |
-| MAX4 | No incluida | No |
-| MAX5 | No incluida | No |
-| MAX6 | No incluida | No |
-| MAX7 | No incluida | No |
-| MAX8 | No incluida | No |
-| MAX9 | No incluida | No |
-| MAX10 | No incluida | No |
-| MAX11 | No incluida | No |
-| MAX12 | No incluida | No |
-| MAX13 | No incluida | No |
-| MAX14 | No incluida | No |
+|--------------|-------------------|-----------------------------------------|
+| MAX1         | No incluida       | No                                      |
+| MAX10        | No incluida       | No                                      |
+| MAX11        | No incluida       | No                                      |
+| MAX12        | No incluida       | No                                      |
+| MAX13        | No incluida       | No                                      |
+| MAX14        | No incluida       | No                                      |
+| MAX2         | No incluida       | No                                      |
+| MAX3         | No incluida       | No                                      |
+| MAX4         | No incluida       | No                                      |
+| MAX5         | No incluida       | No                                      |
+| MAX6         | No incluida       | No                                      |
+| MAX7         | No incluida       | No                                      |
+| MAX8         | No incluida       | No                                      |
+| MAX9         | No incluida       | No                                      |
 
 ### Proyecto AV – Aulas Virtuales
 
-| **Proyecto** | **Clasificación** | **Propuesta de Mejora o Valor añadido** |
-| --- | --- | --- |
-| AV1 | Propuesta técnica incluida (desarrollo deficiente) | PM (revisión sin herramientas) |
-| AV2 | Propuesta técnica incluida (desarrollo deficiente) | PM (supervisión sin balanceo) |
-| AV3 | Propuesta técnica incluida (desarrollo deficiente) | PM (despliegue sin automatización) |
-| AV4 | Propuesta técnica incluida (desarrollo deficiente) | PM (redistribución sin criterios) |
+| **Proyecto** | **Clasificación**                                  | **Propuesta de Mejora o Valor añadido** |
+|--------------|----------------------------------------------------|-----------------------------------------|
+| AV1          | Propuesta técnica incluida (desarrollo deficiente) | PM (revisión sin herramientas)          |
+| AV2          | Propuesta técnica incluida (desarrollo deficiente) | PM (supervisión sin balanceo)           |
+| AV3          | Propuesta técnica incluida (desarrollo deficiente) | PM (despliegue sin automatización)      |
+| AV4          | Propuesta técnica incluida (desarrollo deficiente) | PM (redistribución sin criterios)       |
 
 ### Proyecto POR – LDAP y Portal
 
-| **Proyecto** | **Clasificación** | **Propuesta de Mejora o Valor añadido** |
-| --- | --- | --- |
-| POR1 | Propuesta técnica incluida (desarrollo deficiente) | PM (ampliación sin replicación técnica) |
-| POR2 | Propuesta técnica incluida (desarrollo deficiente) | PM (migración sin procedimientos) |
+| **Proyecto** | **Clasificación**                                  | **Propuesta de Mejora o Valor añadido** |
+|--------------|----------------------------------------------------|-----------------------------------------|
+| POR1         | Propuesta técnica incluida (desarrollo deficiente) | PM (ampliación sin replicación técnica) |
+| POR2         | Propuesta técnica incluida (desarrollo deficiente) | PM (migración sin procedimientos)       |
 
 ### Proyecto SEG – Seguridad
 
-| **Proyecto** | **Clasificación** | **Propuesta de Mejora o Valor añadido** |
-| --- | --- | --- |
-| SEG1 | Propuesta técnica incluida (desarrollo deficiente) | PM (control básico sin auditoría) |
-| SEG2 | Propuesta técnica incluida (desarrollo deficiente) | PM (segregación sin arquitectura) |
-| SEG3 | Propuesta técnica incluida (desarrollo deficiente) | PM (gestión sin ciclo de vida) |
-| SEG4 | Propuesta técnica incluida (desarrollo deficiente) | PM (gestión DNS sin automatización) |
-| SEG5 | Propuesta técnica incluida (desarrollo deficiente) | PM (vulnerabilidades sin herramientas) |
-| SEG6 | Propuesta técnica incluida (desarrollo deficiente) | PM (logs sin correlación SIEM) |
-| SEG7 | Propuesta técnica incluida (desarrollo deficiente) | PM (auditorías sin metodología) |
-| SEG8 | Propuesta técnica incluida (desarrollo deficiente) | PM (control continuo sin métricas) |
-| SEG9 | Propuesta técnica incluida (desarrollo deficiente) | PM (logs sin explotación técnica) |
-| SEG10 | Propuesta técnica incluida (desarrollo deficiente) | PM (claves sin gestión avanzada) |
-| SEG11 | Propuesta técnica incluida (desarrollo deficiente) | PM (soporte sin procedimientos) |
+| **Proyecto** | **Clasificación**                                  | **Propuesta de Mejora  o Valor añadido** |
+|--------------|----------------------------------------------------|------------------------------------------|
+| SEG1         | Propuesta técnica incluida (desarrollo deficiente) | PM (control básico sin auditoría)        |
+| SEG2         | Propuesta técnica incluida (desarrollo deficiente) | PM (segregación sin arquitectura)        |
+| SEG3         | Propuesta técnica incluida (desarrollo deficiente) | PM (gestión sin ciclo de vida)           |
+| SEG4         | Propuesta técnica incluida (desarrollo deficiente) | PM (gestión DNS sin automatización)      |
+| SEG5         | Propuesta técnica incluida (desarrollo deficiente) | PM (vulnerabilidades sin herramientas)   |
+| SEG6         | Propuesta técnica incluida (desarrollo deficiente) | PM (logs sin correlación SIEM)           |
+| SEG7         | Propuesta técnica incluida (desarrollo deficiente) | PM (auditorías sin metodología)          |
+| SEG8         | Propuesta técnica incluida (desarrollo deficiente) | PM (control continuo sin métricas)       |
+| SEG9         | Propuesta técnica incluida (desarrollo deficiente) | PM (logs sin explotación técnica)        |
+| SEG10        | Propuesta técnica incluida (desarrollo deficiente) | PM (claves sin gestión avanzada)         |
+| SEG11        | Propuesta técnica incluida (desarrollo deficiente) | PM (soporte sin procedimientos)          |
 
 ### Proyecto CON – Contenedores
 
-| **Proyecto** | **Clasificación** | **Propuesta de Mejora o Valor añadido** |
-| --- | --- | --- |
-| CON1 | Propuesta técnica incluida (desarrollo deficiente) | PM (scripts sin orquestación) |
-| CON2 | Propuesta técnica incluida (desarrollo deficiente) | PM (automatización sin herramientas) |
-| CON3 | Propuesta técnica incluida (desarrollo deficiente) | PM (sistema auxiliar sin definición) |
+| **Proyecto** | **Clasificación**                                  | **Propuesta de Mejora o Valor añadido** |
+|--------------|----------------------------------------------------|-----------------------------------------|
+| CON1         | Propuesta técnica incluida (desarrollo deficiente) | PM (scripts sin orquestación)           |
+| CON2         | Propuesta técnica incluida (desarrollo deficiente) | PM (automatización sin herramientas)    |
+| CON3         | Propuesta técnica incluida (desarrollo deficiente) | PM (sistema auxiliar sin definición)    |
 
 ### Proyecto MIG – Migraciones
 
-| **Proyecto** | **Clasificación** | **Propuesta de Mejora o Valor añadido** |
-| --- | --- | --- |
-| MIG1 | Propuesta técnica incluida (desarrollo deficiente) | PM (coordinación sin metodología) |
-| MIG2 | Propuesta técnica incluida (desarrollo deficiente) | PM (planificación sin fases definidas) |
-| MIG3 | Propuesta técnica incluida (desarrollo deficiente) | PM (preparación sin automatización) |
-| MIG4 | Propuesta técnica incluida (desarrollo deficiente) | PM (verificación sin criterios claros) |
-| MIG5 | Propuesta técnica incluida (desarrollo deficiente) | PM (soporte sin indicadores) |
+| **Proyecto** | **Clasificación**                                  | **Propuesta de Mejora o Valor añadido** |
+|--------------|----------------------------------------------------|-----------------------------------------|
+| MIG1         | Propuesta técnica incluida (desarrollo deficiente) | PM (coordinación sin metodología)       |
+| MIG2         | Propuesta técnica incluida (desarrollo deficiente) | PM (planificación sin fases definidas)  |
+| MIG3         | Propuesta técnica incluida (desarrollo deficiente) | PM (preparación sin automatización)     |
+| MIG4         | Propuesta técnica incluida (desarrollo deficiente) | PM (verificación sin criterios claros)  |
+| MIG5         | Propuesta técnica incluida (desarrollo deficiente) | PM (soporte sin indicadores)            |
 
 ### Proyecto IA – Inteligencia Artificial
 
 | **Proyecto** | **Clasificación** | **Propuesta de Mejora o Valor añadido** |
-| --- | --- | --- |
-| IA1 | No incluida | No |
-| IA2 | No incluida | No |
-| IA3 | No incluida | No |
-| IA4 | No incluida | No |
-| IA5 | No incluida | No |
+|--------------|-------------------|-----------------------------------------|
+| IA1          | No incluida       | No                                      |
+| IA2          | No incluida       | No                                      |
+| IA3          | No incluida       | No                                      |
+| IA4          | No incluida       | No                                      |
+| IA5          | No incluida       | No                                      |
 
 ## CONCLUSIÓN DEL ANEXO
 

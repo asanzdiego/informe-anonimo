@@ -878,138 +878,138 @@ El análisis se ha realizado diferenciando tres niveles:
 
 ## BLOQUE TRANSVERSAL (TRA)
 
-| **Proyecto** | **Clasificación** | **Error grave** |
-| --- | --- | --- |
-| TRA1 | Propuesta técnica con errores técnicos graves | Sí (LDAP mal interpretado) |
-| TRA2 | Propuesta técnica con errores técnicos graves | Sí (uso incorrecto CalDAV vs ICS) |
-| TRA3 | Propuesta técnica incluida | No |
-| TRA4 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| TRA5 | Propuesta técnica incluida | No |
-| TRA6 | Propuesta técnica incluida | No |
-| TRA7 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| TRA8 | Propuesta técnica incluida (desarrollo insuficiente) | No |
+| **Proyecto** | **Clasificación**                                    | **Error grave**                   |
+| ------------ | ---------------------------------------------------- | --------------------------------- |
+| TRA1         | Propuesta técnica con errores técnicos graves        | Sí (LDAP mal interpretado)        |
+| TRA2         | Propuesta técnica con errores técnicos graves        | Sí (uso incorrecto CalDAV vs ICS) |
+| TRA3         | Propuesta técnica incluida                           | No                                |
+| TRA4         | Propuesta técnica incluida (desarrollo insuficiente) | No                                |
+| TRA5         | Propuesta técnica incluida                           | No                                |
+| TRA6         | Propuesta técnica incluida                           | No                                |
+| TRA7         | Propuesta técnica incluida (desarrollo insuficiente) | No                                |
+| TRA8         | Propuesta técnica incluida (desarrollo insuficiente) | No                                |
 
 ## AULAS VIRTUALES (AV)
 
-| **Proyecto** | **Clasificación** | **Error grave** |
-| --- | --- | --- |
-| AV1 | Propuesta técnica incluida | No |
-| AV2 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV3 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV4 | Propuesta técnica con errores técnicos graves | Sí (MySQL vs PostgreSQL) |
-| AV5 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV6 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV7 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV8 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV9 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV10 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV11 | Propuesta técnica con errores técnicos graves | Sí (procesos IA síncronos incorrectos) |
-| AV12 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV13 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV14 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV15 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV16 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV17 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV18 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV19 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV20 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AV21 | Propuesta técnica incluida (desarrollo insuficiente) | No |
+| **Proyecto** | **Clasificación**                                    | **Error grave**                        |
+| ------------ | ---------------------------------------------------- | -------------------------------------- |
+| AV1          | Propuesta técnica incluida                           | No                                     |
+| AV2          | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV3          | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV4          | Propuesta técnica con errores técnicos graves        | Sí (MySQL vs PostgreSQL)               |
+| AV5          | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV6          | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV7          | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV8          | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV9          | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV10         | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV11         | Propuesta técnica con errores técnicos graves        | Sí (procesos IA síncronos incorrectos) |
+| AV12         | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV13         | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV14         | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV15         | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV16         | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV17         | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV18         | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV19         | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV20         | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
+| AV21         | Propuesta técnica incluida (desarrollo insuficiente) | No                                     |
 
 ## MEDIATECA (MED)
 
-| **Proyecto** | **Clasificación** | **Error grave** |
-| --- | --- | --- |
-| MED1 | Propuesta técnica con errores técnicos graves | Sí (error BBDD) |
-| MED2 | Propuesta técnica con errores técnicos graves | Sí (omisión funcional crítica) |
-| MED3 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| MED4 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| MED5 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| MED6 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| MED7 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| MED8 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| MED9 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| MED10 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| MED11 | Propuesta técnica incluida (desarrollo insuficiente) | No |
+| **Proyecto** | **Clasificación**                                    | **Error grave**                |
+| ------------ | ---------------------------------------------------- | ------------------------------ |
+| MED1         | Propuesta técnica con errores técnicos graves        | Sí (error BBDD)                |
+| MED2         | Propuesta técnica con errores técnicos graves        | Sí (omisión funcional crítica) |
+| MED3         | Propuesta técnica incluida (desarrollo insuficiente) | No                             |
+| MED4         | Propuesta técnica incluida (desarrollo insuficiente) | No                             |
+| MED5         | Propuesta técnica incluida (desarrollo insuficiente) | No                             |
+| MED6         | Propuesta técnica incluida (desarrollo insuficiente) | No                             |
+| MED7         | Propuesta técnica incluida (desarrollo insuficiente) | No                             |
+| MED8         | Propuesta técnica incluida (desarrollo insuficiente) | No                             |
+| MED9         | Propuesta técnica incluida (desarrollo insuficiente) | No                             |
+| MED10        | Propuesta técnica incluida (desarrollo insuficiente) | No                             |
+| MED11        | Propuesta técnica incluida (desarrollo insuficiente) | No                             |
 
 ## CORREO WEB (COR)
 
-| **Proyecto** | **Clasificación** | **Error grave** |
-| --- | --- | --- |
-| COR1 | Propuesta técnica incluida | No |
-| COR2 | Propuesta técnica con errores técnicos graves | Sí (falta de conocimiento del entorno de EducaMadrid, que usa xAI modificado, y propuesta de desarrollo desde cero innecesario) |
-| COR3 | Propuesta técnica con errores técnicos graves | Sí (falta de conocimiento del entorno de EducaMadrid, que usa xAI modificado, y propuesta de desarrollo desde cero innecesario) |
-| COR4 | Propuesta técnica con errores técnicos graves | Sí (falta de conocimiento del entorno de EducaMadrid, que usa xAI modificado, y propuesta de desarrollo desde cero innecesario) |
+| **Proyecto** | **Clasificación**                             | **Error grave**                                                                                                                 |
+| ------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| COR1         | Propuesta técnica incluida                    | No                                                                                                                              |
+| COR2         | Propuesta técnica con errores técnicos graves | Sí (falta de conocimiento del entorno de EducaMadrid, que usa xAI modificado, y propuesta de desarrollo desde cero innecesario) |
+| COR3         | Propuesta técnica con errores técnicos graves | Sí (falta de conocimiento del entorno de EducaMadrid, que usa xAI modificado, y propuesta de desarrollo desde cero innecesario) |
+| COR4         | Propuesta técnica con errores técnicos graves | Sí (falta de conocimiento del entorno de EducaMadrid, que usa xAI modificado, y propuesta de desarrollo desde cero innecesario) |
 
 ## CLOUD (CLO)
 
-| **Proyecto** | **Clasificación** | **Error grave** |
-| --- | --- | --- |
-| CLO1 | Propuesta técnica incluida | No |
-| CLO2 | Propuesta técnica incluida | No |
+| **Proyecto** | **Clasificación**          | **Error grave** |
+| ------------ | -------------------------- | --------------- |
+| CLO1         | Propuesta técnica incluida | No              |
+| CLO2         | Propuesta técnica incluida | No              |
 
 ## WORDPRESS MULTISITE (WPM)
 
-| **Proyecto** | **Clasificación** | **Error grave** |
-| --- | --- | --- |
-| WPM1 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| WPM2 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| WPM3 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| WPM4 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| WPM5 | Propuesta técnica incluida (desarrollo insuficiente) | No |
+| **Proyecto** | **Clasificación**                                    | **Error grave** |
+| ------------ | ---------------------------------------------------- | --------------- |
+| WPM1         | Propuesta técnica incluida (desarrollo insuficiente) | No              |
+| WPM2         | Propuesta técnica incluida (desarrollo insuficiente) | No              |
+| WPM3         | Propuesta técnica incluida (desarrollo insuficiente) | No              |
+| WPM4         | Propuesta técnica incluida (desarrollo insuficiente) | No              |
+| WPM5         | Propuesta técnica incluida (desarrollo insuficiente) | No              |
 
 ## VIDEO (VID)
 
-| **Proyecto** | **Clasificación** | **Error grave** |
-| --- | --- | --- |
-| VID1 | Propuesta técnica incluida | No |
-| VID2 | Propuesta técnica incluida | No |
-| VID3 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| VID4 | Propuesta técnica incluida (desarrollo insuficiente) | No |
+| **Proyecto** | **Clasificación**                                    | **Error grave** |
+| ------------ | ---------------------------------------------------- | --------------- |
+| VID1         | Propuesta técnica incluida                           | No              |
+| VID2         | Propuesta técnica incluida                           | No              |
+| VID3         | Propuesta técnica incluida (desarrollo insuficiente) | No              |
+| VID4         | Propuesta técnica incluida (desarrollo insuficiente) | No              |
 
 ## SERVICIOS UNITARIOS
 
-| **Proyecto** | **Clasificación** | **Error grave** |
-| --- | --- | --- |
-| EMP1 | Propuesta técnica incluida | No |
-| LDAP | Propuesta técnica con errores técnicos graves | Sí (LDAP plano mal interpretado) |
-| EXE | Propuesta técnica incluida | No |
-| FOR1 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| BUS1 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| ANI1 | Propuesta técnica incluida (desarrollo insuficiente) | No |
+| **Proyecto** | **Clasificación**                                    | **Error grave**                  |
+| ------------ | ---------------------------------------------------- | -------------------------------- |
+| EMP1         | Propuesta técnica incluida                           | No                               |
+| LDAP         | Propuesta técnica con errores técnicos graves        | Sí (LDAP plano mal interpretado) |
+| EXE          | Propuesta técnica incluida                           | No                               |
+| FOR1         | Propuesta técnica incluida (desarrollo insuficiente) | No                               |
+| BUS1         | Propuesta técnica incluida (desarrollo insuficiente) | No                               |
+| ANI1         | Propuesta técnica incluida (desarrollo insuficiente) | No                               |
 
 ## RESTO DE SISTEMAS
 
-| **Proyecto** | **Clasificación** | **Error grave** |
-| --- | --- | --- |
-| SYN | Propuesta técnica con errores técnicos graves | Sí (modelo de datos incorrecto) |
-| CAU | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| EDU | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| BAN | Propuesta técnica con errores técnicos graves | Sí (tecnología Java incorrecta) |
-| DTIC | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| SEG | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| ALB | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AVI | Propuesta técnica con errores técnicos graves | Sí (tecnología incorrecta) |
-| FOR | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| BOL | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| AYU | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| POR | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| WES | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| IFZ | Propuesta técnica incluida | No |
-| MAX | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| GES | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| USO | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| MAM | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| EML | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| ABI | Propuesta técnica incluida (desarrollo insuficiente) | No |
+| **Proyecto** | **Clasificación**                                    | **Error grave**                 |
+| ------------ | ---------------------------------------------------- | ------------------------------- |
+| SYN          | Propuesta técnica con errores técnicos graves        | Sí (modelo de datos incorrecto) |
+| CAU          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| EDU          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| BAN          | Propuesta técnica con errores técnicos graves        | Sí (tecnología Java incorrecta) |
+| DTIC         | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| SEG          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| ALB          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| AVI          | Propuesta técnica con errores técnicos graves        | Sí (tecnología incorrecta)      |
+| FOR          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| BOL          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| AYU          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| POR          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| WES          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| IFZ          | Propuesta técnica incluida                           | No                              |
+| MAX          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| GES          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| USO          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| MAM          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| EML          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
+| ABI          | Propuesta técnica incluida (desarrollo insuficiente) | No                              |
 
 ## WEKAN (WEK)
 
-| **Proyecto** | **Clasificación** | **Error grave** |
-| --- | --- | --- |
-| WEK1 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| WEK2 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| WEK3 | Propuesta técnica incluida (desarrollo insuficiente) | No |
-| WEK4 | Propuesta técnica incluida (desarrollo insuficiente) | No |
+| **Proyecto** | **Clasificación**                                    | **Error grave** |
+| ------------ | ---------------------------------------------------- | --------------- |
+| WEK1         | Propuesta técnica incluida (desarrollo insuficiente) | No              |
+| WEK2         | Propuesta técnica incluida (desarrollo insuficiente) | No              |
+| WEK3         | Propuesta técnica incluida (desarrollo insuficiente) | No              |
+| WEK4         | Propuesta técnica incluida (desarrollo insuficiente) | No              |
 
 ### Conclusión del anexo
 
