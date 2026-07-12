@@ -320,7 +320,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
+**[EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
 
 *Justificar brevemente el nivel asignado y mantenerlo alineado con las evidencias expuestas.*
 
@@ -328,31 +328,31 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Proyectos incluidos:** TRA1 a TRA8.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Explicar el papel transversal del bloque y valorar de forma conjunta la gestión de identidades y usuarios, la coherencia e intercambio de datos, la interoperabilidad, la seguridad y los servicios comunes, según los requisitos aplicables.*
 
 ##### [CÓDIGO DEL PROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funcionalidades, integraciones, condicionantes técnicos y entregables exigidos para el proyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar las evidencias concretas incluidas en la memoria.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados y distinguir el cumplimiento del requisito de las mejoras reales.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad y explicar su relevancia.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
-**Valoración cualitativa: [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
+**[EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
 
 *Justificar brevemente el nivel asignado y mantenerlo alineado con las evidencias expuestas.*
 
@@ -364,7 +364,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Proyectos incluidos:** AV1 a AV21.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar la evolución y mantenimiento de Moodle y sus componentes, integraciones, rendimiento, base de datos, seguridad, escalabilidad, operaciones de inicio de curso, funcionalidades avanzadas y continuidad del servicio.*
 
@@ -384,7 +384,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Proyectos incluidos:** MED1 a MED11.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar el tratamiento de contenidos multimedia, transcripción y subtitulado, búsqueda e indexación, almacenamiento y distribución, integraciones y evolución funcional de la plataforma.*
 
@@ -404,7 +404,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Proyectos incluidos:** COR1 a COR4.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar la evolución y mantenimiento del correo, las funcionalidades avanzadas o basadas en inteligencia artificial, la seguridad, la integración y la adaptación a la tecnología y arquitectura reales del servicio.*
 
@@ -420,7 +420,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Proyectos incluidos:** CLO1 y CLO2.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar la gestión de almacenamiento y sincronización, la edición colaborativa, la arquitectura, el rendimiento, la seguridad y las integraciones con el ecosistema EducaMadrid.*
 
@@ -436,7 +436,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Proyectos incluidos:** WPM1 a WPM5.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar el mantenimiento y evolución de WordPress Multisite, sus componentes y licencias, la seguridad y protección perimetral, los mecanismos antiabuso, la autenticación y la operación del servicio.*
 
@@ -452,7 +452,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Proyectos incluidos:** VID1 a VID4.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar la integración con plataformas educativas, el rendimiento y la escalabilidad, la calidad de servicio, la gestión de grabaciones, los eventos de alta concurrencia y la continuidad operativa.*
 
@@ -500,7 +500,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Proyectos incluidos:** WEK1 a WEK4.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar si los subproyectos reciben soluciones individualizadas o un tratamiento agregado y si este último permite comprobar el cumplimiento de cada requisito.*
 

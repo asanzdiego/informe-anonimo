@@ -308,7 +308,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
+**[EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
 
 *Justificar brevemente el nivel asignado y mantenerlo alineado con las evidencias expuestas.*
 
@@ -316,29 +316,29 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** BD1, BD2, BD3, BD4, BD5, BD6.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar la operación a gran escala de MariaDB, PostgreSQL, MongoDB y ProxySQL; clústeres, replicación, balanceo, optimización, CMDB, sincronización, seguridad, observabilidad y persistencia en microservicios.*
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 
@@ -352,29 +352,29 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** MON1, MON2, MON3, MON4.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar la gestión de capacidad y almacenamiento NFS, las pruebas de carga y estrés, las métricas y umbrales, la observabilidad, el alertado proactivo y la monitorización específica de servicios de IA.*
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 
@@ -388,29 +388,29 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** UPD1, UPD2, UPD3, UPD4, UPD5, UPD6, UPD7, UPD8, UPD9, UPD10, UPD11, UPD12, UPD13, UPD14, UPD15.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar las arquitecturas y procedimientos específicos para videoconferencia, grabación, colaboración, gestión de proyectos, encuestas, calidad de código, streaming, bibliotecas, configuración, contenedores y decomisionado.*
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 
@@ -424,29 +424,29 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** CLO1, CLO2, CLO3.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar la disponibilidad, escalabilidad, almacenamiento temporal, edición en línea, integración, seguridad, rendimiento, actualización y continuidad de los servicios cloud de EducaMadrid.*
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 
@@ -460,29 +460,29 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** OTR1, OTR2, OTR3, OTR4, OTR5, OTR6, OTR7.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar SSO y 2FA, automatización, Elastic, flujos de trabajo, Portal CAU e inteligencia artificial, prestando atención a integraciones, seguridad, trazabilidad, herramientas y operativa real.*
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 
@@ -496,29 +496,29 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** COR1, COR2, COR3, COR4, COR5, COR6, COR7, COR8, COR9, COR10.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar el control de envíos, listas, cuotas, spam, buzones, seguridad, infraestructura, escalado de Mailbox Server e inyección directa, incluyendo colas, spool, rendimiento, resiliencia y coexistencia.*
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 
@@ -532,7 +532,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** MAX1, MAX2, MAX3, MAX4, MAX5, MAX6, MAX7, MAX8, MAX9, MAX10, MAX11, MAX12, MAX13, MAX14.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar por separado el soporte presencial y remoto, los servidores de construcción y repositorios, el mantenimiento de aplicaciones y distribuciones, las integraciones, los eventos, los dispositivos y la gestión centralizada de equipos y maquetas.*
 
@@ -540,23 +540,23 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 
@@ -570,29 +570,29 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** AV1, AV2, AV3, AV4.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar la actualización y estabilidad de bases de datos y FrontEnd, el despliegue de nuevos grupos, la redistribución de NFS, la automatización, el balanceo y la adaptación a picos de carga.*
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 
@@ -606,29 +606,29 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** POR1, POR2.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar el escalado de esclavos LDAP, la replicación, la disponibilidad y rendimiento, así como la planificación, reversibilidad, integridad y validación de la migración del LDAP máster.*
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 
@@ -642,29 +642,29 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** SEG1, SEG2, SEG3, SEG4, SEG5, SEG6, SEG7, SEG8, SEG9, SEG10, SEG11.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar control de cambios y dominios DNS, segregación de identidades privilegiadas, certificados, vulnerabilidades, detección de intrusiones, auditoría continua, centralización de logs, claves RSA y respuesta ante incidentes.*
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 
@@ -678,29 +678,29 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** CON1, CON2, CON3.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar la tecnología de orquestación, la gestión del ciclo de vida de contenedores, la infraestructura como código, los scripts, las herramientas auxiliares, el control de versiones, las pruebas y la observabilidad.*
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 
@@ -714,29 +714,29 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** MIG1, MIG2, MIG3, MIG4, MIG5.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar la coordinación, inventario, dependencias, fases preparatorias, documentación, criterios de aceptación, pruebas, reversibilidad, verificación y soporte posterior a la migración.*
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 
@@ -750,7 +750,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 **Subproyectos incluidos:** IA1, IA2, IA3, IA4, IA5.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 *Valorar métricas y escenarios de rendimiento, ingeniería de prompts, guardarraíles educativos, seguridad y privacidad, interfaces de integración, pruebas, observabilidad y límites de uso por usuario.*
 
@@ -758,23 +758,23 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 ##### [CÓDIGO DEL SUBPROYECTO] — [DENOMINACIÓN]
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funciones, tecnologías, integraciones, condicionantes operativos y entregables exigidos para el subproyecto.*
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar evidencias concretas de la memoria: arquitectura, herramientas, procedimientos, automatizaciones, métricas, pruebas y mecanismos de integración.*
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados. Separar el cumplimiento del requisito de las mejoras reales, coherentes y verificables.*
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad. No completar mediante inferencias el contenido ausente.*
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
 **Valoración cualitativa:** [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]
 

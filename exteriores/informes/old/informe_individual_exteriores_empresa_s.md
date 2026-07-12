@@ -32,7 +32,7 @@ La propuesta presentada por empresa_s aborda este requisito mediante la definici
 
 En consecuencia, aunque la propuesta presenta una cobertura clara del requisito y demuestra un conocimiento razonable de las tecnologías implicadas, el nivel de detalle técnico resulta insuficiente para alcanzar una valoración de excelencia, situándose en un nivel intermedio en el que existe una respuesta adecuada pero no completamente desarrollada.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ELIF2 – Barra de herramientas y pie de EducaMadrid
 
@@ -50,7 +50,7 @@ La ausencia de métricas de validación, criterios objetivos de aceptación o in
 
 En consecuencia, se trata de una respuesta que cumple adecuadamente el requisito desde el punto de vista funcional, pero que adolece de falta de profundidad en su desarrollo técnico.
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 ### ELIF3 – Mejoras de presentación
 
@@ -66,7 +66,7 @@ Adicionalmente, no se identifican criterios de aceptación formal ni mecanismos 
 
 En consecuencia, aunque la propuesta presenta un desarrollo razonablemente completo desde el punto de vista conceptual y demuestra un conocimiento adecuado de las técnicas de optimización frontend, la falta de métricas, indicadores y procedimientos de validación impide situarla en un nivel de excelencia, quedando en una posición intermedia-alta dentro de la escala cualitativa.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ELIF4 – Mejoras de usabilidad y accesibilidad
 
@@ -82,7 +82,7 @@ Asimismo, la metodología de auditoría no se describe con suficiente nivel de d
 
 En consecuencia, aunque la propuesta presenta una alineación clara con los requisitos del pliego y demuestra un conocimiento adecuado de la normativa y de las buenas prácticas en accesibilidad, la falta de concreción metodológica y de métricas verificables impide alcanzar una valoración de excelencia.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### CONCLUSIÓN DEL BLOQUE ELIF
 
@@ -132,7 +132,7 @@ Finalmente, aunque el rendimiento se aborda desde un punto de vista conceptual, 
 
 En conjunto, la propuesta presentada para el subproyecto IFP1 puede considerarse técnicamente consistente, con un alto grado de cobertura de los requisitos y una arquitectura claramente definida, pero con carencias en términos de métricas, concreción tecnológica y justificación cuantitativa que impiden situarla en el nivel máximo de valoración.
 
-**Valoración cualitativa: MEDIA***-ALTA**
+**MEDIA***-ALTA**
 
 ### PROYECTOS MOODLE MISC (EMOM)
 
@@ -154,7 +154,7 @@ Asimismo, se observa la ausencia de métricas de aceptación que permitan valida
 
 En conjunto, la propuesta presenta una metodología adecuada y coherente, pero con un nivel de detalle insuficiente en aspectos clave de control y validación.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### EMOM2 – Adaptación de la plataforma MoodleMisc
 
@@ -170,7 +170,7 @@ Asimismo, no se establecen criterios objetivos de escalabilidad, tales como el n
 
 En consecuencia, la propuesta presenta una cobertura funcional muy amplia y una comprensión clara del requisito, pero carece de la profundidad técnica necesaria para alcanzar una valoración de excelencia.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### EMOM3 – Mantenimiento de la plataforma MoodleMisc
 
@@ -186,7 +186,7 @@ Asimismo, la propuesta cubre de manera explícita una amplia gama de funcionalid
 
 En consecuencia, aunque la propuesta presenta una cobertura sólida y una mejora técnica relevante, la falta de métricas y de detalle individualizado limita su valoración.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### EMOM4 – Mejora de la ciberseguridad en Moodle Misc
 
@@ -202,7 +202,7 @@ Del mismo modo, la propuesta no incorpora indicadores de seguridad, umbrales de 
 
 En consecuencia, la propuesta puede considerarse correcta en su planteamiento, pero con un nivel de desarrollo moderado.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### EMOM5 – Solución de problemas conocidos en Moodle Misc
 
@@ -218,7 +218,7 @@ Asimismo, no se establecen métricas de resolución, tiempos de respuesta ni ind
 
 En consecuencia, se trata de una propuesta correcta desde el punto de vista metodológico, pero con un nivel de detalle técnico limitado.
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 ### EMOM6 – Tareas sobre configuraciones para conexiones externas
 
@@ -232,7 +232,7 @@ El tratamiento del análisis de glosarios resulta igualmente superficial, sin de
 
 En consecuencia, la propuesta presenta una cobertura funcional correcta, pero con un nivel de desarrollo técnico insuficiente.
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 ### EMOM7 – Otras tareas específicas de actualización y procedimiento
 
@@ -244,7 +244,7 @@ Asimismo, la automatización aparece claramente identificada como uno de los pil
 
 No obstante, aunque la cobertura es amplia, la propuesta mantiene las carencias habituales en términos de métricas, indicadores y herramientas concretas, lo que limita la capacidad de evaluar la eficacia real de las actuaciones.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### CONCLUSIÓN DEL BLOQUE MOODLEMISC
 
@@ -278,7 +278,7 @@ En lo relativo a la adecuación al ENS, la propuesta introduce elementos como in
 
 En consecuencia, la propuesta presenta un alto nivel de adecuación técnica y una clara orientación práctica, especialmente en el tratamiento de entornos heredados, pero con carencias en la formalización del ENS y en la definición de métricas de control.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### EDIN2 – Mantenimiento, actualización y mejora del espacio FTP
 
@@ -294,7 +294,7 @@ Este tratamiento integrado constituye un aspecto positivo, ya que permite consid
 
 En consecuencia, la propuesta responde adecuadamente al requisito desde el punto de vista funcional, pero presenta un nivel de desarrollo técnico limitado en aspectos clave de seguridad y cumplimiento.
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 ### CONCLUSIÓN DEL BLOQUE DINÁMICAS
 
@@ -326,7 +326,7 @@ Desde el punto de vista arquitectónico, se contemplan elementos como la separac
 
 En consecuencia, la propuesta presenta una buena base metodológica y una arquitectura coherente, pero con un nivel de detalle insuficiente en aspectos operativos concretos.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### EIPE2 – Modificaciones Front-End (HTML, CSS y JavaScript)
 
@@ -340,7 +340,7 @@ La propuesta presentada contempla de forma específica la adaptación de interfa
 
 En consecuencia, se trata de una propuesta correcta y alineada con el requisito, pero con un desarrollo técnico moderado.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### CONCLUSIÓN DEL BLOQUE INTEGRACIÓN (EIPE)
 
@@ -370,7 +370,7 @@ La propuesta presentada por empresa_s desarrolla este requisito mediante la defi
 
 En consecuencia, la propuesta puede considerarse sólida desde el punto de vista metodológico y de cobertura funcional, pero insuficientemente desarrollada en términos de concreción técnica.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### ESIS2 – Servicio de actualización de bases de datos
 
@@ -384,7 +384,7 @@ Asimismo, se incorporan aspectos relevantes como la optimización de consultas, 
 
 En consecuencia, la propuesta presenta una base metodológica adecuada, pero con un nivel de detalle técnico insuficiente para alcanzar la excelencia.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS3 – Consultoría de integración
 
@@ -398,7 +398,7 @@ No obstante, se detecta la ausencia de referencias a herramientas concretas de i
 
 En conjunto, se trata de una propuesta técnicamente sólida, con un buen nivel conceptual, pero con carencias en la concreción operativa.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### ESIS4 – Consultoría de ciberseguridad
 
@@ -412,7 +412,7 @@ Adicionalmente, se prevé la elaboración de documentación técnica, incluyendo
 
 En consecuencia, la propuesta presenta una cobertura adecuada, pero con un nivel de formalización insuficiente.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS5 – Actualización de la autenticación centralizada de usuarios
 
@@ -426,7 +426,7 @@ No obstante, se detecta una falta de concreción en la identificación de plataf
 
 En conjunto, se trata de uno de los subproyectos mejor desarrollados del bloque.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### ESIS6 – Mantenimiento de la autenticación centralizada de usuarios
 
@@ -438,7 +438,7 @@ El enfoque metodológico, basado en entornos de validación, despliegues progres
 
 Sin embargo, persiste la ausencia de indicadores cuantificables, así como la falta de herramientas concretas para la gestión IAM.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### ESIS7 – Gestión de servicios para la sincronización de usuarios
 
@@ -450,7 +450,7 @@ Asimismo, se incluyen elementos de seguridad como MFA y control de permisos, as�
 
 No obstante, la propuesta carece de concreción tecnológica en la arquitectura de sincronización y no define métricas de rendimiento o consistencia de datos.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS8 – Supervisión de usuarios de aplicaciones externas
 
@@ -462,7 +462,7 @@ Se incorporan asimismo mecanismos de auditoría, trazabilidad y autenticación r
 
 No obstante, la propuesta presenta carencias en la definición de herramientas concretas y en la inclusión de indicadores de uso o rendimiento.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS9 – Soporte técnico en entornos de preproducción
 
@@ -476,7 +476,7 @@ La propuesta presentada por empresa_s aborda este requisito mediante la definici
 
 En consecuencia, la propuesta puede considerarse coherente desde el punto de vista metodológico, pero con un nivel de concreción operativa limitado.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS10 – Despliegue de aplicaciones externas en producción
 
@@ -490,7 +490,7 @@ Asimismo, se contempla la realización de despliegues progresivos y la gestión 
 
 En consecuencia, la propuesta presenta una base técnica sólida, pero carece de elementos cuantificables que permitan evaluar su rendimiento operativo.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### ESIS11 – Integración en el gestor de servidores de bases de datos
 
@@ -502,7 +502,7 @@ Desde el punto de vista técnico, se incluyen motores como MariaDB, PostgreSQL o
 
 **No obstante, se detecta la ausencia de referencia al gestor corporativo concreto utilizado por EducaMadrid, lo que limita la adecuación específica de la propuesta.** Asimismo, no se incluyen métricas de disponibilidad ni indicadores de rendimiento.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS12 – Estudio de los recursos solicitados
 
@@ -514,7 +514,7 @@ Asimismo, se introduce el concepto de capacity planning, contemplando el crecimi
 
 No obstante, la propuesta no identifica herramientas específicas de análisis ni establece criterios cuantificables de dimensionamiento, lo que limita la precisión del estudio.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### ESIS13 – Solicitud de los recursos necesarios
 
@@ -526,7 +526,7 @@ Sin embargo, la ausencia de procedimientos concretos de solicitud, circuitos de 
 
 Asimismo, no se definen métricas de dimensionamiento ni indicadores de capacidad.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS14 – Bastionado de los recursos solicitados
 
@@ -538,7 +538,7 @@ Asimismo, se contemplan procesos de validación, escaneo de vulnerabilidades y a
 
 No obstante, se observa una falta de identificación de herramientas concretas para la gestión de vulnerabilidades o el control de cumplimiento, así como la ausencia de métricas de seguridad.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### ESIS15 – Instalación de paquetería y gestión de dependencias
 
@@ -550,7 +550,7 @@ Este nivel de detalle constituye uno de los puntos más fuertes del bloque, al p
 
 No obstante, se detecta cierta redundancia respecto a otros subproyectos y la ausencia de métricas objetivas que permitan evaluar la calidad del proceso.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### ESIS16 – Configuración del entorno
 
@@ -560,7 +560,7 @@ La propuesta cubre adecuadamente todos los elementos solicitados, incluyendo alm
 
 Sin embargo, al igual que en otros subproyectos, no se definen indicadores cuantificables ni métricas de rendimiento, lo que limita la evaluación objetiva de la solución.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### ESIS17 – Integración con LDAP
 
@@ -568,7 +568,7 @@ La propuesta aborda correctamente la integración con sistemas LDAP, incluyendo 
 
 No obstante, se detecta la ausencia de herramientas concretas y métricas de autenticación o disponibilidad.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS18 – Integración con el sistema de correo
 
@@ -576,7 +576,7 @@ La propuesta contempla la integración con sistemas de correo mediante la config
 
 Sin embargo, no se describe la integración específica con la plataforma existente ni se incluyen métricas de servicio.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS19 – Integración con bases de datos
 
@@ -586,7 +586,7 @@ La propuesta destaca por su enfoque en gobierno del dato, observabilidad y rendi
 
 No obstante, persiste la ausencia de herramientas concretas y métricas cuantificables.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### ESIS20 – Integración con CMDB
 
@@ -594,7 +594,7 @@ La propuesta desarrolla de forma muy completa el concepto de CMDB, incluyendo in
 
 Sin embargo, no se identifican herramientas concretas ni métricas de calidad del inventario.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### ESIS21 – Documentación del proyecto externo
 
@@ -608,7 +608,7 @@ Desde un punto de vista técnico, resulta positivo que la propuesta contemple la
 
 En consecuencia, la propuesta cubre adecuadamente el requisito, pero con un nivel de formalización insuficiente.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS22 – Gestión del riesgo del proyecto externo
 
@@ -620,7 +620,7 @@ Este enfoque permite estructurar la gestión de riesgos de manera ordenada, iden
 
 No obstante, se observa la ausencia de métricas cuantificables de riesgo y de indicadores que permitan evaluar la evolución del nivel de exposición, lo que limita la trazabilidad cuantitativa del modelo.
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 ### ESIS23 – Implementación de backups y Disaster Recovery
 
@@ -630,7 +630,7 @@ La propuesta contempla la realización de backups verificados, la definición de
 
 Sin embargo, no se detallan aspectos clave como RPO, RTO, tecnologías utilizadas, estrategias de replicación o pruebas de recuperación automatizadas, lo que limita significativamente la profundidad técnica.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS24 – Implementación de monitorización básica
 
@@ -638,7 +638,7 @@ La propuesta incluye la monitorización básica del sistema mediante la recogida
 
 No obstante, la falta de herramientas concretas, definición de umbrales y modelos de alerta reduce la capacidad de evaluar la eficacia del sistema de monitorización.
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 ### ESIS25 – Implementación de monitorización avanzada
 
@@ -646,7 +646,7 @@ En este subproyecto se amplía la monitorización a un nivel más avanzado, incl
 
 La propuesta mantiene un enfoque coherente con el subproyecto anterior, pero no introduce un salto significativo en detalle técnico, permaneciendo en un nivel descriptivo sin identificación de herramientas como APM, observabilidad distribuida o correlación avanzada.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS26 – Servicios de ciberseguridad básicos
 
@@ -654,7 +654,7 @@ La propuesta contempla medidas básicas de seguridad, incluyendo control de acce
 
 Sin embargo, la falta de concreción técnica y de indicadores de seguridad limita la profundidad de la solución.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS27 – Servicios de ciberseguridad avanzados
 
@@ -662,7 +662,7 @@ El subproyecto introduce un mayor nivel de sofisticación en seguridad, contempl
 
 La propuesta responde adecuadamente, pero sin llegar a detallar herramientas SIEM, SOC o mecanismos avanzados de detección, manteniendo un enfoque conceptual.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS28 – Actualización de sistemas operativos
 
@@ -670,7 +670,7 @@ La propuesta contempla la actualización controlada de sistemas operativos, incl
 
 No obstante, no se definen herramientas ni métricas de éxito, ni políticas concretas de actualización.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS29 – Gestión y seguimiento del proyecto
 
@@ -678,7 +678,7 @@ La gestión del proyecto se plantea mediante mecanismos de seguimiento, control 
 
 La propuesta es coherente metodológicamente, pero carece de indicadores de rendimiento del servicio, KPIs o cuadros de mando definidos.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESIS30 – Segmentación de la red de servidores
 
@@ -686,7 +686,7 @@ La propuesta contempla la segmentación de la red como medida de seguridad, incl
 
 Sin embargo, el nivel de detalle técnico es limitado, sin definir arquitecturas concretas de red ni tecnologías específicas.
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 ### ESIS31 – Optimización de la infraestructura de virtualización
 
@@ -694,7 +694,7 @@ El subproyecto final aborda la optimización de entornos virtualizados, incluyen
 
 La propuesta introduce conceptos relevantes, pero sin profundizar en herramientas ni métricas de optimización.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ## CONCLUSIÓN GLOBAL DEL BLOQUE ESIS
 
@@ -740,7 +740,7 @@ Asimismo, no se describen herramientas específicas de análisis ni se definen p
 
 En consecuencia, la propuesta cubre adecuadamente el requisito desde el punto de vista funcional, pero presenta un nivel de desarrollo técnico moderado en cuanto a formalización y verificabilidad.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### ESEG2 – Gestión de logs de las aplicaciones web
 
@@ -754,7 +754,7 @@ Asimismo, no se establecen indicadores ni métricas de gestión de logs, como ti
 
 En consecuencia, la propuesta responde de forma correcta al requisito, pero con un nivel de desarrollo insuficiente para garantizar una gestión avanzada de la información.
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 ### ESEG3 – Análisis y protección de la superficie de ataque
 
@@ -766,7 +766,7 @@ La propuesta presentada contempla el análisis de servicios expuestos, la revisi
 
 En consecuencia, la propuesta presenta una cobertura funcional correcta, pero con un nivel de madurez técnica limitado.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### CONCLUSIÓN DEL BLOQUE ESEG
 
@@ -786,7 +786,7 @@ La propuesta presentada contempla la revisión de código, la identificación de
 
 **No obstante, la propuesta no identifica herramientas específicas de análisis estático o dinámico, ni hace referencia a estándares de desarrollo seguro reconocidos, lo que limita la concreción del enfoque.** Asimismo, no se establecen métricas de calidad del código ni indicadores de mejora.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 ### EDSA2 – Ayuda al desarrollo seguro de código web
 
@@ -796,7 +796,7 @@ Este subproyecto complementa el anterior mediante la asistencia al desarrollo se
 
 Sin embargo, al igual que en EDSA1, no se concretan metodologías, herramientas ni indicadores, lo que limita la profundidad de la solución.
 
-**Valoración cualitativa: MEDIA***-ALTA**
+**MEDIA***-ALTA**
 
 ### CONCLUSIÓN DEL BLOQUE EDSA
 
@@ -814,7 +814,7 @@ La propuesta presentada contempla la gestión del programa, la recepción de rep
 
 No obstante, el nivel de detalle técnico es reducido, ya que no se definen plataformas de gestión, procesos de validación de reportes ni métricas asociadas al funcionamiento del programa, lo que limita la capacidad de evaluar su eficacia.
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 ### CONCLUSIÓN DEL BLOQUE EBBO
 
@@ -1071,7 +1071,7 @@ Adicionalmente, la propuesta no contempla una asignación explícita de recursos
 
 En consecuencia, aunque la planificación presenta una estructura coherente a nivel global y una orientación adecuada desde el punto de vista conceptual, carece del nivel de detalle operativo exigible para garantizar una ejecución plenamente controlada y verificable.
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 **Puntuación asignada: 5,50 / 11**
 
@@ -1091,7 +1091,7 @@ Asimismo, no se identifican responsables de la gestión de riesgos ni se estable
 
 En consecuencia, la propuesta presenta un reconocimiento adecuado de la existencia de riesgos y una gestión implícita en determinados procesos, pero carece de la formalización y estructuración necesarias para considerarse un modelo robusto de gestión de riesgos.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 **Puntuación asignada: 0,60 / 1**
 
@@ -1109,7 +1109,7 @@ Asimismo, no se describe la existencia de procedimientos documentados que permit
 
 En consecuencia, la propuesta presenta un conjunto de buenas prácticas que contribuyen a la resiliencia del sistema, pero carece de la formalización necesaria para configurar un plan de contingencias robusto, estructurado y plenamente verificable.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 **Puntuación asignada: 0,60 / 1**
 
@@ -1127,7 +1127,7 @@ La propuesta presentada por empresa_s incorpora distintos elementos que permiten
 
 En consecuencia, la propuesta incorpora buenas prácticas orientadas a la calidad, pero carece de un modelo formal que permita medir, controlar y mejorar de manera sistemática el nivel de servicio.
 
-**Valoración cualitativa: MEDIA-ALTA**
+**MEDIA-ALTA**
 
 **Puntuación asignada: 0,65 / 1**
 
@@ -1147,7 +1147,7 @@ Asimismo, no se define un modelo de trazabilidad end-to-end que permita seguir d
 
 En consecuencia, la propuesta presenta elementos parciales de trazabilidad, pero carece de un modelo completo, integrado y estructurado que permita garantizar un control exhaustivo del servicio.
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 **Puntuación asignada: 0,50 / 1**
 

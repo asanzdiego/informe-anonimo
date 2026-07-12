@@ -206,7 +206,7 @@ No se describen, por ejemplo, políticas de gestión de identidades, control de 
 
 #### Bloque de Aulas Virtuales (AV)
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 **El sistema de Aulas Virtuales constituye uno de los elementos centrales del ecosistema EducaMadrid, al ser la plataforma sobre la que se articula una parte sustancial de la actividad docente.** Desde el punto de vista técnico, se trata de un sistema especialmente exigente, tanto en términos de escalabilidad como de integración con otros componentes del entorno, incluyendo sistemas de identidad, plataformas de contenidos, servicios de videoconferencia y herramientas de evaluación.
 
@@ -266,7 +266,7 @@ La continuidad del servicio, aspecto crítico en un sistema de estas caracterís
 
 #### Bloque Mediateca (MED)
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 **El sistema de Mediateca constituye un componente esencial dentro del ecosistema EducaMadrid, orientado a la gestión, almacenamiento, procesamiento y distribución de contenidos multimedia.** Este tipo de sistemas presenta características técnicas específicas que lo diferencian de otros bloques, especialmente en lo relativo al tratamiento de grandes volúmenes de datos, la indexación de contenidos y la integración con servicios de streaming.
 
@@ -312,7 +312,7 @@ Esta carencia refuerza la conclusión de que la propuesta no aborda el sistema d
 
 #### Bloque de Correo Electrónico (COR)
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 **El sistema de correo electrónico constituye un servicio crítico dentro del ecosistema EducaMadrid, tanto por su carácter transversal como por su elevada utilización.** Este sistema no solo presta servicios de comunicación, sino que actúa como elemento integrador con otros sistemas, como plataformas Cloud, sistemas de identidad y servicios de notificaciones.
 
@@ -354,7 +354,7 @@ Esta ausencia de definición limita la evaluabilidad del sistema como componente
 
 #### Bloque Cloud (CLO)
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 **El sistema Cloud constituye un elemento fundamental en la gestión de almacenamiento y colaboración entre usuarios.** Este sistema requiere soluciones técnicas robustas orientadas a la sincronización de datos, la gestión de conflictos y la disponibilidad de la información.
 
@@ -390,7 +390,7 @@ Esta ausencia de desarrollo técnico limita la evaluabilidad del sistema en su c
 
 #### Bloque de Videoconferencia (VID)
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 **El bloque de videoconferencia incluye sistemas con requisitos especialmente exigentes en términos de rendimiento, disponibilidad y consumo de recursos.** Estos sistemas deben integrarse con otras plataformas del entorno y soportar un elevado número de usuarios concurrentes.
 

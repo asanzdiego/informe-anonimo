@@ -340,7 +340,7 @@ En consecuencia, aunque la propuesta presenta una cobertura clara del requisito 
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ELIF2 — Barra de herramientas y pie común de EducaMadrid
 
@@ -376,7 +376,7 @@ Asimismo, la propuesta no contempla una estrategia de despliegue estructurada, n
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### ELIF3 — Mejoras de presentación
 
@@ -410,7 +410,7 @@ La propuesta presentada por empresa_s desarrolla este apartado con un nivel de d
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ELIF4 — Mejoras de usabilidad y accesibilidad
 
@@ -444,7 +444,7 @@ En consecuencia, aunque la propuesta presenta una alineación clara con los requ
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### Conclusión del bloque ELIF
 
@@ -504,7 +504,7 @@ Igualmente, la integración con LDAP plano se describe mediante la definición d
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### Conclusión del bloque IFP
 
@@ -548,7 +548,7 @@ Asimismo, se observa la ausencia de métricas de aceptación que permitan valida
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### EMOM2 — Adaptación de la plataforma MoodleMisc
 
@@ -582,7 +582,7 @@ Asimismo, no se establecen criterios objetivos de escalabilidad, tales como el n
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### EMOM3 — Mantenimiento de la plataforma MoodleMisc
 
@@ -614,7 +614,7 @@ En consecuencia, aunque la propuesta presenta una cobertura sólida y una mejora
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### EMOM4 — Mejora de la ciberseguridad en MoodleMisc
 
@@ -644,7 +644,7 @@ Sin embargo, el nivel de detalle técnico resulta limitado, ya que no se concret
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### EMOM5 — Solución de problemas conocidos en MoodleMisc
 
@@ -678,7 +678,7 @@ Asimismo, no se establecen métricas de resolución, tiempos de respuesta ni ind
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### EMOM6 — Configuraciones para conexiones externas
 
@@ -710,7 +710,7 @@ En consecuencia, la propuesta presenta una cobertura funcional correcta, pero co
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### EMOM7 — Otras tareas específicas de actualización y procedimiento
 
@@ -736,7 +736,7 @@ No obstante, aunque la cobertura es amplia, la propuesta mantiene las carencias 
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### Conclusión del bloque EMOM
 
@@ -780,7 +780,7 @@ En lo relativo a la adecuación al ENS, la propuesta introduce elementos como in
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### EDIN2 — Mantenimiento, actualización y mejora del espacio FTP
 
@@ -814,7 +814,7 @@ La propuesta presentada por empresa_s integra el servicio FTP dentro del modelo 
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### Conclusión del bloque EDIN
 
@@ -858,7 +858,7 @@ En consecuencia, la propuesta presenta una buena base metodológica y una arquit
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### EIPE2 — Modificaciones front-end (HTML, CSS y JavaScript)
 
@@ -886,7 +886,7 @@ En consecuencia, se trata de una propuesta correcta y alineada con el requisito,
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### Conclusión del bloque EIPE
 
@@ -928,7 +928,7 @@ En consecuencia, la propuesta puede considerarse sólida desde el punto de vista
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS2 — Servicio de actualización de bases de datos
 
@@ -960,7 +960,7 @@ En consecuencia, la propuesta presenta una base metodológica adecuada, pero con
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS3 — Consultoría de integración
 
@@ -990,7 +990,7 @@ En conjunto, se trata de una propuesta técnicamente sólida, con un buen nivel 
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS4 — Consultoría de ciberseguridad
 
@@ -1022,7 +1022,7 @@ En consecuencia, la propuesta presenta una cobertura adecuada, pero con un nivel
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS5 — Actualización de la autenticación centralizada de usuarios
 
@@ -1050,7 +1050,7 @@ No obstante, se detecta una falta de concreción en la identificación de plataf
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS6 — Mantenimiento de la autenticación centralizada de usuarios
 
@@ -1076,7 +1076,7 @@ Sin embargo, persiste la ausencia de indicadores cuantificables, así como la fa
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS7 — Gestión de servicios para la sincronización de usuarios
 
@@ -1102,7 +1102,7 @@ No obstante, la propuesta carece de concreción tecnológica en la arquitectura 
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS8 — Supervisión de usuarios de aplicaciones externas
 
@@ -1128,7 +1128,7 @@ No obstante, la propuesta presenta carencias en la definición de herramientas c
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS9 — Soporte técnico en entornos de preproducción
 
@@ -1160,7 +1160,7 @@ En consecuencia, la propuesta puede considerarse coherente desde el punto de vis
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS10 — Despliegue de aplicaciones externas en producción
 
@@ -1188,7 +1188,7 @@ La propuesta presentada desarrolla este requisito mediante un modelo de desplieg
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS11 — Integración con el gestor de servidores de bases de datos
 
@@ -1214,7 +1214,7 @@ Desde el punto de vista técnico, se incluyen motores como MariaDB, PostgreSQL o
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS12 — Estudio de los recursos solicitados
 
@@ -1240,7 +1240,7 @@ No obstante, la propuesta no identifica herramientas específicas de análisis n
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS13 — Solicitud de los recursos necesarios
 
@@ -1268,7 +1268,7 @@ Asimismo, no se definen métricas de dimensionamiento ni indicadores de capacida
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS14 — Bastionado de los recursos solicitados
 
@@ -1294,7 +1294,7 @@ No obstante, se observa una falta de identificación de herramientas concretas p
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS15 — Instalación de paquetería y gestión de dependencias
 
@@ -1320,7 +1320,7 @@ No obstante, se detecta cierta redundancia respecto a otros subproyectos y la au
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS16 — Configuración del entorno
 
@@ -1344,7 +1344,7 @@ Sin embargo, al igual que en otros subproyectos, no se definen indicadores cuant
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS17 — Integración con LDAP
 
@@ -1366,7 +1366,7 @@ No obstante, se detecta la ausencia de herramientas concretas y métricas de aut
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS18 — Integración con el sistema de correo
 
@@ -1388,7 +1388,7 @@ Sin embargo, no se describe la integración específica con la plataforma existe
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS19 — Integración con bases de datos
 
@@ -1412,7 +1412,7 @@ No obstante, persiste la ausencia de herramientas concretas y métricas cuantifi
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS20 — Integración con la CMDB
 
@@ -1434,7 +1434,7 @@ Sin embargo, no se identifican herramientas concretas ni métricas de calidad de
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS21 — Documentación del proyecto exterior
 
@@ -1466,7 +1466,7 @@ En consecuencia, la propuesta cubre adecuadamente el requisito, pero con un nive
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS22 — Gestión del riesgo del proyecto exterior
 
@@ -1492,7 +1492,7 @@ No obstante, se observa la ausencia de métricas cuantificables de riesgo y de i
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS23 — Implementación de copias de seguridad y recuperación ante desastres
 
@@ -1516,7 +1516,7 @@ Sin embargo, no se detallan aspectos clave como RPO, RTO, tecnologías utilizada
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS24 — Implementación de monitorización básica
 
@@ -1538,7 +1538,7 @@ No obstante, la falta de herramientas concretas, definición de umbrales y model
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### ESIS25 — Implementación de monitorización avanzada
 
@@ -1560,7 +1560,7 @@ No se acreditan mecanismos adicionales de concreción y verificación más allá
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS26 — Implantación de medidas de ciberseguridad básicas
 
@@ -1582,7 +1582,7 @@ Sin embargo, la falta de concreción técnica y de indicadores de seguridad limi
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS27 — Implantación de medidas de ciberseguridad avanzadas
 
@@ -1604,7 +1604,7 @@ No se acreditan mecanismos adicionales de concreción y verificación más allá
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS28 — Actualización de sistemas operativos
 
@@ -1626,7 +1626,7 @@ No obstante, no se definen herramientas ni métricas de éxito, ni políticas co
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS29 — Gestión y seguimiento del proyecto
 
@@ -1648,7 +1648,7 @@ No se acreditan mecanismos adicionales de concreción y verificación más allá
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS30 — Segmentación de la red de servidores
 
@@ -1670,7 +1670,7 @@ Sin embargo, el nivel de detalle técnico es limitado, sin definir arquitecturas
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### ESIS31 — Optimización de la infraestructura de virtualización
 
@@ -1692,7 +1692,7 @@ No se acreditan mecanismos adicionales de concreción y verificación más allá
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### Conclusión del bloque ESIS
 
@@ -1734,7 +1734,7 @@ Asimismo, no se describen herramientas específicas de análisis ni se definen p
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESEG2 — Gestión de logs de las aplicaciones web
 
@@ -1764,7 +1764,7 @@ Asimismo, no se establecen indicadores ni métricas de gestión de logs, como ti
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### ESEG3 — Análisis y protección de la superficie de ataque
 
@@ -1794,7 +1794,7 @@ En consecuencia, la propuesta presenta una cobertura funcional correcta, pero co
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### Conclusión del bloque ESEG
 
@@ -1828,7 +1828,7 @@ La propuesta presentada contempla la revisión de código, la identificación de
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### EDSA2 — Ayuda al desarrollo seguro de código web
 
@@ -1852,7 +1852,7 @@ Sin embargo, al igual que en EDSA1, no se concretan metodologías, herramientas 
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### Conclusión del bloque EDSA
 
@@ -1886,7 +1886,7 @@ No obstante, el nivel de detalle técnico es reducido, ya que no se definen plat
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### Conclusión del bloque EBBO
 

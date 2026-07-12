@@ -196,7 +196,7 @@ En consecuencia, la puntuación asignada en los distintos subcriterios encuentra
 
 #### Bloque de servicios transversales (TRA)
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 **El bloque de servicios transversales constituye el eje estructural del ecosistema EducaMadrid, al ser responsable de la cohesión funcional entre los distintos sistemas que lo integran.** Este bloque incluye elementos críticos como la gestión de identidades, la sincronización de usuarios, los mecanismos de integración y los servicios comunes de autenticación.
 
@@ -300,7 +300,7 @@ En consecuencia, el bloque se considera adecuadamente resuelto, mostrando un alt
 
 #### Bloque de Aulas Virtuales (AV – Moodle)
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El sistema de Aulas Virtuales constituye uno de los componentes más críticos del ecosistema EducaMadrid, tanto por el volumen de usuarios como por su impacto directo en la actividad docente.
 
@@ -424,7 +424,7 @@ En consecuencia, el bloque se considera adecuadamente resuelto, con un alto grad
 
 #### Bloque de Mediateca (MED)
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El sistema de Mediateca constituye uno de los componentes estratégicos del ecosistema EducaMadrid, al actuar como repositorio centralizado de contenidos multimedia utilizados en la actividad educativa.
 
@@ -562,7 +562,7 @@ En consecuencia, se considera que el bloque se encuentra adecuadamente resuelto,
 
 #### Bloque de Correo Electrónico (COR)
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El sistema de correo electrónico constituye un servicio fundamental dentro del ecosistema EducaMadrid, tanto por su uso intensivo como por su papel como herramienta de comunicación institucional.
 
@@ -630,7 +630,7 @@ La propuesta permite evaluar de forma objetiva la viabilidad de las actuaciones 
 
 #### Bloque Cloud (CLO – Nextcloud / Collabora)
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El sistema Cloud constituye un elemento clave en la gestión de almacenamiento y colaboración dentro del ecosistema EducaMadrid.
 
@@ -710,7 +710,7 @@ La propuesta permite evaluar de forma objetiva:
 
 #### Bloque de Videoconferencia (VID)
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El sistema de videoconferencia constituye un componente de especial criticidad dentro del ecosistema EducaMadrid, al estar directamente vinculado a la actividad docente en tiempo real y a la prestación de servicios síncronos de alta demanda.
 

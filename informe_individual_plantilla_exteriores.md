@@ -322,7 +322,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
+**[EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
 
 *Justificar brevemente el nivel asignado y mantenerlo alineado con las evidencias expuestas.*
 

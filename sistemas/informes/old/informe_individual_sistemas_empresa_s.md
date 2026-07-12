@@ -46,7 +46,7 @@ La propuesta presentada por empresa_s desarrolla este subproyecto con un nivel s
 
 En términos generales, la propuesta responde de forma sólida al requisito, desarrollando una solución técnicamente coherente, aunque con un margen de mejora en la definición de indicadores cuantificables y procedimientos detallados.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma
 
@@ -60,7 +60,7 @@ Sin embargo, se detectan ciertas limitaciones en la identificación de herramien
 
 En conjunto, la propuesta presenta una cobertura amplia y técnicamente consistente, demostrando una capacidad adecuada para abordar la optimización proactiva del entorno.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## BD3 — Mantenimiento de las bases de datos de gestión de la configuración de EducaMadrid
 
@@ -74,7 +74,7 @@ El subproyecto BD3 exige el desarrollo y evolución de un sistema de gestión de
 
 En conjunto, la solución es coherente y demuestra un nivel adecuado de madurez técnica, aunque con ciertas carencias en la especificación de herramientas y métricas.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## BD4 — Mantenimiento de las bases de datos de las Aulas Virtuales
 
@@ -88,7 +88,7 @@ Las carencias detectadas se centran en la falta de identificación de herramient
 
 En términos globales, la cobertura del requisito es amplia y técnicamente consistente.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## BD5 — Mantenimiento de disparadores y Foreign Data Wrappers
 
@@ -102,7 +102,7 @@ No obstante, la propuesta presenta un nivel limitado de detalle en lo relativo a
 
 En conjunto, la solución es adecuada y demuestra una comprensión clara del requisito, aunque con margen de mejora en la definición técnica detallada.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## BD6 — Implementación y mantenimiento de bases de datos en entornos de microservicios
 
@@ -116,7 +116,7 @@ Sin embargo, se detecta la ausencia de herramientas específicas de orquestació
 
 En términos globales, la solución es consistente y alineada con el requisito, aunque con margen de mejora en la definición arquitectónica.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## Conclusión del bloque BD
 
@@ -138,7 +138,7 @@ El análisis del bloque de bases de datos pone de manifiesto que la propuesta de
 
 En conjunto, la propuesta responde adecuadamente al requisito, desarrollando un modelo operativo coherente orientado a la automatización y la optimización de capacidad.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## MON2 — Realización periódica de pruebas de estrés en diferentes entornos de la plataforma
 
@@ -154,7 +154,7 @@ Como limitación, se observa la ausencia de definición explícita de objetivos 
 
 En términos globales, la propuesta presenta un nivel técnico elevado y una adecuada capacidad de ejecución de pruebas de rendimiento en entornos complejos.
 
-**Valoración cualitativa: Muy alta**
+**Muy alta**
 
 ## MON3 — Mantener actualizado el sistema de monitorización y estadísticas de uso
 
@@ -170,7 +170,7 @@ Sin embargo, la propuesta presenta una cierta falta de definición en lo relativ
 
 En términos generales, la solución es consistente, bien estructurada y técnicamente adecuada para entornos de gran escala.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## MON4 — Monitorización y estadísticas de servicios basados en IA
 
@@ -184,7 +184,7 @@ No obstante, se detecta una menor profundidad en la definición de herramientas 
 
 En conjunto, la propuesta cubre el requisito de manera adecuada, incorporando elementos diferenciales propios de la operación de sistemas de IA, aunque con margen de mejora en la definición detallada de indicadores y herramientas.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## Conclusión del bloque MON
 
@@ -206,7 +206,7 @@ Sin embargo, la propuesta no desarrolla en profundidad los mecanismos de escalab
 
 En términos generales, la solución es técnicamente adecuada y bien orientada, aunque con margen de mejora en la definición operativa.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## UPD2 — Sistema secundario de videoconferencias con grabación
 
@@ -220,7 +220,7 @@ No obstante, la propuesta presenta un nivel de desarrollo limitado en lo relativ
 
 En conjunto, la solución cubre el requisito, aunque con un desarrollo técnico menos profundo que el observado en otros apartados.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## UPD3 — Mantenimiento y mejora de Mattermost
 
@@ -234,7 +234,7 @@ Sin embargo, la propuesta no desarrolla de forma detallada los componentes inter
 
 En términos generales, la solución es correcta y coherente, aunque con un nivel de detalle técnico limitado.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## UPD4 — Solución Kanban
 
@@ -246,7 +246,7 @@ La falta de concreción técnica impide evaluar con detalle la capacidad real de
 
 En consecuencia, la cobertura del requisito resulta parcialmente insuficiente, al mantenerse en un nivel conceptual sin desarrollo operativo.
 
-**Valoración cualitativa: Media-Baja**
+**Media-Baja**
 
 ## UPD5 — Mantenimiento y mejora de GitLab
 
@@ -258,7 +258,7 @@ No obstante, el nivel de detalle sobre la configuración específica de pipeline
 
 En términos generales, la solución es coherente y alineada con el requisito, aunque con margen de mejora en la concreción técnica.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ### BLOQUE UPD — ACTUALIZACIÓN DE SERVICIOS EXISTENTES
 
@@ -272,7 +272,7 @@ El subproyecto UPD6 requiere la gestión de la herramienta LimeSurvey incluyendo
 
 En consecuencia, aunque el planteamiento resulta coherente desde un punto de vista estructural, carece de profundidad técnica suficiente para evaluar su aplicabilidad en un entorno de gran escala.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## UPD7 — Mantenimiento y mejora de SonarQube
 
@@ -284,7 +284,7 @@ La propuesta de empresa_s integra SonarQube dentro de su modelo DevOps, donde se
 
 En conjunto, la solución cubre el ámbito funcional requerido, aunque con una concreción técnica limitada.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## UPD8 — Mantenimiento y mejora de Redmine
 
@@ -298,7 +298,7 @@ No obstante, la propuesta no profundiza en aspectos como la configuración de fl
 
 En términos generales, la solución es coherente y funcional, aunque con un desarrollo técnico moderado.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## UPD9 — Mantenimiento y configuración de Wowza Streaming Engine
 
@@ -312,7 +312,7 @@ Sin embargo, la propuesta no detalla aspectos operativos relevantes como la gest
 
 En conjunto, la solución presenta un nivel técnico adecuado y una alineación correcta con el requisito, aunque con margen de mejora en la definición operativa.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## UPD10 — Mantenimiento y gestión de contenidos AbiesWeb
 
@@ -324,7 +324,7 @@ El subproyecto UPD10 está orientado a la gestión de contenidos bibliográficos
 
 En conjunto, la cobertura del requisito es parcial y se mantiene en un nivel descriptivo general.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## UPD11 — Abies+
 
@@ -336,7 +336,7 @@ Tampoco se aborda de forma específica la posible migración desde sistemas ante
 
 En consecuencia, la propuesta presenta una cobertura limitada del requisito, sin un desarrollo técnico suficiente que permita evaluar su capacidad real de ejecución.
 
-**Valoración cualitativa: Media-Baja**
+**Media-Baja**
 
 ## UPD12 — Implementación, mantenimiento y mejora de Empieza
 
@@ -350,7 +350,7 @@ El planteamiento incluye una arquitectura multinivel con balanceo, integración 
 
 En conjunto, la solución es conceptualmente sólida pero presenta carencias en su desarrollo técnico detallado.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## UPD13 — Sistema de gestión de la configuración
 
@@ -362,7 +362,7 @@ La propuesta de empresa_s incluye la automatización mediante Ansible y la integ
 
 En consecuencia, la cobertura del requisito es parcial, con un enfoque generalista que no alcanza el nivel de detalle requerido.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## UPD14 — Solución de contenedores
 
@@ -374,7 +374,7 @@ La propuesta de empresa_s incluye la utilización de Docker y la integración en
 
 Esta falta de definición limita significativamente la capacidad de evaluar la viabilidad de la solución en entornos distribuidos.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## UPD15 — Gestión y decomisionado de servidores
 
@@ -386,7 +386,7 @@ Sin embargo, no se describen procedimientos completos de decomisionado ni mecani
 
 En consecuencia, la propuesta presenta una cobertura parcial del requisito, con un nivel de detalle insuficiente para su evaluación completa.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## Conclusión del bloque UPD
 
@@ -410,7 +410,7 @@ En términos globales, la valoración del bloque se sitúa en un nivel medio-alt
 
 En consecuencia, la propuesta presenta una base técnica adecuada pero con un desarrollo insuficiente en términos de operación a gran escala.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## CLO2 — Almacenamiento temporal de datos en la nube
 
@@ -424,7 +424,7 @@ El enfoque planteado permite identificar una comprensión adecuada del papel de 
 
 En consecuencia, la solución resulta funcional desde un punto de vista conceptual, pero presenta un desarrollo técnico limitado para abordar escenarios exigentes.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## CLO3 — Sistema de edición en línea de EducaMadrid
 
@@ -438,7 +438,7 @@ La ausencia de estos elementos limita la capacidad de evaluar la robustez de la 
 
 En consecuencia, la propuesta presenta una cobertura funcional adecuada, pero con un nivel de desarrollo técnico incompleto.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## Conclusión del bloque CLO
 
@@ -460,7 +460,7 @@ Sin embargo, la propuesta no desarrolla en profundidad aspectos como la federaci
 
 En términos generales, la solución es adecuada y demuestra una comprensión del requisito, aunque con margen de mejora en la definición técnica.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## OTR2 — Gestión 2FA en SSO
 
@@ -472,7 +472,7 @@ El subproyecto OTR2 se centra en la implementación de mecanismos de autenticaci
 
 En consecuencia, la solución resulta adecuada desde un punto de vista conceptual, pero carece de desarrollo técnico suficiente.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## OTR3 — Automatización de tareas
 
@@ -484,7 +484,7 @@ Este planteamiento introduce un nivel significativo de automatización en la ope
 
 Sin embargo, no se identifican arquitecturas específicas de orquestación ni sistemas centralizados de gestión de automatizaciones, lo que limita el desarrollo técnico del subproyecto.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## OTR4 — Sistema de análisis de datos mediante Elastic
 
@@ -496,7 +496,7 @@ No obstante, el nivel de desarrollo técnico específico es limitado, ya que no 
 
 En consecuencia, la cobertura del requisito es parcial.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## OTR5 — Herramienta de flujos de trabajo
 
@@ -506,7 +506,7 @@ La propuesta de empresa_s no desarrolla de forma específica este subproyecto, l
 
 Esta ausencia de desarrollo impide evaluar la capacidad real de ejecución del requisito.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## OTR6 — Portal CAU
 
@@ -516,7 +516,7 @@ La propuesta de empresa_s aborda este ámbito de forma general, integrando la ge
 
 La falta de detalle técnico limita la valoración del subproyecto.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## OTR7 — Servicios de Inteligencia Artificial
 
@@ -526,7 +526,7 @@ La propuesta de empresa_s incorpora la inteligencia artificial de forma transver
 
 Se aprecia un enfoque innovador y alineado con las tendencias actuales, aunque la definición técnica de arquitecturas, pipelines de entrenamiento y despliegue de modelos resulta limitada.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## Conclusión del bloque OTR
 
@@ -546,7 +546,7 @@ La propuesta de empresa_s integra el sistema de correo dentro de una arquitectur
 
 En consecuencia, la cobertura del requisito resulta parcial, al centrarse en la infraestructura básica y omitir aspectos clave de control operativo.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## COR2 — Mantenimiento automatizado de listas de distribución
 
@@ -562,7 +562,7 @@ Esta falta de concreción reduce la capacidad de evaluar la viabilidad real de l
 
 En conjunto, la propuesta presenta una base conceptual adecuada pero carece del desarrollo técnico necesario para garantizar una implementación operativa completa del requisito.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## COR3 — Gestión de cuotas de correo
 
@@ -576,7 +576,7 @@ Asimismo, no se identifican herramientas específicas para la gestión de cuotas
 
 En consecuencia, la cobertura del requisito resulta parcial, al centrarse en la infraestructura base sin abordar los mecanismos funcionales asociados a la gestión de cuotas.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## COR4 — Control del spam
 
@@ -590,7 +590,7 @@ Asimismo, no se definen métricas asociadas al rendimiento del sistema de filtra
 
 La ausencia de estos elementos limita la capacidad de evaluar la eficacia real de la solución.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## COR5 — Mantenimiento de buzones de correo
 
@@ -604,7 +604,7 @@ No obstante, no se describen procedimientos operativos detallados para la gesti�
 
 Esta falta de concreción limita la evaluación de la operatividad del servicio.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## COR6 — Seguridad del sistema de correo
 
@@ -614,7 +614,7 @@ La propuesta de empresa_s integra la seguridad como un elemento transversal, inc
 
 **Sin embargo, el nivel de desarrollo técnico específico es limitado.** No se describen procedimientos concretos de actualización de políticas de seguridad, ni herramientas específicas de análisis, ni métricas que permitan evaluar el nivel de protección.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## COR7 — Infraestructura de correo
 
@@ -630,7 +630,7 @@ La ausencia de herramientas específicas asociadas a la gestión del ciclo de vi
 
 En consecuencia, la propuesta presenta una base técnica adecuada, pero con un desarrollo insuficiente en lo relativo a la evolución estructurada del sistema.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## COR8 — Ampliación de servidores Mailbox
 
@@ -646,7 +646,7 @@ La falta de planificación de capacidad a medio y largo plazo introduce incertid
 
 En consecuencia, la solución resulta adecuada a nivel conceptual, pero con un desarrollo técnico limitado para su aplicación operativa.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## COR9 — Módulo receptor de inyección directa
 
@@ -660,7 +660,7 @@ Esta ausencia de desarrollo impide evaluar la capacidad real del licitador para 
 
 En consecuencia, la cobertura del requisito resulta claramente insuficiente.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## COR10 — Soporte del módulo de inyección directa
 
@@ -674,7 +674,7 @@ Asimismo, no se definen métricas de funcionamiento, ni acuerdos de nivel de ser
 
 En consecuencia, la propuesta no proporciona información suficiente para valorar la viabilidad operativa del mantenimiento del módulo, lo que supone una cobertura claramente insuficiente del requisito.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## Conclusión del bloque COR
 
@@ -716,7 +716,7 @@ Esta carencia tiene un impacto significativo en la valoración global del servic
 
 En consecuencia, la cobertura puede considerarse parcial, basada en extrapolaciones de otros apartados de la propuesta.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## AV2 — Mantenimiento de servidores FrontEnd de aulas virtuales
 
@@ -728,7 +728,7 @@ El subproyecto AV2 exige la gestión de los servidores de aplicación que soport
 
 La ausencia de este nivel de detalle limita la evaluación del grado real de cumplimiento del requisito.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## AV3 — Despliegue de nuevos grupos de aulas virtuales
 
@@ -740,7 +740,7 @@ La propuesta de empresa_s incorpora conceptos de automatización y despliegue me
 
 En consecuencia, la cobertura del subproyecto resulta parcialmente insuficiente.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## AV4 — Redistribución de NFS de datos
 
@@ -752,7 +752,7 @@ No obstante, no se desarrollan estrategias específicas para el entorno de aulas
 
 En consecuencia, la solución es técnicamente coherente pero insuficientemente desarrollada.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## Conclusión del bloque AV
 
@@ -772,7 +772,7 @@ La propuesta de empresa_s incluye LDAP como uno de los pilares de su arquitectur
 
 En consecuencia, la cobertura del requisito resulta parcial.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## POR2 — Migración del sistema LDAP máster
 
@@ -784,7 +784,7 @@ No se describen fases de migración, ni entornos de pruebas, ni mecanismos de va
 
 En consecuencia, la propuesta presenta una carencia significativa en este subproyecto.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## Conclusión del bloque POR
 
@@ -808,7 +808,7 @@ Esta falta de desarrollo reduce el nivel de concreción técnica y limita la eva
 
 En consecuencia, la propuesta cubre el requisito desde una perspectiva general de control del sistema, pero no alcanza el grado de detalle necesario en el ámbito específico de DNS.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## SEG2 — LDAP Máster para usuarios privilegiados
 
@@ -824,7 +824,7 @@ Esta falta de diferenciación limita la alineación completa con el requisito, a
 
 En consecuencia, la propuesta presenta un buen enfoque general de identidad, pero no alcanza el nivel de especialización requerido.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## SEG3 — Gestión de certificados
 
@@ -838,7 +838,7 @@ Se aprecia que el modelo de operación incorpora la actualización de componente
 
 La ausencia de estos elementos introduce incertidumbre en la ejecución del proceso y limita la verificabilidad del cumplimiento del requisito.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## SEG4 — Gestión de dominios DNS
 
@@ -852,7 +852,7 @@ Asimismo, no se incluyen métricas operativas ni indicadores de rendimiento que 
 
 En consecuencia, la cobertura del requisito se mantiene en un nivel general, sin un desarrollo técnico específico.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## SEG5 — Análisis de vulnerabilidades
 
@@ -866,7 +866,7 @@ Este enfoque representa un aspecto positivo, ya que introduce un componente de o
 
 La ausencia de métricas cuantificadas y procedimientos operativos detallados limita la capacidad de evaluar la eficacia del modelo propuesto.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## SEG6 — Sistema de detección de intrusiones
 
@@ -882,7 +882,7 @@ Asimismo, no se incluyen métricas cuantificadas relacionadas con tiempos de det
 
 En consecuencia, la propuesta presenta una base conceptual adecuada en materia de observabilidad y monitorización, pero con un desarrollo insuficiente en lo relativo a la operación estructurada de la detección y respuesta ante incidentes.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## SEG7 — Auditorías internas de aplicaciones
 
@@ -896,7 +896,7 @@ La ausencia de estos elementos limita la capacidad de evaluar la madurez del pro
 
 En consecuencia, la cobertura del requisito es adecuada a nivel conceptual, pero insuficiente en su desarrollo operativo.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## SEG8 — Auditorías internas continuas de sistemas
 
@@ -910,7 +910,7 @@ Asimismo, no se identifican indicadores de control ni métricas que permitan med
 
 En consecuencia, la propuesta presenta un enfoque coherente desde la perspectiva de monitorización continua, pero no alcanza el nivel de formalización requerido para auditorías continuas estructuradas.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## SEG9 — Logs centralizados
 
@@ -924,7 +924,7 @@ Se valora positivamente la integración de logs, métricas y trazas dentro de un
 
 A pesar de estas carencias, la claridad del enfoque y su integración dentro del modelo global de observabilidad permiten valorar positivamente este subproyecto.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## SEG10 — Claves RSA unificadas
 
@@ -938,7 +938,7 @@ La ausencia de este desarrollo limita la alineación con el requisito, especialm
 
 En consecuencia, la cobertura del subproyecto resulta parcial.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## SEG11 — Soporte en eventos de Ciberseguridad
 
@@ -952,7 +952,7 @@ La falta de concreción impide evaluar con precisión el nivel de preparación p
 
 En consecuencia, la propuesta cubre el requisito de forma genérica, pero sin un desarrollo específico suficiente.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## Conclusión del bloque SEG
 
@@ -974,7 +974,7 @@ Asimismo, el propio planteamiento indica en algunos casos que el uso de determin
 
 En consecuencia, la solución resulta conceptualmente adecuada pero insuficientemente desarrollada para garantizar su aplicabilidad en un entorno de gran escala.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## CON2 — Automatización de tareas
 
@@ -988,7 +988,7 @@ Sin embargo, no se identifican sistemas centralizados de orquestación ni plataf
 
 A pesar de esta limitación, el subproyecto presenta una cobertura adecuada y consistente con el planteamiento general de la propuesta.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## CON3 — Sistema auxiliar de automatización
 
@@ -998,7 +998,7 @@ El subproyecto CON3 implica la existencia de sistemas complementarios de automat
 
 Esta falta de concreción reduce la capacidad de valorar la solución y pone de manifiesto una cobertura limitada del requisito.
 
-**Valoración cualitativa: Media-Baja**
+**Media-Baja**
 
 ## Conclusión del bloque CON
 
@@ -1020,7 +1020,7 @@ Asimismo, el modelo de gobierno multinivel (estratégico, táctico y operativo) 
 
 En consecuencia, la propuesta ofrece una base funcional adecuada desde el punto de vista de monitorización y control, pero carece de un desarrollo operativo detallado en lo relativo a la coordinación y revisión de entornos migrados.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## MIG2 — Fases preparatorias y planificación técnica
 
@@ -1036,7 +1036,7 @@ Esta falta de concreción limita la capacidad de evaluar la viabilidad real del 
 
 En consecuencia, la propuesta presenta una buena base metodológica, pero con un nivel de desarrollo técnico insuficiente en la planificación específica de la migración.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## MIG3 — Preparación de servidores y documentación
 
@@ -1064,7 +1064,7 @@ La falta de estos elementos limita la capacidad de evaluar la robustez del proce
 
 En consecuencia, la propuesta presenta una base funcional adecuada en términos de monitorización y validación general, pero no desarrolla de forma específica la verificación de migraciones complejas.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## MIG5 — Mantenimiento tras la migración
 
@@ -1080,7 +1080,7 @@ Esta falta de especialización reduce la capacidad de evaluar la eficiencia del 
 
 En consecuencia, la propuesta cubre adecuadamente el mantenimiento general del sistema, pero no desarrolla con suficiente detalle las particularidades del soporte tras migraciones.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## Conclusión del bloque MIG
 
@@ -1108,7 +1108,7 @@ Esta falta de cuantificación y formalización limita la verificabilidad del mod
 
 En consecuencia, la propuesta contempla la evaluación del rendimiento desde un enfoque conceptual adecuado, pero con un nivel de desarrollo técnico insuficiente para su aplicación sistemática.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## IA2 — Ingeniería de prompts
 
@@ -1124,7 +1124,7 @@ Adicionalmente, no se detalla cómo se gestionará la evolución de estos prompt
 
 En consecuencia, la propuesta presenta un enfoque conceptual sólido y alineado con buenas prácticas emergentes, pero con una concreción técnica limitada en su desarrollo.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## IA3 — Testeo de guardarraíles
 
@@ -1140,7 +1140,7 @@ La ausencia de estos elementos reduce la capacidad de evaluar la robustez del si
 
 En consecuencia, la propuesta aborda adecuadamente el concepto de control de IA, pero sin desarrollar en profundidad los mecanismos técnicos asociados a su implantación.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## IA4 — Integración en aplicativos
 
@@ -1156,7 +1156,7 @@ Esta falta de detalle limita la capacidad de evaluar la aplicabilidad real de la
 
 En consecuencia, la propuesta presenta una visión conceptual sólida, pero con un nivel de desarrollo técnico limitado en la evaluación e implementación de integraciones.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## IA5 — Evaluación de capacidades y límites por usuario
 
@@ -1172,7 +1172,7 @@ La ausencia de estos elementos limita la capacidad de evaluar la viabilidad oper
 
 En consecuencia, la propuesta cubre adecuadamente el concepto del requisito, pero con un nivel de detalle insuficiente para su implementación práctica.
 
-**Valoración cualitativa: Media-Alta**
+**Media-Alta**
 
 ## Conclusión del bloque IA
 

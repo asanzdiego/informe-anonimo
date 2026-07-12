@@ -48,7 +48,7 @@ La propuesta presentada por empresa_n aborda este subproyecto mediante una descr
 
 En relación con las propuestas de mejora, éstas se limitan a reforzar las actividades ya descritas, como la revisión y seguimiento del estado del sistema, sin introducir elementos técnicos adicionales ni metodologías específicas, lo que impide identificar un valor diferencial respecto a las tareas base.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma
 
@@ -58,7 +58,7 @@ La propuesta de empresa_n plantea actividades como la revisión de consultas, la
 
 Las propuestas de mejora identificadas se basan en la ampliación de las tareas de revisión y mantenimiento ya descritas, sin aportar elementos técnicos adicionales ni metodologías diferenciadas, lo que limita su impacto real sobre el rendimiento del sistema.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## BD3 — Mantenimiento de las bases de datos de gestión de la configuración de EducaMadrid
 
@@ -68,7 +68,7 @@ Las propuestas de mejora identificadas se basan en la ampliación de las tareas 
 
 Las propuestas de mejora siguen el mismo patrón observado en el resto del bloque, consistiendo en la ampliación de las tareas de revisión y actualización, sin incorporar automatización ni evolución funcional del sistema.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## BD4 — Mantenimiento de las bases de datos de las Aulas Virtuales
 
@@ -78,7 +78,7 @@ El Documento de Invitación establece que este subproyecto debe abordar la gesti
 
 Las mejoras propuestas consisten en reforzar las labores de seguimiento y control, sin introducir procedimientos técnicos adicionales, lo que no permite identificar una evolución real de la solución.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## BD5 — Mantenimiento de disparadores y Foreign Data Wrappers en los entornos Portal y LDAP Plano
 
@@ -88,7 +88,7 @@ Este subproyecto requiere la implementación de mecanismos de sincronización en
 
 Las propuestas de mejora se centran en ampliar las tareas de revisión, sin aportar mecanismos técnicos que permitan garantizar la sincronización efectiva de los sistemas implicados.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## BD6 — Implementación y mantenimiento de bases de datos en entornos de microservicios
 
@@ -98,7 +98,7 @@ El subproyecto BD6 introduce un contexto tecnológico basado en arquitecturas de
 
 Las propuestas de mejora consisten en la ampliación de tareas de mantenimiento general, sin introducir elementos propios de arquitecturas modernas basadas en microservicios.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ### BLOQUE MON — MONITORIZACIÓN, TESTEO Y PRUEBAS DE RENDIMIENTO
 
@@ -110,7 +110,7 @@ La propuesta de empresa_n describe actividades como la revisión de la ocupació
 
 Las propuestas de mejora se limitan a reforzar las tareas de supervisión y reorganización, sin incorporar mecanismos adicionales que permitan determinar cómo se gestionará de forma efectiva la redistribución periódica exigida.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## MON2 — Realización periódica de pruebas de estrés en diferentes entornos de la plataforma
 
@@ -120,7 +120,7 @@ Las propuestas de mejora se limitan a reforzar las tareas de supervisión y reor
 
 Las propuestas de mejora se basan en ampliar la ejecución de pruebas y la revisión de resultados, sin introducir metodologías estructuradas ni procesos de análisis profundo, lo que limita significativamente el alcance técnico del planteamiento.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## MON3 — Mantener actualizado el sistema de monitorización y estadísticas de uso
 
@@ -130,7 +130,7 @@ La propuesta de empresa_n incluye la incorporación de nuevos sistemas, la actua
 
 Las propuestas de mejora se centran en ampliar la monitorización y el seguimiento, manteniéndose en un nivel genérico y sin aportar elementos técnicos que permitan evaluar la evolución del sistema.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## MON4 — Mantener actualizado el sistema de monitorización y estadísticas de servicios basados en IA
 
@@ -140,7 +140,7 @@ La propuesta de empresa_n describe actividades como el alta de modelos, la revis
 
 Las propuestas de mejora se limitan a extender los procesos generales de monitorización, sin introducir elementos diferenciales asociados a la naturaleza específica de los sistemas de inteligencia artificial.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ### BLOQUE UPD — ACTUALIZACIÓN DE SERVICIOS EXISTENTES
 
@@ -152,7 +152,7 @@ La propuesta de empresa_n plantea actividades como la instalación de versiones,
 
 Las propuestas de mejora consisten en reforzar las tareas de validación y seguimiento, sin introducir mecanismos técnicos adicionales que permitan evaluar la evolución de la plataforma.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## UPD2 — Mantenimiento y mejora del sistema secundario de videoconferencias con opción de grabación
 
@@ -162,7 +162,7 @@ Este subproyecto introduce funcionalidades específicas de grabación y procesam
 
 Las propuestas de mejora mantienen el mismo enfoque genérico, sin incorporar elementos diferenciados asociados a la funcionalidad de grabación.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## UPD3 — Mantenimiento y mejora de la herramienta Mattermost
 
@@ -172,7 +172,7 @@ El subproyecto exige la gestión de una plataforma de comunicación interna con 
 
 Las propuestas de mejora se limitan a reforzar las tareas existentes sin aportar desarrollo técnico adicional.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## UPD4 — Mantenimiento y mejora de la solución Kanban
 
@@ -182,7 +182,7 @@ El subproyecto plantea la gestión de una herramienta de tipo Kanban, incluyendo
 
 Las propuestas de mejora no incorporan elementos adicionales y mantienen el mismo nivel de generalidad.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## UPD5 — Mantenimiento y mejora de la solución GitLab
 
@@ -192,7 +192,7 @@ El subproyecto UPD5 exige la gestión de una plataforma compleja de desarrollo c
 
 Las propuestas de mejora mantienen el mismo enfoque y no aportan elementos técnicos diferenciados.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## UPD6 — Mantenimiento y mejora de la solución LimeSurvey
 
@@ -202,7 +202,7 @@ La propuesta presentada por empresa_n describe actuaciones relacionadas con la r
 
 Las propuestas de mejora identificadas mantienen el mismo enfoque descriptivo, centrado en ajustes generales y revisiones, sin introducir elementos técnicos adicionales que permitan evaluar una evolución real del sistema.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## UPD7 — Mantenimiento y mejora de SonarQube
 
@@ -212,7 +212,7 @@ En la propuesta de empresa_n se detecta una **desviación relevante**, ya que el
 
 Las propuestas de mejora asociadas a este subproyecto se encuentran igualmente afectadas por esta incongruencia, al basarse en un contenido que no corresponde con la tecnología requerida.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## UPD8 — Mantenimiento y mejora de Redmine
 
@@ -222,7 +222,7 @@ La propuesta de empresa_n presenta en este caso un mayor grado de alineación co
 
 Las propuestas de mejora se centran en reforzar los elementos ya descritos, sin introducir nuevas líneas de evolución técnica, manteniéndose dentro de un enfoque incremental.
 
-**Valoración cualitativa: Alta**
+**Alta**
 
 ## UPD9 — Mantenimiento y configuración de Wowza Streaming Engine
 
@@ -232,7 +232,7 @@ La propuesta presentada por empresa_n **no responde al requisito**, ya que el co
 
 Las propuestas de mejora se encuentran afectadas por la misma desviación, al no estar vinculadas al subproyecto requerido.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## UPD10 — Mantenimiento y gestión de contenidos AbiesWeb
 
@@ -242,7 +242,7 @@ La propuesta de empresa_n presenta una respuesta parcial, centrada en tareas de 
 
 Las propuestas de mejora se limitan a reforzar las actividades de gestión ya descritas, sin introducir elementos adicionales que permitan evaluar una mejora significativa del sistema.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## UPD11 — Actualización, mantenimiento y gestión de contenidos de Abies+
 
@@ -252,7 +252,7 @@ La propuesta de empresa_n se centra fundamentalmente en tareas de actualización
 
 Las propuestas de mejora se mantienen en el mismo nivel de generalidad, limitándose a ampliar tareas existentes sin introducir mecanismos de evolución estructurada.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## UPD12 — Implementación, mantenimiento y mejora de Empieza
 
@@ -262,7 +262,7 @@ La propuesta de empresa_n menciona aspectos como ajustes de alta disponibilidad,
 
 Las propuestas de mejora se centran en reforzar estas ideas, sin concretar los elementos técnicos necesarios para su implementación.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## UPD13 — Mantenimiento y mejora del sistema de gestión de la configuración
 
@@ -272,7 +272,7 @@ La propuesta de empresa_n incluye referencias a automatización básica y revisi
 
 Las propuestas de mejora no introducen las herramientas ni los mecanismos requeridos, manteniéndose en un enfoque generalista.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## UPD14 — Mantenimiento, actualización y mejora de la solución de contenedores
 
@@ -282,7 +282,7 @@ Este subproyecto requiere la gestión de entornos de contenedores, incluyendo te
 
 Las propuestas de mejora se mantienen en el mismo nivel de generalidad, sin introducir herramientas ni arquitecturas específicas.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## UPD15 — Mantenimiento de gestión y decomisionado de servidores
 
@@ -292,7 +292,7 @@ El subproyecto UPD15 exige la gestión completa del ciclo de vida de servidores,
 
 Las propuestas de mejora consisten en ampliar las tareas de revisión, sin introducir procedimientos completos de gestión del ciclo de vida.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ### BLOQUE CLO — CLOUD
 
@@ -304,7 +304,7 @@ La propuesta presentada por empresa_n no desarrolla este subproyecto de forma es
 
 Las propuestas de mejora mantienen el mismo nivel de generalidad, sin introducir elementos técnicos adicionales ni procedimientos concretos, lo que impide identificar un planteamiento operativo para la evolución del servicio.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## CLO2 — Mantenimiento y adaptación del sistema de almacenamiento temporal de datos de la nube
 
@@ -314,7 +314,7 @@ La propuesta de empresa_n describe actuaciones como la revisión del sistema, la
 
 Las propuestas de mejora reproducen el mismo enfoque, basándose en ajustes progresivos y supervisión, sin incorporar mecanismos técnicos adicionales que permitan evaluar la adaptación del sistema a escenarios de alta demanda.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## CLO3 — Mantenimiento del sistema de edición en línea de EducaMadrid
 
@@ -324,7 +324,7 @@ La propuesta de empresa_n describe tareas de mantenimiento, actualización y com
 
 Las propuestas de mejora se limitan a reforzar el mantenimiento y la adaptación básica a múltiples usuarios, sin incorporar elementos técnicos que permitan evaluar la evolución del sistema hacia un modelo escalable.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ### BLOQUE OTR — OTROS DESARROLLOS
 
@@ -336,7 +336,7 @@ La propuesta de empresa_n identifica correctamente los elementos principales del
 
 Las propuestas de mejora se centran en reforzar aspectos ya descritos, como el balanceo o la autenticación adicional, sin aportar mecanismos específicos que permitan evaluar el funcionamiento real del sistema.
 
-**Valoración cualitativa: Media**
+**Media**
 
 ## OTR2 — Mantenimiento, configuración y gestión 2FA en el servicio de Single Sign On
 
@@ -346,7 +346,7 @@ La propuesta de empresa_n incluye referencias a OTP, TOTP, Google Authenticator 
 
 Las propuestas de mejora mantienen este enfoque general, sin corregir la inconsistencia identificada ni desarrollar mecanismos concretos de integración y correlación de identidades.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## OTR3 — Mantenimiento y mejora de herramientas de automatización de tareas
 
@@ -356,7 +356,7 @@ Este subproyecto exige la gestión de herramientas de automatización en un ento
 
 Las propuestas de mejora se limitan a ampliar las tareas automatizadas existentes, sin introducir herramientas ni metodologías específicas.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## OTR4 — Mantenimiento y mejora del sistema de gestión y análisis de datos mediante Elastic
 
@@ -366,7 +366,7 @@ La propuesta de empresa_n hace referencia a la gestión de logs y análisis de d
 
 Las propuestas de mejora mantienen el mismo enfoque general, sin aportar elementos técnicos que permitan evaluar la capacidad analítica del sistema.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## OTR5 — Mantenimiento y mejora de la herramienta de flujos de trabajo
 
@@ -376,7 +376,7 @@ La propuesta de empresa_n describe tareas de mantenimiento y gestión de inciden
 
 Las propuestas de mejora consisten en ampliar las tareas de mantenimiento sin introducir elementos adicionales.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## OTR6 — Mantenimiento y mejora del Portal CAU
 
@@ -386,7 +386,7 @@ La propuesta de empresa_n incluye tareas de mantenimiento y actualización, sin 
 
 Las propuestas de mejora se limitan a reforzar las tareas descritas, sin aportar mecanismos de evolución del sistema.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## OTR7 — Mantenimiento y evolución de servicios de Inteligencia Artificial
 
@@ -396,7 +396,7 @@ Este subproyecto requiere la evolución de servicios de inteligencia artificial 
 
 Las propuestas de mejora se limitan a extender este enfoque conceptual, sin introducir elementos técnicos que permitan evaluar su aplicabilidad.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ### BLOQUE COR — CORREO ELECTRÓNICO
 
@@ -408,7 +408,7 @@ La propuesta de empresa_n describe actividades como la supervisión del sistema,
 
 Las propuestas de mejora se basan en reforzar la supervisión y el ajuste de parámetros, sin introducir mecanismos técnicos adicionales que permitan evaluar el control efectivo del sistema.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## COR2 — Mantenimiento automatizado de listas de distribución de EducaMadrid
 
@@ -418,7 +418,7 @@ Este subproyecto requiere la automatización del mantenimiento de listas de dist
 
 Las propuestas de mejora mantienen el mismo enfoque general, centrado en la revisión y actualización manual, sin incorporar mecanismos adicionales de automatización.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## COR3 — Mantenimiento y mejora del sistema de activación y gestión de cuotas de correo
 
@@ -428,7 +428,7 @@ El subproyecto COR3 implica la definición de políticas de cuotas por usuario y
 
 Las propuestas de mejora reproducen este enfoque general, sin incorporar sistemas de control más avanzados.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## COR4 — Mantenimiento y mejora de las herramientas de control del spam
 
@@ -438,7 +438,7 @@ El subproyecto COR4 exige la gestión avanzada de sistemas antispam, incluyendo 
 
 Las propuestas de mejora se centran en ampliar la supervisión del sistema, sin introducir nuevos mecanismos técnicos de detección o prevención.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## COR5 — Mantenimiento de buzones de correo
 
@@ -448,7 +448,7 @@ Este subproyecto requiere la gestión masiva de buzones, incluyendo su creación
 
 Las propuestas de mejora mantienen el mismo enfoque, sin introducir elementos adicionales que permitan gestionar el sistema en volumen.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## COR6 — Mantenimiento y mejora de la seguridad del sistema de correo
 
@@ -458,7 +458,7 @@ El subproyecto COR6 establece la necesidad de garantizar la seguridad del sistem
 
 Las propuestas de mejora no introducen elementos adicionales en este ámbito.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## COR7 — Actualización y mejora continua de la infraestructura de correo
 
@@ -468,7 +468,7 @@ Este subproyecto exige la evolución de la infraestructura de correo, diferencia
 
 Las propuestas de mejora mantienen este mismo enfoque generalista.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## COR8 — Ampliación del número de servidores Mailbox Server
 
@@ -478,7 +478,7 @@ La propuesta de empresa_n no define umbrales ni criterios de ampliación, ni se 
 
 Las propuestas de mejora no aportan mecanismos adicionales.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## COR9 — Implementación de un módulo receptor de inyección directa de correo
 
@@ -488,7 +488,7 @@ Este subproyecto exige la implementación de un sistema de recepción de correo 
 
 Las propuestas de mejora mantienen el mismo nivel de generalidad.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## COR10 — Mantenimiento y soporte del módulo de inyección directa de correo
 
@@ -498,7 +498,7 @@ El subproyecto COR10 implica el mantenimiento del sistema de inyección directa,
 
 Las propuestas de mejora no introducen cambios relevantes.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 En la propuesta de empresa_n referente al bloque COR se detecta una **desviación relevante**, ya que al final del bloque se incluye con una imagen que representa una arquitectura de Active Directory en Cluster activo/pasivo. Esta arquitectura no corresponde con la que tiene EducaMadrid en producción actualmente, evidenciando desconocimiento de la plataforma real de EducaMadrid, y una falta de comprensión de los requisitos planteados en el Anexo II del Documento de Invitación, en donde se especifican las tecnologías usadas por EducaMadrid.
 
@@ -510,7 +510,7 @@ El bloque MAX incluye un conjunto amplio de subproyectos relacionados con el sis
 
 El análisis de la memoria técnica de empresa_n pone de manifiesto que **no se presenta contenido técnico evaluable para este bloque completo**. Los apartados correspondientes se limitan a reproducir o reformular los requisitos del Documento de Invitación sin aportar nada adicional.
 
-**Valoración cualitativa: Muy baja en todos los subproyectos del bloque MAX**
+**Muy baja en todos los subproyectos del bloque MAX**
 
 ### BLOQUE AV — AULAS VIRTUALES
 
@@ -522,7 +522,7 @@ El subproyecto AV1 requiere la actualización y comprobación de servidores fís
 
 Las propuestas de mejora se limitan a reforzar las tareas de revisión y seguimiento sin introducir mecanismos técnicos adicionales.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## AV2 — Mantenimiento de los servidores FrontEnd de aulas virtuales
 
@@ -532,7 +532,7 @@ Este subproyecto exige el mantenimiento de los servidores de front-end, incluyen
 
 Las propuestas de mejora mantienen el mismo enfoque, centrado en la supervisión sin aportar elementos técnicos adicionales.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## AV3 — Despliegue de nuevos grupos de aulas virtuales
 
@@ -542,7 +542,7 @@ El subproyecto AV3 requiere el despliegue periódico de nuevos entornos de aulas
 
 Las propuestas de mejora se limitan a reforzar la ampliación de entornos sin definir los mecanismos técnicos asociados.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## AV4 — Redistribución periódica de NFS de aulas virtuales
 
@@ -552,7 +552,7 @@ Este subproyecto establece la redistribución periódica de almacenamiento NFS e
 
 Las propuestas de mejora no aportan elementos adicionales.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ### BLOQUE POR — LDAP Y PORTAL
 
@@ -564,7 +564,7 @@ Las propuestas de mejora no aportan elementos adicionales.
 
 Las propuestas de mejora se limitan a reforzar la ampliación y supervisión del sistema, sin introducir elementos técnicos adicionales que permitan evaluar la gestión efectiva del entorno LDAP distribuido.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## POR2 — Migración del sistema LDAP máster de EducaMadrid
 
@@ -574,7 +574,7 @@ El subproyecto POR2 implica la migración del nodo maestro LDAP, operación crí
 
 Las propuestas de mejora mantienen el mismo enfoque, reforzando la revisión del proceso sin incorporar metodologías adicionales que permitan garantizar la correcta ejecución de la migración en un entorno crítico.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ### BLOQUE SEG — SEGURIDAD
 
@@ -586,7 +586,7 @@ El subproyecto SEG1 exige la implantación de mecanismos de control de cambios e
 
 Las propuestas de mejora se centran en reforzar la supervisión del sistema sin incorporar mecanismos adicionales que permitan garantizar la trazabilidad de los cambios.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## SEG2 — LDAP Máster independiente para usuarios privilegiados
 
@@ -596,7 +596,7 @@ Este subproyecto establece la necesidad de separar los usuarios privilegiados en
 
 Las propuestas de mejora mantienen este enfoque general sin aportar elementos técnicos que permitan evaluar la implantación efectiva de un entorno segregado.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## SEG3 — Gestión, mantenimiento e implantación de certificados
 
@@ -606,7 +606,7 @@ El subproyecto SEG3 requiere la gestión completa del ciclo de vida de certifica
 
 Las propuestas de mejora se centran en reforzar la revisión del sistema, sin introducir nuevos elementos técnicos.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## SEG4 — Gestión y mantenimiento de dominios DNS
 
@@ -616,7 +616,7 @@ La propuesta describe tareas generales de gestión de dominios sin definir proce
 
 Las propuestas de mejora reproducen el mismo planteamiento sin aportar elementos adicionales.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## SEG5 — Análisis y corrección de vulnerabilidades
 
@@ -626,7 +626,7 @@ La propuesta plantea la revisión de sistemas y la corrección de vulnerabilidad
 
 Las propuestas de mejora mantienen este enfoque general sin introducir mecanismos técnicos adicionales.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## SEG6 — Detección de intrusiones y análisis de logs
 
@@ -636,7 +636,7 @@ Este subproyecto requiere la implantación de mecanismos de detección de intrus
 
 Las propuestas de mejora se limitan a reforzar el seguimiento, sin aportar elementos técnicos adicionales.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## SEG7 — Auditorías internas de aplicaciones
 
@@ -646,7 +646,7 @@ El subproyecto SEG7 exige la realización de auditorías de seguridad en aplicac
 
 Las propuestas de mejora mantienen este mismo nivel de generalidad.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## SEG8 — Auditorías internas continuas de sistemas
 
@@ -656,7 +656,7 @@ Este subproyecto amplía el anterior al conjunto de sistemas, requiriendo un enf
 
 Las propuestas de mejora reproducen el mismo patrón.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## SEG9 — Mantenimiento y uso de logs centralizados
 
@@ -666,7 +666,7 @@ El subproyecto SEG9 exige la centralización de logs para su análisis y gestió
 
 Las propuestas de mejora no incorporan elementos adicionales.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## SEG10 — Implementación y mantenimiento de claves RSA unificadas
 
@@ -676,7 +676,7 @@ Este subproyecto implica la gestión de claves criptográficas, incluyendo su cr
 
 Las propuestas de mejora no aportan contenido adicional.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## SEG11 — Asistencia en eventos de ciberseguridad
 
@@ -686,7 +686,7 @@ Este subproyecto contempla la participación en eventos y el soporte técnico as
 
 Las propuestas de mejora mantienen este enfoque descriptivo.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ### BLOQUE CON — AUTOMATIZACIÓN Y CONTENEDORES
 
@@ -698,7 +698,7 @@ El subproyecto CON1 requiere la gestión de plataformas de contenedores, incluye
 
 Las propuestas de mejora se limitan a reforzar las tareas descritas, sin introducir elementos técnicos adicionales.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## CON2 — Mantenimiento y mejora de scripts y automatización de tareas
 
@@ -708,7 +708,7 @@ Este subproyecto exige la automatización de tareas mediante scripts en un entor
 
 Las propuestas de mejora mantienen el mismo enfoque general.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ## CON3 — Mantenimiento del sistema auxiliar de automatización
 
@@ -718,7 +718,7 @@ El subproyecto requiere la gestión de sistemas auxiliares de automatización de
 
 Las propuestas de mejora no aportan elementos adicionales.
 
-**Valoración cualitativa: Muy baja**
+**Muy baja**
 
 ### BLOQUE MIG — GESTIÓN DE LA MIGRACIÓN DE SERVIDORES ENTRE CPDs
 
@@ -728,7 +728,7 @@ Las propuestas de mejora no aportan elementos adicionales.
 
 La propuesta de empresa_n aborda este subproyecto mediante referencias generales a la coordinación de equipos y a la revisión de los entornos migrados, sin definir un marco metodológico concreto. No se describen procedimientos de validación, ni criterios de aceptación, ni mecanismos de comprobación de dependencias entre sistemas. **Las propuestas de mejora se limitan a reforzar la revisión posterior a la migración sin incorporar herramientas, fases ni controles adicionales que permitan evaluar la ejecución del proceso de forma estructurada.**
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## MIG2 — Fases preparatorias y planificación técnica de la migración
 
@@ -736,7 +736,7 @@ Este subproyecto exige la definición de las fases previas a la migración, incl
 
 **La propuesta de empresa_n menciona la planificación de las migraciones de forma general, sin definir fases ni cronogramas, ni establecer una secuencia de actuaciones.** No se identifican análisis de dependencias ni mecanismos de coordinación entre sistemas. Las propuestas de mejora reproducen este mismo enfoque, sin aportar elementos adicionales que permitan estructurar el proceso de migración en fases claramente definidas.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## MIG3 — Preparación de servidores y documentación de sistemas
 
@@ -744,7 +744,7 @@ El subproyecto MIG3 implica la preparación de los servidores antes de la migrac
 
 **La propuesta de empresa_n describe la preparación de servidores y la elaboración de documentación de forma genérica, sin desarrollar procedimientos concretos ni herramientas de automatización.** No se definen plantillas, criterios de validación ni mecanismos de estandarización. Las propuestas de mejora se centran en reforzar estas tareas sin incorporar mecanismos adicionales que permitan evaluar la preparación de sistemas en un entorno complejo.
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## MIG4 — Verificación de la migración
 
@@ -752,7 +752,7 @@ Este subproyecto requiere la validación del proceso de migración mediante la c
 
 La propuesta de empresa_n menciona la verificación del proceso tras la migración, sin definir procedimientos específicos ni criterios de validación. No se describen mecanismos de comprobación de integridad ni herramientas de validación de servicios. **Las propuestas de mejora refuerzan la revisión posterior sin incorporar metodologías adicionales que permitan verificar el resultado de la migración de forma objetiva.**
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ## MIG5 — Mantenimiento y soporte tras la migración
 
@@ -760,7 +760,7 @@ El subproyecto MIG5 establece la necesidad de proporcionar soporte posterior a l
 
 La propuesta de empresa_n describe el soporte de forma general, haciendo referencia a la resolución de incidencias y seguimiento del sistema, sin definir mecanismos de monitorización ni procedimientos de estabilización. No se identifican métricas ni indicadores de estado. **Las propuestas de mejora se limitan a reforzar el seguimiento sin aportar elementos adicionales que permitan evaluar la fase post-migración.**
 
-**Valoración cualitativa: Baja**
+**Baja**
 
 ### BLOQUE IA — INTELIGENCIA ARTIFICIAL
 
@@ -772,7 +772,7 @@ El análisis de la memoria técnica presentada por empresa_n pone de manifiesto 
 
 Como consecuencia, no es posible realizar una evaluación técnica individualizada de los subproyectos incluidos en este bloque, al no existir un desarrollo específico que permita analizar su adecuación a los requisitos planteados.
 
-**Valoración cualitativa: Muy baja en todos los subproyectos del bloque IA**
+**Muy baja en todos los subproyectos del bloque IA**
 
 ### CONCLUSIÓN GLOBAL DEL CAPÍTULO 2
 

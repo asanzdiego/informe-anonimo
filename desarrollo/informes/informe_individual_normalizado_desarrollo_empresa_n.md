@@ -304,33 +304,31 @@ La exposición se agrupa por bloques cuando la memoria aplica un enfoque común,
 
 **Proyectos incluidos:** TRA1 a TRA8.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El bloque exige resolver identidad, sincronización, interoperabilidad, seguridad y servicios comunes. Se detectan una interpretación incorrecta de LDAP y una confusión entre CalDAV e ICS; solo TRA3, TRA5 y TRA6 alcanzan desarrollo suficiente.
 
 ##### TRA1 a TRA8 — Servicios transversales
 
-###### Requisito y alcance
+- **Requisito y alcance**
 
 El alcance comprende identidad, sincronización, interoperabilidad, seguridad y servicios comunes, con soluciones diferenciadas, integraciones, entregables y mecanismos de validación trazables para cada código.
 
-###### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 El contraste individual recogido en el anexo identifica 3 proyectos con desarrollo suficiente, 5 con desarrollo insuficiente y 0 sin solución concreta. Se detectan una interpretación incorrecta de LDAP y una confusión entre CalDAV e ICS; solo TRA3, TRA5 y TRA6 alcanzan desarrollo suficiente.
 
-###### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 Se reconoce contenido evaluable en 3 proyectos, que permite asignar valor parcial sin extenderlo a los proyectos no desarrollados.
 
-###### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 5 proyectos presentan desarrollo genérico o incompleto; 2 contienen errores técnicos relevantes. Estas limitaciones reducen la concreción, viabilidad o verificabilidad del bloque.
 
-###### Valoración cualitativa
+- **Valoración cualitativa**
 
-**Valoración cualitativa: BAJA**
-
-El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
+**BAJA**: El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
 
 ##### Conclusión del bloque TRA
 
@@ -340,7 +338,7 @@ La clasificación del anexo y las evidencias anteriores sitúan el bloque en un 
 
 **Proyectos incluidos:** AV1 a AV21.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El bloque exige resolver evolución de Moodle, integraciones, rendimiento, seguridad, escalabilidad y continuidad. AV1 resulta evaluable, pero AV4 identifica una base de datos incorrecta y AV11 plantea de forma inadecuada procesos de IA síncronos; los demás proyectos son mayoritariamente genéricos.
 
@@ -354,7 +352,7 @@ El bloque exige resolver evolución de Moodle, integraciones, rendimiento, segur
 
 **Carencias, omisiones, errores o riesgos.** 20 proyectos presentan desarrollo genérico o incompleto; 2 contienen errores técnicos relevantes. Estas limitaciones reducen la concreción, viabilidad o verificabilidad del bloque.
 
-**Valoración cualitativa: BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
+**BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
 
 ##### Integración, rendimiento, escalabilidad y continuidad del servicio
 
@@ -368,7 +366,7 @@ La clasificación del anexo y las evidencias anteriores sitúan el bloque en un 
 
 **Proyectos incluidos:** MED1 a MED11.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El bloque exige resolver procesamiento multimedia, subtitulado, búsqueda, almacenamiento, distribución e integración. MED1 contiene un error relativo a la base de datos y MED2 omite una funcionalidad crítica; el resto carece de detalle suficiente.
 
@@ -382,7 +380,7 @@ El bloque exige resolver procesamiento multimedia, subtitulado, búsqueda, almac
 
 **Carencias, omisiones, errores o riesgos.** 11 proyectos presentan desarrollo genérico o incompleto; 2 contienen errores técnicos relevantes. Estas limitaciones reducen la concreción, viabilidad o verificabilidad del bloque.
 
-**Valoración cualitativa: BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
+**BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
 
 ##### Arquitectura, procesamiento multimedia e integración
 
@@ -396,7 +394,7 @@ La clasificación del anexo y las evidencias anteriores sitúan el bloque en un 
 
 **Proyectos incluidos:** COR1 a COR4.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El bloque exige resolver evolución del correo, funciones de inteligencia artificial, seguridad e integración. COR1 presenta contenido evaluable, mientras COR2 a COR4 no se adaptan correctamente al entorno basado en xAI modificado y proponen desarrollos innecesarios desde cero.
 
@@ -410,7 +408,7 @@ El bloque exige resolver evolución del correo, funciones de inteligencia artifi
 
 **Carencias, omisiones, errores o riesgos.** 3 proyectos presentan desarrollo genérico o incompleto; 3 contienen errores técnicos relevantes. Estas limitaciones reducen la concreción, viabilidad o verificabilidad del bloque.
 
-**Valoración cualitativa: BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
+**BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
 
 ##### Conclusión del bloque COR
 
@@ -420,7 +418,7 @@ La clasificación del anexo y las evidencias anteriores sitúan el bloque en un 
 
 **Proyectos incluidos:** CLO1 y CLO2.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El bloque exige resolver almacenamiento, sincronización, edición colaborativa, seguridad y rendimiento. CLO1 y CLO2 son los únicos proyectos del bloque considerados suficientemente desarrollados, aunque no acreditan mejoras adicionales.
 
@@ -434,7 +432,7 @@ El bloque exige resolver almacenamiento, sincronización, edición colaborativa,
 
 **Carencias, omisiones, errores o riesgos.** No se observan omisiones ni errores relevantes; las limitaciones se circunscriben al grado de detalle de algunos elementos.
 
-**Valoración cualitativa: MEDIA.** El nivel **MEDIA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
+**MEDIA.** El nivel **MEDIA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
 
 ##### Conclusión del bloque CLO
 
@@ -444,7 +442,7 @@ La clasificación del anexo y las evidencias anteriores sitúan el bloque en un 
 
 **Proyectos incluidos:** WPM1 a WPM5.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El bloque exige resolver mantenimiento, licencias, protección perimetral, antiabuso y autenticación. Los cinco proyectos se incluyen, pero sin el detalle necesario sobre operación, licencias, protección, antiabuso y autenticación.
 
@@ -458,7 +456,7 @@ El bloque exige resolver mantenimiento, licencias, protección perimetral, antia
 
 **Carencias, omisiones, errores o riesgos.** 5 proyectos presentan desarrollo genérico o incompleto. Estas limitaciones reducen la concreción, viabilidad o verificabilidad del bloque.
 
-**Valoración cualitativa: BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
+**BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
 
 ##### Conclusión del bloque WPM
 
@@ -468,7 +466,7 @@ La clasificación del anexo y las evidencias anteriores sitúan el bloque en un 
 
 **Proyectos incluidos:** VID1 a VID4.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El bloque exige resolver integración educativa, concurrencia, calidad, grabaciones y continuidad. VID1 y VID2 contienen una respuesta evaluable; VID3 y VID4 quedan en un tratamiento insuficiente sobre grabaciones y eventos de alta concurrencia.
 
@@ -482,7 +480,7 @@ El bloque exige resolver integración educativa, concurrencia, calidad, grabacio
 
 **Carencias, omisiones, errores o riesgos.** 2 proyectos presentan desarrollo genérico o incompleto. Estas limitaciones reducen la concreción, viabilidad o verificabilidad del bloque.
 
-**Valoración cualitativa: MEDIA.** El nivel **MEDIA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
+**MEDIA.** El nivel **MEDIA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
 
 ##### Conclusión del bloque VID
 
@@ -506,7 +504,7 @@ El bloque exige resolver los requisitos específicos y diferenciados de los seis
 
 **Carencias, omisiones, errores o riesgos.** 4 proyectos presentan desarrollo genérico o incompleto; 1 contiene errores técnicos relevantes. Estas limitaciones reducen la concreción, viabilidad o verificabilidad del bloque.
 
-**Valoración cualitativa: BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
+**BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
 
 ##### Conclusión de los servicios unitarios
 
@@ -530,7 +528,7 @@ El bloque exige resolver integración, seguridad, operación, accesibilidad, com
 
 **Carencias, omisiones, errores o riesgos.** 19 proyectos presentan desarrollo genérico o incompleto; 3 contienen errores técnicos relevantes. Estas limitaciones reducen la concreción, viabilidad o verificabilidad del bloque.
 
-**Valoración cualitativa: BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
+**BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
 
 ##### Conclusión de los sistemas complementarios
 
@@ -540,7 +538,7 @@ La clasificación del anexo y las evidencias anteriores sitúan el bloque en un 
 
 **Proyectos incluidos:** WEK1 a WEK4.
 
-##### Consideración general del bloque
+- **Consideración general del bloque**
 
 El bloque exige resolver mantenimiento, actualización, despliegue, respaldo y evolución de Wekan. Los cuatro subproyectos se mencionan sin soluciones individualizadas ni mecanismos de implementación verificables.
 
@@ -554,7 +552,7 @@ El bloque exige resolver mantenimiento, actualización, despliegue, respaldo y e
 
 **Carencias, omisiones, errores o riesgos.** 4 proyectos presentan desarrollo genérico o incompleto. Estas limitaciones reducen la concreción, viabilidad o verificabilidad del bloque.
 
-**Valoración cualitativa: BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
+**BAJA.** El nivel **BAJA** refleja la relación entre la cobertura efectiva, la profundidad técnica, las mejoras y las carencias acreditadas para el bloque.
 
 ##### Conclusión del bloque WEK
 

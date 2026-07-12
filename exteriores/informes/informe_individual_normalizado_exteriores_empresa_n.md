@@ -336,7 +336,7 @@ El subproyecto ELIF1 tiene por objeto la realización de los trabajos necesarios
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ELIF2 — Barra de herramientas y pie común de EducaMadrid
 
@@ -364,7 +364,7 @@ La propuesta permite apreciar una solución técnica reconocible y razonablement
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### ELIF3 — Mejoras de presentación
 
@@ -394,7 +394,7 @@ Pese a la amplitud de conceptos incluidos, una parte significativa de las actuac
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### ELIF4 — Mejoras de usabilidad y accesibilidad
 
@@ -422,7 +422,7 @@ La principal debilidad observada reside en la falta de concreción técnica de l
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### Conclusión del bloque ELIF
 
@@ -472,7 +472,7 @@ En relación con la migración Drupal 11, la memoria incorpora referencias gener
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### Conclusión del bloque IFP
 
@@ -514,7 +514,7 @@ La memoria describe de forma general las actividades que se llevarán a cabo dur
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### EMOM2 — Adaptación de la plataforma MoodleMisc
 
@@ -546,7 +546,7 @@ Asimismo, la memoria desarrolla de forma limitada las arquitecturas de integraci
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### EMOM3 — Mantenimiento de la plataforma MoodleMisc
 
@@ -576,7 +576,7 @@ Asimismo, la memoria desarrolla de forma limitada las arquitecturas de integraci
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### EMOM4 — Mejora de la ciberseguridad en MoodleMisc
 
@@ -608,7 +608,7 @@ El objeto de este subproyecto consiste en reforzar las medidas de seguridad exis
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### EMOM5 — Solución de problemas conocidos en MoodleMisc
 
@@ -640,7 +640,7 @@ Como consecuencia de ello, buena parte del contenido aportado se centra en repro
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### EMOM6 — Configuraciones para conexiones externas
 
@@ -670,7 +670,7 @@ Asimismo, los procesos de seguimiento, monitorización y validación funcional p
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### EMOM7 — Otras tareas específicas de actualización y procedimiento
 
@@ -700,7 +700,7 @@ Como sucede en otros apartados del bloque, la solución desarrolla adecuadamente
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### Conclusión del bloque EMOM
 
@@ -750,7 +750,7 @@ La propuesta presentada por empresa_n cubre formalmente el alcance funcional del
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### EDIN2 — Mantenimiento, actualización y mejora del espacio FTP
 
@@ -790,7 +790,7 @@ La propuesta presentada por empresa_n cubre formalmente las actuaciones asociada
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### Conclusión del bloque EDIN
 
@@ -840,7 +840,7 @@ La propuesta contempla actividades de análisis previo, identificación de neces
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### EIPE2 — Modificaciones front-end (HTML, CSS y JavaScript)
 
@@ -880,7 +880,7 @@ La propuesta cubre formalmente el alcance solicitado y demuestra comprender el o
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### Conclusión del bloque EIPE
 
@@ -922,7 +922,7 @@ La valoración propuesta no debe interpretarse como una acreditación de excelen
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS2 — Servicio de actualización de bases de datos
 
@@ -954,7 +954,7 @@ La respuesta desarrolla con mayor profundidad que otros apartados determinados a
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS3 — Consultoría de integración
 
@@ -984,7 +984,7 @@ La propuesta cubre el requisito desde una perspectiva funcional, pero no alcanza
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS4 — Consultoría de ciberseguridad
 
@@ -1014,7 +1014,7 @@ Pese a ello, la solución permanece situada en un plano principalmente conceptua
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS5 — Actualización de la autenticación centralizada de usuarios
 
@@ -1046,7 +1046,7 @@ La propuesta presentada por empresa_n identifica correctamente la relevancia de 
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS6 — Mantenimiento de la autenticación centralizada de usuarios
 
@@ -1078,7 +1078,7 @@ La propuesta cubre formalmente el requisito y evidencia comprender las necesidad
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS7 — Gestión de servicios para la sincronización de usuarios
 
@@ -1110,7 +1110,7 @@ La memoria presentada por empresa_n identifica correctamente la necesidad de ase
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS8 — Supervisión de usuarios de aplicaciones externas
 
@@ -1142,7 +1142,7 @@ El análisis realizado tampoco permite identificar elementos diferenciales que e
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS9 — Soporte técnico en entornos de preproducción
 
@@ -1174,7 +1174,7 @@ La propuesta tampoco incorpora metodologías específicas que permitan acreditar
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS10 — Despliegue de aplicaciones externas en producción
 
@@ -1206,7 +1206,7 @@ La propuesta tampoco incorpora elementos de mejora o valor añadido identificado
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS11 — Integración con el gestor de servidores de bases de datos
 
@@ -1234,7 +1234,7 @@ Al no existir una solución técnica concreta asociada al requisito, no es posib
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MUY BAJA**
+**MUY BAJA**
 
 #### ESIS12 — Estudio de los recursos solicitados
 
@@ -1266,7 +1266,7 @@ Esta falta de concreción resulta coherente con la clasificación de desarrollo 
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS13 — Solicitud de los recursos necesarios
 
@@ -1298,7 +1298,7 @@ La clasificación establecida en el Anexo I resulta plenamente coherente con est
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS14 — Bastionado de los recursos solicitados
 
@@ -1330,7 +1330,7 @@ No se ha identificado en la memoria técnica una propuesta específica que permi
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MUY BAJA**
+**MUY BAJA**
 
 #### ESIS15 — Instalación de paquetería y gestión de dependencias
 
@@ -1362,7 +1362,7 @@ Este subproyecto persigue garantizar el control de los componentes software util
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS16 — Configuración del entorno
 
@@ -1394,7 +1394,7 @@ La memoria contempla actuaciones relacionadas con la preparación y configuraci�
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS17 — Integración con LDAP
 
@@ -1430,7 +1430,7 @@ La memoria técnica incorpora referencias a la integración con servicios de dir
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS18 — Integración con el sistema de correo
 
@@ -1462,7 +1462,7 @@ Este subproyecto contempla la integración de los distintos proyectos externos c
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS19 — Integración con bases de datos
 
@@ -1498,7 +1498,7 @@ Adicionalmente, se observa una inconsistencia relevante al describir determinado
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS20 — Integración con la CMDB
 
@@ -1530,7 +1530,7 @@ La solución tampoco incorpora mejoras o capacidades diferenciales reconocidas e
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS21 — Documentación del proyecto exterior
 
@@ -1562,7 +1562,7 @@ La memoria dedica una atención significativa a los aspectos relacionados con la
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS22 — Gestión del riesgo del proyecto exterior
 
@@ -1594,7 +1594,7 @@ A diferencia de otros apartados del bloque ESIS, la propuesta incorpora una meto
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### ESIS23 — Implementación de copias de seguridad y recuperación ante desastres
 
@@ -1626,7 +1626,7 @@ La memoria desarrolla de forma razonablemente extensa las actividades relacionad
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### ESIS24 — Implementación de monitorización básica
 
@@ -1658,7 +1658,7 @@ La escasa concreción técnica observada resulta coherente con la clasificación
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS25 — Implementación de monitorización avanzada
 
@@ -1688,7 +1688,7 @@ Esta apreciación resulta consistente con la clasificación de desarrollo defici
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS26 — Implantación de medidas de ciberseguridad básicas
 
@@ -1720,7 +1720,7 @@ La oferta cubre formalmente el requisito solicitado, pero no desarrolla suficien
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### ESIS27 — Implantación de medidas de ciberseguridad avanzadas
 
@@ -1750,7 +1750,7 @@ No se acreditan mecanismos adicionales de concreción y verificación más allá
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS28 — Actualización de sistemas operativos
 
@@ -1782,7 +1782,7 @@ A diferencia de otros requisitos del bloque, el contenido desarrollado permite i
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### ESIS29 — Gestión y seguimiento del proyecto
 
@@ -1814,7 +1814,7 @@ La documentación incorpora determinados elementos de mejora relacionados con la
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### ESIS30 — Segmentación de la red de servidores
 
@@ -1844,7 +1844,7 @@ La existencia de una propuesta concreta, reconocida expresamente como valor aña
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: ALTA**
+**ALTA**
 
 #### ESIS31 — Optimización de la infraestructura de virtualización
 
@@ -1874,7 +1874,7 @@ La memoria contempla actividades de soporte, supervisión y asistencia técnica 
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### Conclusión del bloque ESIS
 
@@ -1920,7 +1920,7 @@ Del mismo modo, la propuesta desarrolla de forma insuficiente elementos especial
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### ESEG2 — Gestión de logs de las aplicaciones web
 
@@ -1954,7 +1954,7 @@ Del mismo modo, apenas se identifican cuadros de mando, métricas, indicadores d
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### ESEG3 — Análisis y protección de la superficie de ataque
 
@@ -1990,7 +1990,7 @@ Tampoco se concretan para el requisito evaluado tecnologías, herramientas o met
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### Conclusión del bloque ESEG
 
@@ -2034,7 +2034,7 @@ Del mismo modo, no se identifican herramientas específicas, procedimientos de r
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### EDSA2 — Ayuda al desarrollo seguro de código web
 
@@ -2070,7 +2070,7 @@ Asimismo, la respuesta evidencia una visión alineada con el objetivo general de
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: BAJA**
+**BAJA**
 
 #### Conclusión del bloque EDSA
 
@@ -2118,7 +2118,7 @@ La respuesta demuestra comprender qué actividades deben desarrollarse para gest
 
 ##### Valoración cualitativa
 
-**Valoración cualitativa: MEDIA**
+**MEDIA**
 
 #### Conclusión del bloque EBBO
 
