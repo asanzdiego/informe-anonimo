@@ -1,12 +1,12 @@
 # INFORME DE DEFENSA ANTE RECURSO ESPECIAL (VERSIÓN DOCTRINAL REFORZADA CON TRIBUNALES AUTONÓMICOS)
 
-## 1. OBJETO DEL INFORME
+## OBJETO DEL INFORME
 
 El presente informe tiene por objeto fundamentar, desde una doble perspectiva técnica y jurídica, la corrección de la valoración efectuada en el procedimiento de contratación, así como la legalidad de la decisión de exclusión de la oferta presentada por la empresa empresa_n, al no haber alcanzado el umbral mínimo establecido en los criterios sujetos a juicio de valor.
 
 La argumentación se apoya en la doctrina consolidada del Tribunal Administrativo Central de Recursos Contractuales (TACRC), así como en resoluciones recientes de tribunales autonómicos, cuya aplicación resulta plenamente pertinente en el caso analizado.
 
-## 2. DISCRECIONALIDAD TÉCNICA Y LÍMITES DEL CONTROL
+## DISCRECIONALIDAD TÉCNICA Y LÍMITES DEL CONTROL
 
 Uno de los ejes fundamentales de la defensa radica en el principio de discrecionalidad técnica, reiteradamente reconocido por la doctrina administrativa.
 
@@ -20,7 +20,7 @@ De forma específica, el Tribunal Administrativo de Contratación Pública de la
 
 En consecuencia, la valoración realizada en el presente procedimiento, al encontrarse suficientemente motivada y estar alineada con los criterios del pliego, se sitúa plenamente dentro del ámbito de discrecionalidad técnica protegido frente a la revisión en sede de recurso.
 
-## 3. MOTIVACIÓN DEL INFORME Y VALIDEZ DE LA VALORACIÓN
+## MOTIVACIÓN DEL INFORME Y VALIDEZ DE LA VALORACIÓN
 
 Otro de los aspectos clave en la defensa es la motivación del informe técnico.
 
@@ -44,7 +44,7 @@ En el caso que nos ocupa, el informe técnico:
 
 Por tanto, la motivación supera ampliamente los estándares exigidos por la jurisprudencia administrativa.
 
-## 4. DOCTRINA SOBRE LA INSUFICIENCIA DE LAS OFERTAS TÉCNICAS
+## DOCTRINA SOBRE LA INSUFICIENCIA DE LAS OFERTAS TÉCNICAS
 
 Los tribunales administrativos han reiterado que no basta con una mera descripción del pliego, sino que es necesario desarrollar técnicamente la solución.
 
@@ -58,7 +58,7 @@ Asimismo, el Tribunal Administrativo de Recursos Contractuales de la Junta de An
 
 Aplicando esta doctrina al caso concreto, la propuesta de empresa_n presenta una falta de desarrollo técnico acreditada, lo que justifica la puntuación reducida obtenida.
 
-## 5. DOCTRINA SOBRE LA PLANIFICACIÓN Y SU VERIFICABILIDAD
+## DOCTRINA SOBRE LA PLANIFICACIÓN Y SU VERIFICABILIDAD
 
 Uno de los elementos más determinantes en la valoración ha sido la planificación del servicio, en particular el diagrama de Gantt presentado por el licitador.
 
@@ -84,7 +84,7 @@ En el caso analizado, el diagrama Gantt presenta deficiencias objetivas y verifi
 
 Estas carencias afectan directamente a la utilidad del instrumento como herramienta de planificación, lo que justifica de forma plenamente objetiva su valoración negativa.
 
-## 6. DOCTRINA SOBRE EL UMBRAL MÍNIMO Y LA EXCLUSIÓN
+## DOCTRINA SOBRE EL UMBRAL MÍNIMO Y LA EXCLUSIÓN
 
 La exclusión de empresa_n deriva directamente del incumplimiento del umbral mínimo exigido.
 
@@ -100,7 +100,7 @@ De igual modo, la doctrina del TACRC ha reiterado que:
 
 **El incumplimiento del umbral mínimo conlleva automáticamente la exclusión, sin margen de discrecionalidad adicional.** [\[empresa_n -...ta Técnica | PDF\]](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/Documents/Archivos%20de%20Microsoft%C2%A0Copilot%20Chat/empresa_n%20-%20Oferta%20T%C3%A9cnica.pdf>)
 
-## 7. DOCTRINA SOBRE LA CARGA DE LA PRUEBA DEL RECURRENTE
+## DOCTRINA SOBRE LA CARGA DE LA PRUEBA DEL RECURRENTE
 
 El marco doctrinal establece claramente que corresponde al recurrente acreditar el error alegado.
 
@@ -110,7 +110,7 @@ En este sentido, el Tribunal Administrativo de Recursos Contractuales de Andaluc
 
 Por tanto, en ausencia de prueba suficiente, prevalece la valoración técnica realizada por el órgano competente.
 
-## 8. CONCLUSIÓN FINAL
+## CONCLUSIÓN FINAL
 
 A la vista de la doctrina del TACRC y de los tribunales administrativos autonómicos, puede afirmarse de forma concluyente que:
 

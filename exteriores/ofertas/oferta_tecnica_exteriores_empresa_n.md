@@ -455,14 +455,14 @@ sistemas y las tecnologías de la información con flexibilidad para adaptarse a
 
 SERVICIOS DE MANTENIMIENTO Y SOPORTE PARA PROYECTOS EXTERIORES ALOJADOS EN LA PLATAFORMA EEDUCAMADRID (BAC01\_2026)
 
-#### 2. Análisis del Sistema de Información (ASI)
+#### Análisis del Sistema de Información (ASI)
 
-#### 3. Diseño del Sistema de Información (DSI)
+#### Diseño del Sistema de Información (DSI)
 
 4. Construcción del Sistema de Información (CSI)
 5. Implantación y Aceptación del Sistema (IAS)
 
-#### 6. Mantenimiento del Sistema de Información (MSI)
+#### Mantenimiento del Sistema de Información (MSI)
 
 Para el diseño de los procesos de Métrica V3 relacionados con el desarrollo, se han estudiado en detalle todos los procesos principales del ciclo de vida que propone la norma ISO 12.207, ya que se ha considerado que todos ellos debían ser tenidos en cuenta; ahora bien, sólo el proceso de Desarrollo es resuelto en todo su alcance por ser el principal objetivo de esta metodología.
 

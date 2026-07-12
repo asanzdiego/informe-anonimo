@@ -1,4 +1,4 @@
-# 1. MEMORIA TÉCNICA “DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y OTROS SISTEMAS DE EDUCAMADRID (BAC06_2026)
+# MEMORIA TÉCNICA “DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y OTROS SISTEMAS DE EDUCAMADRID (BAC06_2026)
 
 Sobre 1. Criterios que dependen de un juicio de valor
 
@@ -346,13 +346,13 @@ Dada la amplitud y complejidad del proceso de Desarrollo, éste se subdivide en 
 1. Estudio de Viabilidad del Sistema (EVS)
 2. Análisis del Sistema de Información (ASI)
 
-#### 1.1. Diseño del Sistema de Información (DSI)
+#### Diseño del Sistema de Información (DSI)
 
-#### 1.2. Construcción del Sistema de Información (CSI)
+#### Construcción del Sistema de Información (CSI)
 
-#### 1.3. Implantación y Aceptación del Sistema (IAS)
+#### Implantación y Aceptación del Sistema (IAS)
 
-#### 1.4. Mantenimiento del Sistema de Información (MSI)
+#### Mantenimiento del Sistema de Información (MSI)
 
 Para el diseño de los procesos de Métrica V3 relacionados con el desarrollo, se han estudiado en detalle todos los procesos principales del ciclo de vida que propone la norma ISO 12.207, ya que se ha considerado que todos ellos debían ser tenidos en cuenta; ahora bien, sólo el proceso de Desarrollo es resuelto en todo su alcance por ser el principal objetivo de esta metodología.
 
@@ -574,9 +574,9 @@ Como mejora adicional, empresa_n propone evolucionar progresivamente el entorno 
 - Revisión periódica del rendimiento .
 - Actualización de componentes cuando sea necesario . Estas actuaciones permitirán mejorar gradualmente el comportamiento del sistema y facilitar las tareas de administración del entorno.
 
-## 1.5. Solución técnica ofertada
+## Solución técnica ofertada
 
-### 1.5.1. Satisfacción de los requisitos
+### Satisfacción de los requisitos
 
 II.1.1.2. Mantenimiento y optimización proactiva de las bases de datos de la plataforma
 A. Antecedentes y Requerimientos EducaMadrid :
@@ -829,7 +829,7 @@ Como línea de mejora adicional, empresa_n propone reforzar las tareas de seguim
 - Actualización progresiva de componentes
 - Seguimiento de incidencias
 - Ajustes básicos de configuración Estas actuaciones permitirán mantener unas condiciones adecuadas de funcionamiento de las bases de datos y facilitar las tareas generales de administración del entorno.
-##### 1.5.1.1. MONITORIZACIÓN, TESTEO Y PRUEBAS DE RENDIMIENTO (MON)
+##### MONITORIZACIÓN, TESTEO Y PRUEBAS DE RENDIMIENTO (MON)
 II. 1.2.1. Mantenimiento periódico del almacenamiento de los centros
 A. Antecedentes y Requerimientos EducaMadrid :
 EducaMadrid cuenta con un gran número de aplicativos que utilizan NFS para su funcionamiento. De ellos algunos NFS tienen un tamaño que dificulta su control ( MON1 ). Se solicita:
@@ -1041,7 +1041,7 @@ DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y
 - Seguimiento de incidencias recurrentes
 - Actualización progresiva de configuraciones
 - Mejora general de supervisión de servicios Estas actuaciones permitirán mantener unas condiciones adecuadas de funcionamiento de los servicios basados en inteligencia artificial y facilitar las tareas generales de administración y seguimiento operativo del entorno.
-##### 1.5.1.2. ACTUALIZACIÓN DE SERVICIOS EXISTENTES (UPD)
+##### ACTUALIZACIÓN DE SERVICIOS EXISTENTES (UPD)
 II. 1.3.1. Mantenimiento y mejora de los sistemas de videoconferencias
 A. Antecedentes y Requerimientos EducaMadrid :
 EducaMadrid cuenta con una solución De Software Libre para videoconferencias: JitsI. Se necesitan tener esta herramienta actualizada en los tres sistemas, con una periodicidad mínima trimestral manteniendo la compatibilidad con las últimas versiones de los navegadores principales ( UPD1 ). Se solicita:
@@ -1152,7 +1152,7 @@ En cuanto a la adaptación y ajustes del sistema, se realizarán actuaciones ori
 - Adaptación progresiva a necesidades detectadas.
 Asimismo, se realizará un seguimiento continuo del servicio mediante la supervisión periódica del estado de la herramienta, revisando el comportamiento general de la plataforma y verificando que el entorno continúa funcionando en condiciones adecuadas de estabilidad y disponibilidad.
 
-###### 1.5.1.2.1. C. Propuesta de mejora
+###### C. Propuesta de mejora
 
 ![Imagen de la página 60](<oferta_tecnica_sistemas_empresa_n_assets/pagina-0060-imagen-002.jpg>)
 
@@ -1458,7 +1458,7 @@ El mantenimiento correctivo incluirá la resolución de incidencias detectadas d
 - Control del funcionamiento general.
 Todas estas actuaciones se realizarán mediante una supervisión periódica del entorno y una revisión continuada del estado general de la herramienta, permitiendo mantener unas condiciones adecuadas de funcionamiento, estabilidad y disponibilidad dentro del entorno de EducaMadrid .
 
-###### 1.5.1.2.2. C. Propuesta de mejora
+###### C. Propuesta de mejora
 
 ![Imagen de la página 72](<oferta_tecnica_sistemas_empresa_n_assets/pagina-0072-imagen-002.jpg>)
 
@@ -1873,7 +1873,7 @@ C) Propuesta de mejora
 Como línea de mejora, empresa_n propone reforzar el sistema mediante actuaciones de seguimiento:
 I. • Revisión periódica:
 Análisis del funcionamiento general Identificación de posibles mejoras II. • Mejora de integración: Ajustes en conexión con la nube Validación de accesos III. • Seguimiento: Control del uso del sistema Verificación del comportamiento
-##### 1.5.1.3. OTROS DESARROLLOS (OTR)
+##### OTROS DESARROLLOS (OTR)
 II. 1.5.1. Mantenimiento y mejora del sistema de autenticación centralizada
 A. Antecedentes y Requerimientos EducaMadrid :
 Es necesaria el mantenimiento y la mejora del sistema basado en de Software Libre KeyCloak de inicio de sesión único (OTR1 ). Se solicita:
@@ -1977,7 +1977,7 @@ II. 1.5.3. Mantenimiento y mejora de herramientas de automatización de tareas
 A. Antecedentes y Requerimientos EducaMadrid :
 EducaMadrid necesita actualizar los sistemas de automatización de tareas de los diferentes aplicativos y BBDD ( OTR3 ). Para ello se solicita:
 - Mejorar los sistemas de automatización de tareas de los diferentes aplicativos y
-###### 1.5.1.3.1. BBDD.
+###### BBDD.
 - Mantener la solución con su debida gestión y corregir las incidencias.
 B. Propuesta empresa_n
 empresa_n realizará actuaciones orientadas al mantenimiento y mejora de los sistemas de automatización de tareas utilizados por los aplicativos y bases de datos de EducaMadrid . Las actuaciones previstas serán las siguientes:
@@ -2250,7 +2250,7 @@ DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y
 - Seguimiento de incidencias funcionales recurrentes
 - Refuerzo progresivo de procedimientos operativos inteligentes
 Estas actuaciones permitirán mantener una evolución continua de los servicios de Inteligencia Artificial de EducaMadrid , facilitando la adaptación progresiva del ecosistema tecnológico a nuevas capacidades funcionales y manteniendo unas condiciones generales adecuadas de explotación operativa de los distintos componentes inteligentes de la plataforma.
-##### 1.5.1.4. CORREO ELECTRÓNICO (COR)
+##### CORREO ELECTRÓNICO (COR)
 II. 1.6.1. Mantenimiento y mejora de los sistemas de control de envíos de correo
 A. Antecedentes y Requerimientos EducaMadrid :
 Determinados proveedores de correo, por ejemplo, sólo admiten un envío máximo de correos por hora, otros establecen otros parámetros que implican límites al envío de correos desde la plataforma de EducaMadrid . Para garantizar que se puedan realizar los envíos de los correos necesarios desde nuestra plataforma (tanto puntuales como masivos, p. ej. Boletines) se hace necesario implementar adaptaciones que aseguren que dichos correos lleguen a las direcciones que se desea, impidiendo, al mismo tiempo, el envío de correos no deseados o fraudulentos ( COR1 ). Se solicita:
@@ -2794,7 +2794,7 @@ Las actuaciones relacionadas con las pruebas y validaciones permitirán mantener
 
 DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y OTROS SISTEMAS DE EDUCAMADRID (BAC06\_2026) 129
 
-##### 1.5.1.5. SISTEMA OPERATIVO MAX (MAX)
+##### SISTEMA OPERATIVO MAX (MAX)
 II. 1.7.1. Mantenimiento y actualización de MAX de forma presencial en centros de forma regular Se necesita llevar la distribución MAX a los distintos centros educativos ( MAX1 ).
 - Realizar tareas presenciales en los centros Educativos para el mantenimiento y
 actualización de las distribuciones Oficiales Soportadas del Sistema Operativo MAX de la Comunidad de Madrid.
@@ -2842,7 +2842,7 @@ con las demandas del servicio ofrecido por EducaMadrid y asegurarse de que pueda
 basado a los centros educativos por medio de un servidor propio de EducaMadrid .
 - Mantener dicho gestor de acceso remoto.
 II. 1.7.8. Soporte de asistencia telefónica y remota para incidencias de entornos MAX Se necesita ofrecer un servicio de ayuda a los centros educativos con el sistema operativo
-###### 1.5.1.5.1. MAX ( MAX8 )
+###### MAX ( MAX8 )
 - La asistencia técnica telefónica y mediante acceso remoto para cubrir las posibles
 incidencias y solicitudes de mantenimiento de cara al usuario final. Esta asistencia se integra dentro del servicio de soporte que se ofrece desde EducaMadrid a los Sistemas Operativos MAX instalados en los distintos centros de la comunidad de Madrid.
 - Con la nueva implantación del sistema de gestión de repositorios de software
@@ -2877,7 +2877,7 @@ DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y
 por parte de los centros educativos facilitando así una solución de gestión remota y centralizada de plataformas de Sistema Operativo MAX.
 - Mantener, actualizar y dar soporte a la solución completa, incluyendo tanto a la parte
 que afecta a los equipos internos como a la o que afecta a los equipos MAX de los centros educativos que lo hayan solicitado. Este soporte se ofrecerá a lo largo del curso escolar, según lo vayan solicitando de los centros educativos.
-##### 1.5.1.6. APARTADO: AULAS VIRTUALES (AV)
+##### APARTADO: AULAS VIRTUALES (AV)
 II. 1.8.1. Actualización y comprobación periódica de servidores de BBDD en entornos de aulas virtuales
 A. Antecedentes y Requerimientos EducaMadrid :
 Actualmente EducaMadrid tiene más más de 2500 bases de datos de las diferentes aulas virtuales y otros sistemas de formación en línea, alojadas en distintos servidores tanto físicos en clúster como virtuales. La mayor parte de ellas son PostgreSQL, pero también MariaDB y MongoDB (AV1). Se solicita:
@@ -3016,7 +3016,7 @@ Como línea de mejora adicional, empresa_n propone reforzar las tareas de revisi
 - Ajustes generales de configuración
 - Seguimiento básico de rendimiento
 - Mejora progresiva de organización del almacenamiento
-##### 1.5.1.7. SERVICIO DE LDAP Y PORTAL EDUCATIVO (POR)
+##### SERVICIO DE LDAP Y PORTAL EDUCATIVO (POR)
 II. 1.9.1. Ampliación periódica del sistema de esclavos LDAP de EducaMadrid
 A. Antecedentes y Requerimientos EducaMadrid :
 EducaMadrid cuenta con un servidor principal de LDAP y numerosos secundarios/esclavos (POR1 ). Se solicita:
@@ -3059,7 +3059,7 @@ Estas actuaciones permitirán mantener unas condiciones adecuadas de estabilidad
 - Revisión de configuraciones generales
 - Validación del comportamiento tras cambios
 Las actuaciones relacionadas con el seguimiento del entorno permitirán mantener un funcionamiento equilibrado del sistema y favorecer la continuidad operativa de la plataforma
-###### 1.5.1.7.1. LDAP.
+###### LDAP.
 El mantenimiento correctivo incluirá:
 - Gestión de incidencias:
 - Identificación de incidencias
@@ -3164,7 +3164,7 @@ Como línea de mejora adicional, empresa_n propone reforzar el sistema mediante 
 DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y OTROS SISTEMAS DE EDUCAMADRID (BAC06\_2026) 145
 
 Estas actuaciones se plantean como complemento dentro de una línea de mejora continua orientada a la estabilidad del sistema.
-##### 1.5.1.8. SEGURIDAD (SEG)
+##### SEGURIDAD (SEG)
 II. 1.10.1. Mantenimiento y mejora del sistema de control de cambios en DNS
 A. Antecedentes y Requerimientos EducaMadrid :
 Actualmente EducaMadrid cuenta con un servicio DNS de cierto tamaño y que necesita un sistema de revisión ( SEG1 ). Se solicita:
@@ -3425,7 +3425,7 @@ empresa_n realizará actuaciones necesarias para la gestión y mantenimiento de 
 - Verificación general de funcionamiento de servicios asociados
 - Revisión de incidencias detectadas Asimismo, se realizarán actuaciones condicionadas a la disponibilidad de información sobre comunicaciones y dependencias entre servicios.
 
-###### 1.5.1.8.1. C. Propuesta de mejora
+###### C. Propuesta de mejora
 
 ![Imagen de la página 158](<oferta_tecnica_sistemas_empresa_n_assets/pagina-0158-imagen-002.jpg>)
 
@@ -3466,7 +3466,7 @@ Como línea de mejora adicional, empresa_n propone reforzar las tareas de difusi
 - Seguimiento básico de eventos
 - Mejora progresiva de organización
 - Ajustes generales de coordinación
-##### 1.5.1.9. APARTADO: AUTOMATIZACIÓN Y CONTENEDORES (CON)
+##### APARTADO: AUTOMATIZACIÓN Y CONTENEDORES (CON)
 II. 1.11.1. Mantenimiento y mejora del sistema de gestión de contenedores
 A. Antecedentes y Requerimientos EducaMadrid :
 Actualmente EducaMadrid se encuentra en proceso de migración de algunas de sus aplicaciones a entornos contenerizados. ( CON1 ). Se solicita:
@@ -3550,7 +3550,7 @@ Como línea de mejora adicional, empresa_n propone reforzar progresivamente las 
 - Ajustes básicos de funcionamiento
 - Seguimiento de incidencias
 - Mejora progresiva de procedimientos operativos
-##### 1.5.1.10. GESTIÓN DE LA MIGRACIÓN DE SERVIDORES ENTRE CPDS (MIG)
+##### GESTIÓN DE LA MIGRACIÓN DE SERVIDORES ENTRE CPDS (MIG)
 II. 1.12.1. Coordinación y planificación de la migración
 A. Antecedentes y Requerimientos EducaMadrid :
 Se requiere una coordinación y planificación para asegurar que todos los equipos implicados actúen de forma alineada y que se minimicen los riesgos tanto durante la migración como después de la migración desde el punto de vista de los sistemas y servicios. (MIG1 ). Se solicita:
@@ -3871,7 +3871,7 @@ DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y
 - Actualización de información
 - Seguimiento de incidencias
 Estas actuaciones permiten mantener los sistemas en condiciones adecuadas tras la migración.
-##### 1.5.1.11. APARTADO: INTELIGENCIA ARTIFICIAL (IA)
+##### APARTADO: INTELIGENCIA ARTIFICIAL (IA)
 II. 1.13.1. Evaluar el rendimiento de los modelos seleccionados Evaluar el rendimiento de los modelos de IA seleccionados en un entorno de prueba que simule las condiciones operativas de la plataforma EducaMadrid (IA1). Para ello se requiere estudiar:
 - Métricas de Rendimiento: Utilizar métricas como la precisión, recall, F1 -score, tiempo
 de respuesta, y consumo de recursos (CPU, GPU, memoria) para evaluar el rendimiento.
@@ -3949,7 +3949,7 @@ los modelos de IA bajo condiciones de alta demanda.
 
 DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y OTROS SISTEMAS DE EDUCAMADRID (BAC06\_2026) 183
 
-### 1.5.2. Análisis de riesgos del proyecto
+### Análisis de riesgos del proyecto
 
 Un riesgo de un proyecto es un evento o condición inciertos que, si se produce, tiene un efecto positivo o negativo sobre al menos un objetivo del proyecto, como tiempo, coste, alcance o calidad (es decir, cuando el objetivo de tiempo de un proyecto es cum plir con el cronograma acordado; cuando el objetivo de coste del proyecto es cumplir con el coste acordado; etc.), puede tener una o más causas y, si se produce, uno o más impactos. La Gestión de los Riesgos del Proyecto incluye los procesos relacionados con la planificación de la gestión de riesgos, la identificación y el análisis de riesgos, las respuestas a los riesgos, y el seguimiento y control de riesgos de un proyecto. Es impor tante tener en cuenta que la mayoría de estos procesos se irán actualizando durante el transcurso de la ejecución del proyecto. Los principales objetivos de la Gestión de los Riesgos son aumentar la probabilidad y el impacto de los eventos positivos, y disminuir la probabilidad y el impacto de los eventos adversos para el proyecto. Por tanto, los procesos de Gestión de los Riesgos del Proyecto incluyen lo siguiente:
 - Planificación de la Gestión de Riesgos. Decidir cómo enfocar, planificar y ejecutar las actividades de gestión de riesgos para un proyecto.
@@ -4432,7 +4432,7 @@ El jefe de Proyecto de la Consejería de Digitalización será el último respon
 
 DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y OTROS SISTEMAS DE EDUCAMADRID (BAC06\_2026) 214
 
-## 1.6. Aceptación
+## Aceptación
 
 empresa_n , en caso de resultar adjudicataria de la presente licitación, se compromete al acatamiento con carácter general del Documento de Licitación. La oferta de empresa_n incluye todos los aspectos técnicos y funcionales solicitados en el Documento de Licitación al que se adscribe esta oferta. empresa_n se compromete a realizar todas las actuaciones necesarias para cumplir fielmente lo requerido en el Documento de Licitación aun cuando pudiera existir una omisión o error que contradijera alguno de los apartados del pliego. Igualmente declara acatar las C ondiciones Generales del Sistema Dinámico de Adquisición – SDA 26/2021 por el que se rige este contrat o.
 

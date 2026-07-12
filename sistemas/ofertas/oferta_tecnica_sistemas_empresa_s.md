@@ -1,4 +1,4 @@
-# 1. MEMORIA TÉCNICA “DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y OTROS SISTEMAS DE EDUCAMADRID (BAC06_2026)
+# MEMORIA TÉCNICA “DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y OTROS SISTEMAS DE EDUCAMADRID (BAC06_2026)
 
 Sobre 1: Documentación relativa a los criterios de adjudicación cuya ponderación está sujeta a un juicio de valor
 
@@ -811,11 +811,11 @@ Escalabilidad:
 Valor diferencial:
 - Modelo LLMOps para operación eficiente.
 - Integración real de IA en ecosistema educativo.
-## 1.1. Memoria Técnica
+## Memoria Técnica
 
-### 1.1.1. Solución técnica ofertada
+### Solución técnica ofertada
 
-#### 1.1.1.1. Satisfacción de los requisitos
+#### Satisfacción de los requisitos
 
 3.1.6 Satisfacción de los requisitos 3.1.6.1 Definición y Alcance de los trabajos II.1. Descripción del servicio de mantenimiento y actualización para aseguramiento de la continuidad del servicio de los sistemas en entornos productivos. APARTADO: II.1.1. Mantenimiento y mejora de entornos de Bases de Datos (BD) Requisito: II.1.1.1. Mantenimiento y mejora de entornos de Bases de Datos MariaDB y ProxySQL avanzado Requerimiento EducaMadrid
 
@@ -1067,7 +1067,7 @@ bases de datos.
 5. Evolución hacia arquitecturas desacopladas, escalables y orientadas a alta disponibilidad.
 
 Valor aportado Estas mejoras permiten garantizar la continuidad del servicio, acelerar los despliegues y reducir el impacto de incidencias y cambios de versión. Además, permiten evolucionar los entornos de bases de datos hacia arquitecturas más flexibles, automatizadas y preparadas para el crecimiento futuro de la plataforma EducaMadrid.
-##### 1.1.1.1.1. APARTADO: MONITORIZACIÓN, TESTEO Y PRUEBAS DE RENDIMIENTO (MON)
+##### APARTADO: MONITORIZACIÓN, TESTEO Y PRUEBAS DE RENDIMIENTO (MON)
 Requisito: II.1.2.1. Mantenimiento periódico del almacenamiento de los centros Requerimiento EducaMadrid EducaMadrid cuenta con un gran número de aplicativos que utilizan NFS para su funcionamiento. De ellos algunos NFS tienen un tamaño que dificulta su control (MON1).
 
 
@@ -1273,7 +1273,7 @@ funcional.
 7. Integración de monitorización IA dentro de pipelines DevOps y LLMOps.
 
 Valor aportado Estas mejoras permiten garantizar una operación estable, eficiente y escalable de los servicios de Inteligencia Artificial de EducaMadrid, mejorando la capacidad de supervisión, detección temprana de incidencias y optimización continua del rendimiento. Además, permiten evolucionar hacia un modelo moderno de observabilidad LLMOps, preparado para soportar el crecimiento futuro de nuevos servicios IA dentro del ecosistema educativo.
-##### 1.1.1.1.2. APARTADO: ACTUALIZACIÓN DE SERVICIOS EXISTENTES (UPD)
+##### APARTADO: ACTUALIZACIÓN DE SERVICIOS EXISTENTES (UPD)
 Requisito: II.1.3.1. Mantenimiento y mejora de los sistemas de videoconferencias Requerimiento EducaMadrid EducaMadrid cuenta con una solución De Software Libre para videoconferencias: Jitsi . Se necesitan tener esta herramienta actualizada en los tres sistemas, con una periodicidad mínima trimestral manteniendo la compatibilidad con las últimas versiones de los navegadores principales (UPD1).
 
 
@@ -1698,7 +1698,7 @@ Estas tareas se realizarán periódicamente. Propuesta técnica de empresa_s Los
 Asimismo, empresa_s garantizará la trazabilidad completa de incidencias y cambios, mejorando la coordinación entre los equipos de sistemas, desarrollo y soporte técnico. Propuesta de mejora y evolución del servicio empresa_s propone evolucionar Redmine hacia una plataforma más automatizada, colaborativa y alineada con prácticas DevOps mediante:
 1. Implantación de entornos de preproducción para validación de cambios y plugins.
 2. Automatización avanzada de tickets desde CAU, correo y sistemas externos mediante API
-###### 1.1.1.1.2.1. REST.
+###### REST.
 3. Integración con GitLab para trazabilidad entre incidencias, commits y despliegues.
 4. Implantación de métricas de actividad, tiempos de resolución y carga de trabajo.
 5. Refuerzo de seguridad mediante 2FA, auditoría de accesos y segmentación de permisos.
@@ -2023,7 +2023,7 @@ canary deployment.
 5. Integración avanzada con Prometheus, Grafana y sistemas centralizados de logging y
 trazabilidad.
 6. Escaneo automático de vulnerabilidades y políticas de seguridad integradas en pipelines
-###### 1.1.1.1.2.2. CI/CD.
+###### CI/CD.
 7. Evolución progresiva hacia arquitecturas desacopladas basadas en microservicios
 distribuidos.
 
@@ -2065,7 +2065,7 @@ activos o dependencias no documentadas.
 6. Evolución hacia un modelo centralizado de gobierno del ciclo de vida de infraestructuras
 IT. Valor aportado Estas mejoras permiten garantizar una gestión controlada, segura y trazable del ciclo de vida de los servidores de EducaMadrid, reduciendo riesgos operativos y eliminando configuraciones residuales que puedan afectar a la estabilidad o seguridad de la plataforma. Además, la automatización y centralización de procesos favorecen una operación más eficiente, homogénea y alineada con las mejores prácticas de gobierno IT.
 
-##### 1.1.1.1.3. APARTADO: CLOUD (CLO)
+##### APARTADO: CLOUD (CLO)
 Requisito: II.1.4.1. Mantenimiento del servicio de la nube de EducaMadrid Requerimiento EducaMadrid EducaMadrid cuenta con una infraestructura de código abierto para el servicio de nube. Esta infraestructura debe optimizarse, evolucionar y mantenerse para ofrecer mejor servicio (CLO1). Se solicita:
 - Mantener y mejorar la infraestructura de código abierto para el servicio de la nube de
 EducaMadrid. Página 78 de 239
@@ -2296,7 +2296,7 @@ Propuesta de mejora, escalabilidad, integración y experiencia de usuario empres
 
 - Segmentación de carga por perfiles de usuario, mejorando eficiencia del sistema.
 Valor aportado Estas mejoras permiten consolidar la edición en línea como un servicio estable, escalable y plenamente integrado en el ecosistema cloud.
-##### 1.1.1.1.4. APARTADO: OTROS DESARROLLOS (OTR)
+##### APARTADO: OTROS DESARROLLOS (OTR)
 Requisito: II.1.5.1. Mantenimiento y mejora del sistema de autenticación centralizada Requerimiento EducaMadrid Es necesaria el mantenimiento y la mejora del sistema basado en de Software Libre KeyCloak de inicio de sesión único (OTR1). Se solicita:
 - Mantener y mejorar la solución de código abierto de inicio de sesión único (SSO).
 
@@ -2692,7 +2692,7 @@ microservicios. Valor aportado Estas mejoras permiten consolidar una plataforma 
 
 Asimismo, se mejora la disponibilidad, la capacidad de integración y el rendimiento de los servicios basados en IA, garantizando un entorno gobernado, escalable y alineado con estrategias cloudnative y LLMOps.
 
-##### 1.1.1.1.5. APARTADO: CORREO ELECTRÓNICO (COR)
+##### APARTADO: CORREO ELECTRÓNICO (COR)
 Requisito: II.1.6.1. Mantenimiento y mejora de los sistemas de control de envíos de correo Requerimiento EducaMadrid Determinados proveedores de correo, por ejemplo, sólo admiten un envío máximo de correos por hora, otros establecen otros parámetros que implican límites al envío de correos desde la plataforma de EducaMadrid. Para garantizar que se puedan realizar los envíos de los correos necesarios desde nuestra plataforma (tanto puntuales como masivos, p. ej. Boletines) se hace necesario implementar adaptaciones que aseguren que dichos correos lleguen a las direcciones que se desea, impidiendo, al mismo tiempo, el envío de correos no deseados o fraudulentos (COR1). Se solicita:
 - Mejorar el servicio que permite configurar un número máximo de correos/hora que se
 envíen a determinados proveedores, permitiendo una configuración distinta por cada proveedor.
@@ -3044,7 +3044,7 @@ Las labores de actualización de versiones y corrección de vulnerabilidades no 
 o planificación por nodos o minimización de impacto
 - Validación de servicios críticos:
 o SMTP relay o autenticación
-###### 1.1.1.1.5.1. o SPF/DKIM/DMARC
+###### o SPF/DKIM/DMARC
 - Aplicación prioritaria de parches de seguridad.
 - Pruebas de rendimiento y estabilidad tras migración.
 Actualización de servidores CAS y Mailbox.
@@ -3278,7 +3278,7 @@ o despliegue o mantenimiento
 - Scripts asociados:
 o automatización
 - Formación al equipo técnico de EducaMadrid .
-##### 1.1.1.1.6. APARTADO: SISTEMA OPERATIVO MAX (MAX)
+##### APARTADO: SISTEMA OPERATIVO MAX (MAX)
 Requisito: II.1.7.1. Mantenimiento y actualización de MAX de forma presencial en centros de forma regular Requerimiento EducaMadrid
 
 
@@ -4067,7 +4067,7 @@ o Logs centralizados. o Trazabilidad completa. Propuesta de mejora , gobierno de
 
 
 Valor aportado Estas actuaciones permiten transformar Migasfree en una plataforma real de gobierno del puesto de trabajo, garantizando entornos homogéneos, controlados y seguros, facilitando la gestión masiva de equipos y mejorando la eficiencia operativa en todos los centros educativos.
-##### 1.1.1.1.7. APARTADO: AULAS VIRTUALES (AV)
+##### APARTADO: AULAS VIRTUALES (AV)
 Requisito: II.1.8.1. Actualización y comprobación periódica de servidores de BBDD en entornos de aulas virtuales Requerimiento EducaMadrid Actualmente EducaMadrid tiene más más de 2500 bases de datos de las diferentes aulas virtuales y otros sistemas de formación en línea, alojadas en distintos servidores tanto físicos en clúster como virtuales. La mayor parte de ellas son PostgreSQL, pero también MariaDB y MongoDB (AV1). Se solicita:
 - Realizar de forma periódica actualizaciones de versión necesarias de los distintos
 servidores de base de datos, teniendo en cuenta la compatibilidad con la versión de las Aulas Virtuales que tengan en cada momento.
@@ -4279,7 +4279,7 @@ empresa_s propone evolucionar la plataforma de almacenamiento hacia un modelo in
 - Evolución hacia arquitecturas de almacenamiento más resilientes y escalables.
 
 Valor aportado La propuesta de empresa_s permite consolidar un modelo de almacenamiento distribuido más eficiente, equilibrado y preparado para el crecimiento continuo de las Aulas Virtuales de EducaMadrid. La automatización de procesos, la redistribución dinámica de carga y la optimización continua del rendimiento reducen riesgos operativos, minimizan incidencias por saturación y mejoran significativamente la disponibilidad y capacidad de respuesta de la plataforma. Además, la implantación de mecanismos predictivos y arquitecturas escalables permite evolucionar el servicio hacia un entorno más robusto, resiliente y alineado con las necesidades futuras del ecosistema educativo digital.
-##### 1.1.1.1.8. APARTADO: SERVICIO DE LDAP Y PORTAL EDUCATIVO (POR)
+##### APARTADO: SERVICIO DE LDAP Y PORTAL EDUCATIVO (POR)
 Requisito: II.1.9.1. Ampliación periódica del sistema de esclavos LDAP de EducaMadrid Requerimiento EducaMadrid EducaMadrid cuenta con un servidor principal de LDAP y numerosos secundarios/esclavos (POR1). Se solicita:
 - Mantener, ampliar y adaptar el número de servidores LDAP de forma que se mantengan
 cubiertas las necesidades de todos los servicios ofrecidos por EducaMadrid.
@@ -4395,7 +4395,7 @@ Uso de:
 7. Gestión conjunta de incidencias.
 
 Valor aportado Estas mejoras permiten transformar el LDAP Master en un sistema moderno, virtualizado y altamente disponible, preparado para integrarse con soluciones de identidad avanzadas (SSO y 2FA), mejorando la seguridad global, la resiliencia ante fallos y la capacidad de evolución futura de la plataforma EducaMadrid.
-##### 1.1.1.1.9. APARTADO: SEGURIDAD (SEG)
+##### APARTADO: SEGURIDAD (SEG)
 Requisito: II.1.10.1. Mantenimiento y mejora del sistema de control de cambios en DNS Requerimiento EducaMadrid Actualmente EducaMadrid cuenta con un servicio DNS de cierto tamaño y que necesita un sistema de revisión (SEG1). Se solicita:
 - Realizar las labores de mejora continua del sistema de control de modificaciones del DNS
 público, para securizar el control de cambios.
@@ -5129,7 +5129,7 @@ Valor aportado
 
 - Modelo evolutivo, reutilizable y alineado con las necesidades de EducaMadrid.
 
-##### 1.1.1.1.10. APARTADO: AUTOMATIZACIÓN Y CONTENEDORES (CON)
+##### APARTADO: AUTOMATIZACIÓN Y CONTENEDORES (CON)
 Requisito: II.1.11.1. Mantenimiento y mejora del sistema de gestión de contenedores Requerimiento EducaMadrid Actualmente EducaMadrid se encuentra en proceso de migración de algunas de sus aplicaciones a entornos contenerizados. (CON1). Se solicita:
 - Realizar las labores de mejora continua del sistema de control y gestión de contenedores.
 
@@ -5244,7 +5244,7 @@ Esta aproximación permitirá disponer de un sistema de automatización mucho m�
 - Mejora de la seguridad y cumplimiento ENS.
 
 - Base sólida para la evolución hacia automatización moderna y desacoplada.
-##### 1.1.1.1.11. APARTADO: GESTIÓN DE LA MIGRACIÓN DE SERVIDORES ENTRE CPDS (MIG)
+##### APARTADO: GESTIÓN DE LA MIGRACIÓN DE SERVIDORES ENTRE CPDS (MIG)
 Requisito: II.1.12.1. Coordinación y planificación de la migración Requerimiento EducaMadrid Se requiere una coordinación y planificación para asegurar que todos los equipos implicados actúen de forma alineada y que se minimicen los riesgos tanto durante la migración como después de la migración desde el punto de vista de los sistemas y servicios. (MIG1). Se solicita:
 - Participar en reuniones de coordinación con el personal del CPD y del proveedor de
 servicio de Infraestructuras.
@@ -5675,7 +5675,7 @@ tras la migración.
 - Recomendaciones futuras.
 
 Valor aportado Estas actuaciones permiten asegurar que la migración no solo finaliza correctamente desde el punto de vista técnico, sino que los sistemas quedan estables, operativos y optimizados en el nuevo CPD, reduciendo riesgos de incidencias posteriores.
-##### 1.1.1.1.12. APARTADO: INTELIGENCIA ARTIFICIAL (IA)
+##### APARTADO: INTELIGENCIA ARTIFICIAL (IA)
 Requisito: II.1.13.1. Evaluar el rendimiento de los modelos seleccionados Requerimiento EducaMadrid Evaluar el rendimiento de los modelos de IA seleccionados en un entorno de prueba que simule las condiciones operativas de la plataforma EducaMadrid (IA1). Para ello se requiere estudiar:
 - Métricas de Rendimiento: Utilizar métricas como la precisión, recall, F1-score, tiempo de
 respuesta, y consumo de recursos (CPU, GPU, memoria) para evaluar el rendimiento.
@@ -6415,7 +6415,7 @@ o Operación bajo ANS.
 
 Organización y Gobierno del Riesgo
 
-##### 1.1.1.1.13. Roles y Responsabilidades:
+##### Roles y Responsabilidades:
 
 Rol Responsabilidades Jefe de Proyecto (empresa_s) Responsable global del plan y decisiones Responsable del contrato (EducaMadrid) Priorización y validación
 
@@ -6426,7 +6426,7 @@ Equipo técnico Identificación y tratamiento activo Responsable de seguridad Ri
 
 Se asignar á un propietario a todos los riesgos críticos (accountability clara).
 
-##### 1.1.1.1.14. Comités y Cadencia:
+##### Comités y Cadencia:
 
 - Comité mensual de riesgos
 
@@ -6452,7 +6452,7 @@ Se estructura en 6 fases:
 
 Identificación de Riesgos
 
-##### 1.1.1.1.15. Enfoque
+##### Enfoque
 
 - Identificación continua (iterativa, mensual y ad- hoc).
 
@@ -6465,7 +6465,7 @@ o Históricos Redmine. o ANS e incidencias reales.
 
 o ENS (riesgos de seguridad)
 
-##### 1.1.1.1.16. Principales categorías de riesgo
+##### Principales categorías de riesgo
 
 Se definen categorías específicas del contexto EducaMadrid:
 
@@ -6486,13 +6486,13 @@ Fecha: 21/05/2026
 
 - Dependencias externas.
 
-##### 1.1.1.1.17. Catálogo inicial de riesgos (muy valorable en pliego)
+##### Catálogo inicial de riesgos (muy valorable en pliego)
 
 Código Riesgo Impacto R1 Caída del portal educativo Crítico R2 Indisponibilidad de aulas virtuales Crítico R3 Fallo masivo de correo Crítico R4 Brecha de seguridad (ENS) Crítico R5 Corrupción de bases de datos Crítico R6 Error en migración CPD Alto R7 Fallo en SSO/LDAP Crítico R8 Saturación de infraestructura Alto R9 Fallos en despliegues/actualizaciones Alto R10 Pérdida de personal clave Medio R11 Riesgos derivados de IA (modelos locales) Medio R12 Incumplimiento ANS Crítico
 
 Análisis Cualitativo de Riesgos
 
-##### 1.1.1.1.18. Matriz Probabilidad- Impacto
+##### Matriz Probabilidad- Impacto
 
 Se establece matriz 5x5: Impacto \\ Probabilidad Muy baja Baja Media Alta Muy alta Impacto evaluado sobre:
 - Servicio
@@ -6506,7 +6506,7 @@ Se establece matriz 5x5: Impacto \\ Probabilidad Muy baja Baja Media Alta Muy al
 
 - Imagen institucional
 
-##### 1.1.1.1.19. Factores adicionales
+##### Factores adicionales
 
 - Urgencia.
 
@@ -6516,7 +6516,7 @@ Se establece matriz 5x5: Impacto \\ Probabilidad Muy baja Baja Media Alta Muy al
 
 - Cumplimiento ENS.
 
-##### 1.1.1.1.20. Priorización
+##### Priorización
 
 Clasificación: � Crítico → acción inmediata. � Alto → plan de mitigación. � Medio → seguimiento. � Bajo → monitorización. Análisis Cuantitativo de Riesgos Aplicado a:
 - Caídas de servicio.
@@ -6533,7 +6533,7 @@ Técnicas:
 
 Planificación de Respuesta a Riesgos
 
-##### 1.1.1.1.21. Estrategias para amenazas
+##### Estrategias para amenazas
 
 - Evitar.
 
@@ -6543,7 +6543,7 @@ Planificación de Respuesta a Riesgos
 
 - Aceptar.
 
-##### 1.1.1.1.22. Ejemplos concretos
+##### Ejemplos concretos
 
 
 Fecha: 21/05/2026
@@ -6561,7 +6561,7 @@ Planes de mitigación Incluyen:
 
 Seguimiento y Control de Riesgos
 
-##### 1.1.1.1.23. Monitorización continua
+##### Monitorización continua
 
 Basada en:
 - Sistemas de monitorización.
@@ -6570,7 +6570,7 @@ Basada en:
 
 - Métricas de servicio.
 
-##### 1.1.1.1.24. Indicadores (KPIs de riesgo)
+##### Indicadores (KPIs de riesgo)
 
 - Nº incidencias críticas.
 
@@ -6582,7 +6582,7 @@ Basada en:
 
 - Disponibilidad servicios críticos.
 
-##### 1.1.1.1.25. Revisión de riesgos
+##### Revisión de riesgos
 
 - Reevaluación mensual.
 
@@ -6671,7 +6671,7 @@ Asimismo, este plan se encuentra completamente alineado con:
 
 Cobertura del Plan El plan se articula en torno a cuatro grandes ejes de actuación que cubren de manera transversal toda la operación del servicio:
 
-##### 1.1.1.1.26. Mantenimiento correctivo, evolutivo y adaptativo
+##### Mantenimiento correctivo, evolutivo y adaptativo
 
 Este eje contempla la gestión integral del ciclo de vida de los sistemas, asegurando su estabilidad, evolución tecnológica y adaptación continua a necesidades funcionales y cambios del entorno. Alcance ampliado Mantenimiento correctivo:
 
@@ -6702,7 +6702,7 @@ Enfoque de contingencia Diseño de entornos de preproducción y pruebas para evi
 
 Este enfoque reduce el riesgo de introducción de fallos y garantiza la continuidad del servicio durante cualquier cambio.
 
-##### 1.1.1.1.27. Gestión de incidencias bajo ANS (Acuerdos de Nivel de Servicio)
+##### Gestión de incidencias bajo ANS (Acuerdos de Nivel de Servicio)
 
 Este eje establece un modelo robusto y estructurado de gestión de incidencias alineado con los ANS definidos en el pliego, garantizando una respuesta rápida, controlada y medible. Capacidades clave:
 - Disponibilidad de soporte 24x7 para incidencias críticas.

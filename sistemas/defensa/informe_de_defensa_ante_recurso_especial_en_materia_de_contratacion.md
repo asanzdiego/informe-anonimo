@@ -1,12 +1,12 @@
 # INFORME DE DEFENSA ANTE RECURSO ESPECIAL EN MATERIA DE CONTRATACIÓN
 
-## 1. OBJETO DEL INFORME
+## OBJETO DEL INFORME
 
 El presente informe tiene por objeto dar respuesta, desde un punto de vista técnico y conforme a los principios de la contratación pública, a un eventual recurso especial en materia de contratación que pudiera interponerse contra la valoración realizada en el procedimiento relativo a la adjudicación del contrato de servicios de desarrollo, mantenimiento y operación de los sistemas de la plataforma Educ@Madrid.
 
 En particular, el informe se centra en fundamentar la **corrección de la valoración otorgada a la propuesta presentada por la empresa empresa_n**, así como la **legalidad de su exclusión del procedimiento**, al no haber alcanzado el umbral mínimo exigido en los criterios sujetos a juicio de valor.
 
-## 2. MARCO NORMATIVO Y DOCTRINAL
+## MARCO NORMATIVO Y DOCTRINAL
 
 ### 2.1 Principio de discrecionalidad técnica
 
@@ -46,7 +46,7 @@ La obligación de alcanzar al menos el 50% de la puntuación en los criterios su
 
 Este requisito constituye una **condición eliminatoria automática**, cuya aplicación no es discrecional una vez constatado su incumplimiento.
 
-## 3. NATURALEZA DE LA EVALUACIÓN REALIZADA
+## NATURALEZA DE LA EVALUACIÓN REALIZADA
 
 ### 3.1 Evaluación individual y no comparativa
 
@@ -74,7 +74,7 @@ La evaluación se ha basado en:
 
 Asimismo, se ha otorgado especial relevancia a la **verificabilidad de la propuesta**, entendida como la posibilidad de acreditar objetivamente su ejecución.
 
-## 4. FUNDAMENTACIÓN DE LA PUNTUACIÓN OTORGADA
+## FUNDAMENTACIÓN DE LA PUNTUACIÓN OTORGADA
 
 ### 4.1 Coherencia entre análisis y puntuación
 
@@ -144,7 +144,7 @@ Este enfoque se alinea con la doctrina que establece que:
 
 No basta con describir los requisitos del pliego, sino que es necesario demostrar cómo se van a cumplir.
 
-## 5. FUNDAMENTACIÓN DE LA EXCLUSIÓN
+## FUNDAMENTACIÓN DE LA EXCLUSIÓN
 
 ### 5.1 Aplicación automática del umbral
 
@@ -190,7 +190,7 @@ El presente informe cumple ampliamente este requisito, al incorporar:
 
 - Relación directa con la puntuación
 
-## 6. POSIBLES ALEGACIONES Y RESPUESTA
+## POSIBLES ALEGACIONES Y RESPUESTA
 
 ### 6.1 Alegación: “La propuesta cumple el pliego”
 
@@ -226,7 +226,7 @@ La ausencia de leyenda en el Gantt no es un error formal menor, sino una deficie
 
 - Invalida su utilidad operativa
 
-## 7. CONCLUSIÓN FINAL
+## CONCLUSIÓN FINAL
 
 A la vista de lo expuesto, puede afirmarse que:
 

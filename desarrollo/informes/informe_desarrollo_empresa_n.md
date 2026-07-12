@@ -1,17 +1,14 @@
-# 1. INFORME DE VALORACIÓN TÉCNICA
+# INFORME DE VALORACIÓN TÉCNICA EMPRESA_N
 
-**Procedimiento basado en el SDA 26/2021** 
-**Contrato de desarrollo y mantenimiento de la plataforma EducaMadrid**
+## RESUMEN EJECUTIVO
 
-## 1.1. RESUMEN EJECUTIVO
-
-### 1.1.1. Objeto del informe y contexto de la evaluación
+### Objeto del informe y contexto de la evaluación
 
 El presente informe tiene por objeto la valoración técnica de la propuesta presentada por la empresa empresa_n en el marco del procedimiento basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo y adaptación del ecosistema EducaMadrid.
 
 **La evaluación se ha realizado conforme a los criterios establecidos en el Documento de Invitación, y en particular según lo dispuesto en su apartado 7.2, que regula los criterios sujetos a juicio de valor.** El análisis se ha centrado exclusivamente en el contenido de la memoria técnica presentada por el licitador, sin considerar factores de naturaleza económica.
 
-### 1.1.2. Enfoque metodológico
+### Enfoque metodológico
 
 La valoración se ha estructurado en dos niveles de análisis complementarios:
 
@@ -21,7 +18,7 @@ En segundo lugar, este análisis se ha trasladado al esquema de evaluación defi
 
 Este enfoque garantiza la trazabilidad entre el análisis técnico realizado, las deficiencias identificadas y la puntuación final asignada.
 
-### 1.1.3. Principales conclusiones técnicas
+### Principales conclusiones técnicas
 
 El análisis efectuado pone de manifiesto que la propuesta presentada por empresa_n presenta una cobertura funcional amplia del alcance del contrato, identificando la mayor parte de los sistemas incluidos en el Anexo II. **No obstante, dicha cobertura se materializa de forma predominantemente descriptiva, sin aportar un nivel suficiente de desarrollo técnico.**
 
@@ -39,7 +36,7 @@ Estas carencias no se concentran en elementos aislados, sino que se reproducen d
 
 **En particular, se ha constatado la existencia de errores técnicos objetivos en aspectos fundamentales, tales como la identificación de tecnologías de base de datos, los mecanismos de sincronización o la arquitectura de determinados sistemas.** Estos errores afectan de manera directa a la evaluación de la propuesta, al evidenciar un conocimiento incompleto del entorno técnico sobre el que se debe prestar el servicio.
 
-### 1.1.4. Valoración conforme al Documento de Invitación
+### Valoración conforme al Documento de Invitación
 
 En aplicación del baremo establecido en el apartado 7.2 del Documento de Invitación, la propuesta ha sido valorada en los siguientes términos:
 
@@ -53,7 +50,7 @@ Como resultado de la evaluación global, y en aplicación del principio de valor
 
 Esta puntuación refleja un nivel medio-bajo de adecuación, debido al carácter insuficientemente desarrollado de la propuesta desde el punto de vista técnico y a la imposibilidad de verificar el cumplimiento efectivo de los requisitos definidos en el Anexo II.
 
-### 1.1.5. Conclusión y propuesta
+### Conclusión y propuesta
 
 De acuerdo con lo establecido en el Documento de Invitación y en la normativa de contratación pública, las ofertas que no alcancen el 50% de la puntuación máxima en los criterios sujetos a juicio de valor deben ser excluidas del procedimiento.
 
@@ -61,15 +58,15 @@ De acuerdo con lo establecido en el Documento de Invitación y en la normativa d
 
 **En consecuencia, procede proponer la exclusión de la oferta del procedimiento de licitación, al no acreditar el nivel técnico requerido para garantizar el cumplimiento del objeto del contrato.**
 
-## 1.2. INTRODUCCIÓN Y MARCO DE REFERENCIA
+## INTRODUCCIÓN Y MARCO DE REFERENCIA
 
-### 1.2.1. Objeto del informe
+### Objeto del informe
 
 El presente informe tiene por objeto la evaluación técnica de la memoria presentada por la empresa empresa_n en el marco del procedimiento de contratación basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo y soporte de la plataforma EducaMadrid.
 
 La valoración se realiza exclusivamente conforme a los criterios establecidos en el Documento de Invitación, y en particular de acuerdo con el apartado 7.2 del mismo, que regula los criterios de adjudicación sujetos a juicio de valor. **En este sentido, la evaluación se limita estrictamente al análisis técnico de la documentación presentada por el licitador, sin considerar elementos de naturaleza económica.**
 
-### 1.2.2. Alcance técnico de la evaluación
+### Alcance técnico de la evaluación
 
 El análisis efectuado toma como referencia fundamental el Anexo II del Documento de Invitación, que constituye el núcleo del contrato al definir el conjunto de proyectos, sistemas y actuaciones objeto de desarrollo. Este anexo recoge un entorno de especial complejidad técnica caracterizado por:
 
@@ -87,7 +84,7 @@ El análisis efectuado toma como referencia fundamental el Anexo II del Document
 
 Este contexto obliga a que las propuestas técnicas no solo identifiquen los requisitos, sino que los desarrollen de forma concreta, verificable y coherente con la arquitectura real del sistema.
 
-### 1.2.3. Metodología aplicada
+### Metodología aplicada
 
 El proceso de evaluación se ha desarrollado en dos fases claramente diferenciadas, con objeto de garantizar la máxima objetividad:
 
@@ -103,7 +100,7 @@ Este enfoque permite asegurar la trazabilidad entre:
 
 - Valoración final otorgada
 
-### 1.2.4. Principios de valoración aplicados
+### Principios de valoración aplicados
 
 La valoración se ha llevado a cabo conforme a los siguientes principios:
 
@@ -115,11 +112,11 @@ La valoración se ha llevado a cabo conforme a los siguientes principios:
 
 - Evaluabilidad, valorando únicamente aquello que puede ser verificado
 
-## 1.3. ANÁLISIS DE LA SOLUCIÓN TÉCNICA
+## ANÁLISIS DE LA SOLUCIÓN TÉCNICA
 
-### 1.3.1. Consideraciones generales
+### Consideraciones generales
 
-#### 1.3.1.1. Evaluación global preliminar
+#### Evaluación global preliminar
 
 **La propuesta presentada por empresa_n se caracteriza, en términos generales, por una estructura formal adecuada y por una cobertura nominal amplia del conjunto de sistemas incluidos en el alcance del contrato.** Se observa una organización coherente de la memoria y una referencia sistemática a los distintos componentes definidos en el Anexo II del Documento de Invitación.
 
@@ -129,7 +126,7 @@ Esta circunstancia resulta especialmente relevante en un contrato de elevada com
 
 En consecuencia, la propuesta presenta una diferencia sustancial entre la identificación formal de los sistemas y la definición efectiva de soluciones técnicas aplicables, lo que limita de forma directa su evaluabilidad.
 
-#### 1.3.1.2. Principales deficiencias estructurales detectadas
+#### Principales deficiencias estructurales detectadas
 
 El análisis realizado permite identificar un conjunto de carencias recurrentes que afectan de manera transversal a la mayor parte de los bloques funcionales del Anexo II y que, por tanto, tienen un impacto acumulativo en la valoración final.
 
@@ -143,7 +140,7 @@ El análisis realizado permite identificar un conjunto de carencias recurrentes 
 
 Estas carencias no se presentan de forma aislada, sino que configuran un patrón homogéneo que afecta a la totalidad de la propuesta.
 
-#### 1.3.1.3. Impacto de las deficiencias en la evaluabilidad
+#### Impacto de las deficiencias en la evaluabilidad
 
 **Las deficiencias identificadas tienen un impacto directo sobre la evaluabilidad técnica de la propuesta.** En un entorno como el definido en el Anexo II, la capacidad de definir soluciones concretas y verificables constituye un requisito esencial para la valoración.
 
@@ -155,7 +152,7 @@ Asimismo, la existencia de errores técnicos introduce un factor adicional de in
 
 En consecuencia, la evaluabilidad de la propuesta se ve limitada no por la falta de identificación de los requisitos, sino por la imposibilidad de verificar su cumplimiento efectivo.
 
-#### 1.3.1.4. Enfoque del análisis detallado
+#### Enfoque del análisis detallado
 
 Con el objetivo de garantizar la máxima objetividad, el análisis técnico se ha estructurado siguiendo el desglose de proyectos definido en el Anexo II, abordando cada uno de ellos de forma individualizada.
 
@@ -171,11 +168,11 @@ Este enfoque permite:
 
 Además, el análisis individualizado ha permitido constatar que las carencias detectadas en los bloques principales se reproducen de forma sistemática en los sistemas complementarios, lo que refuerza la conclusión de que la propuesta no se ha elaborado a partir de un análisis en profundidad del entorno.
 
-### 1.3.2. Análisis detallado por proyectos según desglose del Anexo II del Documento de Invitación
+### Análisis detallado por proyectos según desglose del Anexo II del Documento de Invitación
 
-#### 1.3.2.1. Bloque de servicios transversales (TRA)
+#### Bloque de servicios transversales (TRA)
 
-##### 1.3.2.1.1. Proyecto TRA1 – Sincronización de usuarios y coherencia de datos
+##### Proyecto TRA1 – Sincronización de usuarios y coherencia de datos
 
 **El sistema de sincronización de usuarios constituye uno de los elementos más críticos del entorno EducaMadrid, dado que garantiza la coherencia de la información entre los distintos sistemas que integran la plataforma.** El Anexo II establece de manera explícita la necesidad de implementar mecanismos robustos de propagación de cambios que aseguren la consistencia de los datos en entornos distribuidos y altamente interdependientes.
 
@@ -187,7 +184,7 @@ Adicionalmente, no se describen aspectos esenciales como la frecuencia de sincro
 
 Desde una perspectiva global, aunque la propuesta reconoce la importancia del sistema de sincronización, su tratamiento resulta claramente insuficiente, tanto por la existencia de errores conceptuales como por la ausencia de desarrollo técnico detallado.
 
-##### 1.3.2.1.2. Proyecto TRA2 – Gestión de calendarios e interoperabilidad
+##### Proyecto TRA2 – Gestión de calendarios e interoperabilidad
 
 **El sistema de calendarios representa un componente transversal que afecta a múltiples aplicaciones del entorno EducaMadrid, incluyendo Aulas Virtuales, plataformas colaborativas y servicios de notificación.** El Anexo II requiere que estos sistemas sean compatibles entre sí y capaces de intercambiar información de forma coherente.
 
@@ -195,7 +192,7 @@ La propuesta de empresa_n aborda este requisito, pero **introduce una imprecisi�
 
 **La ausencia de una descripción detallada de los mecanismos de interoperabilidad, así como de los procesos de actualización y validación de la información, limita la capacidad de evaluar la propuesta.** No se especifica cómo se garantizará la consistencia de los calendarios en distintos sistemas ni cómo se resolverán posibles conflictos derivados de actualizaciones simultáneas.
 
-##### 1.3.2.1.3. Proyecto TRA3 – Seguridad transversal
+##### Proyecto TRA3 – Seguridad transversal
 
 En materia de seguridad, el Anexo II establece requisitos alineados con el Esquema Nacional de Seguridad, incluyendo la necesidad de implementar mecanismos de autenticación robusta, control de accesos, auditoría de operaciones y protección de datos.
 
@@ -203,13 +200,13 @@ La propuesta de empresa_n **incluye referencias al cumplimiento del ENS y a la n
 
 No se describen, por ejemplo, políticas de gestión de identidades, control de privilegios o segregación de entornos. Tampoco se definen procedimientos de auditoría ni mecanismos de detección de incidentes de seguridad. **Esta falta de concreción limita la capacidad de evaluar el cumplimiento efectivo de los requisitos.**
 
-##### 1.3.2.1.4. Conclusión del bloque TRA
+##### Conclusión del bloque TRA
 
 **El análisis del bloque de servicios transversales pone de manifiesto la existencia de una cobertura conceptual adecuada, pero con importantes deficiencias técnicas.** La combinación de errores en la interpretación de sistemas, junto con la ausencia de desarrollo técnico detallado, limita significativamente la validez de la propuesta en este ámbito.
 
-#### 1.3.2.2. Bloque de Aulas Virtuales (AV)
+#### Bloque de Aulas Virtuales (AV)
 
-##### 1.3.2.2.1. Consideración general del bloque
+##### Consideración general del bloque
 
 **El sistema de Aulas Virtuales constituye uno de los elementos centrales del ecosistema EducaMadrid, al ser la plataforma sobre la que se articula una parte sustancial de la actividad docente.** Desde el punto de vista técnico, se trata de un sistema especialmente exigente, tanto en términos de escalabilidad como de integración con otros componentes del entorno, incluyendo sistemas de identidad, plataformas de contenidos, servicios de videoconferencia y herramientas de evaluación.
 
@@ -217,7 +214,7 @@ No se describen, por ejemplo, políticas de gestión de identidades, control de 
 
 El análisis realizado pone de manifiesto que la propuesta de empresa_n reconoce la importancia del sistema y recoge los principales ámbitos de actuación, pero no desarrolla con el nivel de detalle requerido los elementos técnicos necesarios para acreditar su viabilidad. **Esta circunstancia limita de forma directa la evaluabilidad del bloque.**
 
-##### 1.3.2.2.2. Proyecto AV1 – Evolución y actualización del core de Moodle
+##### Proyecto AV1 – Evolución y actualización del core de Moodle
 
 **La propuesta de empresa_n reconoce la necesidad de mantener actualizado el core de Moodle, lo cual constituye un elemento positivo desde el punto de vista conceptual.** No obstante, el análisis técnico revela que esta actuación se describe en términos generales, sin desarrollar los aspectos críticos asociados a su ejecución en un entorno productivo.
 
@@ -227,7 +224,7 @@ La ausencia de estos elementos impide determinar si la propuesta contempla los r
 
 En consecuencia, la propuesta no permite verificar la adecuación efectiva de la solución al requisito definido en el Anexo II.
 
-##### 1.3.2.2.3. Proyecto AV4 – Rendimiento y base de datos
+##### Proyecto AV4 – Rendimiento y base de datos
 
 En el ámbito del rendimiento, la propuesta presenta una de las deficiencias técnicas más relevantes del conjunto de la memoria técnica. empresa_n **plantea el uso de Galera Cluster como solución para la mejora del rendimiento de la base de datos, lo que implica el uso de MySQL**.
 
@@ -235,7 +232,7 @@ Sin embargo, **el sistema real de Aulas Virtuales se basa en PostgreSQL, lo que 
 
 Adicionalmente, la propuesta **no aborda otros aspectos esenciales del rendimiento, tales como la optimización de consultas, la gestión de sesiones en entornos de alta concurrencia o la distribución de carga entre nodos**. Tampoco se describen mecanismos de monitorización o ajuste dinámico de recursos. La ausencia de estos elementos impide evaluar la capacidad de la propuesta para garantizar el rendimiento del sistema en condiciones reales de uso.
 
-##### 1.3.2.2.4. Proyecto AV11 – Generación de contenidos mediante inteligencia artificial
+##### Proyecto AV11 – Generación de contenidos mediante inteligencia artificial
 
 El Anexo II contempla la incorporación de funcionalidades de generación de contenidos mediante inteligencia artificial, estableciendo explícitamente que estos procesos deben ejecutarse en modo asíncrono para evitar impacto en el rendimiento del sistema.
 
@@ -245,7 +242,7 @@ Además, no se describen mecanismos de desacoplamiento, colas de procesamiento n
 
 En consecuencia, la solución propuesta no permite garantizar el cumplimiento del requisito ni evaluar su impacto en el sistema.
 
-##### 1.3.2.2.5. Proyecto AV – Integración Moodler y arquitectura del sistema
+##### Proyecto AV – Integración Moodler y arquitectura del sistema
 
 **En relación con la integración con otros sistemas, la propuesta presenta una falta de precisión en la identificación de componentes fundamentales.** En particular, se hace referencia a la aplicación del plugin Moodler al entorno Moodle Multisite, cuando en los requisitos se especifica que se debe aplicar tanto al entorno Multisite como al entorno MoodleMisc, lo que denota una comprensión imprecisa de la arquitectura real del sistema.
 
@@ -255,7 +252,7 @@ Esta falta de alineación afecta directamente a la coherencia de las soluciones 
 
 Asimismo, no se definen mecanismos de integración con sistemas de identidad, plataformas Cloud o servicios de videoconferencia, lo que impide evaluar el grado de interoperabilidad de la solución.
 
-##### 1.3.2.2.6. Integración, escalabilidad y continuidad del servicio
+##### Integración, escalabilidad y continuidad del servicio
 
 Más allá de los proyectos específicos, el análisis global del bloque de Aulas Virtuales pone de manifiesto una carencia general en la definición de los mecanismos de integración con otros sistemas, tales como el sistema de identidad, la plataforma Cloud o los servicios de videoconferencia.
 
@@ -263,13 +260,13 @@ Asimismo, no se describen estrategias de escalabilidad que permitan garantizar e
 
 La continuidad del servicio, aspecto crítico en un sistema de estas características, tampoco se aborda de forma específica, lo que introduce un nivel adicional de incertidumbre sobre la viabilidad de la propuesta.
 
-#### 1.3.2.3. Conclusión del bloque AV
+#### Conclusión del bloque AV
 
 **El bloque de Aulas Virtuales presenta una cobertura funcional amplia, pero adolece de una falta de desarrollo técnico que afecta a su evaluabilidad.** La existencia de errores conceptuales, la ausencia de definición de arquitecturas específicas y la falta de mecanismos de integración y escalabilidad limitan significativamente la capacidad de la propuesta para cumplir con los requisitos del Anexo II.
 
-#### 1.3.2.4. Bloque Mediateca (MED)
+#### Bloque Mediateca (MED)
 
-##### 1.3.2.4.1. Consideración general del bloque
+##### Consideración general del bloque
 
 **El sistema de Mediateca constituye un componente esencial dentro del ecosistema EducaMadrid, orientado a la gestión, almacenamiento, procesamiento y distribución de contenidos multimedia.** Este tipo de sistemas presenta características técnicas específicas que lo diferencian de otros bloques, especialmente en lo relativo al tratamiento de grandes volúmenes de datos, la indexación de contenidos y la integración con servicios de streaming.
 
@@ -277,7 +274,7 @@ La continuidad del servicio, aspecto crítico en un sistema de estas caracterís
 
 El análisis realizado pone de manifiesto que la propuesta reconoce estas necesidades, pero no desarrolla las soluciones con el nivel de detalle requerido.
 
-##### 1.3.2.4.2. Proyecto MED1 – Generación de subtítulos automáticos
+##### Proyecto MED1 – Generación de subtítulos automáticos
 
 La propuesta contempla la generación de subtítulos mediante el uso de tecnologías de inteligencia artificial, lo que constituye un alineamiento inicial con el requisito. **Sin embargo, el alcance de esta funcionalidad se limita a un número reducido de idiomas, lo que implica un cumplimiento parcial del requisito de cobertura multilingüe.**
 
@@ -287,7 +284,7 @@ Adicionalmente, se detecta un error en la identificación de la base de datos, i
 
 En conjunto, estos elementos impiden evaluar la adecuación efectiva de la solución al requisito
 
-##### 1.3.2.4.3. Proyecto MED2 – Búsqueda e indexación de contenidos
+##### Proyecto MED2 – Búsqueda e indexación de contenidos
 
 El Anexo II establece la necesidad de permitir la búsqueda de contenidos, incluyendo la posibilidad de realizar consultas sobre los subtítulos generados. **Esta funcionalidad resulta especialmente relevante, ya que permite mejorar la accesibilidad y la localización de información dentro del sistema.**
 
@@ -297,25 +294,25 @@ Tampoco se describe la arquitectura de indexación ni el uso de motores de búsq
 
 La ausencia de estos elementos limita la funcionalidad del sistema y dificulta la evaluación de su adecuación a los requisitos.
 
-##### 1.3.2.4.4. Procesamiento multimedia y arquitectura del sistema
+##### Procesamiento multimedia y arquitectura del sistema
 
 **Más allá de los proyectos específicos, la propuesta no desarrolla la arquitectura necesaria para el procesamiento de contenidos multimedia.** No se describen los mecanismos de almacenamiento, la gestión de flujos de vídeo, ni los procesos de transcodificación.
 
 Asimismo, no se abordan aspectos como la escalabilidad del sistema, la distribución de carga o la gestión del acceso a contenidos en función del perfil de usuario. **Estos elementos son esenciales en el sistema de Mediateca y su ausencia limita de forma significativa la evaluabilidad de la propuesta.**
 
-##### 1.3.2.4.5. Integración con el resto de sistemas
+##### Integración con el resto de sistemas
 
 **El sistema de Mediateca debe integrarse con otros componentes del entorno, como Aulas Virtuales, Cloud o sistemas de identidad.** La propuesta no describe estos mecanismos de integración ni define cómo se gestionará el intercambio de información entre sistemas.
 
 Esta carencia refuerza la conclusión de que la propuesta no aborda el sistema desde una perspectiva integral.
 
-#### 1.3.2.5. Conclusión del bloque MED
+#### Conclusión del bloque MED
 
 **El bloque de Mediateca presenta una cobertura parcial de los requisitos, con omisiones relevantes en funcionalidades clave y errores técnicos que afectan a la coherencia de la propuesta.** La falta de definición de la arquitectura del sistema y la ausencia de mecanismos de integración limitan de manera significativa su valoración.
 
-#### 1.3.2.6. Bloque de Correo Electrónico (COR)
+#### Bloque de Correo Electrónico (COR)
 
-##### 1.3.2.6.1. Consideración general del bloque
+##### Consideración general del bloque
 
 **El sistema de correo electrónico constituye un servicio crítico dentro del ecosistema EducaMadrid, tanto por su carácter transversal como por su elevada utilización.** Este sistema no solo presta servicios de comunicación, sino que actúa como elemento integrador con otros sistemas, como plataformas Cloud, sistemas de identidad y servicios de notificaciones.
 
@@ -323,7 +320,7 @@ El Anexo II establece requisitos orientados a garantizar la evolución tecnológ
 
 El análisis de la propuesta presentada por empresa_n pone de manifiesto que, si bien se reconoce la importancia del sistema, el tratamiento técnico no alcanza el nivel de detalle requerido para acreditar la viabilidad de las soluciones propuestas.
 
-##### 1.3.2.6.2. Proyecto COR1 – Evolución y mantenimiento del sistema de correo
+##### Proyecto COR1 – Evolución y mantenimiento del sistema de correo
 
 La propuesta de empresa_n aborda este sistema desde una perspectiva general, centrada en tareas de mantenimiento, actualización y mejora del servicio. **No obstante, el análisis técnico realizado evidencia que la descripción de estas actuaciones carece del nivel de detalle necesario para validar su implementación.**
 
@@ -333,7 +330,7 @@ Asimismo, no se incluye una descripción estructurada de la arquitectura del sis
 
 Esta ausencia de desarrollo técnico limita la capacidad de evaluar la adecuación de la propuesta en un entorno donde la gestión de mensajes y la interoperabilidad constituyen elementos esenciales.
 
-##### 1.3.2.6.3. Proyecto COR2 a COR4 – Funcionalidades de inteligencia artificial
+##### Proyecto COR2 a COR4 – Funcionalidades de inteligencia artificial
 
 **El Anexo II contempla la incorporación de funcionalidades de inteligencia artificial orientadas a la redacción, resumen y asistencia en la gestión de correos electrónicos.** Estas funcionalidades deben integrarse de manera coherente en el entorno existente, aprovechando soluciones disponibles o a través de adaptaciones y desarrollos propios cuando resulte necesario.
 
@@ -343,7 +340,7 @@ Esta circunstancia evidencia una falta de conocimiento actualizado del entorno t
 
 Adicionalmente, no se describen aspectos críticos como la gestión de datos procesados por IA, el tratamiento de la privacidad o el impacto en el rendimiento del sistema. **Esta falta de definición impide evaluar la adecuación de la solución.**
 
-##### 1.3.2.6.4. Integración y arquitectura del sistema
+##### Integración y arquitectura del sistema
 
 El sistema de correo debe integrarse de forma coherente con el resto de plataformas. **No obstante, la propuesta no describe los mecanismos de integración ni define los protocolos de comunicación.**
 
@@ -351,13 +348,13 @@ Tampoco se abordan aspectos relacionados con la autenticación de usuarios, la s
 
 Esta ausencia de definición limita la evaluabilidad del sistema como componente integrado en el ecosistema.
 
-##### 1.3.2.6.5. Conclusión del bloque COR
+##### Conclusión del bloque COR
 
 **El tratamiento del sistema de correo se considera insuficiente desde el punto de vista técnico, al limitarse a descripciones generales y presentar carencias relevantes en la identificación de soluciones existentes.** La ausencia de definición de arquitecturas, la falta de integración con otros sistemas y el planteamiento no alineado en el uso de inteligencia artificial impiden evaluar la adecuación de la propuesta en este ámbito especialmente crítico.
 
-#### 1.3.2.7. Bloque Cloud (CLO)
+#### Bloque Cloud (CLO)
 
-##### 1.3.2.7.1. Consideración general del bloque
+##### Consideración general del bloque
 
 **El sistema Cloud constituye un elemento fundamental en la gestión de almacenamiento y colaboración entre usuarios.** Este sistema requiere soluciones técnicas robustas orientadas a la sincronización de datos, la gestión de conflictos y la disponibilidad de la información.
 
@@ -365,7 +362,7 @@ El Anexo II establece requisitos relativos a la gestión de almacenamiento, la e
 
 El análisis realizado evidencia que la propuesta aborda estos aspectos de forma superficial, sin desarrollar los elementos técnicos necesarios.
 
-##### 1.3.2.7.2. Proyecto CLO1 – Gestión de almacenamiento y sincronización de datos
+##### Proyecto CLO1 – Gestión de almacenamiento y sincronización de datos
 
 **La propuesta de empresa_n describe este sistema de forma general, haciendo referencia a su actualización y mantenimiento, pero no profundiza en los mecanismos técnicos que permiten garantizar su funcionamiento en condiciones reales.** En particular, no se describen los modelos de sincronización entre dispositivos, ni se abordan los procedimientos para resolver conflictos de versiones, un aspecto crítico en entornos colaborativos.
 
@@ -373,13 +370,13 @@ El análisis realizado evidencia que la propuesta aborda estos aspectos de forma
 
 Esta ausencia de detalle limita significativamente la capacidad de evaluar la propuesta.
 
-##### 1.3.2.7.3. Proyecto CLO2 – Edición colaborativa
+##### Proyecto CLO2 – Edición colaborativa
 
 El Anexo II contempla la integración de herramientas de edición colaborativa en tiempo real, como Collabora, lo que implica requisitos adicionales en términos de arquitectura, rendimiento y consistencia de datos.
 
 **La propuesta menciona la presencia de estas funcionalidades, pero no describe cómo se llevará a cabo su integración con Nextcloud ni cómo se gestionará la edición simultánea por múltiples usuarios.** Tampoco se abordan aspectos como la gestión de bloqueos, el versionado de documentos o la recuperación ante conflictos.
 
-##### 1.3.2.7.4. Arquitectura, rendimiento e integración
+##### Arquitectura, rendimiento e integración
 
 La propuesta no desarrolla una arquitectura específica para el sistema Cloud, ni describe los mecanismos de integración con el resto de plataformas.
 
@@ -387,19 +384,19 @@ Tampoco se abordan aspectos clave como la escalabilidad, la distribución de car
 
 Esta ausencia de desarrollo técnico limita la evaluabilidad del sistema en su conjunto.
 
-##### 1.3.2.7.5. Conclusión del bloque CLO
+##### Conclusión del bloque CLO
 
 **El bloque Cloud presenta una cobertura funcional básica, pero carece de desarrollo técnico suficiente para acreditar el cumplimiento de los requisitos.** La ausencia de algunos elementos técnicos esenciales evaluar su viabilidad y su adecuación a los requisitos del contrato.
 
-#### 1.3.2.8. Bloque de Videoconferencia (VID)
+#### Bloque de Videoconferencia (VID)
 
-##### 1.3.2.8.1. Consideración general del bloque
+##### Consideración general del bloque
 
 **El bloque de videoconferencia incluye sistemas con requisitos especialmente exigentes en términos de rendimiento, disponibilidad y consumo de recursos.** Estos sistemas deben integrarse con otras plataformas del entorno y soportar un elevado número de usuarios concurrentes.
 
 El Anexo II establece requisitos orientados a garantizar la escalabilidad, la integración y la calidad del servicio.
 
-##### 1.3.2.8.2. Proyecto VID1 – Integración con plataformas educativas
+##### Proyecto VID1 – Integración con plataformas educativas
 
 El bloque de videoconferencia incluye sistemas como Jitsi, BigBlueButton, Wowza o PeerTube, cuya integración con otras plataformas, como Aulas Virtuales, resulta esencial para el correcto funcionamiento del entorno EducaMadrid.
 
@@ -407,7 +404,7 @@ El bloque de videoconferencia incluye sistemas como Jitsi, BigBlueButton, Wowza 
 
 Esta falta de detalle impide evaluar la viabilidad de la integración propuesta.
 
-##### 1.3.2.8.3. Proyecto VID2 – Rendimiento y escalabilidad
+##### Proyecto VID2 – Rendimiento y escalabilidad
 
 Los sistemas de videoconferencia presentan requisitos especialmente exigentes en términos de consumo de recursos, gestión de ancho de banda y concurrencia de usuarios.
 
@@ -415,13 +412,13 @@ Los sistemas de videoconferencia presentan requisitos especialmente exigentes en
 
 En consecuencia, la capacidad de la propuesta para soportar escenarios de uso intensivo no puede ser evaluada de forma adecuada.
 
-##### 1.3.2.8.4. Conclusión del bloque VID
+##### Conclusión del bloque VID
 
 El tratamiento del bloque no alcanza el nivel de desarrollo técnico exigido, especialmente en aspectos críticos como el rendimiento y la escalabilidad. **Esta carencia limita de forma directa su evaluabilidad.**
 
-#### 1.3.2.9. Bloque EMPieza (EMP)
+#### Bloque EMPieza (EMP)
 
-##### 1.3.2.9.1. Proyecto EMP1 – Plataforma EMPieza
+##### Proyecto EMP1 – Plataforma EMPieza
 
 **El sistema EMPieza constituye uno de los componentes nucleares del ecosistema EducaMadrid, ya que actúa como punto de acceso transversal a múltiples servicios y funcionalidades disponibles para los usuarios finales.** Su relevancia técnica no radica únicamente en su funcionalidad individual, sino en su papel como elemento integrador de distintos sistemas, lo que exige un especial cuidado en la definición de su arquitectura, mecanismos de autenticación, gestión de sesiones y comunicación con el resto de plataformas.
 
@@ -433,9 +430,9 @@ En particular, no se incluye ninguna descripción concreta de la arquitectura in
 
 Desde una perspectiva global, aunque la propuesta reconoce la importancia del sistema EMPieza, su tratamiento resulta claramente insuficiente desde el punto de vista técnico, al no aportar los elementos necesarios para validar su funcionamiento en un entorno real de alta complejidad.
 
-#### 1.3.2.10. Bloque LDAP y gestión de identidades
+#### Bloque LDAP y gestión de identidades
 
-##### 1.3.2.10.1. Proyecto LDAP1 – Sistema de gestión de usuarios
+##### Proyecto LDAP1 – Sistema de gestión de usuarios
 
 **El sistema de gestión de identidades constituye uno de los pilares fundamentales del ecosistema EducaMadrid, dado que de él dependen aspectos críticos como la autenticación de usuarios, la asignación de permisos, la sincronización de datos entre plataformas y la seguridad global del sistema.** Por este motivo, cualquier imprecisión en la comprensión de este bloque tiene un impacto significativo en la valoración de la propuesta.
 
@@ -447,7 +444,7 @@ Desde una perspectiva global, aunque la propuesta reconoce la importancia del si
 
 Esta falta de precisión técnica, unida a la incorrecta interpretación del sistema, introduce un nivel de incertidumbre que afecta directamente a la viabilidad de la propuesta, dado que el sistema de identidades constituye un elemento transversal a todos los demás bloques del contrato.
 
-#### 1.3.2.11. Bloque eXeLearning Online (EXE)
+#### Bloque eXeLearning Online (EXE)
 
 El sistema eXeLearning desempeña un papel específico dentro del ecosistema, orientado a la creación y publicación de contenidos educativos estructurados, con especial relevancia en la generación de paquetes SCORM y su integración en plataformas como Moodle.
 
@@ -457,7 +454,7 @@ El sistema eXeLearning desempeña un papel específico dentro del ecosistema, or
 
 Además, no se aborda la integración con otros sistemas del ecosistema, ni se describen los flujos de trabajo que permitirían a los usuarios crear, modificar y publicar contenidos de manera eficiente. **Esta ausencia de detalle impide evaluar la adecuación de la solución más allá de un nivel declarativo.**
 
-#### 1.3.2.12. Bloque WordPress Multisite (WPM)
+#### Bloque WordPress Multisite (WPM)
 
 **El sistema WordPress Multisite desempeña un papel relevante en la gestión de portales web dentro del entorno EducaMadrid, permitiendo la creación y mantenimiento de múltiples sitios bajo una misma infraestructura.** Este tipo de sistemas presenta particularidades específicas en términos de arquitectura, seguridad y gestión de contenidos.
 
@@ -465,7 +462,7 @@ La propuesta de empresa_n aborda este bloque desde una perspectiva centrada en t
 
 Tampoco se describen mecanismos de automatización para el despliegue de nuevas instancias ni se abordan cuestiones relacionadas con la seguridad en entornos compartidos, donde múltiples sitios conviven en la misma infraestructura. **Estas carencias limitan la capacidad de evaluar la propuesta en términos de escalabilidad y gobernanza del sistema.**
 
-#### 1.3.2.13. Bloque Formularios (FOR)
+#### Bloque Formularios (FOR)
 
 El sistema de formularios constituye un componente específico orientado a la recopilación de información por parte de los usuarios, con implicaciones tanto a nivel funcional como en materia de protección de datos.
 
@@ -473,19 +470,19 @@ La propuesta de empresa_n menciona la necesidad de mantener y mejorar este siste
 
 **Asimismo, no se aborda la optimización del rendimiento de la base de datos ni la escalabilidad del sistema en escenarios de uso intensivo.** Tampoco se incluyen referencias a mecanismos de seguridad específicos para la protección de datos personales, a pesar de la importancia de este aspecto en el contexto del contrato.
 
-#### 1.3.2.14. Bloque Buzón Anónimo (BAN)
+#### Bloque Buzón Anónimo (BAN)
 
 **En el análisis de este sistema se detecta una deficiencia relevante consistente en la caracterización incorrecta de la tecnología sobre la que está desarrollado.** La propuesta describe el sistema como una aplicación basada en tecnología Java, cuando dicha afirmación no se corresponde con la realidad técnica del mismo.
 
 **Este error evidencia una falta de conocimiento específico del sistema y pone en duda la capacidad del licitador para realizar intervenciones sobre el mismo con el nivel de precisión requerido.** En un contexto en el que se exige una adaptación fina a los sistemas existentes, este tipo de imprecisiones adquiere especial relevancia.
 
-#### 1.3.2.15. Bloque Avisos (AVI)
+#### Bloque Avisos (AVI)
 
 En este bloque se reproduce un patrón similar al detectado en el Buzón Anónimo, al describirse el sistema de Avisos como una aplicación Java, lo cual tampoco se ajusta a su realidad técnica.
 
 Además de este error conceptual, la propuesta no desarrolla los mecanismos de generación, distribución y gestión de avisos, ni describe su integración con otros sistemas, lo que limita la capacidad de evaluar su adecuación.
 
-#### 1.3.2.16. Bloques adicionales y sistemas complementarios
+#### Bloques adicionales y sistemas complementarios
 
 **El Anexo II del Documento de Invitación incorpora un conjunto amplio y heterogéneo de sistemas que, aun no siendo en todos los casos elementos centrales como Aulas Virtuales o el sistema de sincronización, constituyen en su conjunto una parte sustancial del ecosistema EducaMadrid.** Estos sistemas, lejos de poder considerarse accesorios, forman parte de la infraestructura funcional y operativa del servicio, y concentran un volumen significativo de actuaciones, tanto desde el punto de vista evolutivo como de mantenimiento.
 
@@ -515,9 +512,9 @@ La falta de desarrollo técnico en este conjunto de sistemas tiene un impacto si
 
 En consecuencia, la valoración de este conjunto de sistemas se ve penalizada de forma acumulativa, no por una única deficiencia puntual, sino por la reiteración de un mismo patrón de falta de concreción técnica que afecta a múltiples proyectos.
 
-### 1.3.3. VALORACIÓN DE LA PROPUESTA
+### VALORACIÓN DE LA PROPUESTA
 
-#### 1.3.3.1. Fundamentación de la valoración
+#### Fundamentación de la valoración
 
 La valoración de la propuesta técnica presentada por empresa_n se ha realizado conforme a lo establecido en el apartado 7.2 del Documento de Invitación, tomando como base el análisis técnico exhaustivo desarrollado en los apartados anteriores, en los que se ha evaluado de forma pormenorizada cada uno de los sistemas incluidos en el Anexo II.
 
@@ -525,9 +522,9 @@ Este enfoque garantiza una relación directa entre las deficiencias identificada
 
 **Debe destacarse que el sistema de valoración previsto en el Documento de Invitación permite la asignación de puntuaciones continuas dentro de cada subcriterio, en función del nivel de adecuación observado.** En este sentido, la puntuación asignada no responde a una simple suma aritmética, sino a una evaluación global coherente con el nivel técnico de la propuesta.
 
-#### 1.3.3.2. Valoración de la solución técnica ofertada
+#### Valoración de la solución técnica ofertada
 
-#### 1.3.3.3. Arquitectura de la solución
+#### Arquitectura de la solución
 
 **La arquitectura planteada por empresa_n presenta una base conceptual alineada con modelos actuales de sistemas distribuidos, incluyendo referencias a integración mediante servicios y uso de tecnologías abiertas.** Este planteamiento evidencia un conocimiento general del tipo de entorno al que se dirige el contrato.
 
@@ -539,7 +536,7 @@ En consecuencia, este subcriterio se valora en un nivel medio.
 
 **Puntuación: 1,00 sobre 2**
 
-#### 1.3.3.4. Comprensión de los requisitos
+#### Comprensión de los requisitos
 
 La propuesta muestra una identificación general de los sistemas incluidos en el alcance del contrato, lo que permite inferir una comprensión básica de su estructura.
 
@@ -549,7 +546,7 @@ Estos elementos ponen de manifiesto que la comprensión de los requisitos es par
 
 **Puntuación: 1,00 sobre 2**
 
-#### 1.3.3.5. Viabilidad de la propuesta
+#### Viabilidad de la propuesta
 
 La viabilidad de la propuesta no queda suficientemente acreditada, al no incluir un análisis detallado de los recursos necesarios, ni una planificación técnica que permita abordar de forma simultánea los múltiples proyectos definidos en el Anexo II.
 
@@ -557,21 +554,21 @@ Los errores conceptuales detectados introducen, además, un factor de riesgo que
 
 **Puntuación: 0,40 sobre 1**
 
-#### 1.3.3.6. Metodología
+#### Metodología
 
 **La utilización de Métrica v3 representa un punto positivo desde el punto de vista teórico.** No obstante, la propuesta no desarrolla su aplicación práctica en el contexto del contrato ni su integración con las herramientas y procesos del entorno EducaMadrid.
 
 **Puntuación: 0,40 sobre 1**
 
-#### 1.3.3.7. Rendimiento
+#### Rendimiento
 
 El tratamiento del rendimiento se mantiene en un plano genérico, sin incorporar métricas cuantificables ni escenarios de carga específicos para los sistemas críticos.
 
 **Puntuación: 0,40 sobre 1**
 
-#### 1.3.3.8. Satisfacción de los requisitos
+#### Satisfacción de los requisitos
 
-#### 1.3.3.9. Justificación general de la valoración
+#### Justificación general de la valoración
 
 El subcriterio relativo a la satisfacción de los requisitos del Anexo II constituye el eje central de la valoración técnica, no solo por su peso específico dentro del baremo, sino porque representa la capacidad real del licitador para transformar los requisitos definidos en el pliego en soluciones técnicas concretas, viables y verificables.
 
@@ -579,7 +576,7 @@ El subcriterio relativo a la satisfacción de los requisitos del Anexo II consti
 
 **El análisis desarrollado en el apartado 2.2, estructurado proyecto a proyecto, ha permitido poner de manifiesto que la propuesta de empresa_n presenta una cobertura amplia desde el punto de vista formal, pero insuficiente desde el punto de vista técnico.** Esta conclusión no se basa en una apreciación global, sino en la identificación sistemática de carencias concretas en la mayoría de los sistemas analizados.
 
-#### 1.3.3.10. Relación entre el análisis por proyectos y la valoración del subcriterio
+#### Relación entre el análisis por proyectos y la valoración del subcriterio
 
 La valoración asignada a este subcriterio se fundamenta en la evidencia acumulada a lo largo del análisis detallado del Anexo II. **En los bloques principales, tales como servicios transversales, Aulas Virtuales, Mediateca o Cloud, se han identificado deficiencias relevantes consistentes en la falta de desarrollo técnico de las soluciones, la ausencia de definición de arquitecturas específicas y la omisión de mecanismos de validación.** Estas carencias, aunque significativas, podrían considerarse parcialmente compensables si existiera un nivel de detalle elevado en otros bloques.
 
@@ -587,7 +584,7 @@ La valoración asignada a este subcriterio se fundamenta en la evidencia acumula
 
 Este patrón es especialmente relevante desde el punto de vista de la evaluación, ya que evidencia que la propuesta no ha abordado el Anexo II mediante un análisis individualizado de los sistemas, sino mediante un enfoque homogéneo que no tiene en cuenta sus particularidades técnicas. **La consecuencia directa de este enfoque es la imposibilidad de verificar el cumplimiento efectivo de los requisitos en una parte significativa del contrato.**
 
-#### 1.3.3.11. Impacto de las carencias técnicas en la satisfacción de requisitos
+#### Impacto de las carencias técnicas en la satisfacción de requisitos
 
 Las carencias identificadas en la propuesta afectan a distintos niveles del cumplimiento de los requisitos, pudiendo agruparse en tres grandes categorías que tienen un impacto directo en la valoración del subcriterio.
 
@@ -599,7 +596,7 @@ Las carencias identificadas en la propuesta afectan a distintos niveles del cump
 
 Estas tres categorías de carencias no actúan de forma aislada, sino que se refuerzan mutuamente, generando un efecto acumulativo que impacta de manera directa en la valoración global del subcriterio.
 
-#### 1.3.3.12. Relevancia específica del bloque 2.2.14 en la valoración
+#### Relevancia específica del bloque 2.2.14 en la valoración
 
 El análisis del bloque de sistemas adicionales descrito en el apartado 2.2.14 tiene un peso determinante en la valoración del subcriterio, dado que agrupa un número elevado de proyectos que, en conjunto, representan una parte significativa del volumen total del contrato.
 
@@ -609,7 +606,7 @@ Además, la reiteración del mismo patrón de descripción genérica en todos es
 
 Desde esta perspectiva, el bloque 2.2.14 no solo confirma las carencias detectadas en otros ámbitos, sino que amplifica su impacto, al extenderlas a un número significativo de proyectos.
 
-#### 1.3.3.13. Conclusión técnica del subcriterio
+#### Conclusión técnica del subcriterio
 
 **La valoración del subcriterio de satisfacción de los requisitos no se basa en la ausencia de cobertura funcional, sino en la imposibilidad de verificar su cumplimiento efectivo.** La propuesta identifica los sistemas y menciona las actuaciones, pero no proporciona los elementos técnicos necesarios para acreditar que dichas actuaciones pueden llevarse a cabo de forma coherente, viable y alineada con el entorno real.
 
@@ -617,21 +614,21 @@ Desde esta perspectiva, el bloque 2.2.14 no solo confirma las carencias detectad
 
 En consecuencia, el grado de satisfacción de los requisitos debe situarse en un nivel medio-bajo dentro del baremo establecido, reflejando una propuesta que, aun siendo formalmente completa, no proporciona las garantías necesarias para acreditar el cumplimiento efectivo del contrato.
 
-#### 1.3.3.14. Valoración
+#### Valoración
 
 En base a lo anterior, y de forma coherente con el análisis técnico desarrollado, se asigna la siguiente puntuación:
 
 **2,50 puntos sobre un máximo de 8 puntos**
 
-#### 1.3.3.15. Resultado del bloque de solución técnica
+#### Resultado del bloque de solución técnica
 
 La suma de las puntuaciones anteriores arroja el siguiente resultado:
 
 **Total solución técnica: 5,70 puntos sobre 15**
 
-#### 1.3.3.16. Valoración de la planificación del servicio
+#### Valoración de la planificación del servicio
 
-##### 1.3.3.16.1. Consideraciones generales sobre la planificación
+##### Consideraciones generales sobre la planificación
 
 La planificación del servicio constituye un elemento estructural esencial en la presente contratación, al ser el mecanismo que debe permitir trasladar el conjunto de requisitos definidos en el Anexo II a una ejecución ordenada, coherente y viable en el tiempo. **No se trata, por tanto, de un mero elemento formal, sino de un instrumento técnico que debe reflejar con precisión la secuencia de actividades, la interdependencia entre sistemas y la capacidad real del adjudicatario para gestionar un entorno altamente complejo.**
 
@@ -639,7 +636,7 @@ La planificación del servicio constituye un elemento estructural esencial en la
 
 **La propuesta de empresa_n incluye formalmente los elementos requeridos en este bloque —calendario, análisis de riesgos, plan de contingencias, calidad y trazabilidad—, lo cual permite identificar la intención de ajustarse a lo exigido en el Documento de Invitación.** Sin embargo, el análisis técnico detallado pone de manifiesto que estos elementos presentan, en su mayoría, un desarrollo insuficiente desde el punto de vista operativo, lo que limita su valor como herramientas reales de gestión del servicio.
 
-##### 1.3.3.16.2. Calendario de ejecución
+##### Calendario de ejecución
 
 **El calendario de ejecución constituye el elemento central de la planificación, al concentrar la mayor parte de la puntuación asignable dentro de este bloque.** Desde el punto de vista técnico, el calendario debe permitir comprender con claridad la secuencia de actividades, la duración de las mismas, las interdependencias existentes entre sistemas y la asignación de recursos a cada fase del proyecto.
 
@@ -657,7 +654,7 @@ En consecuencia, la valoración de este subcriterio se sitúa en un nivel bajo d
 
 **3,***75 puntos sobre 11**
 
-##### 1.3.3.16.3. Análisis de riesgos
+##### Análisis de riesgos
 
 El análisis de riesgos presentado por empresa_n identifica de forma general distintos escenarios que podrían afectar al desarrollo del proyecto, incluyendo incidencias en sistemas críticos, problemas de integración o degradación del rendimiento.
 
@@ -669,7 +666,7 @@ Por tanto, aunque el análisis de riesgos presenta una base conceptual adecuada,
 
 **0,***55 puntos sobre 1**
 
-##### 1.3.3.16.4. Plan de contingencias
+##### Plan de contingencias
 
 El plan de contingencias presentado incluye una descripción de las fases habituales de actuación ante incidencias, tales como detección, contención, resolución y recuperación. **Este enfoque resulta coherente con las buenas prácticas en gestión de servicios.**
 
@@ -681,7 +678,7 @@ En consecuencia, el plan se valora como adecuado en su planteamiento, pero insuf
 
 **0,4***0 puntos sobre 1**
 
-##### 1.3.3.16.5. Plan de calidad del servicio
+##### Plan de calidad del servicio
 
 La propuesta incluye un plan de calidad basado en principios generales alineados con estándares reconocidos, incorporando referencias a procesos de mejora continua y control de calidad.
 
@@ -693,7 +690,7 @@ Esta falta de concreción limita la capacidad de utilizar el plan de calidad com
 
 **0,***60 puntos sobre 1**
 
-##### 1.3.3.16.6. Trazabilidad del servicio
+##### Trazabilidad del servicio
 
 La trazabilidad se presenta mediante la referencia a herramientas de gestión y la existencia de un modelo organizativo basado en comités de seguimiento.
 
@@ -705,7 +702,7 @@ En consecuencia, la trazabilidad se considera insuficientemente desarrollada.
 
 **0,***30 puntos sobre 1**
 
-##### 1.3.3.16.7. Resultado del bloque de planificación
+##### Resultado del bloque de planificación
 
 La suma de las valoraciones parciales permite establecer el siguiente resultado:
 
@@ -715,7 +712,7 @@ La suma de las valoraciones parciales permite establecer el siguiente resultado:
 
 Total planificación: **5,60 puntos sobre 15**
 
-##### 1.3.3.16.8. Conclusión
+##### Conclusión
 
 La planificación del servicio presentada por empresa_n evidencia una estructura formal alineada con los requisitos del Documento de Invitación, pero adolece de una falta significativa de desarrollo técnico en los elementos que resultan críticos para la ejecución del contrato.
 
@@ -723,9 +720,9 @@ La planificación del servicio presentada por empresa_n evidencia una estructura
 
 En consecuencia, la valoración global de la planificación se sitúa en un nivel medio-bajo, en coherencia con las carencias detectadas.
 
-#### 1.3.3.17. Resultado final de la valoración
+#### Resultado final de la valoración
 
-##### 1.3.3.17.1. Síntesis técnica de la valoración
+##### Síntesis técnica de la valoración
 
 El proceso de valoración de la propuesta presentada por empresa_n se ha sustentado en un análisis exhaustivo, estructurado en dos niveles complementarios: por un lado, el análisis detallado por proyectos del Anexo II, y por otro, la aplicación del baremo establecido en el apartado 7.2 del Documento de Invitación. **Esta doble aproximación permite establecer una correspondencia directa entre las deficiencias técnicas detectadas y la puntuación finalmente asignada.**
 
@@ -733,7 +730,7 @@ El proceso de valoración de la propuesta presentada por empresa_n se ha sustent
 
 En este contexto, la propuesta presenta un desequilibrio significativo entre su extensión formal y su contenido técnico efectivo, lo que se traduce en una reducción progresiva de la valoración en los subcriterios de mayor peso, en particular el relativo a la satisfacción de requisitos.
 
-##### 1.3.3.17.2. Coherencia entre análisis técnico y puntuación asignada
+##### Coherencia entre análisis técnico y puntuación asignada
 
 La puntuación final obtenida por la propuesta no es el resultado de una aproximación global o subjetiva, sino la consecuencia directa de la valoración detallada de cada uno de los subcriterios definidos en el apartado 7.2.
 
@@ -745,7 +742,7 @@ La coherencia entre el análisis técnico y las puntuaciones asignadas se refuer
 
 El resultado agregado de la valoración asciende a **11,30 puntos** sobre 30 puntos totales posibles.
 
-##### 1.3.3.17.3. Interpretación del resultado en el contexto del procedimiento
+##### Interpretación del resultado en el contexto del procedimiento
 
 **La puntuación final obtenida por la propuesta debe interpretarse en el contexto del umbral de calidad definido en el Documento de Invitación.** Este umbral establece que las ofertas que no alcancen el cincuenta por ciento de la puntuación máxima en los criterios sujetos a juicio de valor deben ser excluidas del procedimiento.
 
@@ -753,7 +750,7 @@ Dado que la puntuación máxima es de treinta puntos, el umbral se sitúa en qui
 
 Esta diferencia no es marginal, sino que refleja una brecha sustancial entre el nivel técnico requerido por el contrato y el grado de desarrollo de la propuesta presentada. **La evaluación no pone de manifiesto únicamente pequeñas desviaciones, sino una acumulación de carencias que afectan de forma estructural a la calidad de la solución.**
 
-##### 1.3.3.17.4. Robustez de la valoración frente a posibles alegaciones
+##### Robustez de la valoración frente a posibles alegaciones
 
 La valoración realizada presenta un elevado grado de robustez frente a posibles alegaciones, por varias razones fundamentales.
 
@@ -765,7 +762,7 @@ En segundo lugar, la valoración se ha realizado de forma sistemática para todo
 
 Finalmente, la coherencia interna del informe, que vincula de forma directa cada deficiencia técnica con un impacto específico en la puntuación, permite trazar una línea argumental clara y verificable que respalda la valoración final.
 
-##### 1.3.3.17.5. Resultado final consolidado
+##### Resultado final consolidado
 
 Como resultado del proceso de valoración descrito, la propuesta presentada por empresa_n obtiene una puntuación final de:
 
@@ -773,13 +770,13 @@ Como resultado del proceso de valoración descrito, la propuesta presentada por 
 
 Esta puntuación sitúa la propuesta en un nivel medio-bajo dentro del baremo establecido, reflejando una solución que, si bien presenta una cobertura funcional amplia, no alcanza el nivel de desarrollo técnico, precisión y coherencia exigido por el Documento de Invitación.
 
-##### 1.3.3.17.6. Conclusión del apartado
+##### Conclusión del apartado
 
 **La valoración final es el resultado de un análisis técnico exhaustivo, coherente con los criterios del Documento de Invitación y fundamentado en evidencias objetivas.** La puntuación obtenida refleja de manera fiel la adecuación de la propuesta al conjunto de requisitos del contrato y constituye una base sólida para la toma de decisiones en el procedimiento de adjudicación.
 
-## 1.4. CONCLUSIONES FINALES Y PROPUESTA DE EXCLUSIÓN
+## CONCLUSIONES FINALES Y PROPUESTA DE EXCLUSIÓN
 
-### 1.4.1. Conclusiones globales de la evaluación técnica
+### Conclusiones globales de la evaluación técnica
 
 El análisis exhaustivo realizado sobre la propuesta técnica presentada por la empresa empresa_n, desarrollado conforme a los criterios establecidos en el Documento de Invitación y estructurado sobre la base del Anexo II del mismo, pone de manifiesto que la oferta evaluada no alcanza el nivel de desarrollo técnico ni el grado de adecuación requerido para garantizar el cumplimiento efectivo de los requisitos del contrato.
 
@@ -791,7 +788,7 @@ El análisis exhaustivo realizado sobre la propuesta técnica presentada por la 
 
 En consecuencia, y considerando el conjunto de elementos analizados, se concluye que la propuesta técnica presenta un nivel de desarrollo insuficiente, con limitaciones relevantes en su precisión, coherencia y aplicabilidad, lo que se traduce en una valoración global de nivel medio-bajo.
 
-### 1.4.2. Conclusiones específicas sobre la solución técnica
+### Conclusiones específicas sobre la solución técnica
 
 En relación con el bloque de solución técnica, la evaluación ha puesto de manifiesto que las principales carencias se concentran en la falta de concreción de las soluciones y en la ausencia de alineación efectiva con los requisitos del Anexo II.
 
@@ -801,7 +798,7 @@ En relación con el bloque de solución técnica, la evaluación ha puesto de ma
 
 El aspecto más determinante en la valoración de la solución técnica es el relativo a la satisfacción de los requisitos. El análisis detallado pone de manifiesto que, si bien la propuesta aborda la mayoría de los sistemas definidos en el Anexo II, lo hace desde un enfoque predominantemente descriptivo, sin desarrollar soluciones técnicas concretas ni establecer mecanismos de validación. **La reiteración de carencias en múltiples sistemas, unida a la existencia de errores conceptuales, justifica una valoración en el tramo medio-bajo de este subcriterio.**
 
-### 1.4.3. Conclusiones específicas sobre la planificación del servicio
+### Conclusiones específicas sobre la planificación del servicio
 
 En relación con el bloque de planificación, el análisis técnico ha evidenciado que, si bien la propuesta incluye formalmente los elementos requeridos, estos presentan un grado de desarrollo insuficiente desde el punto de vista operativo.
 
@@ -811,7 +808,7 @@ En relación con el bloque de planificación, el análisis técnico ha evidencia
 
 En conjunto, la planificación se considera insuficientemente desarrollada para garantizar la correcta ejecución del contrato, situándose su valoración en un nivel medio-bajo.
 
-### 1.4.4. Justificación del resultado final y coherencia con el Documento de Invitación
+### Justificación del resultado final y coherencia con el Documento de Invitación
 
 La valoración final obtenida por la propuesta, fijada en 11,30 puntos sobre un máximo de 30, es el resultado de la aplicación rigurosa del baremo establecido en el apartado 7.2 del Documento de Invitación y refleja de manera fiel el grado de adecuación de la oferta al conjunto de requisitos del contrato.
 
@@ -819,7 +816,7 @@ La valoración final obtenida por la propuesta, fijada en 11,30 puntos sobre un 
 
 Debe destacarse que las principales penalizaciones se concentran en los subcriterios de mayor peso, en particular la satisfacción de los requisitos y el calendario de ejecución, lo que refuerza la consistencia de la valoración con la estructura del baremo definida en el Documento de Invitación.
 
-### 1.4.5. Integración del principio de proporcionalidad
+### Integración del principio de proporcionalidad
 
 La valoración realizada se ajusta al principio de proporcionalidad, en la medida en que la puntuación asignada refleja el grado real de desarrollo técnico de la propuesta.
 
@@ -827,7 +824,7 @@ La valoración realizada se ajusta al principio de proporcionalidad, en la medid
 
 En este sentido, la puntuación obtenida no responde a desviaciones marginales, sino a la concurrencia de carencias estructurales que afectan a la viabilidad global de la propuesta.
 
-### 1.4.6. Aplicación del umbral mínimo de calidad y propuesta de exclusión
+### Aplicación del umbral mínimo de calidad y propuesta de exclusión
 
 De conformidad con lo establecido en el propio Documento de Invitación, así como en el Acuerdo de Contratación Centralizada correspondiente al Sistema Dinámico de Adquisición SDA 26/2021, se establece la obligación de alcanzar un umbral mínimo del 50 por ciento de la puntuación máxima asignable a los criterios sujetos a juicio de valor para continuar en el procedimiento de licitación.
 
@@ -839,7 +836,7 @@ Asimismo, el artículo 146.3 de la Ley 9/2017 de Contratos del Sector Público e
 
 Por todo lo anterior, y en aplicación de la normativa vigente y de las condiciones establecidas en el procedimiento, **procede proponer la exclusión de la oferta presentada** por la empresa empresa_n del proceso de licitación.
 
-### 1.4.7. Garantía de igualdad de trato y objetividad
+### Garantía de igualdad de trato y objetividad
 
 La metodología aplicada en la valoración garantiza el cumplimiento de los principios de igualdad de trato, transparencia y objetividad.
 
@@ -853,7 +850,7 @@ En particular:
 
 Este procedimiento elimina cualquier posible alegación de tratamiento desigual o arbitrario
 
-### 1.4.8. Conclusión final del informe
+### Conclusión final del informe
 
 A la vista del análisis técnico realizado, y conforme a los criterios establecidos en el Documento de Invitación y en la normativa aplicable, se concluye que la propuesta presentada por empresa_n presenta una estructura formal correcta y una cobertura general del alcance del contrato, pero no alcanza el nivel de desarrollo técnico, precisión y coherencia exigido para garantizar el cumplimiento del objeto del contrato
 
@@ -861,7 +858,7 @@ La puntuación obtenida, de 11,30 puntos sobre un máximo de 30, refleja de form
 
 El análisis realizado, basado en criterios objetivos y desarrollado con un alto grado de detalle, permite concluir que la propuesta no supera el umbral mínimo de calidad exigido, por lo que no procede su consideración en fases posteriores del procedimiento.
 
-## 1.5. ANEXO RELACIÓN DE PROYECTOS Y GRADO DE DESARROLLO EN LA PROPUESTA TÉCNICA DE empresa_n
+## ANEXO RELACIÓN DE PROYECTOS Y GRADO DE DESARROLLO EN LA PROPUESTA TÉCNICA DE empresa_n
 
 El presente anexo identifica, de manera sistemática, el grado de desarrollo de los proyectos y subproyectos del Anexo II en la memoria técnica presentada por empresa_n.
 
@@ -879,7 +876,7 @@ El análisis se ha realizado diferenciando tres niveles:
 
 - No → no se detecta error explícito (aunque haya falta de detalle)
 
-## 1.6. BLOQUE TRANSVERSAL (TRA)
+## BLOQUE TRANSVERSAL (TRA)
 
 | **Proyecto** | **Clasificación** | **Error grave** |
 | --- | --- | --- |
@@ -892,7 +889,7 @@ El análisis se ha realizado diferenciando tres niveles:
 | TRA7 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 | TRA8 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 
-## 1.7. AULAS VIRTUALES (AV)
+## AULAS VIRTUALES (AV)
 
 | **Proyecto** | **Clasificación** | **Error grave** |
 | --- | --- | --- |
@@ -918,7 +915,7 @@ El análisis se ha realizado diferenciando tres niveles:
 | AV20 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 | AV21 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 
-## 1.8. MEDIATECA (MED)
+## MEDIATECA (MED)
 
 | **Proyecto** | **Clasificación** | **Error grave** |
 | --- | --- | --- |
@@ -934,7 +931,7 @@ El análisis se ha realizado diferenciando tres niveles:
 | MED10 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 | MED11 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 
-## 1.9. CORREO WEB (COR)
+## CORREO WEB (COR)
 
 | **Proyecto** | **Clasificación** | **Error grave** |
 | --- | --- | --- |
@@ -943,14 +940,14 @@ El análisis se ha realizado diferenciando tres niveles:
 | COR3 | Propuesta técnica con errores técnicos graves | Sí (falta de conocimiento del entorno de EducaMadrid, que usa xAI modificado, y propuesta de desarrollo desde cero innecesario) |
 | COR4 | Propuesta técnica con errores técnicos graves | Sí (falta de conocimiento del entorno de EducaMadrid, que usa xAI modificado, y propuesta de desarrollo desde cero innecesario) |
 
-## 1.10. CLOUD (CLO)
+## CLOUD (CLO)
 
 | **Proyecto** | **Clasificación** | **Error grave** |
 | --- | --- | --- |
 | CLO1 | Propuesta técnica incluida | No |
 | CLO2 | Propuesta técnica incluida | No |
 
-## 1.11. WORDPRESS MULTISITE (WPM)
+## WORDPRESS MULTISITE (WPM)
 
 | **Proyecto** | **Clasificación** | **Error grave** |
 | --- | --- | --- |
@@ -960,7 +957,7 @@ El análisis se ha realizado diferenciando tres niveles:
 | WPM4 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 | WPM5 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 
-## 1.12. VIDEO (VID)
+## VIDEO (VID)
 
 | **Proyecto** | **Clasificación** | **Error grave** |
 | --- | --- | --- |
@@ -969,7 +966,7 @@ El análisis se ha realizado diferenciando tres niveles:
 | VID3 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 | VID4 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 
-## 1.13. SERVICIOS UNITARIOS
+## SERVICIOS UNITARIOS
 
 | **Proyecto** | **Clasificación** | **Error grave** |
 | --- | --- | --- |
@@ -980,7 +977,7 @@ El análisis se ha realizado diferenciando tres niveles:
 | BUS1 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 | ANI1 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 
-## 1.14. RESTO DE SISTEMAS
+## RESTO DE SISTEMAS
 
 | **Proyecto** | **Clasificación** | **Error grave** |
 | --- | --- | --- |
@@ -1005,7 +1002,7 @@ El análisis se ha realizado diferenciando tres niveles:
 | EML | Propuesta técnica incluida (desarrollo insuficiente) | No |
 | ABI | Propuesta técnica incluida (desarrollo insuficiente) | No |
 
-## 1.15. WEKAN (WEK)
+## WEKAN (WEK)
 
 | **Proyecto** | **Clasificación** | **Error grave** |
 | --- | --- | --- |
@@ -1014,7 +1011,7 @@ El análisis se ha realizado diferenciando tres niveles:
 | WEK3 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 | WEK4 | Propuesta técnica incluida (desarrollo insuficiente) | No |
 
-### 1.15.1. Conclusión del anexo
+### Conclusión del anexo
 
 El análisis detallado de la memoria técnica de empresa_n permite establecer las siguientes conclusiones objetivas:
 

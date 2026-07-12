@@ -1,4 +1,4 @@
-# 1. INTRODUCCIÓN
+# INTRODUCCIÓN
 
 **El presente documento tiene por objeto la realización de una evaluación técnica detallada de la memoria presentada por la empresa empresa_s S.A.** en el marco del procedimiento de contratación correspondiente al expediente BAC01\_2026, relativo a los servicios de mantenimiento y soporte para proyectos exteriores alojados en la plataforma EducaMadrid.
 
@@ -14,11 +14,11 @@ Asimismo, el análisis incorpora como elemento relevante la identificación de f
 
 En conjunto, el presente informe tiene como finalidad ofrecer una evaluación técnica rigurosa, exhaustiva y coherente con los criterios establecidos en el pliego, permitiendo fundamentar de manera sólida la valoración final de la propuesta presentada por empresa_s S.A.
 
-## 1.1. ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
+## ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
 
-### 1.1.1. PROYECTOS WEB LIFERAY (ELIF)
+### PROYECTOS WEB LIFERAY (ELIF)
 
-### 1.1.2. ELIF1 – Adaptaciones de las páginas web Liferay
+### ELIF1 – Adaptaciones de las páginas web Liferay
 
 El requisito asociado a este subproyecto contempla la necesidad de llevar a cabo actuaciones de adaptación sobre las páginas web desarrolladas en Liferay, incluyendo tanto la revisión de plantillas como la modernización de su presentación y la mejora de la experiencia de uso tanto para usuarios finales como para perfiles de edición.
 
@@ -34,7 +34,7 @@ En consecuencia, aunque la propuesta presenta una cobertura clara del requisito 
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.3. ELIF2 – Barra de herramientas y pie de EducaMadrid
+### ELIF2 – Barra de herramientas y pie de EducaMadrid
 
 El subproyecto relativo a la barra de herramientas y el pie corporativo tiene como objetivo principal garantizar la integración homogénea de estos elementos en los distintos sitios web, asegurando la coherencia visual y funcional dentro del ecosistema EducaMadrid.
 
@@ -52,7 +52,7 @@ En consecuencia, se trata de una respuesta que cumple adecuadamente el requisito
 
 **Valoración cualitativa: MEDIA**
 
-### 1.1.4. ELIF3 – Mejoras de presentación
+### ELIF3 – Mejoras de presentación
 
 El subproyecto relativo a las mejoras de presentación tiene como objetivo la evolución del frontend de los sitios web, no sólo desde un punto de vista visual, sino también en términos de rendimiento, eficiencia y adaptación a distintos dispositivos, incorporando prácticas modernas de desarrollo web.
 
@@ -68,7 +68,7 @@ En consecuencia, aunque la propuesta presenta un desarrollo razonablemente compl
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.5. ELIF4 – Mejoras de usabilidad y accesibilidad
+### ELIF4 – Mejoras de usabilidad y accesibilidad
 
 El subproyecto relativo a la mejora de la usabilidad y la accesibilidad constituye uno de los elementos más relevantes del bloque, dado que afecta directamente tanto a la experiencia de usuario como al cumplimiento normativo aplicable en entornos públicos.
 
@@ -84,7 +84,7 @@ En consecuencia, aunque la propuesta presenta una alineación clara con los requ
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.6. CONCLUSIÓN DEL BLOQUE ELIF
+### CONCLUSIÓN DEL BLOQUE ELIF
 
 El análisis conjunto de los subproyectos que componen el bloque de Proyectos Web Liferay permite identificar una propuesta que, en términos generales, presenta un buen grado de alineación con los requisitos establecidos en el pliego, incorporando actuaciones específicas para cada uno de los ámbitos solicitados y demostrando un conocimiento técnico adecuado de las tecnologías implicadas.
 
@@ -100,9 +100,9 @@ En consecuencia, el bloque puede calificarse como una propuesta técnica correct
 
 **Valoración global del bloque ELIF: MEDIA-ALTA**
 
-### 1.1.7. MEJORAS Y MANTENIMIENTO DE LA WEB DE INNOVACIÓN Y FORMACIÓN DEL PROFESORADO (IFP)
+### MEJORAS Y MANTENIMIENTO DE LA WEB DE INNOVACIÓN Y FORMACIÓN DEL PROFESORADO (IFP)
 
-### 1.1.8. IFP1 – Mejoras y mantenimiento de la web de Innovación y Formación del Profesorado
+### IFP1 – Mejoras y mantenimiento de la web de Innovación y Formación del Profesorado
 
 El subproyecto IFP1 constituye uno de los elementos de mayor complejidad y relevancia dentro del conjunto de requisitos del pliego, al implicar no sólo la evolución de un sistema existente, sino una transformación significativa de su arquitectura, su modelo de integración y su operación global.
 
@@ -134,13 +134,13 @@ En conjunto, la propuesta presentada para el subproyecto IFP1 puede considerarse
 
 **Valoración cualitativa: MEDIA***-ALTA**
 
-### 1.1.9. PROYECTOS MOODLE MISC (EMOM)
+### PROYECTOS MOODLE MISC (EMOM)
 
 **El bloque relativo a MoodleMisc presenta una complejidad técnica particularmente elevada debido a la combinación de actuaciones de distinta naturaleza, que abarcan desde actualizaciones de plataforma y mantenimiento evolutivo hasta integración con servicios corporativos, automatización operativa, ciberseguridad y resolución de incidencias funcionales.** Esta amplitud de alcance exige una propuesta que no solo cubra los requisitos de forma exhaustiva, sino que incorpore un modelo operativo coherente y adaptado a entornos distribuidos con múltiples instancias y dependencias.
 
 La propuesta presentada por empresa_s aborda este bloque mediante una respuesta amplia y estructurada, en la que se identifican tecnologías específicas del ecosistema Moodle, procesos operativos propios de este tipo de plataformas y mecanismos de gestión orientados a garantizar la estabilidad y evolución del servicio. **No obstante, como se detallará a continuación en el análisis subproyecto a subproyecto, esta cobertura general se ve acompañada de determinadas carencias recurrentes relacionadas con la ausencia de métricas cuantificables, la falta de herramientas concretas y un cierto predominio de descripciones metodológicas frente a definiciones plenamente operativas.**
 
-### 1.1.10. EMOM1 – Actualización de la plataforma MoodleMisc
+### EMOM1 – Actualización de la plataforma MoodleMisc
 
 El subproyecto relativo a la actualización de la plataforma MoodleMisc tiene como finalidad garantizar la evolución continua del entorno mediante la actualización a versiones estables, la revisión de dependencias y la incorporación de mejoras de seguridad y compatibilidad.
 
@@ -156,7 +156,7 @@ En conjunto, la propuesta presenta una metodología adecuada y coherente, pero c
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.11. EMOM2 – Adaptación de la plataforma MoodleMisc
+### EMOM2 – Adaptación de la plataforma MoodleMisc
 
 El subproyecto de adaptación de la plataforma MoodleMisc implica la incorporación y mantenimiento de múltiples integraciones con servicios internos y externos, así como la adaptación del sistema a nuevas funcionalidades y requerimientos operativos.
 
@@ -172,7 +172,7 @@ En consecuencia, la propuesta presenta una cobertura funcional muy amplia y una 
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.12. EMOM3 – Mantenimiento de la plataforma MoodleMisc
+### EMOM3 – Mantenimiento de la plataforma MoodleMisc
 
 El subproyecto de mantenimiento se centra en la gestión continua del entorno Moodle, incluyendo la resolución de incidencias, la administración de plugins, la gestión de integraciones y la optimización del rendimiento.
 
@@ -188,7 +188,7 @@ En consecuencia, aunque la propuesta presenta una cobertura sólida y una mejora
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.13. EMOM4 – Mejora de la ciberseguridad en Moodle Misc
+### EMOM4 – Mejora de la ciberseguridad en Moodle Misc
 
 El subproyecto de ciberseguridad tiene como objetivo reforzar la protección del entorno Moodle mediante la implementación de medidas de endurecimiento y control de acceso.
 
@@ -204,7 +204,7 @@ En consecuencia, la propuesta puede considerarse correcta en su planteamiento, p
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.14. EMOM5 – Solución de problemas conocidos en Moodle Misc
+### EMOM5 – Solución de problemas conocidos en Moodle Misc
 
 El subproyecto destinado a la resolución de problemas conocidos aborda la corrección de incidencias específicas identificadas en el entorno, tales como problemas con Wiris, H5P, calendarios, LaTeX o competencias.
 
@@ -220,7 +220,7 @@ En consecuencia, se trata de una propuesta correcta desde el punto de vista meto
 
 **Valoración cualitativa: MEDIA**
 
-### 1.1.15. EMOM6 – Tareas sobre configuraciones para conexiones externas
+### EMOM6 – Tareas sobre configuraciones para conexiones externas
 
 El subproyecto relativo a las configuraciones para conexiones externas aborda la integración con servicios como Marsupial, LTI y plataformas editoriales, así como la gestión de glosarios.
 
@@ -234,7 +234,7 @@ En consecuencia, la propuesta presenta una cobertura funcional correcta, pero co
 
 **Valoración cualitativa: MEDIA**
 
-### 1.1.16. EMOM7 – Otras tareas específicas de actualización y procedimiento
+### EMOM7 – Otras tareas específicas de actualización y procedimiento
 
 El subproyecto EMOM7 engloba un conjunto amplio de actuaciones adicionales relacionadas con la evolución de la plataforma, incluyendo la gestión de nuevos frontales, LDAP, bases de datos, almacenamiento, herramientas auxiliares y automatización.
 
@@ -246,7 +246,7 @@ No obstante, aunque la cobertura es amplia, la propuesta mantiene las carencias 
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.17. CONCLUSIÓN DEL BLOQUE MOODLEMISC
+### CONCLUSIÓN DEL BLOQUE MOODLEMISC
 
 El análisis global del bloque MoodleMisc permite identificar una propuesta con un elevado grado de cobertura de los requisitos, que demuestra un conocimiento técnico claro del ecosistema Moodle y de las necesidades operativas asociadas a este tipo de plataformas.
 
@@ -256,13 +256,13 @@ No obstante, la ausencia sistemática de métricas cuantificables, indicadores d
 
 **Valoración global del bloque EMOM: MEDIA-ALTA**
 
-### 1.1.18. PROYECTOS DE DINÁMICAS (EDIN)
+### PROYECTOS DE DINÁMICAS (EDIN)
 
 El bloque de Dinámicas presenta unas características significativamente diferenciadas respecto a otros ámbitos del contrato, al tratarse de un entorno compuesto fundamentalmente por aplicaciones heredadas, con arquitecturas heterogéneas, dependencias históricas y niveles de mantenimiento dispares. **Esta naturaleza introduce un nivel de riesgo técnico elevado, especialmente en lo relativo a compatibilidad, seguridad y control operativo, lo que exige una propuesta capaz de abordar de forma específica este tipo de escenarios.**
 
 La propuesta presentada por empresa_s destaca en este bloque por una adaptación más evidente al contexto real del entorno, alejándose en mayor medida de planteamientos genéricos y aproximándose a una visión técnica concreta basada en el análisis de sistemas legacy, lo que supone un elemento diferencial relevante respecto a otros apartados.
 
-### 1.1.19. EDIN1 – Mantenimiento, actualización y adecuación ENS del entorno Dinámicas
+### EDIN1 – Mantenimiento, actualización y adecuación ENS del entorno Dinámicas
 
 El subproyecto EDIN1 tiene como objetivo el mantenimiento y evolución del entorno de Dinámicas, así como su adecuación a requisitos de seguridad alineados con el Esquema Nacional de Seguridad, en un contexto caracterizado por la presencia de aplicaciones PHP/MySQL heredadas y configuraciones individuales por proyecto.
 
@@ -280,7 +280,7 @@ En consecuencia, la propuesta presenta un alto nivel de adecuación técnica y u
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.20. EDIN2 – Mantenimiento, actualización y mejora del espacio FTP
+### EDIN2 – Mantenimiento, actualización y mejora del espacio FTP
 
 El subproyecto EDIN2 aborda la gestión del servicio FTP asociado al entorno de Dinámicas, incluyendo su mantenimiento, mejora y adecuación a requisitos de seguridad.
 
@@ -296,7 +296,7 @@ En consecuencia, la propuesta responde adecuadamente al requisito desde el punto
 
 **Valoración cualitativa: MEDIA**
 
-### 1.1.21. CONCLUSIÓN DEL BLOQUE DINÁMICAS
+### CONCLUSIÓN DEL BLOQUE DINÁMICAS
 
 El análisis conjunto del bloque de Dinámicas permite identificar una propuesta que presenta una buena adaptación al contexto específico del entorno, especialmente en lo relativo al tratamiento de aplicaciones heredadas y a la identificación de riesgos asociados.
 
@@ -306,13 +306,13 @@ No obstante, las carencias detectadas en la formalización del ENS, la ausencia 
 
 **Valoración global del bloque EDIN: MEDIA-ALTA**
 
-### 1.1.22. PROYECTOS DE INTEGRACIÓN CON LA PLATAFORMA DE EDUCAMADRID (EIPE)
+### PROYECTOS DE INTEGRACIÓN CON LA PLATAFORMA DE EDUCAMADRID (EIPE)
 
 El bloque de integración con la plataforma EducaMadrid tiene como finalidad garantizar la correcta incorporación de aplicaciones externas dentro del ecosistema corporativo, incluyendo tanto modificaciones de aplicaciones existentes como adaptaciones front-end y desarrollo de mecanismos de integración.
 
 La propuesta presentada por empresa_s desarrolla este bloque mediante un enfoque metodológico estructurado, orientado al control del ciclo de vida del software y a la integración coherente de sistemas heterogéneos, lo que constituye uno de los aspectos más sólidos del documento.
 
-### 1.1.23. EIPE1 – Modificación de aplicaciones, plugins y scripts de integración
+### EIPE1 – Modificación de aplicaciones, plugins y scripts de integración
 
 El subproyecto EIPE1 aborda la modificación de aplicaciones y el desarrollo de plugins y scripts necesarios para su integración con la plataforma EducaMadrid, incluyendo tecnologías diversas como PHP, Python, Java o Shell Script.
 
@@ -328,7 +328,7 @@ En consecuencia, la propuesta presenta una buena base metodológica y una arquit
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.24. EIPE2 – Modificaciones Front-End (HTML, CSS y JavaScript)
+### EIPE2 – Modificaciones Front-End (HTML, CSS y JavaScript)
 
 El subproyecto EIPE2 se centra en la adaptación visual y funcional de aplicaciones mediante tecnologías frontend, incluyendo HTML, CSS y JavaScript.
 
@@ -342,7 +342,7 @@ En consecuencia, se trata de una propuesta correcta y alineada con el requisito,
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.25. CONCLUSIÓN DEL BLOQUE INTEGRACIÓN (EIPE)
+### CONCLUSIÓN DEL BLOQUE INTEGRACIÓN (EIPE)
 
 El análisis global del bloque de integración permite identificar una propuesta técnicamente consistente, con una metodología clara y una arquitectura coherente, orientada a la integración controlada de aplicaciones heterogéneas dentro del entorno EducaMadrid.
 
@@ -352,13 +352,13 @@ No obstante, la ausencia de herramientas concretas, métricas y criterios de ace
 
 **Valoración global del bloque EIPE: ALTA**
 
-### 1.1.26. PROYECTOS DE SISTEMAS EXTERNOS (ESIS)
+### PROYECTOS DE SISTEMAS EXTERNOS (ESIS)
 
 El bloque de Sistemas Externos constituye el núcleo más extenso y técnicamente exigente del contrato, al agrupar un conjunto muy amplio de actuaciones que abarcan desde la actualización de infraestructuras base y bases de datos hasta la integración de servicios, la gestión de identidades, el despliegue de aplicaciones, la ciberseguridad, la monitorización y la operación global de los proyectos externos dentro del ecosistema EducaMadrid.
 
 La propuesta presentada por empresa_s se caracteriza por una cobertura exhaustiva de los requisitos, con una orientación clara hacia la definición de metodologías operativas estructuradas, la consideración de aspectos de seguridad y la integración con servicios corporativos. **Sin embargo, como se observará en el análisis detallado, se mantiene un patrón recurrente de carencias relacionadas con la escasa concreción de herramientas y la ausencia de métricas cuantificables.**
 
-### 1.1.27. ESIS1 – Servicio de actualización del software base
+### ESIS1 – Servicio de actualización del software base
 
 El subproyecto relativo a la actualización del software base tiene como finalidad garantizar la evolución tecnológica de los entornos mediante la actualización controlada de componentes como PHP, Apache, WordPress o Moodle, asegurando simultáneamente la compatibilidad de los aplicativos y la continuidad del servicio.
 
@@ -372,7 +372,7 @@ En consecuencia, la propuesta puede considerarse sólida desde el punto de vista
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.28. ESIS2 – Servicio de actualización de bases de datos
+### ESIS2 – Servicio de actualización de bases de datos
 
 El subproyecto ESIS2 aborda la actualización de motores de bases de datos, incluyendo tecnologías como MariaDB, PostgreSQL o MongoDB, garantizando la compatibilidad de los sistemas y minimizando el riesgo asociado a cambios de versión.
 
@@ -386,7 +386,7 @@ En consecuencia, la propuesta presenta una base metodológica adecuada, pero con
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.29. ESIS3 – Consultoría de integración
+### ESIS3 – Consultoría de integración
 
 El subproyecto ESIS3 tiene como objetivo proporcionar servicios de asesoramiento técnico en materia de integración de sistemas, garantizando la interoperabilidad y la correcta utilización de servicios corporativos.
 
@@ -400,7 +400,7 @@ En conjunto, se trata de una propuesta técnicamente sólida, con un buen nivel 
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.30. ESIS4 – Consultoría de ciberseguridad
+### ESIS4 – Consultoría de ciberseguridad
 
 El subproyecto ESIS4 se centra en la prestación de servicios de asesoramiento en ciberseguridad, incluyendo el endurecimiento de sistemas, la validación de accesos y el desarrollo de conectores seguros.
 
@@ -414,7 +414,7 @@ En consecuencia, la propuesta presenta una cobertura adecuada, pero con un nivel
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.31. ESIS5 – Actualización de la autenticación centralizada de usuarios
+### ESIS5 – Actualización de la autenticación centralizada de usuarios
 
 El subproyecto ESIS5 aborda uno de los aspectos más críticos del sistema, al centrarse en la evolución de los mecanismos de autenticación e identidad.
 
@@ -428,7 +428,7 @@ En conjunto, se trata de uno de los subproyectos mejor desarrollados del bloque.
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.32. ESIS6 – Mantenimiento de la autenticación centralizada de usuarios
+### ESIS6 – Mantenimiento de la autenticación centralizada de usuarios
 
 El subproyecto ESIS6 complementa el anterior, centrándose en el mantenimiento evolutivo de la plataforma de autenticación.
 
@@ -440,7 +440,7 @@ Sin embargo, persiste la ausencia de indicadores cuantificables, así como la fa
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.33. ESIS7 – Gestión de servicios para la sincronización de usuarios
+### ESIS7 – Gestión de servicios para la sincronización de usuarios
 
 El subproyecto ESIS7 se centra en la sincronización de identidades entre diferentes sistemas.
 
@@ -452,7 +452,7 @@ No obstante, la propuesta carece de concreción tecnológica en la arquitectura 
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.34. ESIS8 – Supervisión de usuarios de aplicaciones externas
+### ESIS8 – Supervisión de usuarios de aplicaciones externas
 
 El subproyecto ESIS8 aborda la supervisión de usuarios en aplicaciones externas integradas en la plataforma.
 
@@ -464,7 +464,7 @@ No obstante, la propuesta presenta carencias en la definición de herramientas c
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.35. ESIS9 – Soporte técnico en entornos de preproducción
+### ESIS9 – Soporte técnico en entornos de preproducción
 
 El subproyecto ESIS9 tiene como finalidad garantizar la correcta preparación y validación de aplicaciones externas en entornos de preproducción antes de su paso a producción, constituyendo un elemento clave para asegurar la estabilidad del servicio y minimizar el impacto de cambios en entornos críticos.
 
@@ -478,7 +478,7 @@ En consecuencia, la propuesta puede considerarse coherente desde el punto de vis
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.36. ESIS10 – Despliegue de aplicaciones externas en producción
+### ESIS10 – Despliegue de aplicaciones externas en producción
 
 El subproyecto ESIS10 se centra en la puesta en producción de aplicaciones externas, incluyendo la validación funcional, la evaluación de impacto y la garantía de continuidad del servicio.
 
@@ -492,7 +492,7 @@ En consecuencia, la propuesta presenta una base técnica sólida, pero carece de
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.37. ESIS11 – Integración en el gestor de servidores de bases de datos
+### ESIS11 – Integración en el gestor de servidores de bases de datos
 
 Este subproyecto tiene como objetivo la integración de bases de datos externas dentro del sistema corporativo de gestión, garantizando su supervisión y mantenimiento.
 
@@ -504,7 +504,7 @@ Desde el punto de vista técnico, se incluyen motores como MariaDB, PostgreSQL o
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.38. ESIS12 – Estudio de los recursos solicitados
+### ESIS12 – Estudio de los recursos solicitados
 
 El subproyecto ESIS12 se centra en el análisis previo de necesidades de infraestructura, incluyendo sistemas operativos, bases de datos, red, almacenamiento y dependencias.
 
@@ -516,7 +516,7 @@ No obstante, la propuesta no identifica herramientas específicas de análisis n
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.39. ESIS13 – Solicitud de los recursos necesarios
+### ESIS13 – Solicitud de los recursos necesarios
 
 Este subproyecto aborda la provisión de recursos de infraestructura, incluyendo máquinas virtuales, comunicaciones y almacenamiento.
 
@@ -528,7 +528,7 @@ Asimismo, no se definen métricas de dimensionamiento ni indicadores de capacida
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.40. ESIS14 – Bastionado de los recursos solicitados
+### ESIS14 – Bastionado de los recursos solicitados
 
 El subproyecto ESIS14 constituye uno de los desarrollos más sólidos dentro del bloque, al centrarse en el endurecimiento de sistemas y la aplicación de medidas de ciberseguridad avanzadas.
 
@@ -540,7 +540,7 @@ No obstante, se observa una falta de identificación de herramientas concretas p
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.41. ESIS15 – Instalación de paquetería y gestión de dependencias
+### ESIS15 – Instalación de paquetería y gestión de dependencias
 
 El subproyecto ESIS15 aborda la instalación de software base, aplicaciones, librerías y dependencias.
 
@@ -552,7 +552,7 @@ No obstante, se detecta cierta redundancia respecto a otros subproyectos y la au
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.42. ESIS16 – Configuración del entorno
+### ESIS16 – Configuración del entorno
 
 El subproyecto ESIS16 se centra en la configuración de sistemas, servicios y medidas de seguridad.
 
@@ -562,7 +562,7 @@ Sin embargo, al igual que en otros subproyectos, no se definen indicadores cuant
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.43. ESIS17 – Integración con LDAP
+### ESIS17 – Integración con LDAP
 
 La propuesta aborda correctamente la integración con sistemas LDAP, incluyendo replicación, sincronización e integración segura, lo que constituye una respuesta adecuada al requisito.
 
@@ -570,7 +570,7 @@ No obstante, se detecta la ausencia de herramientas concretas y métricas de aut
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.44. ESIS18 – Integración con el sistema de correo
+### ESIS18 – Integración con el sistema de correo
 
 La propuesta contempla la integración con sistemas de correo mediante la configuración de SMTP, uso de SPF, DKIM y DMARC, así como la monitorización del servicio, lo que evidencia una cobertura adecuada.
 
@@ -578,7 +578,7 @@ Sin embargo, no se describe la integración específica con la plataforma existe
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.45. ESIS19 – Integración con bases de datos
+### ESIS19 – Integración con bases de datos
 
 Este subproyecto presenta uno de los desarrollos más completos, incorporando integración entre motores heterogéneos, seguridad avanzada, control de cambios y monitorización.
 
@@ -588,7 +588,7 @@ No obstante, persiste la ausencia de herramientas concretas y métricas cuantifi
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.46. ESIS20 – Integración con CMDB
+### ESIS20 – Integración con CMDB
 
 La propuesta desarrolla de forma muy completa el concepto de CMDB, incluyendo inventariado, gestión de dependencias, automatización y trazabilidad, lo que constituye un desarrollo especialmente maduro.
 
@@ -596,7 +596,7 @@ Sin embargo, no se identifican herramientas concretas ni métricas de calidad de
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.47. ESIS21 – Documentación del proyecto externo
+### ESIS21 – Documentación del proyecto externo
 
 El subproyecto ESIS21 tiene como finalidad garantizar la correcta documentación de los proyectos externos, abarcando tanto aspectos funcionales como técnicos, de infraestructura y de accesos.
 
@@ -610,7 +610,7 @@ En consecuencia, la propuesta cubre adecuadamente el requisito, pero con un nive
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.48. ESIS22 – Gestión del riesgo del proyecto externo
+### ESIS22 – Gestión del riesgo del proyecto externo
 
 El subproyecto ESIS22 aborda la identificación y gestión de riesgos asociados a proyectos externos, incluyendo aspectos de seguridad, redes, interconexiones y control de accesos.
 
@@ -622,7 +622,7 @@ No obstante, se observa la ausencia de métricas cuantificables de riesgo y de i
 
 **Valoración cualitativa: ALTA**
 
-### 1.1.49. ESIS23 – Implementación de backups y Disaster Recovery
+### ESIS23 – Implementación de backups y Disaster Recovery
 
 El subproyecto ESIS23 tiene como objetivo garantizar la resiliencia del sistema mediante la implementación de mecanismos de copia de seguridad y recuperación ante desastres.
 
@@ -632,7 +632,7 @@ Sin embargo, no se detallan aspectos clave como RPO, RTO, tecnologías utilizada
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.50. ESIS24 – Implementación de monitorización básica
+### ESIS24 – Implementación de monitorización básica
 
 La propuesta incluye la monitorización básica del sistema mediante la recogida de logs, métricas y alertas, lo que constituye una respuesta adecuada al requisito.
 
@@ -640,7 +640,7 @@ No obstante, la falta de herramientas concretas, definición de umbrales y model
 
 **Valoración cualitativa: MEDIA**
 
-### 1.1.51. ESIS25 – Implementación de monitorización avanzada
+### ESIS25 – Implementación de monitorización avanzada
 
 En este subproyecto se amplía la monitorización a un nivel más avanzado, incluyendo análisis más detallados de rendimiento, comportamiento y correlación de eventos.
 
@@ -648,7 +648,7 @@ La propuesta mantiene un enfoque coherente con el subproyecto anterior, pero no 
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.52. ESIS26 – Servicios de ciberseguridad básicos
+### ESIS26 – Servicios de ciberseguridad básicos
 
 La propuesta contempla medidas básicas de seguridad, incluyendo control de accesos, protección perimetral y validaciones de seguridad.
 
@@ -656,7 +656,7 @@ Sin embargo, la falta de concreción técnica y de indicadores de seguridad limi
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.53. ESIS27 – Servicios de ciberseguridad avanzados
+### ESIS27 – Servicios de ciberseguridad avanzados
 
 El subproyecto introduce un mayor nivel de sofisticación en seguridad, contemplando análisis avanzados, detección de amenazas y refuerzo de controles.
 
@@ -664,7 +664,7 @@ La propuesta responde adecuadamente, pero sin llegar a detallar herramientas SIE
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.54. ESIS28 – Actualización de sistemas operativos
+### ESIS28 – Actualización de sistemas operativos
 
 La propuesta contempla la actualización controlada de sistemas operativos, incluyendo validaciones previas y control de compatibilidad.
 
@@ -672,7 +672,7 @@ No obstante, no se definen herramientas ni métricas de éxito, ni políticas co
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.55. ESIS29 – Gestión y seguimiento del proyecto
+### ESIS29 – Gestión y seguimiento del proyecto
 
 La gestión del proyecto se plantea mediante mecanismos de seguimiento, control de actividades y reporting.
 
@@ -680,7 +680,7 @@ La propuesta es coherente metodológicamente, pero carece de indicadores de rend
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.1.56. ESIS30 – Segmentación de la red de servidores
+### ESIS30 – Segmentación de la red de servidores
 
 La propuesta contempla la segmentación de la red como medida de seguridad, incluyendo separación de entornos y control de accesos.
 
@@ -688,7 +688,7 @@ Sin embargo, el nivel de detalle técnico es limitado, sin definir arquitecturas
 
 **Valoración cualitativa: MEDIA**
 
-### 1.1.57. ESIS31 – Optimización de la infraestructura de virtualización
+### ESIS31 – Optimización de la infraestructura de virtualización
 
 El subproyecto final aborda la optimización de entornos virtualizados, incluyendo mejora de rendimiento y eficiencia.
 
@@ -696,7 +696,7 @@ La propuesta introduce conceptos relevantes, pero sin profundizar en herramienta
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-## 1.2. CONCLUSIÓN GLOBAL DEL BLOQUE ESIS
+## CONCLUSIÓN GLOBAL DEL BLOQUE ESIS
 
 El análisis completo del bloque ESIS permite identificar una propuesta con un elevado grado de cobertura de los requisitos, en la que se aprecia una clara orientación metodológica, una comprensión adecuada del ecosistema EducaMadrid y una capacidad para abordar entornos complejos y heterogéneos.
 
@@ -724,11 +724,11 @@ Estas carencias limitan la capacidad de verificar objetivamente la eficacia de l
 
 **Valoración global del bloque ESIS: ALTA**
 
-### 1.2.1. SEGURIDAD DE APLICACIONES WEB (ESEG)
+### SEGURIDAD DE APLICACIONES WEB (ESEG)
 
 El bloque de Seguridad de Aplicaciones Web tiene como finalidad reforzar la protección de los sistemas expuestos, mediante la identificación de vulnerabilidades, la gestión de logs y el control de la superficie de ataque. **Se trata de un ámbito transversal que impacta directamente sobre la seguridad global de la plataforma EducaMadrid y, por tanto, requiere un enfoque técnico sólido y formalizado.**
 
-### 1.2.2. ESEG1 – Realización de auditorías / Pentesting web
+### ESEG1 – Realización de auditorías / Pentesting web
 
 El subproyecto ESEG1 tiene como objetivo la identificación de vulnerabilidades mediante auditorías de seguridad y pruebas de intrusión, tanto desde una perspectiva externa como interna.
 
@@ -742,7 +742,7 @@ En consecuencia, la propuesta cubre adecuadamente el requisito desde el punto de
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.2.3. ESEG2 – Gestión de logs de las aplicaciones web
+### ESEG2 – Gestión de logs de las aplicaciones web
 
 El subproyecto ESEG2 aborda la gestión, análisis y explotación de logs generados por las aplicaciones web, como mecanismo de detección de incidentes y auditoría del sistema.
 
@@ -756,7 +756,7 @@ En consecuencia, la propuesta responde de forma correcta al requisito, pero con 
 
 **Valoración cualitativa: MEDIA**
 
-### 1.2.4. ESEG3 – Análisis y protección de la superficie de ataque
+### ESEG3 – Análisis y protección de la superficie de ataque
 
 El subproyecto ESEG3 tiene como finalidad identificar y proteger los puntos de exposición del sistema, reduciendo la superficie de ataque y mejorando la seguridad global.
 
@@ -768,7 +768,7 @@ En consecuencia, la propuesta presenta una cobertura funcional correcta, pero co
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.2.5. CONCLUSIÓN DEL BLOQUE ESEG
+### CONCLUSIÓN DEL BLOQUE ESEG
 
 El análisis conjunto del bloque de seguridad de aplicaciones web permite identificar una propuesta que cubre los requisitos fundamentales, pero que se mantiene en un nivel predominantemente conceptual, sin alcanzar un grado elevado de detalle técnico ni de formalización metodológica.
 
@@ -776,9 +776,9 @@ Se trata de un bloque correctamente enfocado desde el punto de vista funcional, 
 
 **Valoración global del bloque ESEG: MEDIA-ALTA**
 
-### 1.2.6. DESARROLLO SEGURO DE APLICACIONES WEB (EDSA)
+### DESARROLLO SEGURO DE APLICACIONES WEB (EDSA)
 
-### 1.2.7. EDSA1 – Análisis de código web
+### EDSA1 – Análisis de código web
 
 El subproyecto EDSA1 aborda el análisis del código fuente de aplicaciones web con el objetivo de identificar vulnerabilidades y mejorar la calidad del software desde una perspectiva de seguridad.
 
@@ -788,7 +788,7 @@ La propuesta presentada contempla la revisión de código, la identificación de
 
 **Valoración cualitativa: MEDIA-ALTA**
 
-### 1.2.8. EDSA2 – Ayuda al desarrollo seguro de código web
+### EDSA2 – Ayuda al desarrollo seguro de código web
 
 Este subproyecto complementa el anterior mediante la asistencia al desarrollo seguro, incluyendo recomendaciones, buenas prácticas y soporte a desarrolladores.
 
@@ -798,15 +798,15 @@ Sin embargo, al igual que en EDSA1, no se concretan metodologías, herramientas 
 
 **Valoración cualitativa: MEDIA***-ALTA**
 
-### 1.2.9. CONCLUSIÓN DEL BLOQUE EDSA
+### CONCLUSIÓN DEL BLOQUE EDSA
 
 El bloque de desarrollo seguro presenta una propuesta correcta desde el punto de vista conceptual, pero con un nivel de desarrollo limitado en aspectos técnicos específicos.
 
 **Valoración global del bloque EDSA: MEDIA-ALTA**
 
-### 1.2.10. GESTIÓN DEL PROGRAMA DE BUG BOUNTY (EBBO)
+### GESTIÓN DEL PROGRAMA DE BUG BOUNTY (EBBO)
 
-### 1.2.11. EBBO1 – Mantenimiento y gestión del programa de Bug Bounty
+### EBBO1 – Mantenimiento y gestión del programa de Bug Bounty
 
 El subproyecto EBBO1 tiene como objetivo la gestión de un programa de recompensa de vulnerabilidades, fomentando la detección proactiva de fallos de seguridad por parte de terceros.
 
@@ -816,13 +816,13 @@ No obstante, el nivel de detalle técnico es reducido, ya que no se definen plat
 
 **Valoración cualitativa: MEDIA**
 
-### 1.2.12. CONCLUSIÓN DEL BLOQUE EBBO
+### CONCLUSIÓN DEL BLOQUE EBBO
 
 El subproyecto relativo al programa de Bug Bounty presenta una cobertura funcional básica, pero con un desarrollo técnico muy limitado.
 
 **Valoración global del bloque EBBO: MEDIA**
 
-## 1.3. CIERRE DEL CAPÍTULO 2
+## CIERRE DEL CAPÍTULO 2
 
 El análisis detallado de todos los bloques y subproyectos permite afirmar que la propuesta presentada por empresa_s:
 
@@ -844,7 +844,7 @@ Sin embargo, de forma sistemática, se identifican limitaciones relevantes en:
 
 Este patrón será clave en la valoración final del apartado 7.2.2.
 
-## 1.4. EVALUACIÓN DE LA SOLUCIÓN TÉCNICA (APARTADO 7.2.2 DEL Documento de Invitación)
+## EVALUACIÓN DE LA SOLUCIÓN TÉCNICA (APARTADO 7.2.2 DEL Documento de Invitación)
 
 La presente sección tiene como finalidad realizar la valoración global de la **solución técnica ofertada por la empresa empresa_s S.A.**, conforme a los criterios establecidos en el apartado 7.2.2 del Documento de Invitación, en el que se define un sistema de evaluación basado en juicio de valor, estructurado en distintos subcriterios cualitativos y asociado a una puntuación máxima en función del grado de cumplimiento.
 
@@ -852,7 +852,7 @@ A diferencia del análisis realizado en el capítulo anterior, que se ha orienta
 
 Dado que el baremo no establece correspondencias directas con puntuaciones concretas, sino que define franjas de valoración cualitativa en función del grado de cumplimiento, el enfoque adoptado se basa en la identificación del posicionamiento de la propuesta dentro de dichas franjas, justificando en cada caso la asignación correspondiente en función de evidencias técnicas, coherencia global y nivel de desarrollo.
 
-### 1.4.1. Arquitectura de la solución técnica
+### Arquitectura de la solución técnica
 
 Uno de los elementos más relevantes en la evaluación de la solución técnica es el grado de coherencia, adecuación y desarrollo de la arquitectura propuesta, entendida como el conjunto de decisiones que articulan la organización de los sistemas, su integración, su escalabilidad y su capacidad de evolución en el entorno EducaMadrid.
 
@@ -870,7 +870,7 @@ En consecuencia, la arquitectura propuesta puede considerarse **coherente, bien 
 
 Puntuación asignada: 1,5 / 2
 
-### 1.4.2. Grado de comprensión de los requisitos
+### Grado de comprensión de los requisitos
 
 El grado de comprensión del pliego constituye uno de los factores más determinantes en la valoración de la solución técnica, al evaluar no sólo la capacidad de identificar lo que se solicita, sino también la capacidad de interpretarlo, contextualizarlo y traducirlo en soluciones ejecutables.
 
@@ -894,7 +894,7 @@ En consecuencia, el grado de comprensión puede considerarse claramente superior
 
 Puntuación asignada: 1,75 / 2
 
-### 1.4.3. Viabilidad técnica y operativa de la solución
+### Viabilidad técnica y operativa de la solución
 
 La viabilidad constituye un criterio fundamental, al evaluar la capacidad real de implantar la solución propuesta en el entorno existente, garantizando su funcionamiento, su sostenibilidad y su adaptación a condiciones reales de operación.
 
@@ -926,7 +926,7 @@ En consecuencia, la solución puede considerarse claramente viable, desde un pun
 
 Puntuación asignada: 0,75 / 1
 
-### 1.4.4. Metodología de trabajo
+### Metodología de trabajo
 
 El análisis de la metodología de trabajo pone de manifiesto que la propuesta incorpora un modelo estructurado basado en buenas prácticas reconocidas, incluyendo referencias a marcos como ITIL, DevOps y Agile.
 
@@ -954,7 +954,7 @@ En consecuencia, la metodología puede considerarse adecuada y alineada con buen
 
 Puntuación asignada: 0,60 / 1
 
-### 1.4.5. Rendimiento previsible de la solución
+### Rendimiento previsible de la solución
 
 El rendimiento constituye uno de los aspectos donde la propuesta presenta mayores debilidades relativas.
 
@@ -978,7 +978,7 @@ En consecuencia, a pesar de que la intención de mejora del rendimiento está cl
 
 Puntuación asignada: 0,50 / 1
 
-### 1.4.6. Grado de satisfacción de los requisitos
+### Grado de satisfacción de los requisitos
 
 El grado de satisfacción de los requisitos constituye la síntesis final del análisis, al evaluar la cobertura global del Anexo II y la adecuación de la propuesta a las necesidades definidas.
 
@@ -994,9 +994,9 @@ En consecuencia, el grado de satisfacción de los requisitos puede considerarse 
 
 Puntuación asignada: 5,75 / 8
 
-## 1.5. CONCLUSIÓN DEL CAPÍTULO 3
+## CONCLUSIÓN DEL CAPÍTULO 3
 
-### 1.5.1. Resumen cuantitativo
+### Resumen cuantitativo
 
 | **Criterio** | **Puntos máx.** | **Puntuación** |
 | --- | --- | --- |
@@ -1010,7 +1010,7 @@ Puntuación asignada: 5,75 / 8
 
 La evaluación global de la solución técnica permite posicionar la propuesta de empresa_s en un **nivel ALTO dentro del baremo del apartado 7.2.2**, caracterizado por:
 
-### 1.5.2. Fortalezas principales
+### Fortalezas principales
 
 - elevada cobertura de requisitos
 
@@ -1022,7 +1022,7 @@ La evaluación global de la solución técnica permite posicionar la propuesta d
 
 - enfoque metodológico correcto
 
-### 1.5.3. Debilidades estructurales
+### Debilidades estructurales
 
 - ausencia sistemática de métricas
 
@@ -1045,7 +1045,7 @@ representa de forma equilibrada:
 - pero sin el nivel de detalle, precisión y cuantificación requerido 
   para alcanzar las franjas más altas del baremo
 
-## 1.6. EVALUACIÓN DE LA PLANIFICACIÓN (APARTADO 7.2.3 DEL Documento de Invitación)
+## EVALUACIÓN DE LA PLANIFICACIÓN (APARTADO 7.2.3 DEL Documento de Invitación)
 
 La presente sección tiene como finalidad analizar la planificación propuesta por la empresa empresa_s S.A. desde una perspectiva técnica y operativa, de acuerdo con los criterios definidos en el apartado 7.2.3 del Documento de Invitación. **Este análisis no se limita a verificar la existencia de un plan de trabajo, sino que evalúa en profundidad su nivel de detalle, su coherencia interna, su alineación con la complejidad del servicio y su capacidad para garantizar una ejecución controlada, trazable y verificable de las actuaciones previstas.**
 
@@ -1053,7 +1053,7 @@ En este contexto, la planificación debe ser entendida como un elemento estructu
 
 A continuación, se desarrolla el análisis individualizado de los distintos subcriterios definidos en el Documento de Invitación.
 
-### 1.6.1. Calendario y planificación del servicio
+### Calendario y planificación del servicio
 
 El análisis del calendario y planificación constituye el elemento central del bloque, dado que representa la mayor ponderación dentro del apartado 7.2.3, siendo determinante en la valoración global de la capacidad del licitador para ejecutar el servicio en condiciones reales.
 
@@ -1075,7 +1075,7 @@ En consecuencia, aunque la planificación presenta una estructura coherente a ni
 
 **Puntuación asignada: 5,50 / 11**
 
-### 1.6.2. Análisis de riesgos
+### Análisis de riesgos
 
 El análisis de riesgos constituye un elemento esencial en la planificación de servicios complejos, permitiendo anticipar posibles incidencias, evaluar su impacto y establecer mecanismos de mitigación que reduzcan la probabilidad de materialización o sus consecuencias sobre el servicio.
 
@@ -1095,7 +1095,7 @@ En consecuencia, la propuesta presenta un reconocimiento adecuado de la existenc
 
 **Puntuación asignada: 0,60 / 1**
 
-### 1.6.3. Plan de contingencias
+### Plan de contingencias
 
 El análisis del plan de contingencias tiene como objetivo evaluar la capacidad de la propuesta para anticipar situaciones anómalas o críticas durante la ejecución del servicio, así como para definir mecanismos de respuesta que permitan minimizar el impacto de dichas situaciones sobre la continuidad operativa.
 
@@ -1113,7 +1113,7 @@ En consecuencia, la propuesta presenta un conjunto de buenas prácticas que cont
 
 **Puntuación asignada: 0,60 / 1**
 
-### 1.6.4. Plan de calidad
+### Plan de calidad
 
 El análisis del plan de calidad tiene como finalidad evaluar la capacidad de la propuesta para garantizar que las actuaciones realizadas cumplen con los niveles de calidad esperados, incorporando mecanismos de control, validación y mejora continua del servicio.
 
@@ -1131,7 +1131,7 @@ En consecuencia, la propuesta incorpora buenas prácticas orientadas a la calida
 
 **Puntuación asignada: 0,65 / 1**
 
-### 1.6.5. Trazabilidad
+### Trazabilidad
 
 La trazabilidad constituye un elemento fundamental para el control del servicio, al permitir registrar, seguir y auditar todas las actuaciones realizadas, facilitando la identificación de responsabilidades, la reconstrucción de eventos y la evaluación del cumplimiento de los objetivos.
 
@@ -1151,7 +1151,7 @@ En consecuencia, la propuesta presenta elementos parciales de trazabilidad, pero
 
 **Puntuación asignada: 0,50 / 1**
 
-### 1.6.6. RESUMEN GLOBAL DE LA PLANIFICACIÓN
+### RESUMEN GLOBAL DE LA PLANIFICACIÓN
 
 El análisis conjunto de los distintos subcriterios de planificación permite identificar una propuesta que presenta una estructura general coherente y una comprensión adecuada de los elementos básicos de gestión de servicios, pero que adolece de una falta significativa de detalle operativo en aspectos clave para su ejecución.
 
@@ -1163,7 +1163,7 @@ Esta falta de detalle no implica una inviabilidad de la propuesta, pero sí limi
 
 A partir del análisis realizado, se obtiene la siguiente distribución de puntuaciones:
 
-### 1.6.7. Resumen cuantitativo de la planificación (7.2.3)
+### Resumen cuantitativo de la planificación (7.2.3)
 
 | **Criterio** | **Puntos máximos** | **Puntuación** |
 | --- | --- | --- |
@@ -1176,7 +1176,7 @@ A partir del análisis realizado, se obtiene la siguiente distribución de puntu
 
 En consecuencia, la planificación presentada por empresa_s se sitúa de forma coherente en una valoración **ALTA (aunque muy cerca del límite con la franja MEDIA**) según el baremo incluido en el capítulo 7.2.2 del PPT. Esta valoración refleja una propuesta estructurada y viable, pero insuficientemente desarrollada en términos de precisión, control y cuantificación.
 
-## 1.7. PUNTUACIÓN GLOBAL JUSTIFICADA
+## PUNTUACIÓN GLOBAL JUSTIFICADA
 
 A partir del análisis detallado desarrollado en los capítulos anteriores, tanto en lo relativo a la solución técnica ofertada como a la planificación del servicio, se procede a establecer una valoración global integrada de la propuesta presentada por la empresa empresa_s S.A., conforme al modelo de juicio de valor definido en el apartado 7.2 del Documento de Invitación.
 
@@ -1188,7 +1188,7 @@ A partir del análisis detallado desarrollado en los capítulos anteriores, tant
 
 En consecuencia, la valoración global se sitúa de forma coherente en una posición intermedia dentro de las franjas superiores del baremo, reflejando tanto la calidad de la propuesta como las carencias detectadas.
 
-### 1.7.1. Principales elementos destacados de la oferta
+### Principales elementos destacados de la oferta
 
 Del análisis realizado se derivan una serie de elementos positivos que contribuyen de manera significativa a la valoración obtenida y que caracterizan la propuesta como una oferta técnicamente consistente y alineada con los requisitos del pliego:
 
@@ -1202,7 +1202,7 @@ Del análisis realizado se derivan una serie de elementos positivos que contribu
 
 - La propuesta incorpora buenas prácticas metodológicas, incluyendo referencias a modelos de gestión reconocidos y a procesos de validación, despliegue controlado y gestión de cambios, lo que contribuye a reforzar la robustez operativa del conjunto.
 
-### 1.7.2. Principales limitaciones y carencias detectadas
+### Principales limitaciones y carencias detectadas
 
 Junto a los elementos positivos anteriormente descritos, el análisis ha permitido identificar una serie de debilidades recurrentes que limitan la valoración obtenida y que justifican la no inclusión de la propuesta en las franjas superiores del baremo:
 
@@ -1216,7 +1216,7 @@ Junto a los elementos positivos anteriormente descritos, el análisis ha permiti
 
 - La gestión de riesgos, contingencias, calidad y trazabilidad se presenta de forma parcialmente desarrollada y no estructurada, sin alcanzar un nivel de formalización suficiente para garantizar su aplicación sistemática a lo largo del servicio.
 
-### 1.7.3. Resumen cuantitativo de la valoración
+### Resumen cuantitativo de la valoración
 
 A partir de las valoraciones cuantitativas establecidas en los capítulos 3 y 4, se obtiene la siguiente síntesis global de puntuación para los criterios sujetos a juicio de valor:
 
@@ -1302,15 +1302,15 @@ A partir de las valoraciones cuantitativas establecidas en los capítulos 3 y 4,
   </tr>
 </table>
 
-### 1.7.4. Conclusión final
+### Conclusión final
 
 En base al análisis realizado, la propuesta presentada por empresa_s S.A. obtiene una puntuación total de **18,70 puntos sobre 30**, y por tanto una valoración **ALTA***,** posicionándose de forma justificada como una oferta técnicamente sólida, viable y ampliamente alineada con los requisitos del pliego, pero limitada por un **déficit de concreción técnica, cuantificación y detalle en la planificación**, que impide alcanzar niveles de excelencia en la valoración por juicios de valor.
 
 <!-- salto de página -->
 
-## 1.8. ANEXO CLASIFICACIÓN DE LA PROPUESTA TÉCNICA POR SUBPROYECTO
+## ANEXO CLASIFICACIÓN DE LA PROPUESTA TÉCNICA POR SUBPROYECTO
 
-## 1.9. Criterios de clasificación
+## Criterios de clasificación
 
 A efectos de este análisis, se han establecido los siguientes niveles de clasificación:
 
@@ -1334,9 +1334,9 @@ A efectos de representación en tablas:
 
 El análisis realizado sobre la memoria técnica evidencia que empresa_s incorpora, en muchos subproyectos, propuestas de mejora y aportación de valor añadido, estructuradas explícitamente en el documento.
 
-## 1.10. Tablas de proyectos y grado de desarrollo
+## Tablas de proyectos y grado de desarrollo
 
-## 1.11. Proyectos Web Liferay (ELIF)
+## Proyectos Web Liferay (ELIF)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1345,13 +1345,13 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s incorpo
 | ELIF3 | Propuesta técnica incluida (desarrollo suficiente) | No |
 | ELIF4 | Propuesta técnica con mejoras (sin valor añadido) | PM (auditorías, revisiones, entornos no productivos, automatización de releases) |
 
-## 1.12. Innovación y Formación del Profesorado (IFP)
+## Innovación y Formación del Profesorado (IFP)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
 | IFP1 | Propuesta técnica incluida (desarrollo suficiente) | No |
 
-## 1.13. Proyectos Moodle Misc (EMOM)
+## Proyectos Moodle Misc (EMOM)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1363,21 +1363,21 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s incorpo
 | EMOM6 | Propuesta técnica incluida (desarrollo deficiente) | No |
 | EMOM7 | Propuesta técnica con valor añadido | VA (integración selectiva SSO) |
 
-## 1.14. Proyectos de Dinámicas (EDIN)
+## Proyectos de Dinámicas (EDIN)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
 | EDIN1 | Propuesta técnica con valor añadido | VA (inventario y matriz de riesgo) |
 | EDIN2 | Propuesta técnica incluida (desarrollo deficiente) | No |
 
-## 1.15. Integración EducaMadrid (EIPE)
+## Integración EducaMadrid (EIPE)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
 | EIPE1 | Propuesta técnica incluida (desarrollo suficiente) | No |
 | EIPE2 | Propuesta técnica incluida (desarrollo suficiente) | No |
 
-## 1.16. Sistemas Externos (ESIS)
+## Sistemas Externos (ESIS)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1413,7 +1413,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s incorpo
 | ESIS30 | Propuesta técnica incluida (desarrollo deficiente) | PM (microsegmentación y seguridad adaptativa) |
 | ESIS31 | Propuesta técnica incluida (desarrollo suficiente) | PM (evolucionar virtualización a modelos preparados para la IA) |
 
-## 1.17. Seguridad de Aplicaciones Web (ESEG)
+## Seguridad de Aplicaciones Web (ESEG)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1421,20 +1421,20 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s incorpo
 | ESEG2 | Propuesta técnica incluida (desarrollo deficiente) | PM (evolución a SIEM) |
 | ESEG3 | Propuesta técnica con mejoras (sin valor añadido) | PM (modelo ASM - Attack Surface<br>Management) |
 
-## 1.18. Desarrollo Seguro Web (EDSA)
+## Desarrollo Seguro Web (EDSA)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
 | EDSA1 | Propuesta técnica con valor añadido | VA (Implantar DevSecOps) |
 | EDSA2 | Propuesta técnica con valor añadido | VA (Seguridad integrada en desarrollo) |
 
-## 1.19. Bug Bounty (EBBO)
+## Bug Bounty (EBBO)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
 | EBBO1 | Propuesta técnica incluida (desarrollo deficiente) | No |
 
-## 1.20. Conclusión global del análisis del grado de desarrollo
+## Conclusión global del análisis del grado de desarrollo
 
 El análisis conjunto realizado sobre los distintos proyectos y subproyectos incluidos en el Anexo II del Documento de Invitación permite extraer una serie de conclusiones globales respecto al grado de desarrollo de la propuesta técnica presentada por empresa_s.
 

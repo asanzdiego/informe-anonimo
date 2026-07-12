@@ -1,4 +1,4 @@
-# 1. MEMORIA TÉCNICA “DESARROLLO EVOLUTIVO Y CORRECTIVO DE LAS AULAS VIRTUALES, LA MEDIATECA, LAS WEBS DE CENTRO, EL CORREO WEB, EMPIEZA Y OTRAS APLICACIONES DE EDUCAMADRID”
+# MEMORIA TÉCNICA “DESARROLLO EVOLUTIVO Y CORRECTIVO DE LAS AULAS VIRTUALES, LA MEDIATECA, LAS WEBS DE CENTRO, EL CORREO WEB, EMPIEZA Y OTRAS APLICACIONES DE EDUCAMADRID”
 
 Número de Expediente: BAC07\_2026 (PLACSP Nº 2021/16)
 
@@ -51,11 +51,11 @@ Pà g. 3 de 61
 soluciones viables, realistas y perfectamente integradas con la arquitectura existente, minimizando riesgos y asegurando una transición fluida en la prestación del servicio.
 
 A lo largo de este documento, expondremos en detalle la solución técnica y el plan de servicio que demuestran la solvencia y capacidad de empresa_u para asumir con éxito este proyecto estratégico, alineando nuestra experiencia y recursos con la misión de la Consejería de Digitalización de ofrecer un servicio educativo público, moderno y de calidad.
-## 1.1. IDENTIFICACIÓN DE LA EMPRESA LICITADORA
+## IDENTIFICACIÓN DE LA EMPRESA LICITADORA
 
 No aplica
 
-## 1.2. RESUMEN EJECUTIVO
+## RESUMEN EJECUTIVO
 La presente Propuesta Técnica detalla la solución de empresa_u para acometer el servicio de desarrollo evolutivo y correctivo de la plataforma EducaMadrid, un ecosistema de aplicaciones de misión crítica que constituye la espina dorsal de la actividad digital de la comunidad educativa no universitaria de la Comunidad de Madrid. empresa_u comprende la envergadura y complejidad del proyecto, que abarca desde las Aulas Virtuales y la Mediateca hasta el Correo Web y un conjunto de más de treinta aplicaciones interconectadas. Nuestro planteamiento no se limita a dar respuesta a los 85 requisitos de mejora y mantenimiento detallados, sino que presenta una visión de servicio que garantiza la estabilidad, seguridad y evolución continua de la plataforma, alineada con los objetivos estratégicos de la Consejería de Digitalización. Nuestra propuesta se fundamenta en un entendimiento completo de las necesidades de EducaMadrid. Reconocemos que el objetivo principal trasciende el mantenimiento técnico; se trata de asegurar la continuidad de un servicio educativo esencial, mejorar la experiencia de docentes, alumnos y familias, y preparar la plataforma para los retos tecnológicos futuros. Para ello, empresa_u presenta una solución integral que se articula sobre tres pilares fundamentales: la modernización técnica y la coherencia arquitectónica, la gestión del servicio basada en una metodología de trabajo contrastada y la incorporación de valor añadido mediante la innovación tecnológica , con un foco especial en la aplicación de Inteligencia Artificial (IA), la seguridad y la eficiencia. empresa_u pone a disposición de la Consejería un equipo de profesionales con la solvencia y experiencia requeridas para un proyecto de esta magnitud. Nuestra compañía posee una trayectoria consolidada en la ejecución de contratos para la Administración Pública, gestionando ecosistemas de aplicaciones complejas con altos requisitos de disponibilidad y seguridad. El equipo mínimo obligatorio propuesto está compuesto por perfiles senior, especialistas en las tecnologías clave de EducaMadrid (PHP, Moodle, Liferay, Java, WordPress, Nextcloud) y liderado por un Jefe de Proyecto y un Arquitecto de Software con más de diez años de experiencia en proyectos similares. Este equipo garantiza no solo la capacidad técnica para resolver los desafíos actuales, como la
 
 Pà g. 5 de 61
@@ -104,7 +104,7 @@ Pà g. 7 de 61
 generar resúmenes automáticos de los vídeos (MED10) y para la creación de subtítulos multidioma (MED1), mejorando la accesibilidad y la productividad de los docentes al publicar contenidos.
 
 Planificación y Gestión de la Calidad La ejecución del proyecto estará guiada por una planificación detallada que respeta el calendario escolar para minimizar cualquier disrupción en la actividad académica. El Calendario de Trabajos se presentará en un diagrama de Gantt, detallando hitos y dependencias. Se ha realizado un Análisis de Riesgos exhaustivo, identificando posibles obstáculos técnicos, operativos y de gestión, y proponiendo acciones de mitigación para cada uno. Nuestro Plan de Calidad define métricas, herramientas y procedimientos de control que se aplicarán en todas las fases del ciclo de vida del software, desde el análisis de requisitos hasta el despliegue, asegurando que cada entregable cumple con los más altos estándares. En conclusión, empresa_u presenta una propuesta que no solo cumple con los requisitos solicitados, sino que los supera, ofreciendo una visión de futuro para EducaMadrid. Nuestra solvencia técnica, la experiencia de nuestro equipo y nuestra metodología de gestión nos posicionan como el socio tecnológico ideal para la Consejería de Digitalización. Nos comprometemos a entregar un servicio que garantice una plataforma estable, segura y eficiente, al tiempo que la transforma en un ecosistema más inteligente, integrado y preparado para los desafíos de la educación digital del mañana.
-## 1.3. MEMORIA TÉCNICA
+## MEMORIA TÉCNICA
 La presente Memoria Técnica constituye el núcleo de nuestra propuesta para el contrato de Desarrollo Evolutivo y Correctivo de las aplicaciones de EducaMadrid. En su elaboración, empresa_u ha seguido un enfoque orientado a dar una respuesta precisa y detallada a cada uno de los requisitos y expectativas formuladas, demostrando no solo nuestra capacidad técnica y de gestión, sino también nuestro compromiso con los objetivos estratégicos de la Consejería de Digitalización para la transformación educativa. Para facilitar la valoración por parte del órgano de contratación y presentar una visión completa y ordenada de nuestra oferta, hemos estructurado este documento en dos bloques principales. El primer bloque, Solución Técnica Ofertada , se centra en describir en profundidad el qué y el cómo de nuestra propuesta. Se detallará la arquitectura tecnológica sobre la que se fundamenta nuestra solución, la metodología de trabajo que guiará al equipo de desarrollo y, de manera pormenorizada, el enfoque y las soluciones de valor que planteamos para satisfacer cada uno de los 85 requisitos funcionales y de mantenimiento. Este apartado evidencia nuestra comprensión integral del ecosistema de EducaMadrid y la viabilidad de la solución planteada.
 
 Pà g. 8 de 61
@@ -343,7 +343,7 @@ de producción (anonimizada) para identificar problemas en el proceso de upgrade
 - Revisión y adaptación del código de los plugins y temas desarrollados a medida
 para EducaMadrid, asegurando la compatibilidad con las nuevas APIs de Moodle.
 
-###### 1.3.1. Fase 1: Pruebas Automatizadas (Entorno de Integración):
+###### Fase 1: Pruebas Automatizadas (Entorno de Integración):
 
 - Se crea dinámicamente un entorno de pruebas con la nueva versión.
 - Se ejecutan baterías de pruebas unitarias (con PHPUnit) y pruebas de aceptación
@@ -351,7 +351,7 @@ para EducaMadrid, asegurando la compatibilidad con las nuevas APIs de Moodle.
 - Justificación de Behat: Permite escribir pruebas en un lenguaje natural (Gherkin),
 facilitando la colaboración con el equipo funcional de EducaMadrid para definir los escenarios de prueba más críticos desde la perspectiva del usuario.
 
-###### 1.3.2. Fase 2: Pruebas Funcionales y de Rendimiento (Entorno de Pre-Producción):
+###### Fase 2: Pruebas Funcionales y de Rendimiento (Entorno de Pre-Producción):
 
 - Se despliega la nueva versión en un entorno de pre-producción, una réplica exacta
 de la infraestructura de producción.
@@ -360,7 +360,7 @@ EducaMadrid realizan pruebas funcionales manuales sobre los flujos de trabajo m�
 - Se ejecutan pruebas de carga con herramientas como JMeter para asegurar que
 el rendimiento de la nueva versión es igual o superior al de la versión actual bajo una carga de usuarios simulada realista.
 
-###### 1.3.3. Fase 3: Despliegue en Producción:
+###### Fase 3: Despliegue en Producción:
 
 - Se planifica una ventana de mantenimiento en horario de mínima afectación.
 - Se pone el sitio en modo mantenimiento.
@@ -1472,7 +1472,7 @@ acordadas en la reunión de seguimiento. Se especifica que debe afectar a Moodle
 - Redmine asigna automáticamente un ID único a la tarea (p. ej., #8501 ). Este ID será
 la clave de trazabilidad a partir de ahora. El estado inicial de la tarea es "Nueva".
 
-##### 1.3.4. Fase de Análisis y Planificación:
+##### Fase de Análisis y Planificación:
 
 - El Jefe de Proyecto de empresa_u recibe una notificación automática.
 Revisa la petición, la analiza técnicamente y añade un comentario en la tarea
@@ -1481,7 +1481,7 @@ LangChain para la orquestación y una base de datos vectorial ChromaDB. Se estim
 - El Jefe de Proyecto asigna la tarea a un desarrollador senior y cambia el estado a
 "Asignada". El sistema registra que el estado ha sido modificado, por quién y cuándo.
 
-##### 1.3.5. Fase de Desarrollo y Control de Versiones:
+##### Fase de Desarrollo y Control de Versiones:
 
 Pà g. 59 de 61
 
@@ -1496,7 +1496,7 @@ Cada vez que el desarrollador realiza un cambio en el código, el mensaje del co
 - A través de la pestaña "Repositorio" en Redmine, cualquier miembro del equipo
 (incluido EducaMadrid) puede ver, para la tarea #8501, la lista completa de cambios de código realizados, qué ficheros se modificaron, quién lo hizo y cuándo. Esto proporciona una trazabilidad técnica a nivel de línea de código.
 
-##### 1.3.6. Fase de Pruebas y Calidad:
+##### Fase de Pruebas y Calidad:
 
 - Una vez finalizado el desarrollo, el estado de la tarea se cambia a "Lista para
 Pruebas".
@@ -1507,7 +1507,7 @@ detallado del error. Este ciclo de corrección y reprueba queda totalmente docum
 - Una vez superadas las pruebas internas, el estado cambia a "Resuelta" y se
 planifica su despliegue en el entorno de preproducción.
 
-##### 1.3.7. Fase de Validación y Cierre:
+##### Fase de Validación y Cierre:
 
 - El cambio se despliega en el entorno de preproducción. El estado de la tarea se
 actualiza a "Pendiente de Validación ( EducaMadrid)".

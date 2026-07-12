@@ -1,6 +1,6 @@
-# 1. MEMORIA TÉCNICA “DESARROLLO EVOLUTIVO Y CORRECTIVO DE LAS AULAS VIRTUALES, LA MEDIATECA, LAS WEBS DE CENTRO, EL CORREO WEB, EMPIEZA Y OTRAS APLICACIONES DE EDUCAMADRID”
+# MEMORIA TÉCNICA “DESARROLLO EVOLUTIVO Y CORRECTIVO DE LAS AULAS VIRTUALES, LA MEDIATECA, LAS WEBS DE CENTRO, EL CORREO WEB, EMPIEZA Y OTRAS APLICACIONES DE EDUCAMADRID”
 
-## 1.1. Introducción
+## Introducción
 
 empresa_n ha elaborado la presente propuesta como respuesta al pliego de licitación para el “DESARROLLO EVOLUTIVO Y CORRECTIVO DE LAS AULAS VIRTUALES, LA MEDIATECA, LAS WEBS DE CENTRO, EL CORREO WEB, EMPIEZA Y OTRAS APLICACIONES DE EDUCAMADRID” de la Consejería de Digitalización de la Comunidad de Madrid en adelante Consejería de Digitalización, basado en el SDA 26/202 1 (Expediente PLCSP nº 2021/16).
 
@@ -10,11 +10,11 @@ El presente documento consta de dos apartados principales basándonos en los cri
 
 - **Planificación del servicio**: calendario, análisis de riesgos, plan de contingencias, plan de calidad, trazabilidad del servicio.
 
-### 1.1.1. Identificación de la empresa licitadora
+### Identificación de la empresa licitadora
 
 No aplica.
 
-### 1.1.2. Resumen Ejecutivo
+### Resumen Ejecutivo
 
 La presente oferta técnica se enmarca en el contexto del contrato de desarrollo evolutivo y correctivo de la plataforma EducaMadrid, uno de los ecosistemas digitales educativos más relevantes del ámbito público en España, caracterizado por su alta complejidad tecnológica, criticidad operativa y gran volumen de usuarios. En este escenario, la propuesta presentada por empresa_n se concibe como una solución integral, robusta y orientada tanto a la continuidad del servicio como a su evolución futura, garantizando la sostenibilidad y mejora permanente de la plataforma.
 
@@ -153,9 +153,9 @@ Se implementan medidas como:
 - Control de accesos y permisos.
 - Protección frente a amenazas (antivirus, validación de inputs, etc.).
 
-## 2. Solución técnica ofertada
+## Solución técnica ofertada
 
-### 2.1. Arquitectura planteada en los distintos subproyectos
+### Arquitectura planteada en los distintos subproyectos
 
 La Plataforma Educativa EducaMadrid (en adelante EducaMadrid ) está compuesta por un ecosistema de aplicaciones desarrolladas en distintas tecnologías, con diferentes paradigmas y lenguajes usados por la Comunidad Educativa no universitaria, sostenida con fondos públicos de la Comunidad de Madrid.
 
@@ -740,14 +740,14 @@ sistemas y las tecnologías de la información con flexibilidad para adaptarse a
 - Desde el estudio de la información relevante se abren tres tareas relacionadas: identificación de requisitos, estudio de los sistemas de información actuales y diseño del modelo de sistemas de información.
 <!-- FIN DESCRIPCIÓN DE LA IMAGEN: oferta_tecnica_desarrollo_empresa_n_assets/pagina-0039-imagen-002.png -->
 
-#### 1.2.1.1. Análisis del Sistema de Información (ASI)
+#### Análisis del Sistema de Información (ASI)
 
-#### 1.2.1.2. Diseño del Sistema de Información (DSI)
+#### Diseño del Sistema de Información (DSI)
 
 4. Construcción del Sistema de Información (CSI)
 5. Implantación y Aceptación del Sistema (IAS)
 
-#### 1.2.1.3. Mantenimiento del Sistema de Información (MSI)
+#### Mantenimiento del Sistema de Información (MSI)
 
 Para el diseño de los procesos de Métrica V3 relacionados con el desarrollo, se han estudiado en detalle todos los procesos principales del ciclo de vida que propone la norma ISO 12.207, ya que se ha considerado que todos ellos debían ser tenidos en cuenta; ahora bien, sólo el proceso de Desarrollo es resuelto en todo su alcance por ser el principal objetivo de esta metodología.
 
@@ -948,7 +948,7 @@ el entorno afectado y la referencia de la petición. La validación final indica
 
 La actualización de documentación se realizará al mismo tiempo que la intervención técnica cuando el cambio altere una operación, una configuración o una pauta de soporte. El contenido documental será breve, orientado a consulta y con indicaciones suficientes para que una actuación semejante pueda revisarse en el futuro.
 
-### 1.2.2. Satisfacción de los requisitos
+### Satisfacción de los requisitos
 
 II.1.1. Mejoras y mantenimientos transversales (TRA)
 A. Antecedentes y Requerimientos EducaMadrid:
@@ -1231,7 +1231,7 @@ La sincronización con Aulas Virtuales se documentará con una explicación bás
 
 sobre entradas duplicadas, cambios de fecha o diferencias entre calendarios. La solución buscará una gestión simple y entendible para los centros.
 
-##### 1.2.2.1. MEJORAS Y MANTENIMIENTO DE LAS AULAS VIRTUALES (AV)
+##### MEJORAS Y MANTENIMIENTO DE LAS AULAS VIRTUALES (AV)
 A. Antecedentes y Requerimientos EducaMadrid:
 La solución se plantea como una evolución controlada de dos ecosistemas Moodle con criticidad alta: Multisite, orientado a aulas virtuales de centros, y MoodleMisc, destinado a usos específicos o no encajables en el modelo de centro. La premisa técnica es que cualquier cambio debe convivir con una plataforma de tamaño muy superior al de una instalación Moodle convencional: muchas instancias, bases de datos con tablas históricas de gran tamaño, un filepool de moodledata con millones de objetos, tareas cron i ntensivas, picos de uso al inicio de curso y una dependencia directa de sistemas corporativos como SSO, LDAP, Raíces, Portal educativo, Avisos, nube de EducaMadrid y servicios de IA alojados en infraestructura propia.
 
@@ -1474,7 +1474,7 @@ Todos los campos de entrada y salida se tratarán con validación y saneamiento 
 
 En una plataforma con bases de datos grandes y alto número de usuarios, la API se utilizará con criterios prudentes de consulta y ejecución. Se recogerá documentación básica de funciones disponibles, parámetros, permisos y recomendaciones de uso para administradores y desarrolladores que interactúen con el servicio.
 
-##### 1.2.2.2. EVOLUCIÓN Y MANTENIMIENTO DE LA MEDIATECA (MED)
+##### EVOLUCIÓN Y MANTENIMIENTO DE LA MEDIATECA (MED)
 II.1.3.1. Subtítulos multi idioma (MED1)
 
 A. Antecedentes y Requerimientos EducaMadrid:
@@ -1633,10 +1633,10 @@ B. Propuesta empresa_n
 La refactorización de la Mediateca se entiende como una evolución gradual del código existente, teniendo en cuenta que se trata de un desarrollo propio en PHP vanilla con bastantes años de recorrido. La actuación priorizará zonas concretas del aplicativo vinculadas a tipos de contenido, búsquedas, seguridad, librerías externas y presentación de interfaz.
 
 El trabajo se organizará por módulos funcionales. En primer lugar se revisarán los puntos de entrada, validación de datos, carga de ficheros, consultas principales y componentes de visualización. A partir de ahí se aplicarán ajustes de estructura que facil iten mantener el código, reduciendo duplicidades y dejando más claros los recorridos de ejecución. La actualización a versiones actuales de PHP se tratará con especial atención a compatibilidad, librerías y funciones históricas. Se revisarán dependencias del lado servidor y del lado cliente, incluyendo JavaScript y CSS, para sustituir versiones antiguas por alternativas compatibles con el entorno definido por la plataforma. La mejora de seguridad se apoyará en validación de entradas, tratamiento de permisos, control de sesiones y revisión de operaciones con base de datos. El rediseño visual se abordará como una capa de presentación renovada, accesible y adaptable, manteniendo una navegación reconocible para los usuarios habituales de la Mediateca. Evolución progresiva del código La refactorización se acompañará de pruebas por áreas: subida de contenidos, edición, reproducción, búsquedas, autenticación, descargas, subtítulos y gestión de usuarios. Cada cambio quedará documentado con una descripción breve, de forma que las tareas fu turas puedan localizar la zona modificada y comprender su finalidad. La evolución del código se realizará en fases, comenzando por componentes que concentren más cambios funcionales del propio apartado MED. Esta forma de trabajo permite que la refactorización acompañe a las nuevas necesidades de subtítulos, búsquedas, SSO, contenidos eXeLearning y procesos de baja. La estructura resultante mantendrá una organización más clara para nuevos tipos de contenido, servicios auxiliares y operaciones de mantenimiento. Se procurará que cada área modificada disponga de una descripción mínima de su propósito, sus entradas princi pales y las dependencias con base de datos, ficheros o servicios externos. La parte visual se revisará con criterios de accesibilidad y adaptación a distintos dispositivos. La renovación de plantillas y estilos se coordinará con la lógica PHP que genera las páginas, buscando una separación más limpia entre presentación, validació n de datos y consultas.
-##### 1.2.2.3. CONSULTAS LDAP (LDAP)
+##### CONSULTAS LDAP (LDAP)
 A. Antecedentes y Requerimientos EducaMadrid:
 Desarrollo de un aplicativo de uso interno para la consulta y gestión de cuentas de usuarios
-###### 1.2.2.3.1. (LDAP1).
+###### (LDAP1).
 Objetivos y Funcionalidades:
 - La aplicación debe permitir a los usuarios logados realizar consultas al LDAP de
 usuarios mostrando toda la información disponible de los usuarios consultados.
@@ -1678,7 +1678,7 @@ Los permisos internos se revisarán con perfiles representativos del servicio, d
 
 La entrega del apartado incluirá una revisión funcional junto con el equipo responsable, centrada en comprobar que los datos mostrados son útiles para la atención diaria.
 
-##### 1.2.2.4. MEJORAS Y MANTENIMIENTO DEL SERVICIO EXELEARNING ONLINE (EXE)
+##### MEJORAS Y MANTENIMIENTO DEL SERVICIO EXELEARNING ONLINE (EXE)
 EXE1. Adaptación, actualización e integración de eXeLearning Online
 A. Antecedentes y Requerimientos EducaMadrid:
 Se solicita realizar una refactorización del Código de la Mediateca con versiones de php nuevas y seguras, en servidores con el sistema operativo en su última versión y con los paquetes del sistema actualizados.
@@ -1722,7 +1722,7 @@ Estilos institucionales Preparación de estilos Materiales con apariencia EducaM
 
 Cambio de versión Uso de URLs configurables Evolución controlada del en los módulos de Moodle servicio. para alternar versiones.
 
-##### 1.2.2.5. MEJORAS Y MANTENIMIENTO EN EL CORREOWEB (COR)
+##### MEJORAS Y MANTENIMIENTO EN EL CORREOWEB (COR)
 II.1.6.1. Adaptaciones a la última versión estable (COR1)
 A. Antecedentes y Requerimientos EducaMadrid:
 
@@ -1845,7 +1845,7 @@ Las pruebas se realizarán con textos breves, correos formales, mensajes informa
 
 La documentación incluirá una descripción de uso para usuarios habilitados, una guía de configuración para administración y una relación de comprobaciones para soporte. El contenido se mantendrá orientado a operación, evitando explicaciones extensas sobre el funcionamiento interno del modelo de IA.
 
-##### 1.2.2.6. MEJORAS Y MANTENIMIENTO DEL SERVICIO DE WORDPRESS MULTISITE
+##### MEJORAS Y MANTENIMIENTO DEL SERVICIO DE WORDPRESS MULTISITE
 (WPM) II.1.7.1. Mantenimiento y actualización de WordPress Multisite (WPM1)
 A. Antecedentes y Requerimientos EducaMadrid:
 Se requiere actualizar la versión del aplicativo WordPress Multisite, incluyendo el core, temas y plugins, con la posibilidad de hacerlo por separado.
@@ -2044,7 +2044,7 @@ directo con previsión de alta participación (2000 o más usuarios conectados d
 - Implementar herramientas de monitorización para asegurar el correcto
 funcionamiento del servicio. Inserción de Retransmisiones mediante IFRAME:
 - Permitir la inserción de retransmisiones desde la plataforma PeerTube mediante
-###### 1.2.2.6.1. IFRAME.
+###### IFRAME.
 - Asegurar que solo los administradores puedan acceder directamente a las
 retransmisiones.
 - Mostrar un reproductor con imagen personalizada (imagen institucional que permita
@@ -2074,7 +2074,7 @@ La mejora de rendimiento se abordará desde las consultas a base de datos. Se id
 - Validación y sanitización de campos de entrada.
 - Gestión de consentimiento de cookies y scripts estadísticos.
 - Actualización de jQuery y pruebas de compatibilidad funcional. Aspecto de trabajo Tratamiento previsto Código PHP Depuración de avisos y adaptación de funciones antiguas. Base de datos Revisión de consultas frecuentes e índices necesarios. Seguridad Tratamiento de entradas, escapado y validaciones. Interfaz Comprobación de navegación, JavaScript y consentimiento de cookies.
-##### 1.2.2.7. MEJORAS Y MANTENIMIENTO EN LA SINCRONIZACIÓN DE USUARIOS (SYN)
+##### MEJORAS Y MANTENIMIENTO EN LA SINCRONIZACIÓN DE USUARIOS (SYN)
 A. Antecedentes y Requerimientos EducaMadrid:
 Optimizar el proceso actual de sincronización de cuentas de usuarios mediante la mejora de los scripts existentes, la automatización de tareas y la integración de nuevos tipos de usuarios. El objetivo es minimizar la intervención manual y asegurar una sinc ronización
 
@@ -2113,7 +2113,7 @@ ConsultasLDAP se revisarán las vistas y tablas de apoyo; para Cloud se observar
 
 La coordinación entre procesos se apoyará en una secuencia de ejecución clara. Cuando un servicio dependa de datos generados por otro proceso, se respetará ese orden y se dejará constancia de la ejecución. La finalidad es que los cambios de usuarios se propaguen de forma comprensible y que las revisiones posteriores puedan localizar en qué paso se produjo cada modificación.
 
-##### 1.2.2.8. MEJORAS Y MANTENIMIENTO DEL PORTAL CAU (CAU)
+##### MEJORAS Y MANTENIMIENTO DEL PORTAL CAU (CAU)
 A. Antecedentes y Requerimientos EducaMadrid:
 Actualización y adaptación de la última versión del aplicativo utilizado en el Portal CAU. Esta actualización debe mantener las modificaciones actuales, la imagen institucional, y asegurar que los mecanismos de generación de correos y autoasignación de inc idencias sigan funcionando correctamente.
 B. Propuesta empresa_n
@@ -2146,7 +2146,7 @@ Atención a usuarios internos
 
 La actualización tendrá en cuenta que el Portal CAU es una herramienta de trabajo para personas que gestionan consultas, incidencias y comunicaciones. Por ello se mantendrán nombres de campos, mensajes y recorridos conocidos siempre que sea posible. Los cambios visibles se concentrarán en los elementos necesarios para adaptar la versión y conservar la imagen institucional. La revisión de funcionamiento incluirá operaciones realizadas por perfiles internos, observando que la pantalla de gestión permita localizar incidencias, revisar su estado y acceder a la información asociada. Las pruebas se orientarán a confirmar la continuidad de la operativa cotidiana más que a introducir nuevas formas de trabajo.
 
-##### 1.2.2.9. MEJORAS Y MANTENIMIENTO DE EDUCASAAC (EDU)
+##### MEJORAS Y MANTENIMIENTO DE EDUCASAAC (EDU)
 A. Antecedentes y Requerimientos EducaMadrid:
 Refactorización del aplicativo EducaSaac con el objetivo de solucionar problemas de seguridad en HTML, PHP y JavaScript. El objetivo es mejorar la seguridad del aplicativo, protegiendo los datos y las operaciones realizadas por los usuarios.
 B. Propuesta empresa_n
@@ -2182,7 +2182,7 @@ correctamente y que las operaciones principales mantienen el flujo previsto. Se 
 - Escapado de datos visibles en interfaz.
 - Revisión de sesiones, cookies y cierre de sesión.
 - Comprobación de permisos en operaciones principales. Orden de actuación sobre el código La revisión del código se realizará por zonas funcionales, comenzando por las pantallas que reciben datos y continuando por los puntos que muestran resultados. Este orden permite validar cada grupo de cambios con pruebas sencillas y reduce el riesgo de int roducir diferencias de comportamiento en zonas del aplicativo que ya están consolidadas por el uso. Cuando se detecten funciones repetidas o tratamientos diferentes para casos similares, se valorará una pequeña unificación de criterios. La refactorización se mantendrá acotada y orientada a facilitar el mantenimiento posterior, evitando transformaciones a mplias que requieran una reinterpretación funcional del aplicativo. El enfoque para EducaSAAC queda centrado en seguridad práctica y mantenimiento del comportamiento existente. La refactorización se limita a los elementos necesarios para mejorar el tratamiento de datos y reducir riesgos habituales en aplicaciones PHP con interfaz HTML y apoyo de JavaScript. Pruebas funcionales de continuidad Tras cada bloque de cambios se realizarán pruebas de acceso, navegación, edición y consulta. Estas pruebas permitirán comprobar que las validaciones añadidas aceptan los datos correctos y que los mensajes de la aplicación siguen siendo comprensibles. Tambi én se revisará que los formularios principales mantengan el flujo esperado para el usuario. La documentación de EducaSAAC recogerá las zonas revisadas, el tipo de control aplicado y las pruebas realizadas. Esta información facilitará que futuras actuaciones puedan identificar qué partes del código ya han sido tratadas y qué criterios se han segui do en la refactorización.
-##### 1.2.2.10. MEJORAS Y MANTENIMIENTO DEL CLOUD (CLO)
+##### MEJORAS Y MANTENIMIENTO DEL CLOUD (CLO)
 II.1.16.1. Evolución y actualización del servicio de Cloud (CLO1)
 A. Antecedentes y Requerimientos EducaMadrid:
 Evolucionar el servicio de cloud instalando versiones actualizadas del aplicativo y del editor colaborativo, mejorando la funcionalidad, seguridad y usabilidad del sistema.
@@ -2284,7 +2284,7 @@ Operación inicial de la funcionalidad IA
 Durante la operación inicial se observará el número de documentos indexados, el tipo de consultas realizadas y el comportamiento de los perfiles habilitados. Esta información permitirá ajustar límites de uso y detectar necesidades de configuración. El servicio podrá crecer de forma gradual conforme se consolide el funcionamiento básico.
 
 La gestión de incidencias de esta funcionalidad diferenciará problemas de indexación, problemas de permisos, errores de consulta y dificultades de uso. Esta separación ayudará a dirigir cada caso hacia la revisión correspondiente y a mantener el servicio comprensible para los usuarios habilitados.
-##### 1.2.2.11. MEJORAS Y MANTENIMIENTO DEL SERVICIO BUZÓN ANÓNIMO (BAN)
+##### MEJORAS Y MANTENIMIENTO DEL SERVICIO BUZÓN ANÓNIMO (BAN)
 A. Antecedentes y Requerimientos EducaMadrid:
 Soporte y mantenimiento de la web asociada al Plan Regional contra las Drogas de la Comunidad de Madrid. El objetivo es asegurar que la web cumpla con las necesidades del proyecto, sea segura, y esté alineada con la imagen institucional de EducaMadrid.
 B. Propuesta empresa_n
@@ -2324,7 +2324,7 @@ La documentación de apoyo del servicio recogerá la estructura general de la we
 También se recogerán las comprobaciones realizadas sobre compatibilidad de navegador, modo visual, accesibilidad básica y funcionamiento de las páginas principales. Esta
 
 documentación tendrá un carácter operativo y permitirá repetir revisiones cuando se apliquen nuevos cambios. El seguimiento del servicio se basará en incidencias registradas, solicitudes de actualización y revisiones periódicas. Este planteamiento permite mantener la web alineada con las necesidades del proyecto y con la imagen institucional de la plataforma.
-##### 1.2.2.12. MEJORAS Y MANTENIMIENTO DE DTIC (DTIC)
+##### MEJORAS Y MANTENIMIENTO DE DTIC (DTIC)
 A. Antecedentes y Requerimientos EducaMadrid:
 Corrección de problemas de seguridad, el mantenimiento de incidencias y la incorporación de nuevas funcionalidades en el aplicativo de Dotaciones TIC (DTIC) en la plataforma EducaMadrid. El objetivo es mejorar la seguridad, estabilidad y funcionalidad del aplicativo, asegurando que cumpla con los estándares actuales y las necesidades de la plataforma.
 B. Propuesta empresa_n
@@ -2333,7 +2333,7 @@ La actuación sobre DTIC se orienta a mantener operativo el aplicativo de dotaci
 - Ajustes básicos en formularios, listados y controles de acceso.
 - Comprobación de operaciones habituales de consulta, edición y registro.
 - Documentación sencilla de correcciones aplicadas y pruebas realizadas.
-##### 1.2.2.13. MEJORAS Y MANTENIMIENTO DE SEGUIMIENTOS (SEG)
+##### MEJORAS Y MANTENIMIENTO DE SEGUIMIENTOS (SEG)
 A. Antecedentes y Requerimientos EducaMadrid:
 Corrección de problemas de seguridad, el mantenimiento de incidencias y la incorporación de nuevas funcionalidades en el aplicativo Seguimientos de la plataforma EducaMadrid. El objetivo es mejorar la compatibilidad, seguridad, y funcionalidad del aplicativo, asegurando que cumpla con los estándares actuales y las necesidades de la plataforma.
 B. Propuesta empresa_n
@@ -2354,7 +2354,7 @@ URLs antiguas Comprobación de enlaces relevantes para mantener la consulta de i
 
 Pantallas de gestión Ajustes puntuales de usabilidad y revisión de incidencias observadas.
 
-##### 1.2.2.14. MEJORAS Y MANTENIMIENTO DE ALBOR (ALB)
+##### MEJORAS Y MANTENIMIENTO DE ALBOR (ALB)
 A. Antecedentes y Requerimientos EducaMadrid:
 Estudio de viabilidad para el desarrollo de un nuevo aplicativo Albor en la plataforma EducaMadrid. Albor es una página donde padres o profesores de alumnos con necesidades especiales podrán realizar consultas acerca de capacidades o dispositivos adaptados. El proyecto piloto utilizará IA mediante una herramienta de tecnología RAG para gestionar y consultar la documentación.
 B. Propuesta empresa_n
@@ -2365,7 +2365,7 @@ contratar cómo podría organizarse la información para permitir consultas senc
 - Preparación de una muestra de documentos para consulta.
 - Definición básica de perfiles y escenarios de uso.
 - Valoración funcional de respuestas y facilidad de uso.
-##### 1.2.2.15. MEJORAS Y MANTENIMIENTO DEL SERVICIO DE AVISOS (AVI)
+##### MEJORAS Y MANTENIMIENTO DEL SERVICIO DE AVISOS (AVI)
 A. Antecedentes y Requerimientos EducaMadrid:
 Mantenimiento y actualización con mejoras de seguridad y usabilidad del aplicativo Avisos en la plataforma EducaMadrid. El objetivo es mejorar la seguridad, la disponibilidad y la funcionalidad del aplicativo, asegurando que cumpla con los estándares actuales y las necesidades de la plataforma.
 B. Propuesta empresa_n
@@ -2373,7 +2373,7 @@ El servicio de Avisos se abordará como un componente de comunicación interna d
 
 Elemento Tratamiento previsto Actualización java Revisión del código y adaptación gradual de funciones principales. Programación de avisos Validación de fechas, estados y condiciones de publicación. Visualización Comprobación de legibilidad y coherencia en los servicios conectados. Gestión operativa Registro de cambios básicos y revisión de incidencias detectadas.
 
-##### 1.2.2.16. MEJORAS Y MANTENIMIENTO DEL SERVICIO DE FOROS (FOR)
+##### MEJORAS Y MANTENIMIENTO DEL SERVICIO DE FOROS (FOR)
 A. Antecedentes y Requerimientos EducaMadrid:
 Actualización del aplicativo y su adaptación al entorno de EducaMadrid. El objetivo es asegurar que el aplicativo foros cumpla con las características y funcionalidades requeridas para su correcto funcionamiento en el entorno educativo de EducaMadrid.
 B. Propuesta empresa_n
@@ -2383,7 +2383,7 @@ El servicio de Foros se tratará como una adaptación del aplicativo al entorno 
 - Pruebas de navegación, creación de temas y consulta de mensajes.
 - Actualización ordenada de componentes necesarios para la versión objetivo.
 
-##### 1.2.2.17. MEJORAS Y MANTENIMIENTO DEL SERVICIO DE BOLETINES (BOL)
+##### MEJORAS Y MANTENIMIENTO DEL SERVICIO DE BOLETINES (BOL)
 A. Antecedentes y Requerimientos EducaMadrid:
 Mantenimiento en el aplicativo Boletines con el objetivo de mejorar la seguridad, actualizar el código a versiones más recientes de PHP y MySQLi, y añadir nuevas funcionalidades. El objetivo es asegurar que el aplicativo sea seguro, eficiente y compatible con las últimas versiones de tecnologías y con las características de EducaMadrid.
 B. Propuesta empresa_n
@@ -2403,7 +2403,7 @@ Imágenes Comprobación de carga, recorte y visualización final.
 
 Publicación Pruebas sobre creación, edición y consulta de boletines.
 
-##### 1.2.2.18. MEJORAS Y MANTENIMIENTO DE LA AYUDA (AYU)
+##### MEJORAS Y MANTENIMIENTO DE LA AYUDA (AYU)
 A. Antecedentes y Requerimientos EducaMadrid:
 Actualización del aplicativo que sirve la ayuda de la plataforma. El objetivo es asegurar que la actualización mantenga la integridad de los datos y las URLs actuales, y que incorpore nuevas funcionalidades como un chatbot con IA y la imagen institucional.
 B. Propuesta empresa_n
@@ -2413,14 +2413,14 @@ La actualización del aplicativo de Ayuda se plantea con especial atención a la
 - Revisión de URLs utilizadas desde otros servicios.
 - Incorporación controlada de chatbot basado en contenidos propios.
 - Ajuste visual de plantillas principales a la imagen institucional.
-##### 1.2.2.19. MEJORAS Y MANTENIMIENTO DEL PORTAL (POR)
+##### MEJORAS Y MANTENIMIENTO DEL PORTAL (POR)
 A. Antecedentes y Requerimientos EducaMadrid:
 Desarrollo de APIs y mejoras de seguridad en el portal de EducaMadrid. El objetivo es proporcionar funcionalidades para dar de alta profesores interinos, incorporar usuarios a través de APIs, y mejorar la seguridad y la política de contraseñas en el portal.
 B. Propuesta empresa_n
 En el Portal de EducaMadrid se plantean desarrollos de API y mejoras de seguridad orientadas a procesos concretos de gestión de usuarios. La API para alta de profesores interinos se tratará como un punto de entrada controlado desde la plataforma de formación, con validación de datos, registro en una cola de preprocesamiento y ejecución posterior dentro del portal. El proceso de alta se diseñará para registrar la solicitud, validar los datos mínimos y generar la comunicación necesaria al correo alternativo. La incorporación al centro 9999 se tratará como una regla funcional específica, acompañada de las comprobacione s que determine la dirección técnica del servicio. La mejora de seguridad en el editor de Liferay se abordará mediante filtrado de contenido y limpieza de etiquetas no permitidas. La política de contraseñas se revisará con criterios centralizados, contemplando longitud, complejidad, caducidad y experiencia de uso. También se valorará el encaje de la caducidad en LDAP cuando resulte conveniente para el funcionamiento conjunto de la plataforma.
 
 Elemento Tratamiento previsto API interinos Recepción de datos, validación y cola de preprocesamiento. Portal Alta controlada y comunicación al correo alternativo. Editor Liferay Filtrado de etiquetas y revisión del contenido introducido. Contraseñas Reglas de complejidad y tratamiento centralizado de caducidad.
-##### 1.2.2.20. MEJORAS Y MANTENIMIENTO DE LA WEB ESTÁTICA (WES)
+##### MEJORAS Y MANTENIMIENTO DE LA WEB ESTÁTICA (WES)
 A. Antecedentes y Requerimientos EducaMadrid:
 Mejora de la web estática del portal EducaMadrid. El objetivo es asegurar que la web sea accesible y multilingüe, cumpliendo con los estándares de accesibilidad definidos para los portales y aplicaciones del sector público.
 B. Propuesta empresa_n
@@ -2429,7 +2429,7 @@ La web estática del portal se abordará desde una perspectiva de accesibilidad,
 - Comprobación de accesibilidad en páginas representativas.
 - Ajustes de encabezados, enlaces y textos alternativos.
 - Organización coherente de contenidos por idioma.
-##### 1.2.2.21. MEJORAS Y MANTENIMIENTO DEL FRAMEWORK DE INTERFAZ (IFZ)
+##### MEJORAS Y MANTENIMIENTO DEL FRAMEWORK DE INTERFAZ (IFZ)
 
 A. Antecedentes y Requerimientos EducaMadrid:
 Mejora progresiva del framework de interfaz utilizado en EducaMadrid para el desarrollo de aplicaciones propias. El objetivo es actualizar y enriquecer el framework con las últimas versiones de Bootstrap, jQuery y TinyMCE, y proporcionar funcionalidades básicas predefinidas que faciliten el desarrollo de interfaces web en los proyectos de EducaMadrid.
@@ -2450,7 +2450,7 @@ TinyMCE Revisión del editor y configuración básica común.
 
 Componentes reutilizables Patrones para formularios, mensajes, botones y tablas.
 
-##### 1.2.2.22. MEJORAS Y MANTENIMIENTO DE ENTORNOS MAX (MAX)
+##### MEJORAS Y MANTENIMIENTO DE ENTORNOS MAX (MAX)
 A. Antecedentes y Requerimientos EducaMadrid:
 Actualización y mejora del entorno MAX en la plataforma educativa EducaMadrid, con el fin de garantizar un entorno seguro y eficiente para la realización de exámenes a través del Aula Virtual.
 B. Propuesta empresa_n
@@ -2461,14 +2461,14 @@ de inicio en el Portal Educativo y se prepararán contenidos asociados a nuevas 
 - Preparación de información específica para nuevas versiones.
 - Revisión del flujo de acceso a Aulas Virtuales desde entorno limitado.
 - Pruebas de navegación y mensajes de apoyo al usuario.
-##### 1.2.2.23. MEJORAS Y MANTENIMIENTO DEL PROYECTO GESTIÓN DE TÍTULOS (GES)
+##### MEJORAS Y MANTENIMIENTO DEL PROYECTO GESTIÓN DE TÍTULOS (GES)
 A. Antecedentes y Requerimientos EducaMadrid:
 Actualización y mejora del aplicativo de Gestión de Títulos en la plataforma educativa EducaMadrid. El objetivo es asegurar la compatibilidad con la última versión de PHP, mejorar la seguridad del código, optimizar la base de datos y sus consultas, y añadir funcionalidades específicas para la generación de archivos de impresión de títulos.
 B. Propuesta empresa_n
 El proyecto de Gestión de Títulos se abordará con una actualización de compatibilidad PHP, revisión de seguridad y optimización básica de consultas. La aplicación se tratará como un sistema de gestión con datos sensibles y procesos administrativos definido s, por lo que los cambios se aplicarán con pruebas sobre operaciones representativas. La actualización del código se centrará en funciones obsoletas, tratamiento de formularios, consultas a base de datos y generación de ficheros de impresión. Se revisará la estructura de datos utilizada para construir los documentos o archivos de salida, cu idando que el resultado conserve el formato esperado por los procesos posteriores. La optimización se limitará a consultas principales y operaciones de mayor uso. Se revisarán índices, filtros y tiempos de respuesta en búsquedas o listados. La seguridad se tratará con validaciones de parámetros, control de acceso y revisión de datos intr oducidos por usuario. Elemento Tratamiento previsto PHP Adaptación de código a versiones actuales.
 
 Base de datos Revisión de consultas, filtros e índices básicos. Impresión de títulos Comprobación de ficheros generados y datos incluidos. Seguridad Validaciones, permisos y controles en operaciones administrativas.
-##### 1.2.2.24. MEJORAS DEL PROYECTO DE MEDIDAS DE USO DE LAS WEB (USO)
+##### MEJORAS DEL PROYECTO DE MEDIDAS DE USO DE LAS WEB (USO)
 A. Antecedentes y Requerimientos EducaMadrid:
 Desarrollar una prueba de concepto basada en tecnologías de software libre que aporte una herramienta robusta y actualizada para recoger datos estadísticos de las páginas web de los centros educativos elaboradas con WordPress, creando un plugin en el entor no WordPress Multisite para una recogida estadística independiente por centro.
 B. Propuesta empresa_n
@@ -2477,7 +2477,7 @@ La actuación USO se plantea como una prueba de concepto con software libre para
 - Creación o adaptación de plugin para entorno WordPress Multisite.
 - Separación de información estadística por centro.
 - Validación de consultas y visualización de datos básicos.
-##### 1.2.2.25. MEJORAS Y MANTENIMIENTO DE WEKAN (WEK)
+##### MEJORAS Y MANTENIMIENTO DE WEKAN (WEK)
 II.1.31.1. Conexión con el SSO de EducaMadrid (WEK1)
 A. Antecedentes y Requerimientos EducaMadrid:
 Adaptar al entorno de la plataforma educativa la última versión disponible del aplicativo Wekan.
@@ -2491,7 +2491,7 @@ B. Propuesta empresa_n
 La conexión de Wekan con el SSO de EducaMadrid se abordará mediante un estudio de compatibilidad y una configuración de autenticación centralizada. Se revisarán las opciones del aplicativo y su encaje con protocolos como SAML 2.0 u OAuth 2.0, eligiendo la alternativa que resulte adecuada para el entor no y las capacidades disponibles. La actuación incluirá configuración del proveedor de identidad, datos mínimos de usuario, inicio y cierre de sesión, y pruebas con perfiles representativos. También se revisará el comportamiento de usuarios ya existentes para que la transición conserve la información de tableros y participación. II.1.31.2. Mantenimiento de las Modificaciones Actuales en Código (WEK2) Propuesta empresa_n Las modificaciones actuales del código se revisarán antes de aplicar la nueva versión. Se identificarán cambios propios, adaptaciones de entorno y ajustes de configuración que deban mantenerse. Esta revisión permitirá aplicar la actualización conservando l os comportamientos específicos que ya se usan en EducaMadrid. El mantenimiento se documentará con una relación básica de ficheros o funcionalidades afectadas. Las pruebas se centrarán en tableros, tarjetas, usuarios, permisos y flujos de trabajo habituales. Los ajustes se aplicarán de forma moderada, atendiendo a la compatibilidad con la versión actualizada. II.1.31.3. Mantenimiento de las Configuraciones y Funcionalidades Actuales (WEK3) Propuesta empresa_n Las configuraciones actuales de Wekan se mantendrán como referencia para la nueva instalación. Se revisarán parámetros de servidor web, MongoDB, Node.js, npm, Yarn y demás dependencias necesarias. También se comprobarán las opciones funcionales que utilice n los usuarios, como tableros, listas, tarjetas, notificaciones y permisos. La actualización de paquetes del sistema y dependencias se organizará con una validación posterior del servicio. Se comprobará que la base de datos mantiene la información esperada y que el aplicativo conserva el rendimiento suficiente para el uso previsto dentro de EducaMadrid. II.1.31.4. Adaptación de la Nueva Versión del Aplicativo a la Imagen Institucional (WEK4) Propuesta empresa_n
 
 La nueva versión de Wekan se adaptará visualmente a la imagen institucional de EducaMadrid mediante ajustes en logotipo, colores, textos visibles y elementos de cabecera. La intervención será acotada, orientada a que el servicio resulte reconocible dentro de la plataforma y mantenga una experiencia de uso continuista. Elemento Tratamiento previsto SSO Estudio de protocolo, configuración y pruebas de acceso. Código propio Identificación de cambios actuales y traslado a la nueva versión. Configuración Revisión de MongoDB, Node.js, servidor web y dependencias. Imagen institucional Adaptación de elementos visuales principales.
-##### 1.2.2.26. MEJORAS Y MANTENIMIENTO DE MAMOOD (MAM)
+##### MEJORAS Y MANTENIMIENTO DE MAMOOD (MAM)
 A. Antecedentes y Requerimientos EducaMadrid:
 Mantenimiento y mejora del aplicativo MaMood, una herramienta clave en la gestión de la plataforma educativa EducaMadrid. El aplicativo se utiliza internamente para tareas como la gestión de altas, bajas, cambios de nombre de aulas virtuales, gestión de WordPress, y gestión del espacio de los centros, entre otras.
 B. Propuesta empresa_n
@@ -2501,13 +2501,13 @@ MaMood se considera una herramienta interna para la gestión de tareas de la pla
 
 - Comprobación de gestión de WordPress, aulas y espacio de centros.
 - Registro de pruebas funcionales por operación principal.
-##### 1.2.2.27. MEJORAS Y MANTENIMIENTO DE EMLab (EML)
+##### MEJORAS Y MANTENIMIENTO DE EMLab (EML)
 A. Antecedentes y Requerimientos EducaMadrid:
 Mantenimiento y mejora del aplicativo EMLaB, desarrollado en PHP. El contrato incluye la actualización a la última versión de PHP, la renovación de ciertos módulos, la implementación de mejoras de seguridad y la adaptación del sistema operativo y paquetes necesarios.
 B. Propuesta empresa_n
 EMLab se tratará como un aplicativo desarrollado en PHP que requiere actualización de versión, renovación de módulos y mejoras de seguridad. La actuación comenzará con una revisión del estado actual del código, la versión de PHP, los paquetes del sistema y los módulos funcionales más relevantes. La renovación de apartados como preguntas frecuentes y blog se abordará de forma funcional, revisando edición, publicación, consulta y gestión de contenidos. Se buscará que las pantallas mantengan una lógica de uso sencilla, con formularios comprensibles y validaciones básicas. La actualización del entorno se acompañará de pruebas de compatibilidad y de una revisión de seguridad sobre formularios, parámetros y ficheros. Cuando sea preciso actualizar sistema operativo o paquetes asociados, se preparará una secuencia de comprobació n para validar que el aplicativo continúa funcionando de manera estable. Elemento Tratamiento previsto PHP Actualización del aplicativo y pruebas de compatibilidad. FAQ Renovación funcional del módulo de preguntas frecuentes. Blog Revisión de edición, publicación y consulta. Entorno Ajustes de sistema y paquetes vinculados al aplicativo.
 
-##### 1.2.2.28. MEJORAS Y MANTENIMIENTO DE ABIESWEB (ABI)
+##### MEJORAS Y MANTENIMIENTO DE ABIESWEB (ABI)
 A. Antecedentes y Requerimientos EducaMadrid:
 
 Mantenimiento y mejora del aplicativo AbiesWeb, incluyendo la actualización a la última versión liberada por el Ministerio de Educación y Formación Profesional. Este cambio puede requerir laactualización de paquetes del sistema operativo y PHP, así como modificaciones para aumentar la seguridad del sistema.

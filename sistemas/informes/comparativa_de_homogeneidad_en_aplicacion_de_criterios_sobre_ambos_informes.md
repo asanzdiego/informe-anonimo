@@ -8,7 +8,7 @@ He realizado el análisis cruzado de los tres documentos (Documento de Invitaci�
 
 # 1) Análisis del Documento de Invitación (clave para evaluar los informes)
 
-## 1.1. Criterios del apartado 7.2.2 (juicio de valor)
+## Criterios del apartado 7.2.2 (juicio de valor)
 
 Aunque el texto detallado del 7.2.2 no aparece completo en el extracto, sí queda claro por estructura y referencias de ambos informes qué exige:
 
@@ -36,7 +36,7 @@ Aunque el texto detallado del 7.2.2 no aparece completo en el extracto, sí qued
 
 👉 Es decir: el Documento de Invitación pide **una evaluación técnica profunda, verificable y orientada a ejecución real**, no una revisión superficial.
 
-## 1.2. Estructura del Anexo II (89 subproyectos)
+## Estructura del Anexo II (89 subproyectos)
 
 El Anexo II define:
 
@@ -80,7 +80,7 @@ El Documento de Invitación exige un informe que sea:
 
 # 2) Análisis de los dos informes
 
-## 2.1. Informe empresa_s
+## Informe empresa_s
 
 ### Fortalezas
 
@@ -121,7 +121,7 @@ El Documento de Invitación exige un informe que sea:
 👉 En global: 
 **Informe técnicamente profundo, crítico y alineado con el método esperado.**
 
-## 2.2. Informe empresa_n
+## Informe empresa_n
 
 ### Fortalezas
 
@@ -166,7 +166,7 @@ El Documento de Invitación exige un informe que sea:
 
 # 3) Comparación directa entre ambos informes
 
-## 3.1. ¿Son homogéneos?
+## ¿Son homogéneos?
 
 ✅ **Sí, en estructura y metodología base:**
 
@@ -192,7 +192,7 @@ El Documento de Invitación exige un informe que sea:
 
 - Son comparables formalmente
 
-## 3.2. ¿Tienen criterios de evaluación equivalentes?
+## ¿Tienen criterios de evaluación equivalentes?
 
 ✅ **Sí, claramente equivalentes**
 
@@ -220,7 +220,7 @@ Ambos evalúan exactamente los mismos ejes:
 
 👉 Por tanto: **los criterios son equivalentes y coherentes con el Documento de Invitación.**
 
-## 3.3. ¿Son igualmente profundos?
+## ¿Son igualmente profundos?
 
 ❌ **No totalmente**
 
@@ -237,7 +237,7 @@ Ambos evalúan exactamente los mismos ejes:
 
 - **empresa_n = análisis más declarativo (fallo/no fallo)**
 
-## 3.4. ¿Se ajustan ambos a lo esperado en un informe del Documento de Invitación?
+## ¿Se ajustan ambos a lo esperado en un informe del Documento de Invitación?
 
 ✅ **Sí, ambos cumplen en términos generales**, pero con distinta calidad:
 

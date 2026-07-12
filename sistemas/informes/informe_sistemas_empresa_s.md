@@ -1,12 +1,12 @@
-# 1. INTRODUCCIÓN
+# INTRODUCCIÓN
 
-## 1.1. Objeto del informe
+## Objeto del informe
 
 **El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa empresa_s S.A.** en el procedimiento relativo al desarrollo evolutivo y correctivo del portal educativo, LDAP, cloud, sistema operativo MAX y otros sistemas de la plataforma EducaMadrid. La evaluación se realiza conforme a los criterios establecidos en el Documento de Invitación, con especial atención a los definidos en el apartado 7.2.2 relativos a criterios sujetos a juicio de valor.
 
 El análisis tiene como finalidad determinar el nivel real de adecuación de la propuesta tanto en términos de calidad técnica como de viabilidad operativa, considerando la capacidad efectiva del licitador para ejecutar el servicio en un entorno de alta complejidad tecnológica y criticidad operativa como el descrito en el pliego.
 
-## 1.2. Alcance de la evaluación
+## Alcance de la evaluación
 
 **La evaluación comprende el análisis integral de la memoria técnica presentada por empresa_s, incluyendo tanto la solución técnica como la planificación del servicio.** Se ha abordado de forma específica el grado de cobertura de los requisitos contenidos en el Anexo II mediante una evaluación detallada de los 89 subproyectos definidos, agrupados en 13 bloques funcionales.
 
@@ -14,7 +14,7 @@ El enfoque adoptado se basa en la verificación de la correspondencia real entre
 
 Asimismo, se ha analizado la consistencia entre el planteamiento teórico descrito en la memoria y su posible aplicación en un entorno real de producción.
 
-## 1.3. Contexto técnico del servicio
+## Contexto técnico del servicio
 
 **La plataforma EducaMadrid constituye un ecosistema altamente complejo que integra múltiples servicios interdependientes, entre los que se incluyen portales web, sistemas de aula virtual, servicios cloud, herramientas colaborativas, correo electrónico y soluciones basadas en inteligencia artificial.** Este entorno se caracteriza por la coexistencia de un elevado número de sistemas heterogéneos, con dependencias técnicas cruzadas y requisitos estrictos de disponibilidad, rendimiento y seguridad.
 
@@ -22,7 +22,7 @@ La propia memoria de empresa_s reconoce este contexto al definir su propuesta co
 
 La magnitud del entorno, con miles de bases de datos y un volumen elevado de usuarios concurrentes, exige soluciones no solo técnicamente correctas, sino plenamente operativas, verificables y escalables.
 
-## 1.4. Metodología de evaluación
+## Metodología de evaluación
 
 El análisis se ha realizado mediante la revisión detallada de la memoria técnica, identificando para cada subproyecto el grado de desarrollo técnico de la solución propuesta, su alineación con los requisitos del pliego y su viabilidad en condiciones reales de explotación.
 
@@ -30,11 +30,11 @@ Se ha prestado especial atención a la verificabilidad de la solución, entendid
 
 Una vez completado el análisis pormenorizado de los subproyectos, se procederá a una evaluación global conforme a los criterios establecidos en el apartado 7.2.2 del Documento de Invitación.
 
-## 1.5. ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
+## ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
 
-### 1.5.1. BLOQUE BD — BASES DE DATOS
+### BLOQUE BD — BASES DE DATOS
 
-## 1.6. BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y ProxySQL avanzado
+## BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y ProxySQL avanzado
 
 **El subproyecto BD1 define un conjunto de requisitos orientados a la operación avanzada de entornos MariaDB en configuración clusterizada, junto con el uso de ProxySQL como elemento de balanceo y gestión del tráfico.** Este tipo de entornos requiere una comprensión profunda de la replicación de bases de datos, la optimización de consultas, la gestión del tráfico de lectura y escritura y la monitorización avanzada del sistema.
 
@@ -48,7 +48,7 @@ En términos generales, la propuesta responde de forma sólida al requisito, des
 
 **Valoración cualitativa: Alta**
 
-## 1.7. BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma
+## BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma
 
 **El subproyecto BD2 se centra en la optimización continua de un entorno compuesto por miles de bases de datos, incluyendo la mejora de consultas, la gestión de backups, la seguridad de las conexiones y el mantenimiento preventivo en periodos de baja actividad.** Se trata de un requisito especialmente exigente desde el punto de vista operativo debido a la escala del sistema.
 
@@ -62,7 +62,7 @@ En conjunto, la propuesta presenta una cobertura amplia y técnicamente consiste
 
 **Valoración cualitativa: Alta**
 
-## 1.8. BD3 — Mantenimiento de las bases de datos de gestión de la configuración de EducaMadrid
+## BD3 — Mantenimiento de las bases de datos de gestión de la configuración de EducaMadrid
 
 El subproyecto BD3 exige el desarrollo y evolución de un sistema de gestión de la configuración que permita representar relaciones entre activos, automatizar la carga de información y garantizar la coherencia del sistema.
 
@@ -76,7 +76,7 @@ En conjunto, la solución es coherente y demuestra un nivel adecuado de madurez 
 
 **Valoración cualitativa: Alta**
 
-## 1.9. BD4 — Mantenimiento de las bases de datos de las Aulas Virtuales
+## BD4 — Mantenimiento de las bases de datos de las Aulas Virtuales
 
 Este subproyecto implica la gestión de un entorno de alta complejidad basado en miles de bases de datos PostgreSQL, incluyendo el análisis de carga, la redistribución de información y la optimización del sistema.
 
@@ -90,7 +90,7 @@ En términos globales, la cobertura del requisito es amplia y técnicamente cons
 
 **Valoración cualitativa: Alta**
 
-## 1.10. BD5 — Mantenimiento de disparadores y Foreign Data Wrappers
+## BD5 — Mantenimiento de disparadores y Foreign Data Wrappers
 
 El subproyecto BD5 se centra en la sincronización de información entre sistemas mediante el uso de triggers y Foreign Data Wrappers, lo que implica garantizar la integridad y consistencia de los datos entre diferentes plataformas.
 
@@ -104,7 +104,7 @@ En conjunto, la solución es adecuada y demuestra una comprensión clara del req
 
 **Valoración cualitativa: Alta**
 
-## 1.11. BD6 — Implementación y mantenimiento de bases de datos en entornos de microservicios
+## BD6 — Implementación y mantenimiento de bases de datos en entornos de microservicios
 
 El subproyecto BD6 introduce un contexto tecnológico basado en arquitecturas de microservicios y metodologías DevOps, lo que requiere una adaptación de los sistemas de bases de datos a entornos distribuidos y contenerizados.
 
@@ -118,15 +118,15 @@ En términos globales, la solución es consistente y alineada con el requisito, 
 
 **Valoración cualitativa: Alta**
 
-## 1.12. Conclusión del bloque BD
+## Conclusión del bloque BD
 
 El análisis del bloque de bases de datos pone de manifiesto que la propuesta de empresa_s presenta un nivel técnico elevado, con una adaptación real a los requisitos del pliego y una orientación clara hacia la automatización y la operación en entornos de gran escala. **La utilización de tecnologías concretas y la diferenciación por tipología de sistema constituyen elementos especialmente positivos.**
 
 **Las principales limitaciones identificadas se relacionan con la falta de métricas cuantificables, la definición incompleta de ciertos procedimientos y la ausencia de detalle en algunos aspectos arquitectónicos.** No obstante, estas carencias no comprometen la viabilidad global de la solución, que se sitúa en una franja alta de valoración.
 
-### 1.12.1. BLOQUE MON — MONITORIZACIÓN, TESTEO Y PRUEBAS DE RENDIMIENTO
+### BLOQUE MON — MONITORIZACIÓN, TESTEO Y PRUEBAS DE RENDIMIENTO
 
-## 1.13. MON1 — Mantenimiento periódico del almacenamiento de los centros
+## MON1 — Mantenimiento periódico del almacenamiento de los centros
 
 **El subproyecto MON1 establece la necesidad de gestionar activamente el almacenamiento distribuido de la plataforma, incluyendo la redistribución periódica de la ocupación entre sistemas NFS, el análisis de la capacidad y la ejecución de actuaciones en periodos no lectivos.** Se trata de un requisito que implica un enfoque proactivo basado en el análisis continuo de la ocupación y el crecimiento del sistema.
 
@@ -140,7 +140,7 @@ En conjunto, la propuesta responde adecuadamente al requisito, desarrollando un 
 
 **Valoración cualitativa: Alta**
 
-## 1.14. MON2 — Realización periódica de pruebas de estrés en diferentes entornos de la plataforma
+## MON2 — Realización periódica de pruebas de estrés en diferentes entornos de la plataforma
 
 **El subproyecto MON2 exige la ejecución de pruebas de carga y estrés que permitan evaluar el rendimiento de los sistemas, identificar anomalías y proponer medidas correctivas.** Este tipo de actividades requiere la definición de una metodología estructurada y el uso de herramientas específicas de ingeniería de rendimiento.
 
@@ -156,7 +156,7 @@ En términos globales, la propuesta presenta un nivel técnico elevado y una ade
 
 **Valoración cualitativa: Muy alta**
 
-## 1.15. MON3 — Mantener actualizado el sistema de monitorización y estadísticas de uso
+## MON3 — Mantener actualizado el sistema de monitorización y estadísticas de uso
 
 El subproyecto MON3 exige la gestión evolutiva del sistema de monitorización, incluyendo la incorporación de nuevos servicios, la utilización de herramientas open source y la definición de alertas tanto reactivas como proactivas.
 
@@ -172,7 +172,7 @@ En términos generales, la solución es consistente, bien estructurada y técnic
 
 **Valoración cualitativa: Alta**
 
-## 1.16. MON4 — Monitorización y estadísticas de servicios basados en IA
+## MON4 — Monitorización y estadísticas de servicios basados en IA
 
 El subproyecto MON4 introduce la monitorización específica de servicios basados en inteligencia artificial, lo que implica la definición de métricas adaptadas a este tipo de sistemas, incluyendo consumo de recursos, comportamiento de modelos y calidad de respuesta.
 
@@ -186,15 +186,15 @@ En conjunto, la propuesta cubre el requisito de manera adecuada, incorporando el
 
 **Valoración cualitativa: Alta**
 
-## 1.17. Conclusión del bloque MON
+## Conclusión del bloque MON
 
 **El bloque de monitorización y pruebas de rendimiento presenta un nivel técnico elevado, destacando especialmente la definición de herramientas concretas y la adopción de metodologías estructuradas en el ámbito de las pruebas de carga.** La propuesta de empresa_s se caracteriza por una orientación clara hacia la observabilidad, la automatización y el análisis continuo del rendimiento.
 
 **Las principales carencias se centran en la falta de definición de métricas cuantificables y umbrales operativos, lo que limita parcialmente la capacidad de validar de forma objetiva el comportamiento del sistema.** No obstante, la solución es consistente y adecuada para un entorno de alta complejidad.
 
-### 1.17.1. BLOQUE UPD — ACTUALIZACIÓN DE SERVICIOS EXISTENTES
+### BLOQUE UPD — ACTUALIZACIÓN DE SERVICIOS EXISTENTES
 
-## 1.18. UPD1 — Mantenimiento y mejora de los sistemas de videoconferencias
+## UPD1 — Mantenimiento y mejora de los sistemas de videoconferencias
 
 El subproyecto UPD1 requiere la gestión y evolución de sistemas de videoconferencia, incluyendo la actualización de componentes, la optimización del rendimiento y la gestión de entornos de alta concurrencia.
 
@@ -208,7 +208,7 @@ En términos generales, la solución es técnicamente adecuada y bien orientada,
 
 **Valoración cualitativa: Alta**
 
-## 1.19. UPD2 — Sistema secundario de videoconferencias con grabación
+## UPD2 — Sistema secundario de videoconferencias con grabación
 
 Este subproyecto introduce la funcionalidad de grabación dentro de los sistemas de videoconferencia, lo que implica la gestión de almacenamiento, procesamiento de contenidos y escalabilidad del sistema.
 
@@ -222,7 +222,7 @@ En conjunto, la solución cubre el requisito, aunque con un desarrollo técnico 
 
 **Valoración cualitativa: Media**
 
-## 1.20. UPD3 — Mantenimiento y mejora de Mattermost
+## UPD3 — Mantenimiento y mejora de Mattermost
 
 El subproyecto UPD3 exige la gestión de una plataforma de comunicación interna, incluyendo su mantenimiento, actualización e integración con otros sistemas de la plataforma.
 
@@ -236,7 +236,7 @@ En términos generales, la solución es correcta y coherente, aunque con un nive
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.21. UPD4 — Solución Kanban
+## UPD4 — Solución Kanban
 
 El subproyecto UPD4 requiere la gestión y evolución de una herramienta de tipo Kanban para la organización del trabajo.
 
@@ -248,7 +248,7 @@ En consecuencia, la cobertura del requisito resulta parcialmente insuficiente, a
 
 **Valoración cualitativa: Media-Baja**
 
-## 1.22. UPD5 — Mantenimiento y mejora de GitLab
+## UPD5 — Mantenimiento y mejora de GitLab
 
 El subproyecto UPD5 exige la gestión de una plataforma de desarrollo colaborativo, incluyendo repositorios, pipelines de integración continua y herramientas de control de calidad.
 
@@ -260,9 +260,9 @@ En términos generales, la solución es coherente y alineada con el requisito, a
 
 **Valoración cualitativa: Alta**
 
-### 1.22.1. BLOQUE UPD — ACTUALIZACIÓN DE SERVICIOS EXISTENTES
+### BLOQUE UPD — ACTUALIZACIÓN DE SERVICIOS EXISTENTES
 
-## 1.23. UPD6 — Mantenimiento y mejora de la solución LimeSurvey
+## UPD6 — Mantenimiento y mejora de la solución LimeSurvey
 
 El subproyecto UPD6 requiere la gestión de la herramienta LimeSurvey incluyendo su actualización, optimización de rendimiento y evolución funcional, lo que implica comprender tanto su arquitectura como su integración con sistemas de almacenamiento y bases de datos subyacentes.
 
@@ -274,7 +274,7 @@ En consecuencia, aunque el planteamiento resulta coherente desde un punto de vis
 
 **Valoración cualitativa: Media**
 
-## 1.24. UPD7 — Mantenimiento y mejora de SonarQube
+## UPD7 — Mantenimiento y mejora de SonarQube
 
 El subproyecto UPD7 se orienta a la gestión de la plataforma SonarQube como herramienta de análisis de calidad de código, incluyendo la definición de reglas, perfiles de calidad y control de proyectos.
 
@@ -286,7 +286,7 @@ En conjunto, la solución cubre el ámbito funcional requerido, aunque con una c
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.25. UPD8 — Mantenimiento y mejora de Redmine
+## UPD8 — Mantenimiento y mejora de Redmine
 
 El subproyecto UPD8 exige la gestión de la herramienta Redmine como sistema de seguimiento de tareas, incluyendo su mantenimiento, automatización y evolución funcional.
 
@@ -300,7 +300,7 @@ En términos generales, la solución es coherente y funcional, aunque con un des
 
 **Valoración cualitativa: Alta**
 
-## 1.26. UPD9 — Mantenimiento y configuración de Wowza Streaming Engine
+## UPD9 — Mantenimiento y configuración de Wowza Streaming Engine
 
 El subproyecto UPD9 requiere la gestión de una plataforma de streaming basada en tecnologías específicas como Wowza, lo que implica el conocimiento de protocolos de transmisión, codificación de vídeo y distribución de contenidos.
 
@@ -314,7 +314,7 @@ En conjunto, la solución presenta un nivel técnico adecuado y una alineación 
 
 **Valoración cualitativa: Alta**
 
-## 1.27. UPD10 — Mantenimiento y gestión de contenidos AbiesWeb
+## UPD10 — Mantenimiento y gestión de contenidos AbiesWeb
 
 El subproyecto UPD10 está orientado a la gestión de contenidos bibliográficos mediante AbiesWeb, incluyendo la carga de datos, la sincronización con sistemas externos y la evolución funcional del sistema.
 
@@ -326,7 +326,7 @@ En conjunto, la cobertura del requisito es parcial y se mantiene en un nivel des
 
 **Valoración cualitativa: Media**
 
-## 1.28. UPD11 — Abies+
+## UPD11 — Abies+
 
 El subproyecto UPD11 implica la evolución del sistema Abies+, incluyendo la implementación de mejoras, la gestión de contenidos y la realización de pruebas asociadas a las nuevas funcionalidades.
 
@@ -338,7 +338,7 @@ En consecuencia, la propuesta presenta una cobertura limitada del requisito, sin
 
 **Valoración cualitativa: Media-Baja**
 
-## 1.29. UPD12 — Implementación, mantenimiento y mejora de Empieza
+## UPD12 — Implementación, mantenimiento y mejora de Empieza
 
 El subproyecto UPD12 presenta un nivel alto de exigencia técnica al tratarse de un sistema central de integración y automatización basado en microservicios.
 
@@ -352,7 +352,7 @@ En conjunto, la solución es conceptualmente sólida pero presenta carencias en 
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.30. UPD13 — Sistema de gestión de la configuración
+## UPD13 — Sistema de gestión de la configuración
 
 El subproyecto UPD13 exige la gestión del sistema de configuración mediante herramientas específicas y la automatización de procesos de actualización y correlación de datos.
 
@@ -364,7 +364,7 @@ En consecuencia, la cobertura del requisito es parcial, con un enfoque generalis
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.31. UPD14 — Solución de contenedores
+## UPD14 — Solución de contenedores
 
 El subproyecto UPD14 requiere la gestión de entornos de contenedores, incluyendo la orquestación, automatización de despliegues y evolución de infraestructuras.
 
@@ -376,7 +376,7 @@ Esta falta de definición limita significativamente la capacidad de evaluar la v
 
 **Valoración cualitativa: Media**
 
-## 1.32. UPD15 — Gestión y decomisionado de servidores
+## UPD15 — Gestión y decomisionado de servidores
 
 El subproyecto UPD15 implica la gestión completa del ciclo de vida de servidores, incluyendo su retirada, limpieza de dependencias y actualización de sistemas asociados.
 
@@ -388,7 +388,7 @@ En consecuencia, la propuesta presenta una cobertura parcial del requisito, con 
 
 **Valoración cualitativa: Media**
 
-## 1.33. Conclusión del bloque UPD
+## Conclusión del bloque UPD
 
 **El bloque de actualización de servicios existentes presenta un nivel de desarrollo técnico heterogéneo.** Se observan apartados con un elevado grado de concreción y alineación, especialmente en aquellos relacionados con arquitecturas complejas como videoconferencias o streaming, mientras que otros subproyectos presentan un enfoque más generalista y menos detallado.
 
@@ -396,9 +396,9 @@ Las principales debilidades detectadas se centran en la falta de desarrollo espe
 
 En términos globales, la valoración del bloque se sitúa en un nivel medio-alto, condicionado por la variabilidad en la calidad de los distintos subproyectos.
 
-### 1.33.1. BLOQUE CLO — CLOUD
+### BLOQUE CLO — CLOUD
 
-## 1.34. CLO1 — Mantenimiento del servicio de la nube de EducaMadrid
+## CLO1 — Mantenimiento del servicio de la nube de EducaMadrid
 
 **El subproyecto CLO1 establece la necesidad de mantener y evolucionar el servicio cloud de EducaMadrid, incluyendo la gestión de un volumen elevado de usuarios, la redistribución de carga, la planificación de capacidad y la optimización del almacenamiento.** Se trata de uno de los ámbitos más críticos del contrato debido al volumen potencial de usuarios y al carácter central del servicio.
 
@@ -412,7 +412,7 @@ En consecuencia, la propuesta presenta una base técnica adecuada pero con un de
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.35. CLO2 — Almacenamiento temporal de datos en la nube
+## CLO2 — Almacenamiento temporal de datos en la nube
 
 El subproyecto CLO2 exige la gestión del almacenamiento temporal de datos dentro del entorno cloud, incluyendo su adaptación a necesidades de escalabilidad, interoperabilidad con otros sistemas y capacidad de respuesta ante incrementos de carga.
 
@@ -426,7 +426,7 @@ En consecuencia, la solución resulta funcional desde un punto de vista conceptu
 
 **Valoración cualitativa: Media**
 
-## 1.36. CLO3 — Sistema de edición en línea de EducaMadrid
+## CLO3 — Sistema de edición en línea de EducaMadrid
 
 El subproyecto CLO3 se centra en la gestión y evolución del sistema de edición en línea, incluyendo su integración con el entorno cloud, la gestión de usuarios concurrentes y la optimización del rendimiento.
 
@@ -440,15 +440,15 @@ En consecuencia, la propuesta presenta una cobertura funcional adecuada, pero co
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.37. Conclusión del bloque CLO
+## Conclusión del bloque CLO
 
 **El bloque cloud presenta una base técnica coherente y alineada con los requisitos del pliego, con una integración adecuada de herramientas y arquitecturas multinivel.** No obstante, la propuesta muestra una falta de profundidad en aspectos clave como la escalabilidad, la planificación de capacidad y la operación en entornos de gran volumen, lo que reduce su nivel de madurez operativa.
 
 La valoración global del bloque se sitúa en un nivel medio-alto, condicionado por la limitada definición de mecanismos operativos detallados.
 
-### 1.37.1. BLOQUE OTR — OTROS DESARROLLOS
+### BLOQUE OTR — OTROS DESARROLLOS
 
-## 1.38. OTR1 — Sistema de autenticación centralizada SSO
+## OTR1 — Sistema de autenticación centralizada SSO
 
 El subproyecto OTR1 exige la gestión del sistema de autenticación centralizada, incluyendo su integración con LDAP, la implantación de alta disponibilidad y la gestión de identidades en un entorno corporativo.
 
@@ -462,7 +462,7 @@ En términos generales, la solución es adecuada y demuestra una comprensión de
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.39. OTR2 — Gestión 2FA en SSO
+## OTR2 — Gestión 2FA en SSO
 
 El subproyecto OTR2 se centra en la implementación de mecanismos de autenticación multifactor, incluyendo su integración con el sistema de identidad y el control de accesos.
 
@@ -474,7 +474,7 @@ En consecuencia, la solución resulta adecuada desde un punto de vista conceptua
 
 **Valoración cualitativa: Media**
 
-## 1.40. OTR3 — Automatización de tareas
+## OTR3 — Automatización de tareas
 
 El subproyecto OTR3 requiere la implantación de mecanismos de automatización que permitan gestionar tareas repetitivas y optimizar procesos en un entorno complejo.
 
@@ -486,7 +486,7 @@ Sin embargo, no se identifican arquitecturas específicas de orquestación ni si
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.41. OTR4 — Sistema de análisis de datos mediante Elastic
+## OTR4 — Sistema de análisis de datos mediante Elastic
 
 El subproyecto OTR4 exige la gestión de sistemas de análisis de datos basados en tecnologías del stack Elastic, incluyendo la ingestión, procesamiento y visualización de logs.
 
@@ -498,7 +498,7 @@ En consecuencia, la cobertura del requisito es parcial.
 
 **Valoración cualitativa: Media**
 
-## 1.42. OTR5 — Herramienta de flujos de trabajo
+## OTR5 — Herramienta de flujos de trabajo
 
 El subproyecto OTR5 requiere la gestión de una herramienta de workflow que permita automatizar procesos y gestionar flujos de tareas.
 
@@ -508,7 +508,7 @@ Esta ausencia de desarrollo impide evaluar la capacidad real de ejecución del r
 
 **Valoración cualitativa: Baja**
 
-## 1.43. OTR6 — Portal CAU
+## OTR6 — Portal CAU
 
 El subproyecto OTR6 se centra en la gestión del portal de atención al usuario, incluyendo su evolución funcional e integración con sistemas de soporte.
 
@@ -518,7 +518,7 @@ La falta de detalle técnico limita la valoración del subproyecto.
 
 **Valoración cualitativa: Media**
 
-## 1.44. OTR7 — Servicios de Inteligencia Artificial
+## OTR7 — Servicios de Inteligencia Artificial
 
 El subproyecto OTR7 requiere la evolución de servicios de inteligencia artificial dentro de la plataforma.
 
@@ -528,15 +528,15 @@ Se aprecia un enfoque innovador y alineado con las tendencias actuales, aunque l
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.45. Conclusión del bloque OTR
+## Conclusión del bloque OTR
 
 El bloque de otros desarrollos presenta un nivel heterogéneo, con subproyectos bien alineados en el ámbito de identidad y automatización, pero con un desarrollo limitado en otros apartados.
 
 La valoración global se sitúa en un nivel medio, condicionado por la falta de concreción técnica en varios subproyectos.
 
-### 1.45.1. BLOQUE COR — CORREO ELECTRÓNICO
+### BLOQUE COR — CORREO ELECTRÓNICO
 
-## 1.46. COR1 — Mantenimiento y mejora de los sistemas de control de envíos de correo
+## COR1 — Mantenimiento y mejora de los sistemas de control de envíos de correo
 
 El subproyecto COR1 establece la necesidad de implantar mecanismos de control sobre el tráfico de correo saliente, incluyendo la regulación de envíos, la gestión de flujos y la aplicación de políticas diferenciadas según dominios o proveedores. **En entornos como EducaMadrid, caracterizados por un elevado volumen de usuarios, este aspecto resulta crítico para mantener la reputación del sistema y evitar bloqueos por parte de terceros.**
 
@@ -548,7 +548,7 @@ En consecuencia, la cobertura del requisito resulta parcial, al centrarse en la 
 
 **Valoración cualitativa: Media**
 
-## 1.47. COR2 — Mantenimiento automatizado de listas de distribución
+## COR2 — Mantenimiento automatizado de listas de distribución
 
 El subproyecto COR2 exige la automatización del mantenimiento de listas de distribución, incluyendo la sincronización con sistemas corporativos, la actualización masiva de usuarios y la gestión dinámica de cambios. **Este requisito resulta especialmente relevante en entornos educativos con altas tasas de rotación de usuarios.**
 
@@ -564,7 +564,7 @@ En conjunto, la propuesta presenta una base conceptual adecuada pero carece del 
 
 **Valoración cualitativa: Media**
 
-## 1.48. COR3 — Gestión de cuotas de correo
+## COR3 — Gestión de cuotas de correo
 
 Este subproyecto exige la gestión del sistema de cuotas de buzones, incluyendo su activación, control del consumo y adaptación dinámica a diferentes tipologías de usuario.
 
@@ -578,7 +578,7 @@ En consecuencia, la cobertura del requisito resulta parcial, al centrarse en la 
 
 **Valoración cualitativa: Media**
 
-## 1.49. COR4 — Control del spam
+## COR4 — Control del spam
 
 El subproyecto COR4 requiere la implantación y evolución de herramientas de control de spam, incluyendo mecanismos de detección, filtrado y clasificación de correos.
 
@@ -592,7 +592,7 @@ La ausencia de estos elementos limita la capacidad de evaluar la eficacia real d
 
 **Valoración cualitativa: Media**
 
-## 1.50. COR5 — Mantenimiento de buzones de correo
+## COR5 — Mantenimiento de buzones de correo
 
 Este subproyecto implica la gestión operativa de los buzones, incluyendo su mantenimiento, disponibilidad y recuperación ante incidencias.
 
@@ -606,7 +606,7 @@ Esta falta de concreción limita la evaluación de la operatividad del servicio.
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.51. COR6 — Seguridad del sistema de correo
+## COR6 — Seguridad del sistema de correo
 
 El subproyecto COR6 exige la implantación de mecanismos de seguridad continua en el sistema de correo.
 
@@ -616,7 +616,7 @@ La propuesta de empresa_s integra la seguridad como un elemento transversal, inc
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.52. COR7 — Infraestructura de correo
+## COR7 — Infraestructura de correo
 
 **El subproyecto COR7 requiere no sólo la actualización puntual de los componentes del sistema de correo, sino la definición de una estrategia de evolución continua que garantice la adaptación tecnológica, la mejora del rendimiento y la sostenibilidad del servicio en el tiempo.** Este requisito implica la existencia de procedimientos de actualización controlada, validación en entornos intermedios y planificación de ciclos de versionado.
 
@@ -632,7 +632,7 @@ En consecuencia, la propuesta presenta una base técnica adecuada, pero con un d
 
 **Valoración cualitativa: Media**
 
-## 1.53. COR8 — Ampliación de servidores Mailbox
+## COR8 — Ampliación de servidores Mailbox
 
 Este subproyecto requiere la capacidad de escalar el sistema de correo mediante la ampliación de servidores de buzones, lo que implica la definición de mecanismos de dimensionamiento, balanceo de carga, redistribución de usuarios y planificación de capacidad.
 
@@ -648,7 +648,7 @@ En consecuencia, la solución resulta adecuada a nivel conceptual, pero con un d
 
 **Valoración cualitativa: Media**
 
-## 1.54. COR9 — Módulo receptor de inyección directa
+## COR9 — Módulo receptor de inyección directa
 
 **El subproyecto COR9 implica la implantación de un componente técnico específico dentro de la infraestructura de correo, orientado a la recepción de envíos mediante inyección directa.** Este tipo de módulos requiere una definición precisa de arquitectura, integración con el sistema de transporte y mecanismos de control de seguridad y validación.
 
@@ -662,7 +662,7 @@ En consecuencia, la cobertura del requisito resulta claramente insuficiente.
 
 **Valoración cualitativa: Baja**
 
-## 1.55. COR10 — Soporte del módulo de inyección directa
+## COR10 — Soporte del módulo de inyección directa
 
 El subproyecto COR10 requiere la operación continua, mantenimiento y soporte del módulo de inyección directa, incluyendo la resolución de incidencias, monitorización del servicio y evolución del sistema.
 
@@ -676,15 +676,15 @@ En consecuencia, la propuesta no proporciona información suficiente para valora
 
 **Valoración cualitativa: Baja**
 
-## 1.56. Conclusión del bloque COR
+## Conclusión del bloque COR
 
 **El bloque de correo electrónico presenta una cobertura funcional básica basada en una arquitectura correcta, pero con un nivel de desarrollo técnico claramente insuficiente en aspectos críticos de operación, automatización y control avanzado.** La propuesta se centra en la infraestructura, pero no profundiza en los procedimientos operativos ni en los mecanismos de optimización requeridos en un entorno de gran escala.
 
 La valoración global del bloque se sitúa en un nivel medio, con tendencia a media-baja en determinados subproyectos.
 
-### 1.56.1. BLOQUE MAX — SISTEMA OPERATIVO MAX
+### BLOQUE MAX — SISTEMA OPERATIVO MAX
 
-## 1.57. Evaluación global del bloque MAX (MAX1–MAX14)
+## Evaluación global del bloque MAX (MAX1–MAX14)
 
 El bloque MAX comprende un conjunto amplio de subproyectos relacionados con el mantenimiento, desarrollo y soporte del sistema operativo MAX en centros educativos, incluyendo la generación de distribuciones, la asistencia técnica y la gestión de equipos.
 
@@ -698,15 +698,15 @@ Dado que los subproyectos MAX1 a MAX14 comparten esta carencia estructural, la v
 
 **Valoración cualitativa (MAX1 a MAX14): Baja**
 
-## 1.58. Conclusión del bloque MAX
+## Conclusión del bloque MAX
 
 El bloque MAX constituye uno de los puntos más débiles de la propuesta de empresa_s. **La falta de desarrollo técnico específico, unida a la ausencia de procedimientos operativos y herramientas concretas, evidencia un insuficiente nivel de adaptación a los requisitos del pliego en este ámbito.**
 
 Esta carencia tiene un impacto significativo en la valoración global del servicio, al tratarse de un componente relevante dentro del entorno EducaMadrid.
 
-### 1.58.1. BLOQUE AV — AULAS VIRTUALES
+### BLOQUE AV — AULAS VIRTUALES
 
-## 1.59. AV1 — Actualización y comprobación de servidores de bases de datos de aulas virtuales
+## AV1 — Actualización y comprobación de servidores de bases de datos de aulas virtuales
 
 **El subproyecto AV1 exige la gestión periódica de las bases de datos asociadas a las aulas virtuales, incluyendo su actualización, validación de funcionamiento y control de rendimiento tanto en entornos físicos como virtuales.** Este requisito implica una coordinación estrecha entre infraestructura, bases de datos y servicios de aplicación.
 
@@ -718,7 +718,7 @@ En consecuencia, la cobertura puede considerarse parcial, basada en extrapolacio
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.60. AV2 — Mantenimiento de servidores FrontEnd de aulas virtuales
+## AV2 — Mantenimiento de servidores FrontEnd de aulas virtuales
 
 El subproyecto AV2 exige la gestión de los servidores de aplicación que soportan el acceso a las aulas virtuales, incluyendo su mantenimiento, actualización y optimización de rendimiento.
 
@@ -730,7 +730,7 @@ La ausencia de este nivel de detalle limita la evaluación del grado real de cum
 
 **Valoración cualitativa: Media**
 
-## 1.61. AV3 — Despliegue de nuevos grupos de aulas virtuales
+## AV3 — Despliegue de nuevos grupos de aulas virtuales
 
 **El subproyecto AV3 implica la capacidad de desplegar nuevos entornos de aulas virtuales de forma periódica, así como la ampliación de entornos existentes.** Este requisito es especialmente relevante en periodos de inicio de curso o incrementos de demanda.
 
@@ -742,7 +742,7 @@ En consecuencia, la cobertura del subproyecto resulta parcialmente insuficiente.
 
 **Valoración cualitativa: Media**
 
-## 1.62. AV4 — Redistribución de NFS de datos
+## AV4 — Redistribución de NFS de datos
 
 El subproyecto AV4 exige la redistribución periódica del almacenamiento asociado a las aulas virtuales, con el objetivo de equilibrar la carga y optimizar el rendimiento.
 
@@ -754,15 +754,15 @@ En consecuencia, la solución es técnicamente coherente pero insuficientemente 
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.63. Conclusión del bloque AV
+## Conclusión del bloque AV
 
 El bloque de aulas virtuales presenta una cobertura razonable basada en la extrapolación de soluciones definidas en otros ámbitos, especialmente en bases de datos y almacenamiento. **Sin embargo, la ausencia de desarrollo específico para este entorno limita la profundidad de la propuesta y evidencia una falta de adaptación directa al requisito.**
 
 La valoración global del bloque se sitúa en un nivel medio-alto.
 
-### 1.63.1. BLOQUE POR — SERVICIO DE LDAP Y PORTAL EDUCATIVO
+### BLOQUE POR — SERVICIO DE LDAP Y PORTAL EDUCATIVO
 
-## 1.64. POR1 — Ampliación del sistema de esclavos LDAP
+## POR1 — Ampliación del sistema de esclavos LDAP
 
 El subproyecto POR1 implica la ampliación del sistema de replicación LDAP mediante la incorporación de nuevos nodos esclavos, lo que requiere una planificación cuidadosa de la replicación y el equilibrio de carga.
 
@@ -774,7 +774,7 @@ En consecuencia, la cobertura del requisito resulta parcial.
 
 **Valoración cualitativa: Media**
 
-## 1.65. POR2 — Migración del sistema LDAP máster
+## POR2 — Migración del sistema LDAP máster
 
 El subproyecto POR2 exige la migración del nodo principal LDAP, lo que implica una operación crítica que requiere planificación, pruebas y mecanismos de contingencia.
 
@@ -786,15 +786,15 @@ En consecuencia, la propuesta presenta una carencia significativa en este subpro
 
 **Valoración cualitativa: Baja**
 
-## 1.66. Conclusión del bloque POR
+## Conclusión del bloque POR
 
 El bloque de LDAP y portal presenta una cobertura limitada, basada en la integración conceptual del sistema dentro de la arquitectura general, pero sin desarrollo operativo suficiente para abordar los requisitos específicos del pliego.
 
 La valoración global se sitúa en un nivel medio-bajo.
 
-### 1.66.1. BLOQUE SEG — SEGURIDAD
+### BLOQUE SEG — SEGURIDAD
 
-## 1.67. SEG1 — Control de cambios en DNS
+## SEG1 — Control de cambios en DNS
 
 **El subproyecto SEG1 establece la necesidad de implementar mecanismos de control, seguimiento y auditoría sobre los cambios realizados en el sistema DNS, incluyendo validación previa, trazabilidad de modificaciones y capacidad de recuperación ante errores.** Este requisito resulta especialmente crítico en entornos con múltiples servicios interdependientes, donde cambios incorrectos en DNS pueden generar indisponibilidad generalizada.
 
@@ -810,7 +810,7 @@ En consecuencia, la propuesta cubre el requisito desde una perspectiva general d
 
 **Valoración cualitativa: Media**
 
-## 1.68. SEG2 — LDAP Máster para usuarios privilegiados
+## SEG2 — LDAP Máster para usuarios privilegiados
 
 El subproyecto SEG2 requiere la implantación de un sistema LDAP máster independiente orientado a la gestión de usuarios privilegiados, incluyendo medidas reforzadas de seguridad, segregación de accesos y control estricto de identidades con elevados permisos.
 
@@ -826,7 +826,7 @@ En consecuencia, la propuesta presenta un buen enfoque general de identidad, per
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.69. SEG3 — Gestión de certificados
+## SEG3 — Gestión de certificados
 
 El subproyecto SEG3 exige la gestión integral del ciclo de vida de los certificados digitales, incluyendo su emisión, renovación, despliegue e implantación periódica en los sistemas de la plataforma.
 
@@ -840,7 +840,7 @@ La ausencia de estos elementos introduce incertidumbre en la ejecución del proc
 
 **Valoración cualitativa: Media**
 
-## 1.70. SEG4 — Gestión de dominios DNS
+## SEG4 — Gestión de dominios DNS
 
 Este subproyecto requiere la gestión continua de los dominios DNS, incluyendo su mantenimiento, actualización, control de integridad y resolución de incidencias.
 
@@ -854,7 +854,7 @@ En consecuencia, la cobertura del requisito se mantiene en un nivel general, sin
 
 **Valoración cualitativa: Media**
 
-## 1.71. SEG5 — Análisis de vulnerabilidades
+## SEG5 — Análisis de vulnerabilidades
 
 El subproyecto SEG5 exige la implementación de procesos continuos de detección, análisis y corrección de vulnerabilidades en los sistemas de la plataforma.
 
@@ -868,7 +868,7 @@ La ausencia de métricas cuantificadas y procedimientos operativos detallados li
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.72. SEG6 — Sistema de detección de intrusiones
+## SEG6 — Sistema de detección de intrusiones
 
 El subproyecto SEG6 exige la implantación y operación efectiva de sistemas de detección de intrusiones, monitorización de integridad, análisis de logs y respuesta ante incidentes, incluyendo tanto la capacidad de detección temprana como la definición de procedimientos estructurados de actuación.
 
@@ -884,7 +884,7 @@ En consecuencia, la propuesta presenta una base conceptual adecuada en materia d
 
 **Valoración cualitativa: Media**
 
-## 1.73. SEG7 — Auditorías internas de aplicaciones
+## SEG7 — Auditorías internas de aplicaciones
 
 El subproyecto SEG7 requiere la ejecución periódica de auditorías internas sobre las aplicaciones de la plataforma, incluyendo análisis de vulnerabilidades, revisión de configuraciones y control de calidad de código.
 
@@ -898,7 +898,7 @@ En consecuencia, la cobertura del requisito es adecuada a nivel conceptual, pero
 
 **Valoración cualitativa: Media**
 
-## 1.74. SEG8 — Auditorías internas continuas de sistemas
+## SEG8 — Auditorías internas continuas de sistemas
 
 El subproyecto SEG8 amplía el alcance de las auditorías al conjunto de sistemas, requiriendo un modelo continuo de supervisión y evaluación de la seguridad.
 
@@ -912,7 +912,7 @@ En consecuencia, la propuesta presenta un enfoque coherente desde la perspectiva
 
 **Valoración cualitativa: Media**
 
-## 1.75. SEG9 — Logs centralizados
+## SEG9 — Logs centralizados
 
 El subproyecto SEG9 exige la implantación de un sistema de centralización de logs que permita su análisis, correlación y explotación para seguridad y operación.
 
@@ -926,7 +926,7 @@ A pesar de estas carencias, la claridad del enfoque y su integración dentro del
 
 **Valoración cualitativa: Alta**
 
-## 1.76. SEG10 — Claves RSA unificadas
+## SEG10 — Claves RSA unificadas
 
 El subproyecto SEG10 exige la gestión unificada de claves criptográficas, incluyendo su generación, almacenamiento, rotación y uso en los distintos sistemas de la plataforma.
 
@@ -940,7 +940,7 @@ En consecuencia, la cobertura del subproyecto resulta parcial.
 
 **Valoración cualitativa: Media**
 
-## 1.77. SEG11 — Soporte en eventos de Ciberseguridad
+## SEG11 — Soporte en eventos de Ciberseguridad
 
 Este subproyecto requiere la prestación de soporte presencial en eventos relacionados con la ciberseguridad, incluyendo tareas de asistencia, despliegue técnico y soporte operativo.
 
@@ -954,15 +954,15 @@ En consecuencia, la propuesta cubre el requisito de forma genérica, pero sin un
 
 **Valoración cualitativa: Media**
 
-## 1.78. Conclusión del bloque SEG
+## Conclusión del bloque SEG
 
 El bloque de seguridad presenta una cobertura suficiente en aspectos generales, destacando la centralización de logs, pero con carencias importantes en la definición detallada de herramientas y procedimientos específicos.
 
 La valoración global se sitúa en un nivel medio.
 
-### 1.78.1. BLOQUE CON — AUTOMATIZACIÓN Y CONTENEDORES
+### BLOQUE CON — AUTOMATIZACIÓN Y CONTENEDORES
 
-## 1.79. CON1 — Sistema de gestión de contenedores
+## CON1 — Sistema de gestión de contenedores
 
 El subproyecto CON1 establece la necesidad de gestionar una infraestructura basada en contenedores, incluyendo la operación, mantenimiento y evolución de la plataforma de ejecución, así como la gestión de despliegues en entornos distribuidos.
 
@@ -976,7 +976,7 @@ En consecuencia, la solución resulta conceptualmente adecuada pero insuficiente
 
 **Valoración cualitativa: Media**
 
-## 1.80. CON2 — Automatización de tareas
+## CON2 — Automatización de tareas
 
 El subproyecto CON2 requiere la implantación de sistemas automatizados para la ejecución de tareas operativas recurrentes, incluyendo la gestión de configuraciones, despliegues y mantenimiento de sistemas.
 
@@ -990,7 +990,7 @@ A pesar de esta limitación, el subproyecto presenta una cobertura adecuada y co
 
 **Valoración cualitativa: Alta**
 
-## 1.81. CON3 — Sistema auxiliar de automatización
+## CON3 — Sistema auxiliar de automatización
 
 El subproyecto CON3 implica la existencia de sistemas complementarios de automatización orientados a tareas específicas que no quedan cubiertas por los sistemas principales.
 
@@ -1000,15 +1000,15 @@ Esta falta de concreción reduce la capacidad de valorar la solución y pone de 
 
 **Valoración cualitativa: Media-Baja**
 
-## 1.82. Conclusión del bloque CON
+## Conclusión del bloque CON
 
 El bloque de automatización y contenedores presenta una orientación técnica adecuada, especialmente en lo relativo a la automatización de tareas, pero adolece de una falta de madurez en la definición de arquitecturas de contenedores y sistemas de orquestación.
 
 La valoración global del bloque se sitúa en un nivel medio, condicionado por la escasa definición de elementos clave en entornos distribuidos.
 
-### 1.82.1. BLOQUE MIG — MIGRACIÓN DE SERVIDORES ENTRE CPDs
+### BLOQUE MIG — MIGRACIÓN DE SERVIDORES ENTRE CPDs
 
-## 1.83. MIG1 — Coordinación y planificación de entornos migrados
+## MIG1 — Coordinación y planificación de entornos migrados
 
 El subproyecto MIG1 establece la necesidad de coordinar y planificar la revisión de los entornos una vez realizada la migración, incluyendo la validación del correcto funcionamiento de los servicios, la detección de incidencias y la verificación de la integridad del sistema.
 
@@ -1022,7 +1022,7 @@ En consecuencia, la propuesta ofrece una base funcional adecuada desde el punto 
 
 **Valoración cualitativa: Media**
 
-## 1.84. MIG2 — Fases preparatorias y planificación técnica
+## MIG2 — Fases preparatorias y planificación técnica
 
 El subproyecto MIG2 requiere la definición de las fases previas a la migración, incluyendo planificación técnica, análisis de riesgos, definición de dependencias y estructuración del proceso de traslado de sistemas entre CPDs.
 
@@ -1038,7 +1038,7 @@ En consecuencia, la propuesta presenta una buena base metodológica, pero con un
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.85. MIG3 — Preparación de servidores y documentación
+## MIG3 — Preparación de servidores y documentación
 
 El subproyecto MIG3 implica la preparación de los servidores para la migración, así como la generación y actualización de documentación técnica de los sistemas, incluyendo configuraciones, dependencias y estado operativo.
 
@@ -1066,7 +1066,7 @@ En consecuencia, la propuesta presenta una base funcional adecuada en términos 
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.86. MIG5 — Mantenimiento tras la migración
+## MIG5 — Mantenimiento tras la migración
 
 El subproyecto MIG5 requiere garantizar el soporte y mantenimiento de los sistemas una vez realizada la migración, incluyendo la resolución de incidencias, ajustes operativos y seguimiento del comportamiento del sistema en el nuevo entorno.
 
@@ -1082,7 +1082,7 @@ En consecuencia, la propuesta cubre adecuadamente el mantenimiento general del s
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.87. Conclusión del bloque MIG
+## Conclusión del bloque MIG
 
 El bloque de migración presenta una **base metodológica coherente**, apoyada en elementos como la monitorización, la automatización, la gestión de riesgos y la trazabilidad, lo que permite abordar procesos de cambio complejos desde una perspectiva estructurada.
 
@@ -1092,9 +1092,9 @@ Esta diferencia entre el enfoque conceptual y la concreción operativa introduce
 
 **Valoración global del bloque MIG: Media-Alta**.
 
-### 1.87.1. BLOQUE IA — INTELIGENCIA ARTIFICIAL
+### BLOQUE IA — INTELIGENCIA ARTIFICIAL
 
-## 1.88. IA1 — Evaluación del rendimiento de modelos
+## IA1 — Evaluación del rendimiento de modelos
 
 El subproyecto IA1 requiere la evaluación sistemática del rendimiento de los modelos de inteligencia artificial utilizados en la plataforma, incluyendo la definición de métricas de calidad, análisis de resultados y validación continua de su comportamiento en entornos reales.
 
@@ -1110,7 +1110,7 @@ En consecuencia, la propuesta contempla la evaluación del rendimiento desde un 
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.89. IA2 — Ingeniería de prompts
+## IA2 — Ingeniería de prompts
 
 El subproyecto IA2 exige el diseño y gestión de prompts específicos adaptados a los distintos servicios de la plataforma, incluyendo su optimización, control de versiones y adecuación al contexto educativo.
 
@@ -1126,7 +1126,7 @@ En consecuencia, la propuesta presenta un enfoque conceptual sólido y alineado 
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.90. IA3 — Testeo de guardarraíles
+## IA3 — Testeo de guardarraíles
 
 El subproyecto IA3 requiere la definición y validación de mecanismos de control (guardarraíles) que garanticen que los sistemas de IA operen dentro de los límites adecuados para un entorno educativo, evitando respuestas inapropiadas o inseguras.
 
@@ -1142,7 +1142,7 @@ En consecuencia, la propuesta aborda adecuadamente el concepto de control de IA,
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.91. IA4 — Integración en aplicativos
+## IA4 — Integración en aplicativos
 
 El subproyecto IA4 exige analizar la integración de capacidades de IA en diferentes componentes de la plataforma, evaluando su viabilidad técnica y su impacto en los servicios existentes.
 
@@ -1158,7 +1158,7 @@ En consecuencia, la propuesta presenta una visión conceptual sólida, pero con 
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.92. IA5 — Evaluación de capacidades y límites por usuario
+## IA5 — Evaluación de capacidades y límites por usuario
 
 El subproyecto IA5 requiere la definición de límites de uso de los sistemas de IA por usuario, incluyendo restricciones de consumo, control de acceso y evaluación del comportamiento del sistema ante diferentes cargas.
 
@@ -1174,7 +1174,7 @@ En consecuencia, la propuesta cubre adecuadamente el concepto del requisito, per
 
 **Valoración cualitativa: Media-Alta**
 
-## 1.93. Conclusión del bloque IA
+## Conclusión del bloque IA
 
 El bloque de inteligencia artificial presenta una **orientación claramente avanzada y alineada con tendencias actuales**, destacando especialmente la integración transversal de la IA, el control de prompts y la incorporación de mecanismos de supervisión y auditoría.
 
@@ -1186,9 +1186,9 @@ En términos globales, el bloque presenta un **nivel medio-alto**, condicionado 
 
 **Valoración global del bloque IA: Media-Alta**
 
-## 1.94. EVALUACIÓN DE LA SOLUCIÓN TÉCNICA (CRITERIOS 7.2.2)
+## EVALUACIÓN DE LA SOLUCIÓN TÉCNICA (CRITERIOS 7.2.2)
 
-### 1.94.1. EVALUACIÓN DE LA SOLUCIÓN TÉCNICA OFERTADA (HASTA 15 PUNTOS)
+### EVALUACIÓN DE LA SOLUCIÓN TÉCNICA OFERTADA (HASTA 15 PUNTOS)
 
 De conformidad con lo establecido en el apartado 7.2.2 del Documento de Invitación, la evaluación de la solución técnica ofertada se realiza atendiendo a los subcriterios definidos en dicho apartado, que comprenden la arquitectura planteada, el grado de comprensión de los requisitos, la viabilidad general del proyecto, la metodología de trabajo, el rendimiento previsible de las soluciones aportadas y el nivel de satisfacción de los requisitos recogidos en el Anexo II.
 
@@ -1196,7 +1196,7 @@ La valoración se ha efectuado considerando el contenido íntegro de la memoria 
 
 A efectos de la presente evaluación, se considera especialmente relevante el criterio de verificabilidad de la solución, entendiendo como tal la capacidad de acreditar de manera objetiva cómo se ejecutarán los distintos trabajos mediante procedimientos, herramientas, automatizaciones, mecanismos de control y métricas asociadas.
 
-#### 1.94.1.1. Arquitectura planteada en los distintos subproyectos (máximo 2 puntos)
+#### Arquitectura planteada en los distintos subproyectos (máximo 2 puntos)
 
 **La propuesta presentada por empresa_s incorpora una arquitectura técnica global claramente definida, estructurada mediante un enfoque multinivel orientado a la integración de servicios, automatización de procesos y operación de infraestructuras complejas.** La memoria describe de forma consistente distintos componentes transversales como LDAP, SSO, monitorización, automatización CI/CD, bases de datos, cloud, servicios colaborativos e inteligencia artificial, estableciendo relaciones funcionales entre ellos y configurando un modelo arquitectónico homogéneo para el conjunto de la plataforma. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7B36A976CB-B711-4141-81C9-0F24FDEF2817%7D&file=Informe%20JR%20-%20SISTEMAS%20-%20empresa_s\_largo%20v2.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7B36A976CB-B711-4141-81C9-0F24FDEF2817%7D&file=Informe%20JR%20-%20SISTEMAS%20-%20empresa_s_largo%20v2.docx&action=default&mobileredirect=true>)
 
@@ -1212,7 +1212,7 @@ En consecuencia, la propuesta presenta una arquitectura técnicamente sólida, b
 
 **La valoración asignada a este subcriterio asciende a 1,50 puntos sobre un máximo de 2 puntos.**
 
-#### 1.94.1.2. Grado de comprensión de los requisitos planteados (máximo 2 puntos)
+#### Grado de comprensión de los requisitos planteados (máximo 2 puntos)
 
 **La memoria técnica evidencia una comprensión amplia y detallada del alcance funcional y tecnológico del contrato.** A lo largo de la propuesta se identifican correctamente los distintos ámbitos de actuación definidos en el Anexo II, así como las relaciones existentes entre los múltiples sistemas que componen la plataforma EducaMadrid. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7B36A976CB-B711-4141-81C9-0F24FDEF2817%7D&file=Informe%20JR%20-%20SISTEMAS%20-%20empresa_s\_largo%20v2.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7B36A976CB-B711-4141-81C9-0F24FDEF2817%7D&file=Informe%20JR%20-%20SISTEMAS%20-%20empresa_s_largo%20v2.docx&action=default&mobileredirect=true>)
 
@@ -1226,7 +1226,7 @@ En conjunto, la propuesta demuestra un elevado conocimiento del entorno objeto d
 
 **La puntuación asignada a este subcriterio asciende a 1,50 puntos sobre un máximo de 2 puntos.**
 
-#### 1.94.1.3. Viabilidad del proyecto en general (máximo 1 punto)
+#### Viabilidad del proyecto en general (máximo 1 punto)
 
 **Desde una perspectiva global, la propuesta presenta un nivel adecuado de viabilidad técnica y organizativa.** La existencia de arquitecturas definidas, procedimientos operativos, automatización, herramientas concretas y una visión coherente de los distintos sistemas permite considerar que existe una base razonable para la ejecución efectiva del servicio. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7B36A976CB-B711-4141-81C9-0F24FDEF2817%7D&file=Informe%20JR%20-%20SISTEMAS%20-%20empresa_s\_largo%20v2.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7B36A976CB-B711-4141-81C9-0F24FDEF2817%7D&file=Informe%20JR%20-%20SISTEMAS%20-%20empresa_s_largo%20v2.docx&action=default&mobileredirect=true>)
 
@@ -1242,7 +1242,7 @@ En conjunto, el proyecto puede considerarse viable, aunque con determinados elem
 
 **La valoración asignada asciende a 0,65 puntos sobre un máximo de 1 punto.**
 
-#### 1.94.1.4. Metodología de trabajo aplicada (máximo 1 punto)
+#### Metodología de trabajo aplicada (máximo 1 punto)
 
 **La propuesta incorpora una metodología de trabajo alineada con prácticas ampliamente reconocidas dentro del ámbito tecnológico actual.** La memoria refleja una orientación clara hacia modelos DevOps, automatización continua, integración continua, gestión basada en servicios y mejora continua. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7B36A976CB-B711-4141-81C9-0F24FDEF2817%7D&file=Informe%20JR%20-%20SISTEMAS%20-%20empresa_s\_largo%20v2.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7B36A976CB-B711-4141-81C9-0F24FDEF2817%7D&file=Informe%20JR%20-%20SISTEMAS%20-%20empresa_s_largo%20v2.docx&action=default&mobileredirect=true>)
 
@@ -1256,7 +1256,7 @@ Estas limitaciones impiden alcanzar un nivel excelente de valoración.
 
 **La puntuación asignada a este subcriterio asciende a 0,65 puntos sobre un máximo de 1 punto.**
 
-#### 1.94.1.5. Rendimiento previsible de las distintas soluciones (máximo 1 punto)
+#### Rendimiento previsible de las distintas soluciones (máximo 1 punto)
 
 **Uno de los aspectos más positivos de la propuesta se encuentra en la atención prestada al rendimiento, monitorización y observabilidad de los sistemas.** La memoria desarrolla diversos mecanismos orientados a garantizar el comportamiento adecuado de la plataforma mediante pruebas de carga, análisis de capacidad, monitorización continua y optimización del rendimiento. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7B36A976CB-B711-4141-81C9-0F24FDEF2817%7D&file=Informe%20JR%20-%20SISTEMAS%20-%20empresa_s\_largo%20v2.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7B36A976CB-B711-4141-81C9-0F24FDEF2817%7D&file=Informe%20JR%20-%20SISTEMAS%20-%20empresa_s_largo%20v2.docx&action=default&mobileredirect=true>)
 
@@ -1270,7 +1270,7 @@ En consecuencia, el rendimiento previsto puede considerarse adecuadamente justif
 
 **La puntuación asignada asciende a 0,75 puntos sobre un máximo de 1 punto.**
 
-#### 1.94.1.6. Satisfacción de los requisitos (máximo 8 puntos)
+#### Satisfacción de los requisitos (máximo 8 puntos)
 
 La satisfacción de requisitos constituye el principal elemento de valoración de la solución técnica y representa más del cincuenta por ciento de la puntuación total asignada a este bloque.
 
@@ -1286,7 +1286,7 @@ En consecuencia, la propuesta satisface los requisitos del pliego de forma clara
 
 **La valoración asignada a este subcriterio asciende a 6,00 puntos sobre un máximo de 8 puntos.**
 
-#### 1.94.1.7. RESULTADO GLOBAL — SOLUCIÓN TÉCNICA
+#### RESULTADO GLOBAL — SOLUCIÓN TÉCNICA
 
 | **Subcriterio** | **Puntuación** |
 | --- | --- |
@@ -1300,7 +1300,7 @@ En consecuencia, la propuesta satisface los requisitos del pliego de forma clara
 
 **Valoración total de la Solución Técnica Ofertada: 11,05 puntos sobre 15 puntos.**
 
-## 1.95. EVALUACIÓN DE LA PLANIFICACIÓN DEL SERVICIO
+## EVALUACIÓN DE LA PLANIFICACIÓN DEL SERVICIO
 
 De conformidad con lo establecido en el apartado 7.2.2 del Documento de Invitación, la planificación del servicio debe permitir acreditar la capacidad organizativa del licitador para ejecutar el contrato de forma ordenada, controlada y alineada con las necesidades operativas de EducaMadrid. **Para ello se evalúan el calendario de ejecución, el análisis de riesgos, el plan de contingencias, el plan de calidad y los mecanismos de trazabilidad del servicio.**
 
@@ -1308,7 +1308,7 @@ La evaluación realizada se ha basado en el examen conjunto del cronograma aport
 
 A diferencia de lo observado en otros licitadores, la propuesta de empresa_s presenta una planificación coherente con el planteamiento técnico general de la solución, si bien se identifican determinadas limitaciones relacionadas con el nivel de detalle temporal y la definición operativa de algunos mecanismos de gestión.
 
-### 1.95.1. Planificación temporal y cronograma de ejecución (máximo 11 puntos)
+### Planificación temporal y cronograma de ejecución (máximo 11 puntos)
 
 **La propuesta incorpora una planificación temporal estructurada y adaptada a la naturaleza de los servicios contemplados en el contrato.** El cronograma presentado permite identificar las principales líneas de trabajo, las actuaciones recurrentes y las actividades asociadas a la operación, evolución y mantenimiento de los distintos sistemas integrados en EducaMadrid.
 
@@ -1324,7 +1324,7 @@ En consecuencia, la planificación presentada puede considerarse superior a la m
 
 **La puntuación asignada a este subcriterio asciende a 7,50 puntos sobre un máximo de 11 puntos.**
 
-### 1.95.2. Análisis de riesgos del proyecto (máximo 1 punto)
+### Análisis de riesgos del proyecto (máximo 1 punto)
 
 **La propuesta incorpora una identificación razonable de riesgos asociados a la operación de infraestructuras complejas, mantenimiento de servicios críticos, disponibilidad de sistemas, evolución tecnológica y continuidad de la prestación del servicio.** El enfoque planteado se encuentra alineado con la naturaleza del contrato y evidencia la conciencia del licitador respecto a los principales factores que pueden afectar a la ejecución del proyecto.
 
@@ -1336,7 +1336,7 @@ Esta circunstancia limita la madurez del análisis y reduce su utilidad como her
 
 **La valoración asignada asciende a 0,50 puntos sobre un máximo de 1 punto.**
 
-### 1.95.3. Plan de gestión de contingencias (máximo 1 punto)
+### Plan de gestión de contingencias (máximo 1 punto)
 
 **La propuesta contempla medidas orientadas a garantizar la continuidad del servicio mediante mecanismos de redundancia, automatización, replicación, alta disponibilidad, recuperación ante fallos y procedimientos de actuación sobre sistemas críticos.** Estos elementos aportan una base razonablemente sólida para afrontar situaciones de incidencia o degradación del servicio.
 
@@ -1348,7 +1348,7 @@ La consecuencia es un modelo razonablemente coherente desde el punto de vista co
 
 **La puntuación asignada asciende a 0,50 puntos sobre un máximo de 1 punto.**
 
-### 1.95.4. Plan de gestión de la calidad del servicio (máximo 1 punto)
+### Plan de gestión de la calidad del servicio (máximo 1 punto)
 
 **La propuesta evidencia una orientación clara hacia la calidad del servicio mediante la incorporación de automatización, validaciones previas al despliegue, monitorización continua, observabilidad, análisis de rendimiento y mejora continua.** Estos elementos configuran un modelo operativamente alineado con las buenas prácticas habituales en la gestión de servicios tecnológicos complejos.
 
@@ -1360,7 +1360,7 @@ Esta falta de definición cuantitativa impide disponer de un sistema completamen
 
 **La valoración asignada asciende a 0,65 puntos sobre un máximo de 1 punto.**
 
-### 1.95.5. Trazabilidad del servicio (máximo 1 punto)
+### Trazabilidad del servicio (máximo 1 punto)
 
 La propuesta incorpora diversos mecanismos que favorecen la trazabilidad de las actuaciones realizadas sobre la plataforma. **Entre ellos destacan la utilización de herramientas de gestión, la integración de sistemas de monitorización, la centralización de información operativa, el uso de mecanismos de automatización y la existencia de procesos orientados al control de cambios y a la gestión de configuraciones.**
 
@@ -1374,7 +1374,7 @@ En consecuencia, la trazabilidad presentada puede considerarse adecuada, aunque 
 
 **La puntuación asignada asciende a 0,65 puntos sobre un máximo de 1 punto.**
 
-### 1.95.6. RESULTADO GLOBAL — PLANIFICACIÓN DEL SERVICIO
+### RESULTADO GLOBAL — PLANIFICACIÓN DEL SERVICIO
 
 | **Subcriterio** | **Puntuación** |
 | --- | --- |
@@ -1387,7 +1387,7 @@ En consecuencia, la trazabilidad presentada puede considerarse adecuada, aunque 
 
 **Valoración total de la Planificación del Servicio: 9,80 puntos sobre 15 puntos.**
 
-## 1.96. RESULTADO FINAL CONSOLIDADO
+## RESULTADO FINAL CONSOLIDADO
 
 La puntuación total obtenida por la propuesta presentada por **empresa_s S.A.**, como resultado de la suma de los bloques correspondientes a la solución técnica ofertada y a la planificación del servicio, es la siguiente: [\[INFORME TÉ...ISTEMAS\_v2 | Word\]](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7B9004464D-73E7-4F3A-963B-3B5B7CDD5900%7D&file=INFORME%20T%C3%89CNICO%20CONSOLIDADO%20-%20SISTEMAS_v2.docx&action=default&mobileredirect=true>)
 
@@ -1397,11 +1397,11 @@ La puntuación total obtenida por la propuesta presentada por **empresa_s S.A.**
 | Planificación del servicio | 9,80 |
 | **TOTAL** | **20,85** |
 
-### 1.96.1. PUNTUACIÓN FINAL: 20,85 puntos sobre un máximo de 30 puntos.
+### PUNTUACIÓN FINAL: 20,85 puntos sobre un máximo de 30 puntos.
 
-## 1.97. PUNTUACIÓN GLOBAL FINAL (CRITERIOS 7.2.2)
+## PUNTUACIÓN GLOBAL FINAL (CRITERIOS 7.2.2)
 
-### 1.97.1. Resultado agregado
+### Resultado agregado
 
 La puntuación total obtenida por la propuesta presentada por **empresa_s S.A.**, como resultado de la suma de los bloques correspondientes a la solución técnica ofertada y a la planificación del servicio, es la siguiente:
 
@@ -1413,7 +1413,7 @@ La puntuación total obtenida por la propuesta presentada por **empresa_s S.A.**
 
 **PUNTUACIÓN FINAL: 20,85 puntos sobre un máximo de 30 puntos.**
 
-### 1.97.2. Interpretación de la puntuación
+### Interpretación de la puntuación
 
 La puntuación obtenida sitúa la propuesta de empresa_s se encuentra en la **franja ALTA**, claramente por encima del umbral mínimo exigido, lo que indica que la solución es **válida y técnicamente consistente**.
 
@@ -1421,7 +1421,7 @@ No obstante, la distancia respecto a la puntuación máxima refleja la existenci
 
 En particular, la falta de homogeneidad en el desarrollo técnico, las carencias en bloques críticos y la escasa definición de métricas y procedimientos operativos constituyen factores determinantes que impiden alcanzar niveles superiores de valoración.
 
-### 1.97.3. Conclusión final
+### Conclusión final
 
 **La propuesta de empresa_s puede considerarse técnicamente adecuada y viable, con una base sólida y una comprensión correcta del entorno EducaMadrid.** Sin embargo, presenta un grado de desarrollo desigual que afecta a su valoración global, especialmente en ámbitos clave del servicio.
 
@@ -1429,7 +1429,7 @@ La puntuación obtenida refleja una oferta competitiva pero no sobresaliente, po
 
 <!-- salto de página -->
 
-## 1.98. ANEXO CLASIFICACIÓN DEL GRADO DE DESARROLLO DE LAS PROPUESTAS
+## ANEXO CLASIFICACIÓN DEL GRADO DE DESARROLLO DE LAS PROPUESTAS
 
 En el presente anexo se recoge la clasificación del grado de desarrollo de las propuestas técnicas presentadas por empresa_s para los distintos subproyectos definidos en el Anexo II del Documento de Invitación.
 
@@ -1455,9 +1455,9 @@ A efectos de representación en tablas:
 
 El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica de forma sistemática un modelo **“requisito → solución → mejora → valor”**, incorporando, en prácticamente todos los subproyectos, propuestas de mejora y aportación de valor añadido, estructuradas explícitamente en el documento.
 
-## 1.99. Tablas de proyectos y grado de desarrollo
+## Tablas de proyectos y grado de desarrollo
 
-## 1.100. Proyecto BD – Bases de Datos
+## Proyecto BD – Bases de Datos
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1468,7 +1468,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 | BD5 | Propuesta técnica con valor añadido | VA (sincronización avanzada Portal-LDAP) |
 | BD6 | Propuesta técnica con valor añadido | VA (migración DevOps contenerizada) |
 
-## 1.101. Proyecto MON – Monitorización y rendimiento
+## Proyecto MON – Monitorización y rendimiento
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1477,7 +1477,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 | MON3 | Propuesta técnica con valor añadido | VA (observabilidad avanzada completa) |
 | MON4 | Propuesta técnica con valor añadido | VA (modelo LLMOps y control IA) |
 
-## 1.102. Proyecto UPD – Actualización de servicios
+## Proyecto UPD – Actualización de servicios
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1497,7 +1497,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 | UPD14 | Propuesta técnica con valor añadido | VA (optimización plataformas educativas) |
 | UPD15 | Propuesta técnica con valor añadido | VA (mejora continua servicios actualizados) |
 
-## 1.103. Proyecto CLO – Cloud
+## Proyecto CLO – Cloud
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1505,7 +1505,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 | CLO2 | Propuesta técnica con valor añadido | VA (optimización almacenamiento cloud) |
 | CLO3 | Propuesta técnica con valor añadido | VA (autoescalado y balanceo dinámico) |
 
-## 1.104. Proyecto OTR – Otros desarrollos
+## Proyecto OTR – Otros desarrollos
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1517,7 +1517,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 | OTR6 | Propuesta técnica con valor añadido | VA (integración herramientas internas) |
 | OTR7 | Propuesta técnica con valor añadido | VA (IA aplicada a procesos internos) |
 
-## 1.105. Proyecto COR – Correo electrónico
+## Proyecto COR – Correo electrónico
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1532,7 +1532,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 | COR9 | Propuesta técnica con valor añadido | VA (control reputación envío) |
 | COR10 | Propuesta técnica con valor añadido | VA (automatización gestión correo) |
 
-## 1.106. Proyecto MAX – Sistema operativo
+## Proyecto MAX – Sistema operativo
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1551,7 +1551,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 | MAX13 | Propuesta técnica con valor añadido | VA (optimización despliegue centros) |
 | MAX14 | Propuesta técnica con valor añadido | VA (automatización mantenimiento MAX) |
 
-## 1.107. Proyecto AV – Aulas Virtuales
+## Proyecto AV – Aulas Virtuales
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1560,14 +1560,14 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 | AV3 | Propuesta técnica con valor añadido | VA (modelo predictivo de carga) |
 | AV4 | Propuesta técnica con valor añadido | VA (escalabilidad horizontal LMS) |
 
-## 1.108. Proyecto POR – LDAP y Portal
+## Proyecto POR – LDAP y Portal
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
 | POR1 | Propuesta técnica con valor añadido | VA (identidad unificada escalable) |
 | POR2 | Propuesta técnica con valor añadido | VA (alta disponibilidad LDAP) |
 
-## 1.109. Proyecto SEG – Seguridad
+## Proyecto SEG – Seguridad
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1583,7 +1583,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 | SEG10 | Propuesta técnica con valor añadido | VA (SIEM integrado) |
 | SEG11 | Propuesta técnica con valor añadido | VA (respuesta automática incidentes) |
 
-## 1.110. Proyecto CON – Contenedores
+## Proyecto CON – Contenedores
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1591,7 +1591,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 | CON2 | Propuesta técnica con valor añadido | VA (infraestructura como código) |
 | CON3 | Propuesta técnica con valor añadido | VA (despliegue automatizado DevOps) |
 
-## 1.111. Proyecto MIG – Migración CPDs
+## Proyecto MIG – Migración CPDs
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1601,7 +1601,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 | MIG4 | Propuesta técnica con valor añadido | VA (supervisión intensiva migración) |
 | MIG5 | Propuesta técnica con valor añadido | VA (control total proceso migración) |
 
-## 1.112. Proyecto IA – Inteligencia Artificial
+## Proyecto IA – Inteligencia Artificial
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1611,7 +1611,7 @@ El análisis realizado sobre la memoria técnica evidencia que empresa_s aplica 
 | IA4 | Propuesta técnica con valor añadido | VA (seguridad y control IA) |
 | IA5 | Propuesta técnica con valor añadido | VA (modelo LLMOps completo) |
 
-## 1.113. CONCLUSIÓN DEL ANEXO
+## CONCLUSIÓN DEL ANEXO
 
 Del análisis sistemático realizado sobre la memoria técnica presentada por empresa_s, se concluye que la totalidad de los subproyectos analizados presenta un grado de desarrollo técnico elevado, caracterizado por la existencia de propuestas concretas, estructuradas y plenamente alineadas con los requisitos establecidos en el Anexo II del Documento de Invitación.
 

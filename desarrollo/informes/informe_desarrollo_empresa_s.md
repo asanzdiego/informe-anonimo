@@ -1,58 +1,58 @@
-# 1. RESUMEN EJECUTIVO
+# RESUMEN EJECUTIVO
 
-## 1.1. Objeto del informe
+## Objeto del informe
 
 **El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa empresa_s S.A.** en el marco del procedimiento basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo, soporte técnico y mejora continua del ecosistema tecnológico EducaMadrid.
 
 **La valoración se realiza conforme a los criterios establecidos en el Documento de Invitación, en particular los recogidos en su apartado relativo a los criterios sujetos a juicio de valor.** El análisis se ha efectuado exclusivamente sobre el contenido de la memoria técnica presentada por el licitador, sin considerar aspectos de naturaleza económica.
 
-## 1.2. Metodología de evaluación
+## Metodología de evaluación
 
 La evaluación se ha estructurado en dos niveles complementarios.
 
 **En primer lugar, se ha llevado a cabo un análisis técnico exhaustivo del contenido de la propuesta, abordando de manera individualizada los diferentes proyectos y sistemas incluidos en el Anexo II del pliego.** Este análisis ha permitido identificar el grado de desarrollo técnico de las soluciones planteadas, así como su adecuación al entorno real de EducaMadrid.
 
-En segundo lugar, los resultados de dicho análisis se han trasladado al esquema de valoración definido en el pliego, asignando las puntuaciones correspondientes en cada uno de los subcriterios en función del nivel de adecuación observado.
+**En segundo lugar, los resultados de dicho análisis se han trasladado al esquema de valoración definido en el pliego**, asignando las puntuaciones correspondientes en cada uno de los subcriterios en función del nivel de adecuación observado.
 
 Este enfoque garantiza la trazabilidad entre los requisitos definidos, las soluciones propuestas y la puntuación final asignada.
 
-## 1.3. Síntesis técnica de la propuesta
+## Síntesis técnica de la propuesta
 
 La propuesta presentada por empresa_s se caracteriza por un elevado grado de madurez técnica, una estructuración coherente de los contenidos y un nivel de detalle que permite su evaluación objetiva en todos los ámbitos analizados.
 
 Desde el punto de vista técnico, la propuesta desarrolla de forma consistente los principales elementos requeridos en el pliego, destacando especialmente:
 
-- Una arquitectura claramente definida, basada en principios de modularidad, desacoplamiento y control de operaciones, que permite su adaptación a entornos complejos y heterogéneos.
+- Una **arquitectura claramente definida**, basada en principios de modularidad, desacoplamiento y control de operaciones, que permite su adaptación a entornos complejos y heterogéneos.
 
-- Un alto grado de comprensión del entorno EducaMadrid, abordado desde una perspectiva integral que considera tanto la dimensión tecnológica como la operativa.
+- Un **alto grado de comprensión del entorno EducaMadrid**, abordado desde una perspectiva integral que considera tanto la dimensión tecnológica como la operativa.
 
-- La definición de soluciones específicas para los distintos sistemas incluidos en el Anexo II, evitando enfoques genéricos o excesivamente abstractos.
+- La **definición de soluciones específicas** para los distintos sistemas incluidos en el Anexo II, evitando enfoques genéricos o excesivamente abstractos.
 
-- La incorporación de mecanismos de control, trazabilidad y validación que permiten garantizar la correcta ejecución de las actuaciones propuestas.
+- La **incorporación de mecanismos de control, trazabilidad y validación** que permiten garantizar la correcta ejecución de las actuaciones propuestas.
 
-- Una planificación estructurada y coherente, basada en fases, hitos y mecanismos de control temporal, que facilita la ejecución ordenada del contrato.
+- Una **planificación estructurada y coherente**, basada en fases, hitos y mecanismos de control temporal, que facilita la ejecución ordenada del contrato.
 
-Asimismo, la propuesta integra de manera adecuada los requisitos no funcionales, incluyendo aspectos de rendimiento, seguridad, escalabilidad, mantenibilidad y disponibilidad, incorporándolos como elementos estructurales del diseño de la solución.
+Asimismo, la propuesta **integra de manera adecuada los requisitos no funcionales**, incluyendo aspectos de rendimiento, seguridad, escalabilidad, mantenibilidad y disponibilidad, incorporándolos como elementos estructurales del diseño de la solución.
 
-## 1.4. Principales conclusiones del análisis
+## Principales conclusiones del análisis
 
-El análisis técnico realizado permite concluir que la propuesta de empresa_s presenta un alto grado de adecuación a los requisitos definidos en el pliego, tanto en términos de cobertura funcional como de desarrollo técnico.
+El análisis técnico realizado permite concluir que la propuesta de empresa_s **presenta un alto grado de adecuación a los requisitos definidos en el pliego**, tanto en términos de cobertura funcional como de desarrollo técnico.
 
 A diferencia de otras propuestas analizadas en el mismo procedimiento, en este caso se observa:
 
-- La existencia de soluciones técnicas concretas y desarrolladas.
+- La existencia de **soluciones técnicas concretas y desarrolladas**.
 
-- La ausencia de errores conceptuales relevantes en la definición de los sistemas.
+- La **ausencia de errores conceptuales relevantes** en la definición de los sistemas.
 
-- La adecuada alineación con las arquitecturas tecnológicas empleadas en el entorno real.
+- La adecuada **alineación con las arquitecturas tecnológicas empleadas** en el entorno real.
 
-- La definición explícita de mecanismos de integración, validación y control.
+- La definición explícita de **mecanismos de integración, validación y control**.
 
 Adicionalmente, la propuesta permite evaluar de manera objetiva su viabilidad, al incluir información suficiente para verificar la forma en que se ejecutarán las actuaciones previstas.
 
 La combinación de estos factores permite considerar que la propuesta ofrece garantías suficientes para asegurar el cumplimiento del objeto del contrato en condiciones de calidad.
 
-## 1.5. Resultado de la valoración
+## Resultado de la valoración
 
 En aplicación del baremo definido en el pliego, la propuesta ha sido valorada en los siguientes términos:
 
@@ -62,25 +62,25 @@ En aplicación del baremo definido en el pliego, la propuesta ha sido valorada e
 
 Como resultado global, la puntuación final asciende a:
 
-**26,70 puntos sobre un máximo de 30 puntos**
+- **26,70 puntos sobre un máximo de 30 puntos**
 
-## 1.6. Conclusión del resumen ejecutivo
+## Conclusión del resumen ejecutivo
 
-La propuesta técnica presentada por empresa_s se sitúa en un nivel alto de calidad dentro del conjunto de ofertas analizadas, destacando por su coherencia interna, su desarrollo técnico y su capacidad de adaptación al entorno real del contrato.
+La propuesta técnica presentada por empresa_s se sitúa en un **nivel alto de calidad dentro del conjunto de ofertas analizadas**, destacando por su coherencia interna, su desarrollo técnico y su capacidad de adaptación al entorno real del contrato.
 
 El contenido de la memoria permite verificar de manera objetiva la adecuación de las soluciones propuestas, así como su viabilidad técnica, organizativa y operativa.
 
 **En consecuencia, la propuesta cumple sobradamente los requisitos exigidos en el pliego para los criterios sujetos a juicio de valor, superando ampliamente el umbral mínimo establecido.**
 
-## 1.7. INTRODUCCIÓN Y MARCO DE REFERENCIA
+## INTRODUCCIÓN Y MARCO DE REFERENCIA
 
-### 1.7.1. Objeto del informe
+### Objeto del informe
 
 **El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por empresa_s S.A.** en el procedimiento de contratación basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo y mejora del ecosistema EducaMadrid.
 
 La valoración se realiza conforme a los criterios establecidos en el Documento de Invitación, centrándose en los aspectos sujetos a juicio de valor.
 
-### 1.7.2. Alcance del contrato
+### Alcance del contrato
 
 El alcance del contrato se define a través del Anexo II del pliego, que recoge un conjunto amplio de actuaciones sobre un ecosistema tecnológico complejo, caracterizado por:
 
@@ -94,7 +94,7 @@ El alcance del contrato se define a través del Anexo II del pliego, que recoge 
 
 Este contexto implica la necesidad de que las propuestas técnicas no se limiten a enumerar actuaciones, sino que desarrollen soluciones concretas que permitan su ejecución en condiciones reales.
 
-### 1.7.3. Metodología de evaluación
+### Metodología de evaluación
 
 La evaluación se ha llevado a cabo mediante un análisis estructurado en dos fases.
 
@@ -104,7 +104,7 @@ En segundo lugar, este análisis se ha trasladado al sistema de valoración del 
 
 Este enfoque permite garantizar la coherencia entre el análisis técnico y la valoración final.
 
-### 1.7.4. Principios de valoración aplicados
+### Principios de valoración aplicados
 
 La valoración se ha realizado conforme a los siguientes principios:
 
@@ -116,7 +116,7 @@ La valoración se ha realizado conforme a los siguientes principios:
 
 - Evaluabilidad, considerando únicamente aquellos elementos que pueden ser verificados.
 
-### 1.7.5. Consideraciones preliminares sobre la propuesta
+### Consideraciones preliminares sobre la propuesta
 
 Desde una perspectiva global, la propuesta presentada por empresa_s muestra un alto nivel de coherencia técnica y organizativa, así como una adecuada estructuración de la información.
 
@@ -130,11 +130,11 @@ Se observa que:
 
 Asimismo, la propuesta permite identificar con claridad la forma en que se abordarán los distintos proyectos, lo que facilita su evaluación objetiva.
 
-## 1.8. ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
+## ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
 
-### 1.8.1. Consideraciones generales del análisis técnico
+### Consideraciones generales del análisis técnico
 
-#### 1.8.1.1. Enfoque global de evaluación de la propuesta
+#### Enfoque global de evaluación de la propuesta
 
 El análisis de la propuesta técnica presentada por empresa_s se ha llevado a cabo atendiendo a un criterio fundamental: la capacidad de la oferta para traducir los requisitos definidos en el Anexo II en soluciones técnicas concretas, coherentes y verificables. **Esta aproximación, plenamente alineada con el modelo de evaluación previsto en el Documento de Invitación, permite diferenciar entre propuestas meramente descriptivas y aquellas que, como la analizada, incorporan un desarrollo técnico suficientemente detallado como para garantizar su evaluabilidad.**
 
@@ -142,7 +142,7 @@ El análisis de la propuesta técnica presentada por empresa_s se ha llevado a c
 
 **De igual forma, cabe señalar que la propuesta no se limita a describir el “qué” de las actuaciones, sino que desarrolla de forma expresa el “cómo”, incorporando mecanismos, tecnologías y procedimientos que permiten verificar de manera objetiva su viabilidad.** Este nivel de concreción constituye uno de los elementos determinantes de la valoración positiva de la oferta, al situarla en un plano claramente superior en términos de evaluabilidad.
 
-#### 1.8.1.2. Nivel de desarrollo técnico y grado de concreción
+#### Nivel de desarrollo técnico y grado de concreción
 
 Uno de los aspectos más relevantes del análisis realizado radica en el elevado grado de desarrollo técnico que presenta la propuesta. **Lejos de limitarse a una enumeración de funcionalidades o a la reproducción de los requisitos del pliego, la memoria incorpora una definición detallada de las soluciones planteadas, incluyendo tanto los componentes tecnológicos como los procesos operativos asociados.**
 
@@ -150,7 +150,7 @@ Uno de los aspectos más relevantes del análisis realizado radica en el elevado
 
 **Este nivel de concreción resulta determinante desde la perspectiva de la evaluación, ya que permite verificar la adecuación de la propuesta sin necesidad de suposiciones o interpretaciones adicionales.** En consecuencia, la oferta cumple plenamente con el principio de evaluabilidad exigido en procedimientos de contratación pública, en los que la valoración debe basarse exclusivamente en elementos verificables contenidos en la documentación presentada.
 
-#### 1.8.1.3. Coherencia interna y alineación de la propuesta
+#### Coherencia interna y alineación de la propuesta
 
 **El análisis de la documentación técnica pone de manifiesto una elevada coherencia interna entre los distintos apartados de la propuesta.** Así, la arquitectura definida en los bloques iniciales se corresponde de manera consistente con las soluciones desarrolladas en los distintos sistemas, mientras que la metodología y la planificación se alinean correctamente con la naturaleza de las actuaciones descritas.
 
@@ -158,7 +158,7 @@ Uno de los aspectos más relevantes del análisis realizado radica en el elevado
 
 A efectos de valoración, este aspecto resulta especialmente relevante, en la medida en que garantiza la trazabilidad entre los distintos elementos analizados y permite fundamentar las puntuaciones asignadas en una base técnica sólida.
 
-#### 1.8.1.4. Comprensión del entorno EducaMadrid
+#### Comprensión del entorno EducaMadrid
 
 La propuesta evidencia una comprensión detallada del entorno tecnológico y operativo en el que se enmarca el contrato, lo que se traduce en la adopción de un enfoque realista y adaptado a las características del sistema.
 
@@ -168,7 +168,7 @@ Esta comprensión se materializa en la adopción de criterios técnicos adecuado
 
 Desde el punto de vista de la evaluación, la correcta interpretación del entorno constituye un elemento esencial, ya que permite valorar la viabilidad real de las soluciones propuestas y, en consecuencia, su adecuación al objeto del contrato.
 
-#### 1.8.1.5. Arquitectura como elemento estructural de la propuesta
+#### Arquitectura como elemento estructural de la propuesta
 
 **Uno de los elementos diferenciales de la propuesta analizada es la incorporación de una arquitectura técnica específica para cada uno de los subproyectos definidos en el Anexo II.** Este enfoque, que trasciende la mera definición de un modelo arquitectónico general, permite adaptar las soluciones a las particularidades de cada sistema, garantizando una mayor precisión en su diseño.
 
@@ -176,7 +176,7 @@ Desde el punto de vista de la evaluación, la correcta interpretación del entor
 
 **Este tratamiento diferenciador refuerza la calidad técnica de la propuesta, al evidenciar un análisis pormenorizado del Anexo II y una adaptación real de las soluciones a los requisitos definidos.** Asimismo, permite al órgano evaluador verificar con mayor precisión la adecuación de cada solución, contribuyendo a la objetividad del proceso de valoración.
 
-#### 1.8.1.6. Integración de requisitos, propuestas y valor añadido
+#### Integración de requisitos, propuestas y valor añadido
 
 **Otro de los aspectos más relevantes de la propuesta es la estructura sistemática con la que se abordan los distintos requisitos del pliego.** En todos los ámbitos analizados, se observa un patrón recurrente consistente en la identificación del requisito, la definición de la solución propuesta, la incorporación de mejoras y la aportación de elementos de valor añadido.
 
@@ -184,7 +184,7 @@ Este enfoque estructural permite que cada requisito no solo sea cubierto, sino a
 
 **Desde la perspectiva de la evaluación, esta metodología presenta una doble ventaja.** Por un lado, facilita la trazabilidad entre requisitos y soluciones, al permitir identificar de manera directa qué actuaciones se corresponden con cada elemento del Anexo II. Por otro lado, proporciona un valor diferencial a la oferta, en la medida en que incorpora mejoras que van más allá del mínimo exigible.
 
-#### 1.8.1.7. Evaluabilidad y fundamentación de la valoración
+#### Evaluabilidad y fundamentación de la valoración
 
 **Finalmente, debe destacarse que la propuesta presenta un grado de evaluabilidad elevado, en la medida en que incorpora información suficiente para verificar la adecuación de las soluciones planteadas.** Este aspecto resulta fundamental desde el punto de vista jurídico, ya que la valoración de las ofertas debe basarse en elementos objetivos y verificables, evitando cualquier tipo de arbitrariedad.
 
@@ -192,11 +192,11 @@ En este caso, la existencia de definiciones técnicas concretas, la identificaci
 
 En consecuencia, la puntuación asignada en los distintos subcriterios encuentra su justificación directa en el contenido de la memoria, lo que refuerza la solidez del informe y su capacidad de defensa frente a eventuales alegaciones.
 
-### 1.8.2. Análisis detallado por proyectos del Anexo II
+### Análisis detallado por proyectos del Anexo II
 
-#### 1.8.2.1. Bloque de servicios transversales (TRA)
+#### Bloque de servicios transversales (TRA)
 
-##### 1.8.2.1.1. Consideración general del bloque
+##### Consideración general del bloque
 
 **El bloque de servicios transversales constituye el eje estructural del ecosistema EducaMadrid, al ser responsable de la cohesión funcional entre los distintos sistemas que lo integran.** Este bloque incluye elementos críticos como la gestión de identidades, la sincronización de usuarios, los mecanismos de integración y los servicios comunes de autenticación.
 
@@ -214,7 +214,7 @@ En particular, se observa que la solución propuesta:
 
 Este enfoque permite considerar que la propuesta aborda adecuadamente la complejidad inherente a este bloque, garantizando su evaluabilidad y viabilidad técnica.
 
-##### 1.8.2.1.2. Proyecto TRA1 – Sincronización de usuarios y gestión de identidades
+##### Proyecto TRA1 – Sincronización de usuarios y gestión de identidades
 
 La sincronización de usuarios constituye uno de los elementos críticos del ecosistema EducaMadrid, al garantizar la coherencia de la información entre sistemas y permitir la correcta gestión de accesos.
 
@@ -240,7 +240,7 @@ Asimismo, la propuesta contempla mecanismos de:
 
 La definición de estos elementos permite evaluar de manera objetiva la viabilidad de la solución, al describir de forma explícita los mecanismos de implementación.
 
-##### 1.8.2.1.3. Proyecto TRA2 – Integración y coherencia entre sistemas
+##### Proyecto TRA2 – Integración y coherencia entre sistemas
 
 La integración entre sistemas es uno de los elementos más complejos en entornos heterogéneos como EducaMadrid.
 
@@ -264,7 +264,7 @@ Además, la propuesta incorpora mecanismos de control de integración, lo que pe
 
 En consecuencia, la solución resulta evaluable y adecuada para el entorno definido en el pliego.
 
-##### 1.8.2.1.4. Proyecto TRA3 – Seguridad transversal
+##### Proyecto TRA3 – Seguridad transversal
 
 En materia de seguridad, la propuesta incorpora un enfoque claramente estructurado, integrando los mecanismos de control desde el diseño de la solución.
 
@@ -284,7 +284,7 @@ Este enfoque permite garantizar que la seguridad no se limita a un conjunto de m
 
 La definición detallada de estos mecanismos permite evaluar su adecuación al entorno y verificar el cumplimiento de los requisitos del pliego.
 
-### 1.8.3. Conclusión del bloque TRA
+### Conclusión del bloque TRA
 
 El bloque de servicios transversales presenta un alto nivel de desarrollo técnico, con una definición clara de los mecanismos de sincronización, integración y seguridad.
 
@@ -298,9 +298,9 @@ La propuesta permite evaluar de forma objetiva:
 
 En consecuencia, el bloque se considera adecuadamente resuelto, mostrando un alto grado de alineación con los requisitos del Anexo II.
 
-#### 1.8.3.1. Bloque de Aulas Virtuales (AV – Moodle)
+#### Bloque de Aulas Virtuales (AV – Moodle)
 
-##### 1.8.3.1.1. Consideración general del bloque
+##### Consideración general del bloque
 
 El sistema de Aulas Virtuales constituye uno de los componentes más críticos del ecosistema EducaMadrid, tanto por el volumen de usuarios como por su impacto directo en la actividad docente.
 
@@ -326,7 +326,7 @@ La propuesta de empresa_s aborda este bloque mediante una arquitectura clarament
 
 Este enfoque permite adaptar la solución a un entorno real de uso intensivo, garantizando su evaluabilidad.
 
-##### 1.8.3.1.2. Proyecto AV1 – Evolución y mantenimiento del core
+##### Proyecto AV1 – Evolución y mantenimiento del core
 
 La propuesta desarrolla de manera adecuada los procesos de evolución del core de Moodle, incorporando mecanismos orientados a garantizar la estabilidad del sistema.
 
@@ -344,7 +344,7 @@ Este enfoque permite minimizar el riesgo asociado a la evolución del sistema, g
 
 La existencia de estos mecanismos permite evaluar de forma objetiva la viabilidad de las actuaciones propuestas.
 
-##### 1.8.3.1.3. Proyecto AV4 – Rendimiento y optimización
+##### Proyecto AV4 – Rendimiento y optimización
 
 En el ámbito del rendimiento, la propuesta presenta un nivel de desarrollo técnico elevado.
 
@@ -362,7 +362,7 @@ Asimismo, se contempla la ejecución de pruebas de carga, lo que permite validar
 
 Este nivel de detalle permite evaluar la adecuación de la solución al requisito de rendimiento.
 
-##### 1.8.3.1.4. Proyecto AV11 – Funcionalidades avanzadas y procesamiento intensivo
+##### Proyecto AV11 – Funcionalidades avanzadas y procesamiento intensivo
 
 En relación con funcionalidades avanzadas, como la incorporación de inteligencia artificial o procesos de generación de contenidos, la propuesta adopta un enfoque técnicamente adecuado.
 
@@ -378,7 +378,7 @@ Este planteamiento permite evitar impactos negativos en el rendimiento del siste
 
 La definición de estos mecanismos permite evaluar su adecuación de forma objetiva.
 
-##### 1.8.3.1.5. Integración con otros sistemas
+##### Integración con otros sistemas
 
 El sistema de Aulas Virtuales se integra con múltiples componentes del ecosistema.
 
@@ -392,7 +392,7 @@ La propuesta desarrolla estos aspectos mediante:
 
 La definición de estas integraciones permite evaluar su coherencia dentro del sistema global.
 
-##### 1.8.3.1.6. Escalabilidad y continuidad del servicio
+##### Escalabilidad y continuidad del servicio
 
 Uno de los aspectos mejor desarrollados de la propuesta es la consideración de la escalabilidad.
 
@@ -408,7 +408,7 @@ Se incorporan mecanismos como:
 
 Estos elementos permiten garantizar el funcionamiento del sistema en escenarios de alta concurrencia.
 
-### 1.8.4. Conclusión del bloque AV
+### Conclusión del bloque AV
 
 El bloque de Aulas Virtuales presenta un alto nivel de desarrollo técnico, con soluciones específicas para los principales retos del sistema.
 
@@ -422,9 +422,9 @@ La propuesta permite evaluar de forma objetiva:
 
 En consecuencia, el bloque se considera adecuadamente resuelto, con un alto grado de adecuación al Anexo II.
 
-#### 1.8.4.1. Bloque de Mediateca (MED)
+#### Bloque de Mediateca (MED)
 
-##### 1.8.4.1.1. Consideración general del bloque
+##### Consideración general del bloque
 
 El sistema de Mediateca constituye uno de los componentes estratégicos del ecosistema EducaMadrid, al actuar como repositorio centralizado de contenidos multimedia utilizados en la actividad educativa.
 
@@ -452,7 +452,7 @@ En particular, se observa que la solución se apoya en:
 
 Este enfoque permite evaluar de forma objetiva la capacidad del sistema para gestionar cargas elevadas y garantizar tiempos de respuesta adecuados.
 
-##### 1.8.4.1.2. Proyecto MED1 – Procesamiento multimedia y generación de contenidos
+##### Proyecto MED1 – Procesamiento multimedia y generación de contenidos
 
 La propuesta desarrolla con un alto nivel de detalle los procesos asociados al tratamiento de contenidos multimedia.
 
@@ -472,7 +472,7 @@ Asimismo, la incorporación de procesamiento asíncrono permite dimensionar adec
 
 La definición explícita de estos elementos permite evaluar la viabilidad de la solución de manera objetiva.
 
-##### 1.8.4.1.3. Proyecto MED2 – Búsqueda e indexación de contenidos
+##### Proyecto MED2 – Búsqueda e indexación de contenidos
 
 El sistema de búsqueda constituye uno de los elementos clave de la Mediateca.
 
@@ -498,7 +498,7 @@ Asimismo, se contempla la posibilidad de reindexación controlada, lo que permit
 
 La existencia de estos mecanismos permite evaluar adecuadamente la solución en términos de rendimiento y escalabilidad.
 
-##### 1.8.4.1.4. Arquitectura de almacenamiento y distribución
+##### Arquitectura de almacenamiento y distribución
 
 La propuesta define un modelo de almacenamiento orientado a alta disponibilidad y rendimiento.
 
@@ -522,7 +522,7 @@ Este enfoque permite:
 
 En consecuencia, la arquitectura planteada resulta adecuada para el contexto del sistema.
 
-##### 1.8.4.1.5. Integración con el ecosistema EducaMadrid
+##### Integración con el ecosistema EducaMadrid
 
 El sistema de Mediateca no se plantea de forma aislada, sino integrado dentro del ecosistema.
 
@@ -546,7 +546,7 @@ Esta integración se realiza mediante:
 
 Este enfoque permite garantizar la coherencia del sistema y facilita su uso en distintos contextos.
 
-### 1.8.5. Conclusión del bloque MED
+### Conclusión del bloque MED
 
 El bloque de Mediateca presenta un alto nivel de desarrollo técnico, con soluciones específicas para los principales retos del sistema.
 
@@ -560,9 +560,9 @@ La propuesta permite evaluar de forma objetiva:
 
 En consecuencia, se considera que el bloque se encuentra adecuadamente resuelto, con un elevado grado de adecuación al pliego.
 
-#### 1.8.5.1. Bloque de Correo Electrónico (COR)
+#### Bloque de Correo Electrónico (COR)
 
-##### 1.8.5.1.1. Consideración general del bloque
+##### Consideración general del bloque
 
 El sistema de correo electrónico constituye un servicio fundamental dentro del ecosistema EducaMadrid, tanto por su uso intensivo como por su papel como herramienta de comunicación institucional.
 
@@ -578,7 +578,7 @@ Desde el punto de vista técnico, este sistema requiere:
 
 La propuesta aborda estos requisitos mediante un enfoque técnico estructurado, basado en la modernización del sistema existente y la optimización de su funcionamiento.
 
-##### 1.8.5.1.2. Proyecto COR1 – Evolución y mantenimiento del sistema
+##### Proyecto COR1 – Evolución y mantenimiento del sistema
 
 La propuesta contempla actuaciones de evolución orientadas a garantizar la estabilidad y mejora del sistema de correo.
 
@@ -594,7 +594,7 @@ En particular, se observa:
 
 Este nivel de desarrollo permite evaluar la capacidad del sistema para operar en condiciones de carga.
 
-##### 1.8.5.1.3. Proyecto COR2 – Funcionalidades avanzadas y asistencia al usuario
+##### Proyecto COR2 – Funcionalidades avanzadas y asistencia al usuario
 
 En relación con la incorporación de funcionalidades avanzadas, la propuesta plantea un enfoque equilibrado, orientado a mejorar la experiencia del usuario sin comprometer la seguridad.
 
@@ -608,7 +608,7 @@ Se identifican actuaciones como:
 
 Estos elementos se integran manteniendo la seguridad de la información, evitando la exposición innecesaria de datos.
 
-##### 1.8.5.1.4. Seguridad e integración
+##### Seguridad e integración
 
 La propuesta define mecanismos de seguridad adecuados, incluyendo:
 
@@ -622,15 +622,15 @@ La propuesta define mecanismos de seguridad adecuados, incluyendo:
 
 Asimismo, se contempla la integración con el resto de sistemas del ecosistema, lo que permite una gestión coherente de los usuarios.
 
-### 1.8.6. Conclusión del bloque COR
+### Conclusión del bloque COR
 
 El bloque de correo electrónico presenta un nivel adecuado de desarrollo técnico, con soluciones orientadas a mejorar el rendimiento, la seguridad y la integración del sistema.
 
 La propuesta permite evaluar de forma objetiva la viabilidad de las actuaciones planteadas.
 
-#### 1.8.6.1. Bloque Cloud (CLO – Nextcloud / Collabora)
+#### Bloque Cloud (CLO – Nextcloud / Collabora)
 
-##### 1.8.6.1.1. Consideración general del bloque
+##### Consideración general del bloque
 
 El sistema Cloud constituye un elemento clave en la gestión de almacenamiento y colaboración dentro del ecosistema EducaMadrid.
 
@@ -646,7 +646,7 @@ Desde el punto de vista técnico, este sistema requiere:
 
 La propuesta aborda estos aspectos mediante un modelo claramente definido, orientado a garantizar la eficiencia y la escalabilidad.
 
-##### 1.8.6.1.2. Proyecto CLO1 – Gestión de almacenamiento y sincronización
+##### Proyecto CLO1 – Gestión de almacenamiento y sincronización
 
 La propuesta define mecanismos específicos para la gestión de almacenamiento, incluyendo:
 
@@ -660,7 +660,7 @@ La propuesta define mecanismos específicos para la gestión de almacenamiento, 
 
 Estos elementos permiten evaluar la viabilidad de la solución en entornos colaborativos.
 
-##### 1.8.6.1.3. Proyecto CLO2 – Edición colaborativa
+##### Proyecto CLO2 – Edición colaborativa
 
 En relación con la edición colaborativa, la propuesta contempla:
 
@@ -674,7 +674,7 @@ En relación con la edición colaborativa, la propuesta contempla:
 
 Este enfoque permite garantizar la consistencia del sistema en escenarios de uso intensivo.
 
-##### 1.8.6.1.4. Arquitectura e integración
+##### Arquitectura e integración
 
 La arquitectura propuesta incorpora:
 
@@ -696,7 +696,7 @@ Asimismo, se contempla la integración con:
 
 Esto permite garantizar la coherencia del sistema dentro del ecosistema global.
 
-### 1.8.7. Conclusión del bloque CLO
+### Conclusión del bloque CLO
 
 El bloque Cloud presenta un nivel elevado de desarrollo técnico, con soluciones completas para la gestión de almacenamiento y colaboración.
 
@@ -708,9 +708,9 @@ La propuesta permite evaluar de forma objetiva:
 
 - La integración con el ecosistema
 
-#### 1.8.7.1. Bloque de Videoconferencia (VID)
+#### Bloque de Videoconferencia (VID)
 
-##### 1.8.7.1.1. Consideración general del bloque
+##### Consideración general del bloque
 
 El sistema de videoconferencia constituye un componente de especial criticidad dentro del ecosistema EducaMadrid, al estar directamente vinculado a la actividad docente en tiempo real y a la prestación de servicios síncronos de alta demanda.
 
@@ -738,7 +738,7 @@ En particular, se observa que la solución contempla:
 
 Este enfoque permite adaptar la solución a la heterogeneidad de los casos de uso, lo que resulta adecuado en un entorno con alta variabilidad de carga.
 
-##### 1.8.7.1.2. Proyecto VID1 – Integración con plataformas educativas
+##### Proyecto VID1 – Integración con plataformas educativas
 
 La propuesta desarrolla de forma adecuada la integración del sistema de videoconferencia con el resto de plataformas de EducaMadrid.
 
@@ -762,7 +762,7 @@ Este modelo permite:
 
 Asimismo, la definición de estos mecanismos permite evaluar de manera objetiva la adecuación de la solución.
 
-##### 1.8.7.1.3. Proyecto VID2 – Rendimiento, escalabilidad y calidad de servicio
+##### Proyecto VID2 – Rendimiento, escalabilidad y calidad de servicio
 
 Desde el punto de vista del rendimiento, la propuesta incorpora un conjunto de medidas específicas orientadas a garantizar la estabilidad del sistema.
 
@@ -786,7 +786,7 @@ Este enfoque permite:
 
 La definición de estos elementos permite evaluar la capacidad del sistema para operar en escenarios reales de uso intensivo.
 
-### 1.8.8. Conclusión del bloque VID
+### Conclusión del bloque VID
 
 El bloque de videoconferencia presenta un desarrollo técnico adecuado, con una arquitectura específica orientada a garantizar la estabilidad y el rendimiento del sistema.
 
@@ -800,9 +800,9 @@ La propuesta permite evaluar de forma objetiva:
 
 En consecuencia, se considera que el bloque se encuentra correctamente resuelto y alineado con los requisitos del pliego.
 
-#### 1.8.8.1. a 2.2.14 Bloques adicionales y sistemas complementarios
+#### a 2.2.14 Bloques adicionales y sistemas complementarios
 
-##### 1.8.8.1.1. Consideración general del conjunto
+##### Consideración general del conjunto
 
 El conjunto de sistemas adicionales definidos en el Anexo II representa una parte sustancial del alcance del contrato, tanto por su número como por su diversidad funcional.
 
@@ -820,7 +820,7 @@ Estos sistemas incluyen, entre otros:
 
 A diferencia de propuestas en las que estos sistemas se abordan de manera superficial, en el caso analizado se observa un tratamiento homogéneo y estructurado, alineado con el modelo arquitectónico general definido para el conjunto de la solución.
 
-##### 1.8.8.1.2. Enfoque técnico aplicado a los sistemas complementarios
+##### Enfoque técnico aplicado a los sistemas complementarios
 
 La propuesta adopta un enfoque basado en la proporcionalidad técnica, adaptando la complejidad de la solución al nivel de criticidad de cada sistema.
 
@@ -840,7 +840,7 @@ Este enfoque permite:
 
 - Garantizar la mantenibilidad del sistema
 
-##### 1.8.8.1.3. Desarrollo técnico de los sistemas específicos
+##### Desarrollo técnico de los sistemas específicos
 
 El análisis de los distintos sistemas complementarios permite identificar que, de manera general:
 
@@ -864,7 +864,7 @@ Asimismo, se observa que la propuesta:
 
 Este nivel de definición permite evaluar la viabilidad de las actuaciones de manera objetiva.
 
-##### 1.8.8.1.4. Sistemas de soporte, comunicación y analítica
+##### Sistemas de soporte, comunicación y analítica
 
 En relación con sistemas como:
 
@@ -896,7 +896,7 @@ Se observa además la incorporación de:
 
 Esto permite garantizar una adecuada operativa del sistema.
 
-##### 1.8.8.1.5. Sistemas funcionales especializados
+##### Sistemas funcionales especializados
 
 En sistemas como:
 
@@ -920,7 +920,7 @@ la propuesta adopta un enfoque basado en:
 
 Este planteamiento resulta especialmente adecuado en sistemas con componentes legacy, ya que permite su evolución sin introducir riesgos innecesarios.
 
-##### 1.8.8.1.6. Coherencia global del conjunto
+##### Coherencia global del conjunto
 
 Uno de los elementos más relevantes del análisis es la coherencia global del conjunto de sistemas complementarios.
 
@@ -936,7 +936,7 @@ Se observa que:
 
 Este enfoque evita la fragmentación del sistema y facilita su evolución conjunta.
 
-##### 1.8.8.1.7. Evaluabilidad del bloque complementario
+##### Evaluabilidad del bloque complementario
 
 El nivel de detalle presentado en este conjunto de sistemas permite:
 
@@ -948,7 +948,7 @@ El nivel de detalle presentado en este conjunto de sistemas permite:
 
 En consecuencia, el bloque resulta plenamente evaluable, contribuyendo de manera significativa a la valoración global de la propuesta.
 
-### 1.8.9. Conclusión del bloque complementario
+### Conclusión del bloque complementario
 
 El conjunto de sistemas adicionales presenta un tratamiento técnico homogéneo, adaptado a la naturaleza de cada aplicativo y alineado con la arquitectura global de la solución.
 
@@ -960,7 +960,7 @@ La propuesta permite evaluar de forma objetiva:
 
 - Su viabilidad operativa
 
-## 1.9. CONCLUSIÓN DEL CAPÍTULO 2
+## CONCLUSIÓN DEL CAPÍTULO 2
 
 El análisis detallado de la solución técnica presentada por empresa_s pone de manifiesto un alto grado de desarrollo en todos los bloques funcionales definidos en el Anexo II.
 
@@ -986,9 +986,9 @@ Asimismo:
 
 En consecuencia, el conjunto de la solución técnica se sitúa en un nivel alto de adecuación, proporcionando una base sólida para la valoración de los criterios sujetos a juicio de valor.
 
-## 1.10. VALORACIÓN DE LA PROPUESTA
+## VALORACIÓN DE LA PROPUESTA
 
-### 1.10.1. Fundamentación de la valoración
+### Fundamentación de la valoración
 
 **La valoración técnica de la propuesta presentada por empresa_s S.A.** se ha llevado a cabo conforme a los criterios definidos en el Documento de Invitación, tomando como base el análisis técnico exhaustivo desarrollado en el Capítulo 2 del presente informe.
 
@@ -1006,9 +1006,9 @@ En este sentido, la valoración no responde a apreciaciones generales o subjetiv
 
 Asimismo, el sistema de valoración previsto en el pliego permite la asignación de puntuaciones dentro de rangos continuos, lo que implica que la puntuación final responde a un juicio técnico global, sustentado en la evidencia contenida en la propuesta.
 
-### 1.10.2. Valoración de la solución técnica ofertada
+### Valoración de la solución técnica ofertada
 
-#### 1.10.2.1. Arquitectura de la solución
+#### Arquitectura de la solución
 
 La propuesta presenta una arquitectura técnica claramente definida, basada en principios de modularidad, desacoplamiento y control de operaciones.
 
@@ -1036,7 +1036,7 @@ En consecuencia, la arquitectura se considera:
 
 **Puntuación: 1,80 sobre 2**
 
-#### 1.10.2.2. Comprensión de los requisitos
+#### Comprensión de los requisitos
 
 La propuesta acredita un alto grado de comprensión de los requisitos definidos en el pliego.
 
@@ -1056,7 +1056,7 @@ No se detectan errores conceptuales ni interpretaciones incorrectas de los requi
 
 **Puntuación: 1,90 sobre 2**
 
-#### 1.10.2.3. Viabilidad de la propuesta
+#### Viabilidad de la propuesta
 
 La propuesta presenta un alto grado de viabilidad, tanto desde el punto de vista técnico como operativo.
 
@@ -1084,7 +1084,7 @@ La puntuación no alcanza el máximo absoluto al considerar que, si bien la viab
 
 **Puntuación: 0,90 sobre 1**
 
-#### 1.10.2.4. Metodología
+#### Metodología
 
 La propuesta desarrolla la metodología de trabajo con un nivel elevado de detalle, basándose en Métrica v3 e incorporando prácticas actuales de desarrollo.
 
@@ -1110,7 +1110,7 @@ La metodología se presenta como plenamente aplicable al contrato, evitando tant
 
 **Puntuación: 0,90 sobre 1**
 
-#### 1.10.2.5. Rendimiento
+#### Rendimiento
 
 El tratamiento del rendimiento en la propuesta es uno de los aspectos mejor desarrollados.
 
@@ -1130,7 +1130,7 @@ La propuesta permite verificar que las soluciones están diseñadas para operar 
 
 **Puntuación: 0,90 sobre 1**
 
-#### 1.10.2.6. Satisfacción de los requisitos del Anexo II
+#### Satisfacción de los requisitos del Anexo II
 
 El análisis desarrollado en el Capítulo 2 pone de manifiesto un alto grado de satisfacción de los requisitos definidos en el Anexo II.
 
@@ -1158,13 +1158,13 @@ En consecuencia, este subcriterio se sitúa en niveles altos del baremo.
 
 **Puntuación: 7,20 sobre 8**
 
-#### 1.10.2.7. Resultado del bloque de solución técnica
+#### Resultado del bloque de solución técnica
 
 **Total solución técnica: 13,60 puntos sobre 15**
 
-### 1.10.3. Valoración de la planificación del servicio
+### Valoración de la planificación del servicio
 
-#### 1.10.3.1. Calendario y planificación
+#### Calendario y planificación
 
 La propuesta presenta una planificación estructurada, alineada con el calendario educativo y orientada a minimizar el impacto sobre la operación del servicio. **No obstante, se observa un enfoque predominantemente estructurado, con menor concreción en la gestión iterativa del desarrollo evolutivo.**
 
@@ -1182,7 +1182,7 @@ Este nivel de detalle permite evaluar de manera objetiva la planificación.
 
 **Puntuación: 9,60 sobre 11**
 
-#### 1.10.3.2. Análisis de riesgos
+#### Análisis de riesgos
 
 Se incluye un análisis sistemático de riesgos con identificación, clasificación y medidas de mitigación, si bien con carácter parcialmente genérico, que incluye:
 
@@ -1194,7 +1194,7 @@ Este enfoque permite garantizar la estabilidad del servicio.
 
 **Puntuación: 0,85 sobre 1**
 
-#### 1.10.3.3. Plan de gestión de las Contingencias
+#### Plan de gestión de las Contingencias
 
 Se definen mecanismos adecuados de continuidad del servicio, incluyendo recuperación ante fallos y despliegues controlados, alineados con entornos críticos. Estos procedimientos incluyen:
 
@@ -1206,7 +1206,7 @@ Este enfoque permite garantizar la viabilidad del servicio.
 
 **Puntuación: 0,***90 sobre 1**
 
-#### 1.10.3.4. Plan de calidad y control
+#### Plan de calidad y control
 
 Se observa un modelo de calidad basado en:
 
@@ -1222,7 +1222,7 @@ Esto permite asegurar la calidad del servicio durante toda la ejecución.
 
 **Puntuación: 0,***90 sobre 1**
 
-#### 1.10.3.5. Trazabilidad del servicio
+#### Trazabilidad del servicio
 
 La propuesta incorpora mecanismos de trazabilidad completos, que permiten:
 
@@ -1234,11 +1234,11 @@ La propuesta incorpora mecanismos de trazabilidad completos, que permiten:
 
 **Puntuación: 0,85 sobre 1**
 
-#### 1.10.3.6. Resultado del bloque de planificación
+#### Resultado del bloque de planificación
 
 **Total planificación: 13,10 puntos sobre 15**
 
-### 1.10.4. Resultado final de la valoración
+### Resultado final de la valoración
 
 Como resultado de la evaluación:
 
@@ -1248,9 +1248,9 @@ Como resultado de la evaluación:
 
 **Total: 26,70 puntos sobre 30**
 
-## 1.11. CONCLUSIONES FINALES Y JUSTIFICACIÓN DE LA VALORACIÓN
+## CONCLUSIONES FINALES Y JUSTIFICACIÓN DE LA VALORACIÓN
 
-### 1.11.1. Alcance y naturaleza de la valoración realizada
+### Alcance y naturaleza de la valoración realizada
 
 La valoración técnica recogida en el presente informe se ha realizado en estricta aplicación de lo previsto en el Documento de Invitación, y en particular conforme a los criterios sujetos a juicio de valor definidos en su apartado correspondiente.
 
@@ -1260,7 +1260,7 @@ Asimismo, se ha aplicado de forma uniforme el mismo enfoque metodológico utiliz
 
 En consecuencia, la valoración no incorpora elementos discrecionales ajenos al contenido de la propuesta, sino que se sustenta en el análisis técnico desarrollado en el Capítulo 2, garantizando la trazabilidad completa entre requisitos, soluciones y puntuación asignada.
 
-### 1.11.2. Síntesis técnica de la evaluación
+### Síntesis técnica de la evaluación
 
 El análisis detallado de la propuesta permite concluir que la oferta presentada por empresa_s presenta un alto grado de desarrollo técnico, caracterizado por:
 
@@ -1278,7 +1278,7 @@ Estos elementos permiten afirmar que la propuesta no se limita a cubrir el alcan
 
 Desde la perspectiva de la evaluación, este nivel de desarrollo permite verificar de manera objetiva la adecuación de la propuesta, eliminando la necesidad de interpretaciones adicionales y reforzando la solidez de la valoración.
 
-### 1.11.3. Evaluabilidad de la propuesta como elemento determinante
+### Evaluabilidad de la propuesta como elemento determinante
 
 Uno de los aspectos clave que fundamentan la puntuación asignada es el elevado grado de evaluabilidad de la propuesta.
 
@@ -1296,7 +1296,7 @@ Este nivel de detalle permite comprobar cómo se ejecutarán las actuaciones des
 
 A diferencia de propuestas que se limitan a descripciones generales, en este caso la información aportada permite evaluar directamente la viabilidad técnica de la solución, lo que justifica una valoración elevada dentro del baremo.
 
-### 1.11.4. Coherencia entre análisis técnico y puntuación asignada
+### Coherencia entre análisis técnico y puntuación asignada
 
 La puntuación final obtenida por la propuesta no responde a un juicio global abstracto, sino al resultado directo del análisis técnico desarrollado proyecto a proyecto.
 
@@ -1312,7 +1312,7 @@ Este enfoque permite garantizar que la puntuación final refleja de manera fiel 
 
 Asimismo, la coherencia entre el análisis técnico y la puntuación asignada refuerza la solidez del informe frente a posibles alegaciones, al permitir trazar de forma clara la relación entre las soluciones descritas y la valoración obtenida.
 
-### 1.11.5. Aplicación del principio de proporcionalidad
+### Aplicación del principio de proporcionalidad
 
 La valoración realizada se ajusta al principio de proporcionalidad, en la medida en que la puntuación asignada se corresponde con el nivel real de desarrollo técnico de la propuesta.
 
@@ -1330,7 +1330,7 @@ Asimismo, el hecho de que la puntuación no alcance el valor máximo absoluto en
 
 Este equilibrio entre reconocimiento de la calidad técnica y aplicación rigurosa del baremo refuerza la defensa de la valoración frente a posibles recursos.
 
-### 1.11.6. Justificación específica de la alta puntuación obtenida
+### Justificación específica de la alta puntuación obtenida
 
 La puntuación final de la propuesta, situada en 26,70 puntos sobre un máximo de 30, se fundamenta en una combinación de elementos técnicos que, en su conjunto, justifican su posicionamiento en el tramo alto del baremo.
 
@@ -1346,7 +1346,7 @@ Entre estos elementos destacan especialmente:
 
 Este conjunto de factores no solo permite cumplir los requisitos del pliego, sino que aporta valor diferencial a la propuesta, lo que justifica su posicionamiento en niveles altos de la valoración.
 
-### 1.11.7. Ausencia de elementos que limiten la valoración
+### Ausencia de elementos que limiten la valoración
 
 El análisis técnico realizado no ha identificado elementos que limiten de forma significativa la valoración de la propuesta.
 
@@ -1360,7 +1360,7 @@ En particular:
 
 Esta ausencia de deficiencias relevantes constituye un factor determinante en la puntuación obtenida, ya que elimina los elementos habitualmente asociados a reducciones significativas en la valoración.
 
-### 1.11.8. Garantía de igualdad de trato y objetividad
+### Garantía de igualdad de trato y objetividad
 
 La evaluación realizada garantiza el cumplimiento de los principios de igualdad de trato, transparencia y objetividad.
 
@@ -1374,7 +1374,7 @@ En particular:
 
 Este enfoque permite descartar cualquier posibilidad de tratamiento desigual, asegurando que la puntuación asignada responde exclusivamente a la calidad técnica de la propuesta.
 
-### 1.11.9. Conclusión final del informe
+### Conclusión final del informe
 
 **A la vista del análisis técnico realizado, se concluye que la propuesta presentada por empresa_s S.A.** presenta un alto grado de adecuación a los requisitos del contrato, tanto en términos de desarrollo técnico como de viabilidad de las soluciones planteadas.
 
@@ -1384,7 +1384,7 @@ Esta puntuación se fundamenta en elementos objetivos y verificables, derivados 
 
 En consecuencia, puede afirmarse que la propuesta cumple plenamente los requisitos establecidos en el pliego para los criterios sujetos a juicio de valor, ofreciendo una solución técnica robusta, coherente y viable para la ejecución del contrato.
 
-## 1.12. ANEXO RELACIÓN DE PROYECTOS Y GRADO DE DESARROLLO EN LA PROPUESTA TÉCNICA DE empresa_s
+## ANEXO RELACIÓN DE PROYECTOS Y GRADO DE DESARROLLO EN LA PROPUESTA TÉCNICA DE empresa_s
 
 El presente anexo identifica, de manera sistemática, el grado de desarrollo técnico de los proyectos y subproyectos incluidos en el Anexo II del pliego, conforme a su tratamiento en la memoria técnica presentada por empresa_s S.A.
 
@@ -1398,9 +1398,9 @@ La clasificación utilizada distingue los siguientes niveles:
 
 Debe destacarse que, a diferencia de otras propuestas analizadas, la de empresa_s presenta un enfoque sistemático basado en el **desarrollo específico por proyecto y subproyecto**, lo que permite su evaluabilidad completa.
 
-## 1.13. Tablas de proyectos y grado de desarrollo
+## Tablas de proyectos y grado de desarrollo
 
-## 1.14. BLOQUE TRANSVERSAL (TRA)
+## BLOQUE TRANSVERSAL (TRA)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1413,7 +1413,7 @@ Debe destacarse que, a diferencia de otras propuestas analizadas, la de empresa_
 | TRA7 | Propuesta técnica incluida (desarrollo suficiente) | Sí (verificador automático de secretos expuestos) |
 | TRA8 | Propuesta técnica incluida (desarrollo suficiente) | Sí (modo identificativo único para eventos de centro o de calendario escolar) |
 
-## 1.15. AULAS VIRTUALES (AV)
+## AULAS VIRTUALES (AV)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1439,7 +1439,7 @@ Debe destacarse que, a diferencia de otras propuestas analizadas, la de empresa_
 | AV20 | Propuesta técnica incluida (desarrollo suficiente) | No |
 | AV21 | Propuesta técnica incluida (desarrollo suficiente) | Sí (añadir scopes de API por tipo de operación) |
 
-## 1.16. MEDIATECA (MED)
+## MEDIATECA (MED)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1455,7 +1455,7 @@ Debe destacarse que, a diferencia de otras propuestas analizadas, la de empresa_
 | MED10 | Propuesta técnica incluida (desarrollo suficiente) | Sí (indicador interno de confianza) |
 | MED11 | Propuesta técnica incluida (desarrollo suficiente) | Sí (mapa vivo de deuda técnica) |
 
-## 1.17. CORREO WEB (COR)
+## CORREO WEB (COR)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1464,14 +1464,14 @@ Debe destacarse que, a diferencia de otras propuestas analizadas, la de empresa_
 | COR3 | Propuesta técnica incluida (desarrollo suficiente) | Sí (opción “mantener tono institucional”) |
 | COR4 | Propuesta técnica incluida (desarrollo suficiente) | Sí (opción “no cambiar información factual”) |
 
-## 1.18. CLOUD (CLO)
+## CLOUD (CLO)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
 | CLO1 | Propuesta técnica con valor añadido | No |
 | CLO2 | Propuesta técnica con valor añadido | No |
 
-## 1.19. WORDPRESS (WPM)
+## WORDPRESS (WPM)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1481,7 +1481,7 @@ Debe destacarse que, a diferencia de otras propuestas analizadas, la de empresa_
 | WPM4 | Propuesta técnica incluida (desarrollo suficiente) | Sí (mejoras en captcha) |
 | WPM5 | Propuesta técnica incluida (desarrollo suficiente) | Sí (política individualizada de 2FA) |
 
-## 1.20. VIDEO (VID)
+## VIDEO (VID)
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1490,7 +1490,7 @@ Debe destacarse que, a diferencia de otras propuestas analizadas, la de empresa_
 | VID3 | Propuesta técnica incluida (desarrollo suficiente) | Sí (aviso de caducidad de grabaciones para responsables de centro) |
 | VID4 | Propuesta técnica incluida (desarrollo suficiente) | Sí (plantilla de “evento de alta audiencia”) |
 
-## 1.21. SERVICIOS UNITARIOS
+## SERVICIOS UNITARIOS
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1501,7 +1501,7 @@ Debe destacarse que, a diferencia de otras propuestas analizadas, la de empresa_
 | BUS1 | Propuesta técnica con valor añadido | Sí (modo de “búsquedas frecuentes sin resultados”) |
 | ANI1 | Propuesta técnica incluida (desarrollo suficiente) | Sí (crear un “mapa de deuda técnica”) |
 
-## 1.22. RESTO DE SISTEMAS
+## RESTO DE SISTEMAS
 
 | **Proyecto** | **Clasificación** | **Valor añadido** |
 | --- | --- | --- |
@@ -1526,7 +1526,7 @@ Debe destacarse que, a diferencia de otras propuestas analizadas, la de empresa_
 | EML | Propuesta técnica con valor añadido | No |
 | ABI | Propuesta técnica incluida (desarrollo suficiente) | No |
 
-## 1.23. WEKAN (WEK)
+## WEKAN (WEK)
 
 **La propuesta técnica de empresa_s para el grupo Wekan (WEK) se hace de forma agregada, incluyendo elementos de todos los subproyectos, pero sin diferenciarlos indivdualmente.** La propuesta de mejora es una propuesta global para el grupo ya que la mejora propuesta implica mejoras individuales para cada subproyecto.
 
@@ -1555,7 +1555,7 @@ Debe destacarse que, a diferencia de otras propuestas analizadas, la de empresa_
   </tr>
 </table>
 
-## 1.24. Conclusión del anexo
+## Conclusión del anexo
 
 El análisis de la memoria técnica de empresa_s permite establecer, de forma objetiva, las siguientes conclusiones:
 
@@ -1589,7 +1589,7 @@ Todos los proyectos se integran dentro de un modelo arquitectónico común, mant
 
 - y consistencia en la gestión de usuarios y datos.
 
-## 1.25. Síntesis final
+## Síntesis final
 
 La propuesta de empresa_s presenta un **nivel de desarrollo técnico alto y homogéneo en prácticamente la totalidad de los proyectos**, con especial profundidad en los bloques críticos (TRA, AV, MED, CLO, VID).
 

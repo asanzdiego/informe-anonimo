@@ -84,7 +84,7 @@ while IFS= read -r -d '' source_file; do
     destination_file="$output_dir/${relative_path%.*}.docx"
     mkdir -p "$(dirname "$destination_file")"
     echo "Convirtiendo: $relative_path"
-    pandoc "$source_file" --output="$destination_file"
+    pandoc "$source_file" --table-of-contents --output="$destination_file"
   else
     destination_file="$output_dir/$relative_path"
     mkdir -p "$(dirname "$destination_file")"

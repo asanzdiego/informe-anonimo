@@ -1,16 +1,16 @@
-# 1. INFORME TÉCNICO DE EVALUACIÓN
+# INFORME TÉCNICO DE EVALUACIÓN
 
 empresa_u
 
-## 1.1. CAPÍTULO RESUMEN EJECUTIVO
+## CAPÍTULO RESUMEN EJECUTIVO
 
-### 1.1.1. Objeto del informe
+### Objeto del informe
 
 El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa_u en el procedimiento basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo, soporte y mejora del ecosistema tecnológico Educamadrid.
 
 La valoración se realiza exclusivamente conforme a los criterios establecidos en el Documento de Invitación, en particular los contemplados en su apartado 7.2, relativos a los criterios sometidos a juicio de valor, sin considerar en ningún caso aspectos económicos ni capacidades no acreditadas en la documentación aportada.
 
-### 1.1.2. Metodología de evaluación
+### Metodología de evaluación
 
 La evaluación se ha desarrollado mediante un enfoque estructurado en dos fases.
 
@@ -20,7 +20,7 @@ En segundo lugar, dicho análisis se ha trasladado al sistema de valoración pre
 
 Este enfoque se ajusta a lo dispuesto en la normativa de contratación pública, en particular al artículo 145 y siguientes de la Ley 9/2017 de Contratos del Sector Público, que exige que la valoración se fundamente en criterios objetivos y verificables.
 
-### 1.1.3. Síntesis técnica de la propuesta
+### Síntesis técnica de la propuesta
 
 Del análisis realizado se concluye que la propuesta presentada por la empresa_u presenta una apariencia formal extensa, pero carece del nivel de desarrollo técnico necesario para su evaluación objetiva.
 
@@ -30,7 +30,7 @@ En particular, se ha comprobado que únicamente se desarrollan parcialmente tres
 
 Este hecho impide establecer una relación directa entre los requisitos del pliego y las soluciones propuestas, lo que determina una limitación sustancial en la capacidad de evaluación de la oferta.
 
-### 1.1.4. Deficiencias estructurales identificadas
+### Deficiencias estructurales identificadas
 
 El análisis realizado ha permitido identificar un conjunto de deficiencias que afectan de forma estructural a la propuesta.
 
@@ -42,7 +42,7 @@ En tercer lugar, la presencia de anotaciones internas propias de procesos de gen
 
 Finalmente, en relación con la planificación, se constata la ausencia de un diagrama de Gantt o herramienta equivalente que permita verificar la secuencia temporal de ejecución de los trabajos, lo que impide acreditar la viabilidad del servicio desde el punto de vista organizativo y temporal.
 
-### 1.1.5. Resultado de la valoración
+### Resultado de la valoración
 
 Como resultado de la aplicación del baremo establecido en el Documento de Invitación, la propuesta obtiene las siguientes puntuaciones:
 
@@ -51,7 +51,7 @@ Solución técnica ofertada: 2,20 puntos sobre 15
 
 **Resultado total: 3,70 puntos sobre un máximo de 30 puntos**
 
-### 1.1.6. Conclusión del resumen ejecutivo
+### Conclusión del resumen ejecutivo
 
 La propuesta técnica presentada por la empresa_u no acredita un nivel suficiente de desarrollo técnico ni de planificación que permita garantizar la correcta ejecución del contrato.
 
@@ -59,9 +59,9 @@ Las carencias detectadas no tienen carácter puntual, sino estructural, afectand
 
 **En consecuencia, la oferta se sitúa en niveles claramente insuficientes dentro del baremo de valoración técnica y no alcanza el umbral mínimo exigido, lo que justifica su exclusión del procedimiento conforme a lo establecido en el Documento de Invitación y en la normativa de contratación pública aplicable.**
 
-## 1.2. CAPÍTULO INTRODUCCIÓN Y MARCO DE REFERENCIA
+## CAPÍTULO INTRODUCCIÓN Y MARCO DE REFERENCIA
 
-### 1.2.1. Objeto del informe
+### Objeto del informe
 
 El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa_u en el marco del procedimiento basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo, soporte y mejora del ecosistema tecnológico Educamadrid.
 
@@ -69,7 +69,7 @@ La valoración se efectúa exclusivamente conforme a los criterios establecidos 
 
 En ningún caso se han incorporado elementos externos a la documentación presentada ni se han realizado inferencias sobre capacidades no acreditadas expresamente en la memoria técnica aportada por el licitador.
 
-### 1.2.2. Alcance del contrato
+### Alcance del contrato
 
 El alcance del contrato viene determinado por el Anexo II del Documento de Invitación, el cual define un conjunto amplio y heterogéneo de proyectos que afectan a múltiples sistemas interdependientes dentro del ecosistema Educamadrid.
 
@@ -77,7 +77,7 @@ Este ecosistema presenta un elevado grado de complejidad técnica y operativa, d
 
 Este contexto obliga a que las propuestas técnicas no se limiten a la identificación de los sistemas o a la reproducción de los requisitos del pliego, sino que desarrollen soluciones concretas, técnicamente viables y adaptadas al entorno real, de forma que pueda verificarse su ejecución en condiciones operativas.
 
-### 1.2.3. Metodología de evaluación
+### Metodología de evaluación
 
 La evaluación técnica se ha llevado a cabo mediante un enfoque estructurado en dos fases claramente diferenciadas.
 
@@ -87,7 +87,7 @@ En una segunda fase, los resultados del análisis técnico se han trasladado al 
 
 Este enfoque garantiza la trazabilidad entre los requisitos del pliego, el contenido de la propuesta y la puntuación finalmente asignada, evitando cualquier tipo de arbitrariedad en el proceso de evaluación.
 
-### 1.2.4. Principios de valoración aplicados
+### Principios de valoración aplicados
 
 La valoración realizada se ha fundamentado en los principios que rigen la contratación pública, en particular los recogidos en la Ley 9/2017 de Contratos del Sector Público.
 
@@ -99,7 +99,7 @@ En tercer lugar, se ha aplicado el principio de proporcionalidad, ajustando la p
 
 Finalmente, se ha aplicado el principio de evaluabilidad como criterio esencial, considerando únicamente aquellos elementos que pueden ser verificados de manera objetiva, excluyendo de la valoración aquellas declaraciones que no se encuentren sustentadas por un desarrollo técnico suficiente.
 
-### 1.2.5. Consideraciones preliminares sobre la propuesta
+### Consideraciones preliminares sobre la propuesta
 
 El análisis preliminar de la propuesta presentada por la empresa_u pone de manifiesto una falta de correspondencia entre la extensión formal del documento y su contenido técnico efectivo.
 
@@ -111,7 +111,7 @@ Este hecho no constituye una mera deficiencia formal, sino que tiene un impacto 
 
 Adicionalmente, se han detectado incoherencias técnicas y planteamientos no adaptados al entorno real de Educamadrid, lo que evidencia una comprensión parcial de las condiciones operativas del servicio.
 
-### 1.2.6. Conclusión del capítulo
+### Conclusión del capítulo
 
 El presente capítulo ha definido el marco jurídico, técnico y metodológico en el que se ha desarrollado la evaluación de la propuesta.
 
@@ -119,11 +119,11 @@ A partir de este punto, el informe se centra en el análisis detallado de la sol
 
 La información recogida en este capítulo resulta fundamental para interpretar correctamente las conclusiones técnicas desarrolladas en los apartados siguientes y la valoración final asignada a la propuesta.
 
-## 1.3. ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
+## ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
 
-### 1.3.1. Consideraciones generales del análisis técnico
+### Consideraciones generales del análisis técnico
 
-#### 1.3.1.1. Enfoque global de evaluación
+#### Enfoque global de evaluación
 
 El análisis técnico de la propuesta presentada por la empresa_u se ha llevado a cabo atendiendo a la capacidad de la oferta para traducir los requisitos definidos en el Anexo II en soluciones técnicas concretas, coherentes y verificables.
 
@@ -133,7 +133,7 @@ En este sentido, el análisis pone de manifiesto que la propuesta presenta una l
 
 Este desfase entre lo que se declara y lo que realmente se desarrolla condiciona de forma directa la evaluación, al impedir verificar el cumplimiento efectivo de una parte sustancial del alcance del contrato.
 
-#### 1.3.1.2. Nivel de desarrollo técnico
+#### Nivel de desarrollo técnico
 
 Uno de los aspectos más relevantes del análisis es el nivel de desarrollo técnico de la propuesta.
 
@@ -143,7 +143,7 @@ La propia memoria incluye anotaciones expresas en las que se indica que el anál
 
 Desde el punto de vista técnico y jurídico, este hecho implica que dichos contenidos no pueden ser objeto de valoración, al no formar parte efectiva de la oferta presentada.
 
-#### 1.3.1.3. Evaluabilidad de la propuesta
+#### Evaluabilidad de la propuesta
 
 El principio de evaluabilidad constituye uno de los elementos clave en la valoración de las ofertas, especialmente en procedimientos sujetos a juicio de valor.
 
@@ -161,7 +161,7 @@ Adicionalmente, la inclusión de contenido no finalizado y de referencias a apar
 
 En consecuencia, no se trata de una propuesta que pueda considerarse parcialmente incompleta, sino de una propuesta en la que una parte significativa del alcance no es evaluable conforme a los criterios del Documento de Invitación.
 
-#### 1.3.1.4. Indicios de contenido no validado
+#### Indicios de contenido no validado
 
 El análisis de la propuesta permite identificar indicios objetivos de que parte del contenido ha sido generado mediante herramientas automáticas y no ha sido revisado ni completado antes de su presentación.
 
@@ -177,7 +177,7 @@ Desde un punto de vista técnico, esta circunstancia afecta directamente a la fi
 
 Desde un punto de vista jurídico, este aspecto refuerza la imposibilidad de considerar como acreditadas aquellas capacidades que no se encuentran desarrolladas de forma expresa en la oferta, de acuerdo con el principio de que la valoración debe basarse exclusivamente en el contenido presentado.
 
-#### 1.3.1.5. Adecuación al entorno técnico
+#### Adecuación al entorno técnico
 
 La propuesta incorpora planteamientos que no se encuentran adecuadamente adaptados al entorno real de Educamadrid.
 
@@ -187,7 +187,7 @@ En particular, se proponen actuaciones con tiempos de ejecución incompatibles c
 
 Asimismo, se plantean cambios arquitectónicos de carácter estructural que exceden el alcance del contrato, como la transformación completa hacia modelos de microservicios, lo que introduce un desalineamiento significativo con los requisitos del pliego.
 
-#### 1.3.1.6. Cobertura del Anexo II
+#### Cobertura del Anexo II
 
 El análisis del grado de cobertura del Anexo II constituye uno de los elementos más determinantes de la valoración.
 
@@ -197,9 +197,9 @@ La existencia de apartados no desarrollados, junto con las referencias explícit
 
 Este hecho tiene un impacto directo sobre la valoración, en la medida en que el grado de cumplimiento de los requisitos no puede ser acreditado en ausencia de desarrollo técnico.
 
-### 1.3.2. Análisis por bloques funcionales del Anexo II
+### Análisis por bloques funcionales del Anexo II
 
-#### 1.3.2.1. Bloque de servicios transversales (TRA)
+#### Bloque de servicios transversales (TRA)
 
 El bloque de servicios transversales es uno de los pocos ámbitos en los que la propuesta presenta un cierto nivel de desarrollo técnico.
 
@@ -209,7 +209,7 @@ Aunque se describen algunos aspectos relativos a la gestión de identidades o a 
 
 En consecuencia, el bloque presenta una evaluabilidad limitada, en la medida en que, aun existiendo contenido, no permite comprobar de forma completa la viabilidad de las actuaciones descritas.
 
-#### 1.3.2.2. Bloque de Aulas Virtuales (AV)
+#### Bloque de Aulas Virtuales (AV)
 
 El análisis del bloque de Aulas Virtuales pone de manifiesto una cobertura claramente insuficiente.
 
@@ -219,7 +219,7 @@ La ausencia de desarrollo afecta a la mayor parte de los subproyectos definidos 
 
 Desde el punto de vista de la evaluación, este bloque no puede considerarse adecuadamente cubierto, al no existir información suficiente para determinar el grado de cumplimiento de los requisitos.
 
-#### 1.3.2.3. Bloque de Mediateca (MED)
+#### Bloque de Mediateca (MED)
 
 El bloque de Mediateca presenta una situación similar a la descrita anteriormente.
 
@@ -229,7 +229,7 @@ La ausencia de detalles técnicos en aspectos clave, como la gestión de conteni
 
 En consecuencia, el bloque no alcanza el nivel de desarrollo requerido para su valoración positiva.
 
-#### 1.3.2.4. Resto de bloques funcionales
+#### Resto de bloques funcionales
 
 En relación con el resto de bloques definidos en el Anexo II, incluyendo sistemas de correo, plataformas cloud, videoconferencia y sistemas auxiliares, la propuesta no presenta desarrollo técnico evaluable.
 
@@ -237,7 +237,7 @@ En estos casos, la memoria se limita a mencionar los proyectos sin describir las
 
 Dado que estos bloques representan una parte sustancial del alcance del contrato, su ausencia implica una carencia estructural que afecta de manera decisiva a la valoración global de la propuesta.
 
-### 1.3.3. Conclusión del capítulo
+### Conclusión del capítulo
 
 El análisis detallado de la solución técnica presentada por la empresa_u pone de manifiesto la existencia de deficiencias estructurales que impiden considerar que la propuesta cumple los requisitos mínimos de desarrollo técnico exigidos por el pliego.
 
@@ -253,9 +253,9 @@ En particular, se concluye que:
 
 Estas deficiencias afectan de manera directa a la evaluabilidad de la propuesta y, en consecuencia, determinan de forma decisiva la puntuación asignada en el apartado relativo a la solución técnica.
 
-## 1.4. VALORACIÓN DE LA PROPUESTA
+## VALORACIÓN DE LA PROPUESTA
 
-### 1.4.1. Fundamentación de la valoración
+### Fundamentación de la valoración
 
 La valoración técnica de la propuesta presentada por la empresa_u se ha llevado a cabo en estricta aplicación de los criterios establecidos en el apartado 7.2 del Documento de Invitación, tomando como base el análisis técnico detallado desarrollado en el Capítulo 2 del presente informe.
 
@@ -265,9 +265,9 @@ La valoración técnica de la propuesta presentada por la empresa_u se ha llevad
 
 Debe subrayarse que la puntuación asignada ha sido condicionada de forma determinante por la falta de desarrollo técnico de la propuesta, la imposibilidad de evaluar una parte sustancial del contenido y la ausencia de planificación verificable, elementos todos ellos acreditados de forma expresa en el análisis técnico previo.
 
-### 1.4.2. Valoración de la solución técnica ofertada
+### Valoración de la solución técnica ofertada
 
-### 1.4.3. Arquitectura de la solución
+### Arquitectura de la solución
 
 La propuesta incorpora referencias a modelos arquitectónicos genéricos basados en enfoques de servicios y microservicios. **Sin embargo, el análisis técnico pone de manifiesto que dichas referencias no se acompañan de una definición operativa que permita verificar su aplicación real.**
 
@@ -279,7 +279,7 @@ En consecuencia, la arquitectura debe valorarse en niveles mínimos, al tratarse
 
 **Puntuación asignada**: 0,30 sobre 2
 
-#### 1.4.3.1. Comprensión de los requisitos
+#### Comprensión de los requisitos
 
 La propuesta declara explícitamente un conocimiento completo del entorno y de los requisitos del contrato. **No obstante, el análisis realizado evidencia que esta afirmación no se traduce en una comprensión técnica efectiva.**
 
@@ -291,7 +291,7 @@ Por tanto, la comprensión de los requisitos se considera insuficiente.
 
 **Puntuación asignada**: 0,30 sobre 2
 
-#### 1.4.3.2. Viabilidad de la propuesta
+#### Viabilidad de la propuesta
 
 La viabilidad de una solución técnica exige la definición de mecanismos concretos que permitan su ejecución en condiciones reales.
 
@@ -303,7 +303,7 @@ En consecuencia, la viabilidad no puede ser considerada como demostrada.
 
 **Puntuación asignada**: 0,20 sobre 1
 
-#### 1.4.3.3. Metodología
+#### Metodología
 
 La propuesta incorpora una metodología basada en modelos estándar de desarrollo ágil, presentada de forma estructurada y coherente desde un punto de vista conceptual.
 
@@ -313,7 +313,7 @@ A pesar de ello, la calidad formal de la exposición metodológica permite recon
 
 **Puntuación asignada**: 0,40 sobre 1
 
-#### 1.4.3.4. Rendimiento
+#### Rendimiento
 
 El tratamiento del rendimiento en la propuesta se realiza de forma genérica, sin incorporar métricas, escenarios de carga ni mecanismos de validación que permitan evaluar el comportamiento de los sistemas en condiciones reales.
 
@@ -323,7 +323,7 @@ En consecuencia, el rendimiento no puede ser evaluado en términos objetivos, al
 
 **Puntuación asignada**: 0,20 sobre 1
 
-#### 1.4.3.5. Satisfacción de los requisitos del Anexo II
+#### Satisfacción de los requisitos del Anexo II
 
 Este subcriterio constituye el elemento de mayor peso dentro de la valoración de la solución técnica, al estar directamente vinculado con el cumplimiento del objeto del contrato.
 
@@ -335,13 +335,13 @@ Esta circunstancia impide verificar el cumplimiento del pliego en una parte sust
 
 **Puntuación asignada**: 0,80 sobre 8
 
-#### 1.4.3.6. Resultado del bloque de solución técnica
+#### Resultado del bloque de solución técnica
 
 La puntuación total correspondiente al bloque de solución técnica, como resultado de la suma de los subcriterios anteriores, asciende a **2,20 puntos sobre un máximo de 15**.
 
-### 1.4.4. Valoración de la planificación del servicio
+### Valoración de la planificación del servicio
 
-#### 1.4.4.1. Consideraciones generales
+#### Consideraciones generales
 
 La planificación del servicio constituye un elemento esencial para garantizar la correcta ejecución del contrato, especialmente considerando la complejidad del ecosistema Educamadrid, caracterizado por la concurrencia de múltiples proyectos interdependientes, la criticidad operativa de los sistemas y la necesidad de asegurar la continuidad del servicio.
 
@@ -361,9 +361,9 @@ Sin embargo, del análisis de la memoria técnica de la empresa_u se constata qu
 
 En particular, la ausencia de una planificación temporal verificable constituye una carencia crítica que condiciona de manera determinante la valoración global del bloque.
 
-#### 1.4.4.2. Calendario de los trabajos a desarrollar (11 puntos)
+#### Calendario de los trabajos a desarrollar (11 puntos)
 
-### 1.4.5. Análisis técnico
+### Análisis técnico
 
 La propuesta presenta la planificación a través de una descripción genérica de fases del servicio, sin incorporar una estructuración temporal detallada de los trabajos a desarrollar.
 
@@ -401,17 +401,17 @@ Desde un punto de vista técnico, la planificación aportada no permite realizar
 
 Resulta especialmente relevante que el contrato objeto del procedimiento implica la ejecución simultánea de un número elevado de proyectos interrelacionados, lo que hace imprescindible una planificación temporal estructurada que no se encuentra presente en la propuesta.
 
-### 1.4.6. Valoración
+### Valoración
 
 El calendario de trabajos no puede considerarse definido conforme a los requisitos del pliego, al tratarse de una descripción general sin desarrollo técnico verificable.
 
 Se trata de una **deficiencia crítica**, al impedir acreditar la viabilidad temporal del servicio.
 
-### 1.4.7. Puntuación asignada: 0,50 sobre 11
+### Puntuación asignada: 0,50 sobre 11
 
-#### 1.4.7.1. Análisis de riesgos del proyecto (1 punto)
+#### Análisis de riesgos del proyecto (1 punto)
 
-### 1.4.8. Análisis técnico
+### Análisis técnico
 
 La propuesta incluye un apartado específico de análisis de riesgos, estructurado de acuerdo con metodologías estándar.
 
@@ -435,15 +435,15 @@ No obstante, el análisis presenta las siguientes limitaciones:
 
 Pese a estas limitaciones, el contenido permite identificar un conocimiento básico de los enfoques metodológicos aplicables a la gestión de riesgos, siendo por tanto parcialmente evaluable.
 
-### 1.4.9. Valoración
+### Valoración
 
 Se reconoce un valor técnico limitado, circunscrito al plano conceptual.
 
-### 1.4.10. Puntuación asignada: 0,30 sobre 1
+### Puntuación asignada: 0,30 sobre 1
 
-#### 1.4.10.1. Plan de gestión de contingencias (1 punto)
+#### Plan de gestión de contingencias (1 punto)
 
-### 1.4.11. Análisis técnico
+### Análisis técnico
 
 La propuesta contempla referencias genéricas a la gestión de contingencias, alineadas con los principios metodológicos descritos en la gestión de riesgos.
 
@@ -461,15 +461,15 @@ Asimismo, no existe vinculación entre las contingencias y los sistemas concreto
 
 En consecuencia, la propuesta no permite verificar la capacidad efectiva de respuesta ante incidencias o situaciones críticas durante la ejecución del servicio.
 
-### 1.4.12. Valoración
+### Valoración
 
 El plan de contingencias no se encuentra definido en términos evaluables, si bien se identifican referencias conceptuales básicas.
 
-### 1.4.13. Puntuación asignada: 0,20 sobre 1
+### Puntuación asignada: 0,20 sobre 1
 
-#### 1.4.13.1. Plan de gestión de la calidad del servicio (1 punto)
+#### Plan de gestión de la calidad del servicio (1 punto)
 
-### 1.4.14. Análisis técnico
+### Análisis técnico
 
 La propuesta incorpora un apartado específico relativo a la gestión de la calidad, estructurado conforme a metodologías ampliamente reconocidas.
 
@@ -493,15 +493,15 @@ No obstante, el desarrollo presenta las siguientes limitaciones:
 
 A pesar de ello, el contenido muestra una estructura formal coherente y alineada con buenas prácticas, lo que permite su consideración como parcialmente evaluable.
 
-### 1.4.15. Valoración
+### Valoración
 
 Se reconoce valor metodológico formal, aunque con limitada aplicabilidad práctica.
 
-### 1.4.16. Puntuación asignada: 0,30 sobre 1
+### Puntuación asignada: 0,30 sobre 1
 
-#### 1.4.16.1. Trazabilidad del servicio (1 punto)
+#### Trazabilidad del servicio (1 punto)
 
-### 1.4.17. Análisis técnico
+### Análisis técnico
 
 La propuesta hace referencia a mecanismos de trazabilidad dentro del marco general de gestión del servicio, incluyendo:
 
@@ -525,13 +525,13 @@ La ausencia de estos elementos limita la capacidad de verificar de forma objetiv
 
 No obstante, la existencia de referencias estructuradas permite reconocer un nivel básico de planteamiento metodológico.
 
-### 1.4.18. Valoración
+### Valoración
 
 Se reconoce valor parcial, de carácter conceptual.
 
-### 1.4.19. Puntuación asignada: 0,20 sobre 1
+### Puntuación asignada: 0,20 sobre 1
 
-#### 1.4.19.1. Resultado del bloque de planificación
+#### Resultado del bloque de planificación
 
 | **Subcriterio** | **Puntuación** |
 | --- | --- |
@@ -542,7 +542,7 @@ Se reconoce valor parcial, de carácter conceptual.
 | Trazabilidad | 0,20 / 1 |
 | **Total** | **1,50 / 15** |
 
-### 1.4.20. Resultado final de la valoración
+### Resultado final de la valoración
 
 Como resultado de la evaluación realizada, la propuesta presentada por la empresa_u obtiene las siguientes puntuaciones:
 
@@ -551,7 +551,7 @@ Como resultado de la evaluación realizada, la propuesta presentada por la empre
 
 **La puntuación total asciende a 3,70 puntos sobre un máximo de 30.**
 
-### 1.4.21. Consideración final de la valoración
+### Consideración final de la valoración
 
 La puntuación obtenida refleja de manera fiel el nivel de desarrollo técnico real de la propuesta, así como su falta de adecuación a los requisitos establecidos en el pliego.
 
@@ -559,9 +559,9 @@ Debe señalarse que esta valoración no se basa en la ausencia de determinados e
 
 En consecuencia, la puntuación asignada responde a un análisis técnico coherente, proporcional y plenamente alineado con los criterios del Documento de Invitación, constituyendo una valoración sólida y defendible desde el punto de vista jurídico.
 
-## 1.5. CONCLUSIONES Y PROPUESTA DE EXCLUSIÓN
+## CONCLUSIONES Y PROPUESTA DE EXCLUSIÓN
 
-### 1.5.1. Conclusión global de la evaluación técnica
+### Conclusión global de la evaluación técnica
 
 El análisis técnico desarrollado a lo largo del presente informe permite concluir de manera fundada que la propuesta presentada por la empresa_u no alcanza el nivel mínimo exigido para garantizar la correcta ejecución del contrato en los términos establecidos en el Documento de Invitación.
 
@@ -571,7 +571,7 @@ Esta conclusión no se basa en deficiencias puntuales o en aspectos secundarios 
 
 En consecuencia, la propuesta no puede considerarse adecuada a los requisitos definidos en el pliego, ni desde el punto de vista técnico ni desde el punto de vista operativo.
 
-### 1.5.2. Coherencia entre análisis técnico y resultado de la valoración
+### Coherencia entre análisis técnico y resultado de la valoración
 
 La puntuación final obtenida, de 3,70 puntos sobre un máximo de 30, es el resultado directo del análisis técnico realizado, existiendo una correspondencia clara y trazable entre las deficiencias detectadas y la valoración asignada en cada uno de los subcriterios definidos en el apartado 7.2 del Documento de Invitación.
 
@@ -583,7 +583,7 @@ Al mismo tiempo, se han reconocido de forma proporcional aquellos elementos de l
 
 En consecuencia, la puntuación final refleja de manera fiel el nivel real de desarrollo técnico de la propuesta, sin incurrir en desviaciones ni en sobrevaloraciones no justificadas.
 
-### 1.5.3. Impacto de la falta de evaluabilidad en la valoración
+### Impacto de la falta de evaluabilidad en la valoración
 
 Uno de los factores más determinantes en la valoración de la propuesta es la falta de evaluabilidad de una parte sustancial de su contenido.
 
@@ -593,7 +593,7 @@ Este criterio ha sido reiteradamente reconocido en la doctrina de los órganos d
 
 En este contexto, la imposibilidad de evaluar una parte significativa de la propuesta no constituye una apreciación subjetiva, sino una consecuencia directa del contenido presentado, lo que justifica plenamente la puntuación reducida asignada.
 
-### 1.5.4. Relevancia de las deficiencias detectadas en la planificación
+### Relevancia de las deficiencias detectadas en la planificación
 
 La planificación del servicio constituye un elemento esencial para garantizar la correcta ejecución del contrato, especialmente en un entorno de elevada complejidad como el de Educamadrid.
 
@@ -603,7 +603,7 @@ Esta carencia no puede considerarse menor o subsanable mediante interpretaciones
 
 En consecuencia, la falta de planificación estructurada debe ser considerada como una deficiencia crítica que afecta de forma directa a la puntuación del bloque de planificación del servicio y, por extensión, al resultado global de la evaluación.
 
-### 1.5.5. Justificación de la insuficiencia técnica de la propuesta
+### Justificación de la insuficiencia técnica de la propuesta
 
 Atendiendo a lo expuesto en los apartados anteriores, puede afirmarse que la propuesta presentada por la empresa_u no alcanza un nivel técnico suficiente para garantizar la correcta ejecución del contrato.
 
@@ -621,7 +621,7 @@ Esta insuficiencia se manifiesta de forma clara en los siguientes aspectos:
 
 Estos elementos no solo limitan la evaluación de la propuesta, sino que constituyen indicios objetivos de que la misma no reúne las condiciones necesarias para asegurar el cumplimiento de las obligaciones derivadas del contrato.
 
-### 1.5.6. Aplicación del umbral mínimo de calidad
+### Aplicación del umbral mínimo de calidad
 
 El Documento de Invitación establece la existencia de un umbral mínimo de calidad en los criterios sujetos a juicio de valor, cuya superación resulta imprescindible para continuar en el procedimiento de adjudicación.
 
@@ -633,7 +633,7 @@ En el presente caso, la propuesta analizada obtiene una puntuación total de 3,7
 
 En consecuencia, no existe margen de apreciación o discrecionalidad en este punto, debiendo aplicarse de forma directa la consecuencia prevista en el pliego para este supuesto.
 
-### 1.5.7. Propuesta de exclusión
+### Propuesta de exclusión
 
 A la vista de lo expuesto, procede proponer la exclusión de la oferta presentada por la empresa_u del procedimiento de adjudicación, al no alcanzar el umbral mínimo de calidad exigido en los criterios sujetos a juicio de valor.
 
@@ -649,7 +649,7 @@ Esta propuesta de exclusión se fundamenta en:
 
 Debe subrayarse que esta exclusión no tiene carácter discrecional, sino que constituye la consecuencia directa y necesaria de la aplicación de los criterios establecidos en el pliego y en la normativa vigente.
 
-### 1.5.8. Conclusión final
+### Conclusión final
 
 El presente informe pone de manifiesto, mediante un análisis técnico detallado y una valoración fundamentada, que la propuesta presentada por la empresa_u no acredita un nivel suficiente de calidad técnica para garantizar la correcta ejecución del contrato.
 
@@ -657,15 +657,15 @@ La puntuación obtenida refleja de manera fiel esta insuficiencia, situándose c
 
 El informe se presenta con la debida motivación técnica, trazabilidad en la valoración y coherencia con los criterios del pliego, constituyendo una base sólida, objetiva y defendible frente a cualquier eventual alegación en el ámbito del procedimiento de contratación.
 
-## 1.6. CAPÍTULO PROPUESTA FINAL Y FUNDAMENTACIÓN DE LA DECISIÓN
+## CAPÍTULO PROPUESTA FINAL Y FUNDAMENTACIÓN DE LA DECISIÓN
 
-### 1.6.1. Objeto del capítulo
+### Objeto del capítulo
 
 El presente capítulo tiene por objeto formular la propuesta final derivada del análisis técnico realizado, integrando las conclusiones obtenidas en los capítulos anteriores y estableciendo de forma expresa las consecuencias administrativas que se derivan de la valoración efectuada.
 
 Asimismo, se incluye la fundamentación técnica y jurídica de la decisión adoptada, con el fin de garantizar su plena coherencia con el Documento de Invitación y su adecuación a los principios que rigen la contratación pública.
 
-### 1.6.2. Síntesis de la valoración técnica
+### Síntesis de la valoración técnica
 
 Como resultado del proceso de evaluación desarrollado, la propuesta presentada por la empresa_u ha obtenido una puntuación total de 3,70 puntos sobre un máximo de 30, correspondiente a los criterios sujetos a juicio de valor definidos en el apartado 7.2 del Pliego.
 
@@ -679,7 +679,7 @@ y la presencia de contenido no finalizado que impide garantizar la coherencia y 
 
 En su conjunto, estos elementos configuran una oferta que no alcanza el nivel mínimo exigido en términos de calidad técnica.
 
-### 1.6.3. Aplicación del criterio de umbral mínimo
+### Aplicación del criterio de umbral mínimo
 
 El Documento de Invitación establece la obligación de que las ofertas sometidas a juicio de valor alcancen un umbral mínimo de calidad técnica como requisito necesario para su continuidad en el procedimiento.
 
@@ -689,7 +689,7 @@ De acuerdo con lo establecido en la normativa de contratación pública, en part
 
 En el presente caso, la propuesta evaluada se sitúa muy por debajo del umbral mínimo fijado, sin que exista margen de interpretación que permita considerar su superación.
 
-### 1.6.4. Fundamentación jurídica de la decisión
+### Fundamentación jurídica de la decisión
 
 La decisión propuesta se fundamenta en los principios recogidos en la legislación de contratación pública, entre los que destacan el principio de objetividad, el principio de igualdad de trato y el principio de transparencia.
 
@@ -701,7 +701,7 @@ En tercer lugar, la transparencia se materializa en la trazabilidad completa ent
 
 Asimismo, debe destacarse que la exclusión propuesta no constituye una decisión discrecional del órgano de contratación, sino una consecuencia directa de la aplicación de los criterios establecidos en el pliego, una vez verificado el incumplimiento del umbral mínimo de calidad técnica.
 
-### 1.6.5. Propuesta final
+### Propuesta final
 
 A la vista de lo expuesto en el presente informe, se formula la siguiente propuesta:
 
@@ -709,7 +709,7 @@ proceder a la exclusión de la oferta presentada por la empresa_u del procedimie
 
 Esta propuesta se fundamenta en la insuficiencia técnica acreditada de la oferta, en la falta de evaluabilidad de una parte sustancial de su contenido y en la imposibilidad de verificar la viabilidad de las soluciones planteadas, circunstancias todas ellas debidamente acreditadas a lo largo del presente informe.
 
-### 1.6.6. Consideraciones finales
+### Consideraciones finales
 
 El presente informe ha sido elaborado conforme a criterios técnicos objetivos, garantizando la coherencia entre el análisis realizado y la valoración asignada, así como la adecuación de la decisión propuesta a los requisitos establecidos en el pliego y en la normativa aplicable.
 
@@ -717,11 +717,11 @@ Las conclusiones alcanzadas se encuentran debidamente motivadas y fundamentadas,
 
 En consecuencia, la propuesta de exclusión formulada responde a la aplicación estricta de los criterios de valoración y no a una apreciación discrecional, lo que garantiza su solidez frente a cualquier eventual alegación en vía administrativa o jurisdiccional.
 
-## 1.7. ANEXO RELACIÓN DE PROYECTOS Y GRADO DE DESARROLLO EN LA PROPUESTA TÉCNICA
+## ANEXO RELACIÓN DE PROYECTOS Y GRADO DE DESARROLLO EN LA PROPUESTA TÉCNICA
 
 El presente anexo tiene por objeto identificar, de forma sistemática, los proyectos y subproyectos incluidos en la memoria técnica presentada por la empresa_u, indicando para cada uno de ellos el grado real de desarrollo observado en la documentación aportada.
 
-## 1.8. Criterio de clasificación
+## Criterio de clasificación
 
 Se utiliza la siguiente tipología:
 
@@ -733,7 +733,7 @@ Se utiliza la siguiente tipología:
 
 - **No mencionado** → no aparece de forma identificable
 
-## 1.9. BLOQUE TRANSVERSAL (TRA)
+## BLOQUE TRANSVERSAL (TRA)
 
 | **Proyecto** | **Clasificación** |
 | --- | --- |
@@ -746,7 +746,7 @@ Se utiliza la siguiente tipología:
 | TRA7 | Propuesta técnica desarrollada de forma general |
 | TRA8 | Propuesta técnica desarrollada de forma general |
 
-## 1.10. AULAS VIRTUALES (AV)
+## AULAS VIRTUALES (AV)
 
 | **Proyecto** | **Clasificación** |
 | --- | --- |
@@ -772,7 +772,7 @@ Se utiliza la siguiente tipología:
 | AV20 | Pendiente de desarrollo en el documento |
 | AV21 | Pendiente de desarrollo en el documento |
 
-## 1.11. MEDIATECA (MED)
+## MEDIATECA (MED)
 
 | **Proyecto** | **Clasificación** |
 | --- | --- |
@@ -788,7 +788,7 @@ Se utiliza la siguiente tipología:
 | MED10 | Propuesta técnica desarrollada de forma general |
 | MED11 | Mención sin desarrollo completo |
 
-## 1.12. CORREO WEB (COR)
+## CORREO WEB (COR)
 
 | **Proyecto** | **Clasificación** |
 | --- | --- |
@@ -797,14 +797,14 @@ Se utiliza la siguiente tipología:
 | COR3 | Mención sin desarrollo completo |
 | COR4 | Mención sin desarrollo completo |
 
-## 1.13. CLOUD (CLO)
+## CLOUD (CLO)
 
 | **Proyecto** | **Clasificación** |
 | --- | --- |
 | CLO1 | Mención sin desarrollo completo |
 | CLO2 | Mención sin desarrollo completo |
 
-## 1.14. WORDPRESS MULTISITE (WPM)
+## WORDPRESS MULTISITE (WPM)
 
 | **Proyecto** | **Clasificación** |
 | --- | --- |
@@ -814,7 +814,7 @@ Se utiliza la siguiente tipología:
 | WPM4 | Mención sin desarrollo completo |
 | WPM5 | Propuesta técnica desarrollada de forma general (caso de uso operativo) |
 
-## 1.15. VIDEO (VID)
+## VIDEO (VID)
 
 | **Proyecto** | **Clasificación** |
 | --- | --- |
@@ -823,7 +823,7 @@ Se utiliza la siguiente tipología:
 | VID3 | Mención sin desarrollo completo |
 | VID4 | Mención sin desarrollo completo |
 
-## 1.16. SERVICIOS UNITARIOS
+## SERVICIOS UNITARIOS
 
 | **Proyecto** | **Clasificación** |
 | --- | --- |
@@ -834,7 +834,7 @@ Se utiliza la siguiente tipología:
 | BUS1 | Propuesta técnica desarrollada de forma general (optimización búsquedas) |
 | ANI1 | Mención sin desarrollo completo |
 
-## 1.17. RESTO DE SERVICIOS TRANSVERSALES
+## RESTO DE SERVICIOS TRANSVERSALES
 
 | **Proyecto** | **Clasificación** |
 | --- | --- |
@@ -859,7 +859,7 @@ Se utiliza la siguiente tipología:
 | EML | Mención sin desarrollo completo |
 | ABI | Mención sin desarrollo completo |
 
-## 1.18. WEKAN (WEK)
+## WEKAN (WEK)
 
 | **Proyecto** | **Clasificación** |
 | --- | --- |
@@ -868,7 +868,7 @@ Se utiliza la siguiente tipología:
 | WEK3 | Pendiente de desarrollo en el documento |
 | WEK4 | Pendiente de desarrollo en el documento |
 
-## 1.19. Conclusión del anexo
+## Conclusión del anexo
 
 La tabla anterior pone de manifiesto que únicamente un número muy reducido de proyectos incluye algún grado de desarrollo técnico, y en la mayoría de los casos dicho desarrollo es parcial y no alcanza el nivel requerido para su evaluación completa.
 
