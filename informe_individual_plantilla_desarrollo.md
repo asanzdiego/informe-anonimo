@@ -1,13 +1,13 @@
 # INFORME DE VALORACIÓN TÉCNICA INDIVIDUAL
 
-- **Contrato:** [DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])
+- **Contrato:** DESARROLLO EVOLUTIVO Y CORRECTIVO DE LAS AULAS VIRTUALES, LA MEDIATECA, LAS WEBS DE CENTRO, EL CORREO WEB, EMPIEZA Y OTRAS APLICACIONES DE EDUCAMADRID (BAC07_2026)
 - **Licitador:** [NOMBRE DEL LICITADOR]
 
 ## RESUMEN EJECUTIVO
 
 ### Objeto del informe
 
-El presente informe tiene por objeto realizar la **valoración técnica de la propuesta presentada por [NOMBRE DEL LICITADOR]** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los servicios de **[DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])**.
+El presente informe tiene por objeto realizar la **valoración técnica de la propuesta presentada por [NOMBRE DEL LICITADOR]** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los servicios de **DESARROLLO EVOLUTIVO Y CORRECTIVO DE LAS AULAS VIRTUALES, LA MEDIATECA, LAS WEBS DE CENTRO, EL CORREO WEB, EMPIEZA Y OTRAS APLICACIONES DE EDUCAMADRID (BAC07_2026)**.
 
 El informe determina la puntuación correspondiente a los criterios sujetos a juicio de valor, comprueba el cumplimiento del **umbral mínimo de 15 puntos sobre 30** y formula la propuesta de continuación o exclusión que procede para la oferta.
 
@@ -23,7 +23,7 @@ Este enfoque garantiza la trazabilidad entre **los requisitos definidos, las evi
 
 ### Principales conclusiones del análisis
 
-*Exponer los patrones que se repiten en los distintos bloques. Distinguir entre cobertura nominal y desarrollo técnico efectivo, e indicar si las conclusiones afectan a proyectos aislados o constituyen fortalezas o deficiencias estructurales de la oferta.*
+*Exponer los patrones que se repiten en los bloques TRA, AV, MED, COR, CLO, WPM, VID, servicios unitarios, sistemas complementarios y WEK. Distinguir entre cobertura nominal y desarrollo técnico efectivo, e indicar si las conclusiones afectan a proyectos aislados o constituyen fortalezas o deficiencias estructurales de la oferta.*
 
 ### Resultado de la valoración
 
@@ -41,7 +41,7 @@ Este enfoque garantiza la trazabilidad entre **los requisitos definidos, las evi
 
 ### Alcance del informe
 
-El presente informe evalúa la memoria técnica presentada por **[NOMBRE DEL LICITADOR]** para la prestación de los servicios de **[DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])**. El análisis comprende tanto la **solución técnica ofertada** como la **planificación del servicio**, de acuerdo con los criterios sujetos a juicio de valor establecidos en el apartado 7.2 del Documento de Invitación.
+El presente informe evalúa la memoria técnica presentada por **[NOMBRE DEL LICITADOR]** para la prestación de los servicios de **DESARROLLO EVOLUTIVO Y CORRECTIVO DE LAS AULAS VIRTUALES, LA MEDIATECA, LAS WEBS DE CENTRO, EL CORREO WEB, EMPIEZA Y OTRAS APLICACIONES DE EDUCAMADRID (BAC07_2026)**. El análisis comprende tanto la **solución técnica ofertada** como la **planificación del servicio**, de acuerdo con los criterios sujetos a juicio de valor establecidos en el apartado 7.2 del Documento de Invitación.
 
 La evaluación toma como referencia los proyectos, subproyectos, actuaciones y entregables definidos en el Anexo II, y atiende exclusivamente al contenido efectivamente desarrollado en la documentación presentada.
 
@@ -61,7 +61,21 @@ La evaluación se ajusta igualmente al **principio de evaluabilidad**, conforme 
 
 ### Contexto técnico del servicio
 
-*Describir brevemente el ámbito al que pertenece el informe —Desarrollo, Exteriores o Sistemas—, los principales servicios y tecnologías afectados, el número y la organización de los proyectos o subproyectos, sus dependencias, su criticidad y los requisitos relevantes de disponibilidad, rendimiento, seguridad, integración o continuidad. Este contenido debe adaptarse al lote o contrato y no puede unificarse entre los distintos informes.*
+El Anexo II define un conjunto amplio y heterogéneo de actuaciones sobre el ecosistema EducaMadrid. Se trata de un entorno de elevada complejidad técnica y operativa, caracterizado por:
+
+- la coexistencia de múltiples plataformas y tecnologías heterogéneas;
+
+- la existencia de dependencias funcionales y flujos de datos entre sistemas;
+
+- la necesidad de garantizar la disponibilidad y continuidad de servicios críticos;
+
+- la integración de nuevas funcionalidades sin comprometer la estabilidad del entorno existente;
+
+- la atención a requisitos de rendimiento, seguridad, escalabilidad, mantenibilidad y protección de datos;
+
+- y la ejecución coordinada de numerosos proyectos y entregables.
+
+Este contexto exige que las propuestas no se limiten a enumerar actuaciones o reproducir los requisitos, sino que definan soluciones concretas, coherentes, técnicamente viables y adaptadas al entorno real, de forma que pueda verificarse su ejecución en condiciones operativas.
 
 ### Naturaleza de la valoración
 
@@ -266,29 +280,43 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 ### Consideraciones generales sobre la propuesta
 
-*Ofrecer una primera visión transversal de la memoria: estructura y coherencia interna; cobertura del Anexo II; adaptación al entorno real; nivel de concreción; calidad de las arquitecturas y procedimientos; uso de herramientas y métricas; tratamiento de los requisitos no funcionales; y consistencia entre la solución, los recursos y la planificación. Señalar si las fortalezas o deficiencias observadas son puntuales o se repiten de forma estructural.*
+#### Enfoque global de evaluación
 
-### [BLOQUE O FAMILIA DE PROYECTOS — CÓDIGO]
+*Presentar una visión transversal de la capacidad de la oferta para convertir los requisitos del Anexo II en soluciones concretas, coherentes y verificables. No anticipar conclusiones que después no se desarrollen por bloques.*
 
-*Crear un bloque por cada familia funcional del Anexo II. Su denominación y número varían entre Desarrollo, Exteriores y Sistemas. Repetir toda esta estructura tantas veces como sea necesario.*
+#### Cobertura del Anexo II
 
-#### [CÓDIGO DEL PROYECTO O SUBPROYECTO] — [DENOMINACIÓN]
+*Distinguir entre proyectos desarrollados de forma suficiente, proyectos tratados de forma parcial o genérica y proyectos omitidos o no evaluables. Explicar si el patrón de cobertura es homogéneo o varía entre bloques.*
+
+#### Fortalezas y aportaciones de valor añadido
+
+*Identificar únicamente las mejoras acreditadas que superen el requisito base mediante nuevas capacidades, automatizaciones, herramientas, controles o resultados verificables. No considerar valor añadido la reformulación de una obligación del Documento de Invitación.*
+
+#### Carencias, errores y riesgos recurrentes
+
+*Sintetizar las omisiones, insuficiencias, incoherencias o errores técnicos y explicar su incidencia sobre la viabilidad, el rendimiento, la seguridad, la continuidad o la evaluabilidad de la solución.*
+
+### Análisis por bloques funcionales del Anexo II
+
+*En cada bloque se utilizará la estructura indicada a continuación. Repetir el apartado «Proyecto o subproyecto» para cada código que deba analizarse. Cuando varios proyectos reciban un tratamiento agregado en la memoria, justificar expresamente esa agrupación y conservar la trazabilidad individual en el anexo.*
+
+#### [CÓDIGO] — [DENOMINACIÓN]
 
 ##### Requisito y alcance
 
-*Resumir qué exige el Anexo II para este proyecto o subproyecto, incluyendo las funcionalidades, integraciones, condicionantes técnicos y entregables que sean relevantes para la evaluación.*
+*Resumir las funcionalidades, integraciones, condicionantes técnicos y entregables exigidos por el Anexo II.*
 
 ##### Análisis de la propuesta
 
-*Describir qué solución ofrece el licitador y contrastarla con el requisito. Identificar evidencias concretas de la memoria —arquitectura, tecnologías, procesos, herramientas, automatizaciones, métricas, pruebas, mecanismos de seguridad o entregables— y explicar su adecuación al entorno real.*
+*Contrastar la solución del licitador con el requisito e identificar las evidencias concretas incluidas en la memoria.*
 
-##### Fortalezas
+##### Fortalezas y valor añadido
 
-*Recoger únicamente los aspectos positivos acreditados y evaluables. Indicar, cuando proceda, si existe una mejora coherente o un valor añadido real respecto del requisito base.*
+*Recoger los aspectos positivos acreditados y distinguir el cumplimiento del requisito de las mejoras reales.*
 
-##### Carencias, omisiones o riesgos
+##### Carencias, omisiones, errores o riesgos
 
-*Identificar falta de detalle, contenido genérico, requisitos no tratados, incoherencias, errores técnicos, ausencia de métricas o cualquier limitación que afecte a la viabilidad o verificabilidad de la solución. Explicar su relevancia, sin suplir con inferencias la información que no figure en la oferta.*
+*Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad y explicar su relevancia.*
 
 ##### Valoración cualitativa
 
@@ -296,9 +324,197 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 *Justificar brevemente el nivel asignado y mantenerlo alineado con las evidencias expuestas.*
 
-### Conclusión del bloque [CÓDIGO]
+#### Bloque de servicios transversales (TRA)
 
-*Sintetizar el grado de cobertura y desarrollo del bloque, sus fortalezas y debilidades recurrentes, la relevancia de las omisiones o errores detectados y su incidencia en los subcriterios de arquitectura, comprensión, viabilidad, rendimiento y satisfacción de requisitos.*
+**Proyectos incluidos:** TRA1 a TRA8.
+
+##### Consideración general del bloque
+
+*Explicar el papel transversal del bloque y valorar de forma conjunta la gestión de identidades y usuarios, la coherencia e intercambio de datos, la interoperabilidad, la seguridad y los servicios comunes, según los requisitos aplicables.*
+
+##### [CÓDIGO DEL PROYECTO] — [DENOMINACIÓN]
+
+###### Requisito y alcance
+
+*Resumir las funcionalidades, integraciones, condicionantes técnicos y entregables exigidos para el proyecto.*
+
+###### Análisis de la propuesta
+
+*Contrastar la solución del licitador con el requisito e identificar las evidencias concretas incluidas en la memoria.*
+
+###### Fortalezas y valor añadido
+
+*Recoger los aspectos positivos acreditados y distinguir el cumplimiento del requisito de las mejoras reales.*
+
+###### Carencias, omisiones, errores o riesgos
+
+*Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad y explicar su relevancia.*
+
+###### Valoración cualitativa
+
+**Valoración cualitativa: [EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
+
+*Justificar brevemente el nivel asignado y mantenerlo alineado con las evidencias expuestas.*
+
+##### Conclusión del bloque TRA
+
+*Sintetizar el grado de desarrollo del bloque, sus fortalezas y debilidades recurrentes y su incidencia en la valoración global.*
+
+#### Bloque de Aulas Virtuales (AV — Moodle)
+
+**Proyectos incluidos:** AV1 a AV21.
+
+##### Consideración general del bloque
+
+*Valorar la evolución y mantenimiento de Moodle y sus componentes, integraciones, rendimiento, base de datos, seguridad, escalabilidad, operaciones de inicio de curso, funcionalidades avanzadas y continuidad del servicio.*
+
+##### [CÓDIGO DEL PROYECTO] — [DENOMINACIÓN]
+
+*Para cada proyecto, describir el requisito y alcance, analizar las evidencias de la propuesta, identificar fortalezas y valor añadido, recoger carencias, omisiones, errores o riesgos y asignar una valoración cualitativa motivada.*
+
+##### Integración, rendimiento, escalabilidad y continuidad del servicio
+
+*Analizar de forma transversal cómo se relacionan las soluciones del bloque, su comportamiento bajo carga, las operaciones asíncronas, la monitorización, la recuperación y la compatibilidad con el entorno existente.*
+
+##### Conclusión del bloque AV
+
+*Sintetizar la cobertura efectiva de AV1 a AV21 y el nivel de concreción, adecuación y evaluabilidad alcanzado.*
+
+#### Bloque de Mediateca (MED)
+
+**Proyectos incluidos:** MED1 a MED11.
+
+##### Consideración general del bloque
+
+*Valorar el tratamiento de contenidos multimedia, transcripción y subtitulado, búsqueda e indexación, almacenamiento y distribución, integraciones y evolución funcional de la plataforma.*
+
+##### [CÓDIGO DEL PROYECTO] — [DENOMINACIÓN]
+
+*Para cada proyecto, describir el requisito y alcance, analizar las evidencias de la propuesta, identificar fortalezas y valor añadido, recoger carencias, omisiones, errores o riesgos y asignar una valoración cualitativa motivada.*
+
+##### Arquitectura, procesamiento multimedia e integración
+
+*Examinar conjuntamente los flujos de procesamiento, las tecnologías propuestas, la persistencia e indexación, la distribución de contenidos, el rendimiento y la relación con otros sistemas de EducaMadrid.*
+
+##### Conclusión del bloque MED
+
+*Sintetizar la cobertura efectiva de MED1 a MED11 y la viabilidad y verificabilidad de las soluciones descritas.*
+
+#### Bloque de Correo Web (COR)
+
+**Proyectos incluidos:** COR1 a COR4.
+
+##### Consideración general del bloque
+
+*Valorar la evolución y mantenimiento del correo, las funcionalidades avanzadas o basadas en inteligencia artificial, la seguridad, la integración y la adaptación a la tecnología y arquitectura reales del servicio.*
+
+##### [CÓDIGO DEL PROYECTO] — [DENOMINACIÓN]
+
+*Analizar individualmente COR1 a COR4 mediante requisitos, evidencias, fortalezas, valor añadido, carencias, errores o riesgos y valoración cualitativa.*
+
+##### Conclusión del bloque COR
+
+*Sintetizar la cobertura, adecuación tecnológica, integración y evaluabilidad del bloque.*
+
+#### Bloque Cloud (CLO — Nextcloud y Collabora)
+
+**Proyectos incluidos:** CLO1 y CLO2.
+
+##### Consideración general del bloque
+
+*Valorar la gestión de almacenamiento y sincronización, la edición colaborativa, la arquitectura, el rendimiento, la seguridad y las integraciones con el ecosistema EducaMadrid.*
+
+##### [CÓDIGO DEL PROYECTO] — [DENOMINACIÓN]
+
+*Analizar individualmente CLO1 y CLO2 mediante requisitos, evidencias, fortalezas, valor añadido, carencias, errores o riesgos y valoración cualitativa.*
+
+##### Conclusión del bloque CLO
+
+*Sintetizar la viabilidad, profundidad técnica y evaluabilidad de las soluciones del bloque.*
+
+#### Bloque WordPress Multisite (WPM)
+
+**Proyectos incluidos:** WPM1 a WPM5.
+
+##### Consideración general del bloque
+
+*Valorar el mantenimiento y evolución de WordPress Multisite, sus componentes y licencias, la seguridad y protección perimetral, los mecanismos antiabuso, la autenticación y la operación del servicio.*
+
+##### [CÓDIGO DEL PROYECTO] — [DENOMINACIÓN]
+
+*Analizar individualmente WPM1 a WPM5 mediante requisitos, evidencias, fortalezas, valor añadido, carencias, errores o riesgos y valoración cualitativa.*
+
+##### Conclusión del bloque WPM
+
+*Sintetizar la cobertura, adecuación al entorno, seguridad y grado de desarrollo del bloque.*
+
+#### Bloque de Vídeo y Videoconferencia (VID)
+
+**Proyectos incluidos:** VID1 a VID4.
+
+##### Consideración general del bloque
+
+*Valorar la integración con plataformas educativas, el rendimiento y la escalabilidad, la calidad de servicio, la gestión de grabaciones, los eventos de alta concurrencia y la continuidad operativa.*
+
+##### [CÓDIGO DEL PROYECTO] — [DENOMINACIÓN]
+
+*Analizar individualmente VID1 a VID4 mediante requisitos, evidencias, fortalezas, valor añadido, carencias, errores o riesgos y valoración cualitativa.*
+
+##### Conclusión del bloque VID
+
+*Sintetizar la cobertura, arquitectura, rendimiento y evaluabilidad del bloque.*
+
+#### Servicios unitarios
+
+**Proyectos incluidos:** EMP1, LDAP, EXE, FOR1, BUS1 y ANI1.
+
+##### Consideración general del conjunto
+
+*Explicar la diversidad funcional de estos servicios y valorar cada uno conforme a sus requisitos específicos, evitando trasladar conclusiones de un sistema a otro sin evidencia.*
+
+##### [CÓDIGO DEL PROYECTO] — [DENOMINACIÓN]
+
+*Analizar individualmente EMP1, LDAP, EXE, FOR1, BUS1 y ANI1 mediante requisitos, evidencias, fortalezas, valor añadido, carencias, errores o riesgos y valoración cualitativa.*
+
+##### Conclusión de los servicios unitarios
+
+*Sintetizar el grado de cobertura y desarrollo del conjunto, señalando expresamente las diferencias relevantes entre sistemas.*
+
+#### Sistemas y servicios complementarios
+
+**Proyectos incluidos:** SYN, CAU, EDU, BAN, DTIC, SEG, ALB, AVI, FOR, BOL, AYU, POR, WES, IFZ, MAX, GES, USO, MAM, EML y ABI.
+
+##### Consideración general del conjunto
+
+*Valorar si la oferta trata estos sistemas como parte efectiva del alcance o se limita a menciones genéricas. Tener en cuenta sus requisitos específicos de integración, seguridad, operación, accesibilidad, comunicación, analítica o gestión funcional.*
+
+##### [CÓDIGO DEL PROYECTO] — [DENOMINACIÓN]
+
+*Analizar cada sistema mediante requisitos, evidencias, fortalezas, valor añadido, carencias, errores o riesgos y valoración cualitativa. Puede agruparse la exposición cuando la memoria aplique una solución común, pero debe mantenerse la trazabilidad de cada código.*
+
+##### Conclusión de los sistemas complementarios
+
+*Sintetizar la cobertura efectiva y explicar la incidencia del conjunto en la satisfacción global de los requisitos, dado su peso dentro del alcance total.*
+
+#### Bloque Wekan (WEK)
+
+**Proyectos incluidos:** WEK1 a WEK4.
+
+##### Consideración general del bloque
+
+*Valorar si los subproyectos reciben soluciones individualizadas o un tratamiento agregado y si este último permite comprobar el cumplimiento de cada requisito.*
+
+##### [CÓDIGO DEL PROYECTO] — [DENOMINACIÓN]
+
+*Analizar individualmente WEK1 a WEK4 mediante requisitos, evidencias, fortalezas, valor añadido, carencias, errores o riesgos y valoración cualitativa.*
+
+##### Conclusión del bloque WEK
+
+*Sintetizar la cobertura, profundidad técnica y trazabilidad alcanzadas en el bloque.*
+
+### Conclusión del análisis detallado
+
+*Integrar las conclusiones de los nueve bloques. Explicar el patrón global de cobertura, concreción, adaptación al entorno, arquitectura, integración, rendimiento, seguridad y evaluabilidad, y señalar qué elementos tendrán mayor incidencia en los subcriterios de valoración.*
 
 ## EVALUACIÓN DE LA SOLUCIÓN TÉCNICA OFERTADA
 
@@ -478,15 +694,142 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 - **Propuesta con valor añadido (VA):** incorpora una mejora real, coherente y suficientemente desarrollada mediante nuevas capacidades, herramientas, automatizaciones, arquitecturas o resultados verificables.
 
-### [BLOQUE O FAMILIA DE PROYECTOS — CÓDIGO]
+### Tablas de subproyectos
 
-*Repetir una tabla por cada bloque del Anexo II y adaptar las columnas si el expediente requiere distinguir de forma expresa la existencia de errores graves.*
+#### Bloque transversal (TRA)
 
-| **Proyecto** | **Grado de desarrollo**                   | **Mejora**     | **Error técnico** | **Observación** |
-| ------------ | ----------------------------------------- | -------------- | ----------------- | --------------- |
-| [CÓDIGO 1]   | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ]         | [JUSTIFICACIÓN] |
-| [CÓDIGO 2]   | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ]         | [JUSTIFICACIÓN] |
-| [CÓDIGO N]   | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ]         | [JUSTIFICACIÓN] |
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| TRA1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| TRA2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| TRA3 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| TRA4 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| TRA5 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| TRA6 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| TRA7 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| TRA8 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Aulas Virtuales (AV)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| AV1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV3 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV4 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV5 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV6 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV7 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV8 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV9 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV10 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV11 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV12 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV13 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV14 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV15 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV16 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV17 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV18 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV19 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV20 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AV21 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Mediateca (MED)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| MED1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| MED2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| MED3 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| MED4 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| MED5 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| MED6 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| MED7 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| MED8 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| MED9 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| MED10 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| MED11 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Correo Web (COR)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| COR1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| COR2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| COR3 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| COR4 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Cloud (CLO)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| CLO1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| CLO2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### WordPress Multisite (WPM)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| WPM1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| WPM2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| WPM3 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| WPM4 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| WPM5 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Vídeo y Videoconferencia (VID)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| VID1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| VID2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| VID3 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| VID4 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Servicios unitarios
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| EMP1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| LDAP | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| EXE | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| FOR1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| BUS1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ANI1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Sistemas y servicios complementarios
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| SYN | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| CAU | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| EDU | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| BAN | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| DTIC | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| SEG | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ALB | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AVI | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| FOR | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| BOL | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| AYU | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| POR | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| WES | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| IFZ | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| MAX | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| GES | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| USO | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| MAM | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| EML | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ABI | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Wekan (WEK)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| WEK1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| WEK2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| WEK3 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| WEK4 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 
 ### Resumen cuantitativo del anexo
 

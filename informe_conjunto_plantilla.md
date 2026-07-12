@@ -1,16 +1,18 @@
 # INFORME DE VALORACIÓN TÉCNICA
 
-**[DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])**
+[DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])
 
 ## INTRODUCCIÓN
 
 ### Objeto del informe
 
-*Indicar el objeto del contrato, el procedimiento o sistema dinámico de adquisición en el que se encuadra, el número de expediente y las empresas cuyas propuestas técnicas se valoran. Señalar también que el informe determina la puntuación de los criterios sujetos a juicio de valor, comprueba el umbral mínimo exigido y formula la correspondiente propuesta de admisión o exclusión.*
+El presente informe tiene por objeto realizar la **valoración técnica comparativa de las propuestas presentadas por empresa_s, empresa_n y empresa_u** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los servicios de **[DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])**.
+
+El informe determina la puntuación correspondiente a los criterios sujetos a juicio de valor, comprueba el cumplimiento del **umbral mínimo de 15 puntos sobre 30** y formula la propuesta de admisión o exclusión que procede para cada oferta.
 
 ### Marco normativo
 
-El presente informe se elabora en el marco del procedimiento de adjudicación correspondiente a **[DENOMINACIÓN DEL PROCEDIMIENTO O SISTEMA DINÁMICO DE ADQUISICIÓN]**, relativo a **[OBJETO DEL CONTRATO]**. El procedimiento se rige por lo dispuesto en la **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público** (en adelante, LCSP), por el Pliego de Cláusulas Administrativas Particulares y por las condiciones específicas establecidas en el Documento de Invitación y demás documentación reguladora del expediente.
+El presente informe se elabora en el marco del procedimiento de adjudicación correspondiente a **Sistema Dinámico de Adquisición SDA 26/2021**. El procedimiento se rige por lo dispuesto en la **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público** (en adelante, LCSP), por el Pliego de Cláusulas Administrativas Particulares y por las condiciones específicas establecidas en el Documento de Invitación y demás documentación reguladora del expediente.
 
 La valoración técnica se fundamenta en los **criterios de adjudicación sujetos a juicio de valor definidos en el apartado 7.2 del Documento de Invitación**, cuya finalidad es evaluar la calidad de las propuestas desde una perspectiva integral que contemple tanto la **adecuación de la solución técnica ofertada** como la **viabilidad organizativa y temporal de su ejecución**.
 
@@ -163,7 +165,6 @@ Este bloque evalúa la capacidad del licitador para organizar, coordinar, contro
 
 La planificación del servicio debe constituir una **herramienta real de gestión**, no una representación genérica de fases sin detalle suficiente para verificar la viabilidad temporal y operativa de la propuesta.
 
-
 Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de puntuación:
 
 - **EXCELENTE**: Excelente nivel de detalle en cuanto a la planificación, mediante un diagrama de Gantt o similar adaptado al proyecto, con muy buen detalle en cuanto a la ejecución de las diferentes tareas, con fechas específicas de cuándo se va a hacer cada tarea teniendo en cuenta el calendario escolar. Las tareas tienen una excelente coherencia en cuanto a su duración y su relación entre ellas para lograr la consecución de hitos y objetivos definidos. Se presenta un excelente análisis de riesgos del proyecto, un excelente plan de gestión de contingencias, un excelente plan de gestión de la calidad del servicio, y una excelente descripción de cómo se va a fiscalizar la trazabilidad del servicio.
@@ -214,38 +215,37 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 *Completar la tabla con el nivel cualitativo y los puntos de cada licitador. Añadir o eliminar parejas de columnas según el número de ofertas evaluadas.*
 
-| **Subcriterio** | **Máximo** | **[LICITADOR 1]: nivel** | **Puntos** | **[LICITADOR 2]: nivel** | **Puntos** | **[LICITADOR N]: nivel** | **Puntos** |
-| --- | ---: | --- | ---: | --- | ---: | --- | ---: |
-| Arquitectura | 2 | [NIVEL] | [0,00] | [NIVEL] | [0,00] | [NIVEL] | [0,00] |
-| Comprensión de requisitos | 2 | [NIVEL] | [0,00] | [NIVEL] | [0,00] | [NIVEL] | [0,00] |
-| Viabilidad | 1 | [NIVEL] | [0,00] | [NIVEL] | [0,00] | [NIVEL] | [0,00] |
-| Metodología | 1 | [NIVEL] | [0,00] | [NIVEL] | [0,00] | [NIVEL] | [0,00] |
-| Rendimiento | 1 | [NIVEL] | [0,00] | [NIVEL] | [0,00] | [NIVEL] | [0,00] |
-| Satisfacción de requisitos | 8 | [NIVEL] | [0,00] | [NIVEL] | [0,00] | [NIVEL] | [0,00] |
-| **Total** | **15** |  | **[0,00]** |  | **[0,00]** |  | **[0,00]** |
+| **Subcriterio**            | **Máximo** | **[LICITADOR 1]** | **Puntos** | **[LICITADOR 2]** | **Puntos** |
+| -------------------------- | ---------: | ----------------- | ---------: | ----------------- | ---------: |
+| Arquitectura               |          2 | [NIVEL]           |     [0,00] | [NIVEL]           |     [0,00] |
+| Comprensión de requisitos  |          2 | [NIVEL]           |     [0,00] | [NIVEL]           |     [0,00] |
+| Viabilidad                 |          1 | [NIVEL]           |     [0,00] | [NIVEL]           |     [0,00] |
+| Metodología                |          1 | [NIVEL]           |     [0,00] | [NIVEL]           |     [0,00] |
+| Rendimiento                |          1 | [NIVEL]           |     [0,00] | [NIVEL]           |     [0,00] |
+| Satisfacción de requisitos |          8 | [NIVEL]           |     [0,00] | [NIVEL]           |     [0,00] |
+| **Total**                  |     **15** |                   | **[0,00]** |                   | **[0,00]** |
 
 ### Valoración comparativa de la planificación del servicio
 
 *Completar la tabla con el nivel cualitativo y los puntos de cada licitador. Las puntuaciones deben ser consistentes con el análisis individual y con la aplicación de la escala de valoración.*
 
-| **Subcriterio** | **Máximo** | **[LICITADOR 1]: nivel** | **Puntos** | **[LICITADOR 2]: nivel** | **Puntos** | **[LICITADOR N]: nivel** | **Puntos** |
-| --- | ---: | --- | ---: | --- | ---: | --- | ---: |
-| Calendario y planificación | 11 | [NIVEL] | [0,00] | [NIVEL] | [0,00] | [NIVEL] | [0,00] |
-| Análisis de riesgos | 1 | [NIVEL] | [0,00] | [NIVEL] | [0,00] | [NIVEL] | [0,00] |
-| Plan de contingencias | 1 | [NIVEL] | [0,00] | [NIVEL] | [0,00] | [NIVEL] | [0,00] |
-| Plan de calidad | 1 | [NIVEL] | [0,00] | [NIVEL] | [0,00] | [NIVEL] | [0,00] |
-| Trazabilidad | 1 | [NIVEL] | [0,00] | [NIVEL] | [0,00] | [NIVEL] | [0,00] |
-| **Total** | **15** |  | **[0,00]** |  | **[0,00]** |  | **[0,00]** |
+| **Subcriterio**            | **Máximo** | **[LICITADOR 1]** | **Puntos** | **[LICITADOR 2]** | **Puntos** |
+| -------------------------- | ---------: | ----------------- | ---------: | ----------------- | ---------: |
+| Calendario y planificación |         11 | [NIVEL]           |     [0,00] | [NIVEL]           |     [0,00] |
+| Análisis de riesgos        |          1 | [NIVEL]           |     [0,00] | [NIVEL]           |     [0,00] |
+| Plan de contingencias      |          1 | [NIVEL]           |     [0,00] | [NIVEL]           |     [0,00] |
+| Plan de calidad            |          1 | [NIVEL]           |     [0,00] | [NIVEL]           |     [0,00] |
+| Trazabilidad               |          1 | [NIVEL]           |     [0,00] | [NIVEL]           |     [0,00] |
+| **Total**                  |     **15** |                   | **[0,00]** |                   | **[0,00]** |
 
 ### Resultado global de los criterios sujetos a juicio de valor
 
 *Sumar los dos bloques, comprobar los totales y señalar claramente qué ofertas alcanzan el umbral mínimo.*
 
 | **Licitador** | **Solución técnica** | **Planificación** | **Total sobre 30** | **Umbral de 15 puntos** |
-| --- | ---: | ---: | ---: | --- |
-| [LICITADOR 1] | [0,00] | [0,00] | **[0,00]** | [SUPERA / NO SUPERA] |
-| [LICITADOR 2] | [0,00] | [0,00] | **[0,00]** | [SUPERA / NO SUPERA] |
-| [LICITADOR N] | [0,00] | [0,00] | **[0,00]** | [SUPERA / NO SUPERA] |
+| ------------- | -------------------: | ----------------: | -----------------: | ----------------------- |
+| [LICITADOR 1] |               [0,00] |            [0,00] |         **[0,00]** | [SUPERA / NO SUPERA]    |
+| [LICITADOR 2] |               [0,00] |            [0,00] |         **[0,00]** | [SUPERA / NO SUPERA]    |
 
 ### Justificación de la valoración comparativa
 

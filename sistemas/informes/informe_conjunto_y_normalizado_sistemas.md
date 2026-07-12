@@ -1,18 +1,18 @@
 # INFORME DE VALORACIÓN TÉCNICA
 
-**Procedimiento SDA26 – Sistemas EducaMadrid**
+[DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])
 
 ## INTRODUCCIÓN
 
 ### Objeto del informe
 
-El presente informe tiene por objeto realizar la **valoración técnica comparativa de las propuestas presentadas por empresa_s y empresa_n** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA26**, relativo a los sistemas integrados en la plataforma EducaMadrid.
+El presente informe tiene por objeto realizar la **valoración técnica comparativa de las propuestas presentadas por empresa_s, empresa_n y empresa_u** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los servicios de **[DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])**.
 
 El informe determina la puntuación correspondiente a los criterios sujetos a juicio de valor, comprueba el cumplimiento del **umbral mínimo de 15 puntos sobre 30** y formula la propuesta de admisión o exclusión que procede para cada oferta.
 
 ### Marco normativo
 
-El presente informe se elabora en el marco del procedimiento de adjudicación correspondiente a **Sistema Dinámico de Adquisición SDA26**, relativo a **los servicios de desarrollo evolutivo y correctivo del portal educativo, sistema LDAP, infraestructura cloud, sistema operativo MAX y restantes sistemas integrados en la plataforma EducaMadrid**. El procedimiento se rige por lo dispuesto en la **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público** (en adelante, LCSP), por el Pliego de Cláusulas Administrativas Particulares y por las condiciones específicas establecidas en el Documento de Invitación y demás documentación reguladora del expediente.
+El presente informe se elabora en el marco del procedimiento de adjudicación correspondiente a **Sistema Dinámico de Adquisición SDA 26/2021**. El procedimiento se rige por lo dispuesto en la **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público** (en adelante, LCSP), por el Pliego de Cláusulas Administrativas Particulares y por las condiciones específicas establecidas en el Documento de Invitación y demás documentación reguladora del expediente.
 
 La valoración técnica se fundamenta en los **criterios de adjudicación sujetos a juicio de valor definidos en el apartado 7.2 del Documento de Invitación**, cuya finalidad es evaluar la calidad de las propuestas desde una perspectiva integral que contemple tanto la **adecuación de la solución técnica ofertada** como la **viabilidad organizativa y temporal de su ejecución**.
 

@@ -12,7 +12,7 @@ El informe determina la puntuación correspondiente a los criterios sujetos a ju
 
 ### Marco normativo
 
-El presente informe se elabora en el marco del procedimiento de adjudicación correspondiente a **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a **los servicios de desarrollo evolutivo, mantenimiento correctivo, soporte técnico y mejora del ecosistema tecnológico EducaMadrid**. El procedimiento se rige por lo dispuesto en la **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público** (en adelante, LCSP), por el Pliego de Cláusulas Administrativas Particulares y por las condiciones específicas establecidas en el Documento de Invitación y demás documentación reguladora del expediente.
+El presente informe se elabora en el marco del procedimiento de adjudicación correspondiente a **Sistema Dinámico de Adquisición SDA 26/2021**. El procedimiento se rige por lo dispuesto en la **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público** (en adelante, LCSP), por el Pliego de Cláusulas Administrativas Particulares y por las condiciones específicas establecidas en el Documento de Invitación y demás documentación reguladora del expediente.
 
 La valoración técnica se fundamenta en los **criterios de adjudicación sujetos a juicio de valor definidos en el apartado 7.2 del Documento de Invitación**, cuya finalidad es evaluar la calidad de las propuestas desde una perspectiva integral que contemple tanto la **adecuación de la solución técnica ofertada** como la **viabilidad organizativa y temporal de su ejecución**.
 
@@ -275,36 +275,36 @@ Desde una perspectiva comparada, puede afirmarse que mientras **empresa_s presen
 
 ### Valoración comparativa de la solución técnica ofertada
 
-| **Subcriterio** | **Máximo** | **empresa_s: nivel** | **Puntos** | **empresa_n: nivel** | **Puntos** | **empresa_u: nivel** | **Puntos** |
-| --- | ---: | --- | ---: | --- | ---: | --- | ---: |
-| Arquitectura | 2 | Excelente | 1,80 | Media-Alta | 1,00 | Media | 0,30 |
-| Comprensión de requisitos | 2 | Excelente | 1,90 | Media-Alta | 1,00 | Media | 0,30 |
-| Viabilidad | 1 | Excelente | 0,90 | Media | 0,40 | Baja | 0,20 |
-| Metodología | 1 | Excelente | 0,90 | Media | 0,40 | Media | 0,40 |
-| Rendimiento | 1 | Excelente | 0,90 | Media | 0,40 | Baja | 0,20 |
-| Satisfacción de requisitos | 8 | Excelente | 7,20 | Media | 2,50 | Baja | 0,80 |
-| **Total** | **15** |  | **13,60** |  | **5,70** |  | **2,20** |
+| **Subcriterio**            | **Máx** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** | **empresa_u** | **Puntos** |
+| -------------------------- | ------: | ------------- | ---------: | ------------- | ---------: | ------------- | ---------: |
+| Arquitectura               |       2 | Excelente     |       1,80 | Media-Alta    |       1,00 | Media         |       0,30 |
+| Comprensión de requisitos  |       2 | Excelente     |       1,90 | Media-Alta    |       1,00 | Media         |       0,30 |
+| Viabilidad                 |       1 | Excelente     |       0,90 | Media         |       0,40 | Baja          |       0,20 |
+| Metodología                |       1 | Excelente     |       0,90 | Media         |       0,40 | Media         |       0,40 |
+| Rendimiento                |       1 | Excelente     |       0,90 | Media         |       0,40 | Baja          |       0,20 |
+| Satisfacción de requisitos |       8 | Excelente     |       7,20 | Media         |       2,50 | Baja          |       0,80 |
+| **Total**                  |  **15** |               |  **13,60** |               |   **5,70** |               |   **2,20** |
 
 ### Valoración comparativa de la planificación del servicio
 
-| **Subcriterio** | **Máximo** | **empresa_s: nivel** | **Puntos** | **empresa_n: nivel** | **Puntos** | **empresa_u: nivel** | **Puntos** |
-| --- | ---: | --- | ---: | --- | ---: | --- | ---: |
-| Calendario y planificación | 11 | Excelente | 9,60 | Media | 3,75 | Baja | 0,50 |
-| Análisis de riesgos | 1 | Excelente | 0,85 | Alta | 0,55 | Baja | 0,30 |
-| Plan de contingencias | 1 | Excelente | 0,90 | Media | 0,40 | Baja | 0,20 |
-| Plan de calidad | 1 | Excelente | 0,90 | Media | 0,60 | Baja | 0,30 |
-| Trazabilidad | 1 | Excelente | 0,85 | Media | 0,30 | Baja | 0,20 |
-| **Total** | **15** |  | **13,10** |  | **5,60** |  | **1,50** |
+| **Subcriterio**            | **Máx** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** | **empresa_u** | **Puntos** |
+| -------------------------- | ------: | ------------- | ---------: | ------------- | ---------: | ------------- | ---------: |
+| Calendario y planificación |      11 | Excelente     |       9,60 | Media         |       3,75 | Baja          |       0,50 |
+| Análisis de riesgos        |       1 | Excelente     |       0,85 | Alta          |       0,55 | Baja          |       0,30 |
+| Plan de contingencias      |       1 | Excelente     |       0,90 | Media         |       0,40 | Baja          |       0,20 |
+| Plan de calidad            |       1 | Excelente     |       0,90 | Media         |       0,60 | Baja          |       0,30 |
+| Trazabilidad               |       1 | Excelente     |       0,85 | Media         |       0,30 | Baja          |       0,20 |
+| **Total**                  |  **15** |               |  **13,10** |               |   **5,60** |               |   **1,50** |
 
 ### Resultado global de los criterios sujetos a juicio de valor
 
 La suma de los dos bloques y la comprobación del umbral mínimo arrojan el siguiente resultado:
 
 | **Licitador** | **Solución técnica** | **Planificación** | **Total sobre 30** | **Umbral de 15 puntos** |
-| --- | ---: | ---: | ---: | --- |
-| empresa_s | 13,60 | 13,10 | **26,70** | SUPERA |
-| empresa_n | 5,70 | 5,60 | **11,30** | NO SUPERA |
-| empresa_u | 2,20 | 1,50 | **3,70** | NO SUPERA |
+| ------------- | -------------------: | ----------------: | -----------------: | ----------------------- |
+| empresa_s     |                13,60 |             13,10 |          **26,70** | SUPERA                  |
+| empresa_n     |                 5,70 |              5,60 |          **11,30** | NO SUPERA               |
+| empresa_u     |                 2,20 |              1,50 |           **3,70** | NO SUPERA               |
 
 ### Justificación de la valoración comparativa
 

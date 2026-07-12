@@ -1,22 +1,18 @@
 # INFORME DE VALORACIÓN TÉCNICA
 
-**Servicios de mantenimiento y soporte para proyectos exteriores alojados en la plataforma EducaMadrid (BAC01_2026)**
+SERVICIOS DE MANTENIMIENTO Y SOPORTE PARA PROYECTOS EXTERIORES ALOJADOS EN LA PLATAFORMA EEDUCAMADRID (BAC01_2026)
 
 ## INTRODUCCIÓN
 
 ### Objeto del informe
 
-El presente informe tiene por objeto realizar una **evaluación comparativa de las propuestas técnicas** presentadas por las empresas licitadoras **empresa_s,** y **empresa_n,** en el procedimiento de contratación correspondiente al expediente BAC01\_2026, relativo a los servicios de mantenimiento y soporte de proyectos exteriores de la plataforma EducaMadrid.
+El presente informe tiene por objeto realizar la **valoración técnica comparativa de las propuestas presentadas por empresa_s, empresa_n y empresa_u** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los servicios de **SERVICIOS DE MANTENIMIENTO Y SOPORTE PARA PROYECTOS EXTERIORES ALOJADOS EN LA PLATAFORMA EEDUCAMADRID (BAC01_2026)**.
 
-La finalidad del documento es analizar de forma **homogénea, objetiva, motivada y proporcional** las memorias técnicas presentadas por ambos licitadores, aplicando los criterios sometidos a juicio de valor establecidos en el Documento de Invitación, y determinar la puntuación correspondiente a cada oferta en los apartados evaluables mediante juicio técnico.
-
-Asimismo, el informe tiene por finalidad verificar el **cumplimiento del umbral mínimo exigido** por el pliego para continuar en el procedimiento, así como formular la propuesta correspondiente respecto de la admisión o exclusión de las ofertas evaluadas.
-
-La valoración realizada se fundamenta **exclusivamente en el contenido de las memorias técnicas** presentadas por los licitadores y en los criterios definidos en la documentación reguladora del procedimiento, sin incorporar elementos ajenos a la documentación aportada ni valoraciones derivadas de circunstancias externas al expediente.
+El informe determina la puntuación correspondiente a los criterios sujetos a juicio de valor, comprueba el cumplimiento del **umbral mínimo de 15 puntos sobre 30** y formula la propuesta de admisión o exclusión que procede para cada oferta.
 
 ### Marco normativo
 
-El presente informe se elabora en el marco del **procedimiento correspondiente al expediente BAC01_2026**, relativo a **los servicios de mantenimiento y soporte para proyectos exteriores alojados en la plataforma EducaMadrid**. El procedimiento se rige por lo dispuesto en la **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público** (en adelante, LCSP), por el Pliego de Cláusulas Administrativas Particulares y por las condiciones específicas establecidas en el Documento de Invitación y demás documentación reguladora del expediente.
+El presente informe se elabora en el marco del procedimiento de adjudicación correspondiente a **Sistema Dinámico de Adquisición SDA 26/2021**. El procedimiento se rige por lo dispuesto en la **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público** (en adelante, LCSP), por el Pliego de Cláusulas Administrativas Particulares y por las condiciones específicas establecidas en el Documento de Invitación y demás documentación reguladora del expediente.
 
 La valoración técnica se fundamenta en los **criterios de adjudicación sujetos a juicio de valor definidos en el apartado 7.2 del Documento de Invitación**, cuya finalidad es evaluar la calidad de las propuestas desde una perspectiva integral que contemple tanto la **adecuación de la solución técnica ofertada** como la **viabilidad organizativa y temporal de su ejecución**.
 
@@ -251,35 +247,35 @@ Como consecuencia de todo ello, el análisis comparativo realizado pone de manif
 
 ### Valoración comparativa de la solución técnica ofertada
 
-| **Subcriterio** | **Máximo** | **empresa_s: nivel** | **Puntos** | **empresa_n: nivel** | **Puntos** |
-| --- | ---: | --- | ---: | --- | ---: |
-| Arquitectura | 2 | Alta | 1,50 | Media | 0,90 |
-| Comprensión de requisitos | 2 | Alta | 1,75 | Media | 1,00 |
-| Viabilidad | 1 | Alta | 0,75 | Media-Baja | 0,40 |
-| Metodología | 1 | Media-Alta | 0,60 | Media | 0,50 |
-| Rendimiento | 1 | Media | 0,50 | Baja | 0,25 |
-| Satisfacción de requisitos | 8 | Alta | 5,75 | Baja | 4,20 |
-| **Total** | **15** |  | **10,85** |  | **7,25** |
+| **Subcriterio**            | **Máximo** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** |
+| -------------------------- | ---------: | ------------- | ---------: | ------------- | ---------: |
+| Arquitectura               |          2 | Alta          |       1,50 | Media         |       0,90 |
+| Comprensión de requisitos  |          2 | Alta          |       1,75 | Media         |       1,00 |
+| Viabilidad                 |          1 | Alta          |       0,75 | Media-Baja    |       0,40 |
+| Metodología                |          1 | Media-Alta    |       0,60 | Media         |       0,50 |
+| Rendimiento                |          1 | Media         |       0,50 | Baja          |       0,25 |
+| Satisfacción de requisitos |          8 | Alta          |       5,75 | Baja          |       4,20 |
+| **Total**                  |     **15** |               |  **10,85** |               |   **7,25** |
 
 ### Valoración comparativa de la planificación del servicio
 
-| **Subcriterio** | **Máximo** | **empresa_s: nivel** | **Puntos** | **empresa_n: nivel** | **Puntos** |
-| --- | ---: | --- | ---: | --- | ---: |
-| Calendario y planificación | 11 | Media | 5,50 | Baja | 1,80 |
-| Análisis de riesgos | 1 | Media-Alta | 0,60 | Media | 0,25 |
-| Plan de contingencias | 1 | Media-Alta | 0,60 | Media | 0,25 |
-| Plan de calidad | 1 | Media-Alta | 0,65 | Media | 0,25 |
-| Trazabilidad | 1 | Media | 0,50 | Media-Baja | 0,25 |
-| **Total** | **15** |  | **7,85** |  | **2,80** |
+| **Subcriterio**            | **Máximo** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** |
+| -------------------------- | ---------: | ------------- | ---------: | ------------- | ---------: |
+| Calendario y planificación |         11 | Media         |       5,50 | Baja          |       1,80 |
+| Análisis de riesgos        |          1 | Media-Alta    |       0,60 | Media         |       0,25 |
+| Plan de contingencias      |          1 | Media-Alta    |       0,60 | Media         |       0,25 |
+| Plan de calidad            |          1 | Media-Alta    |       0,65 | Media         |       0,25 |
+| Trazabilidad               |          1 | Media         |       0,50 | Media-Baja    |       0,25 |
+| **Total**                  |     **15** |               |   **7,85** |               |   **2,80** |
 
 ### Resultado global de los criterios sujetos a juicio de valor
 
 La suma de los dos bloques y la comprobación del umbral mínimo arrojan el siguiente resultado:
 
-| **Licitador** | **Solución técnica** | **Planificación** | **Total sobre 30** | **Umbral de 15 puntos** |
-| --- | ---: | ---: | ---: | --- |
-| empresa_s | 10,85 | 7,85 | **18,70** | SUPERA |
-| empresa_n | 7,25 | 2,80 | **9,90** | NO SUPERA |
+| **Licitador** | **Solución técnica** | **Planificación** | **Total** | **Umbral de 15 puntos** |
+| ------------- | -------------------: | ----------------: | --------: | ----------------------- |
+| empresa_s     |                10,85 |              7,85 | **18,70** | SUPERA                  |
+| empresa_n     |                 7,25 |              2,80 |  **9,90** | NO SUPERA               |
 
 ### Justificación de la valoración comparativa
 
@@ -320,9 +316,9 @@ Desde una perspectiva estrictamente comparativa, puede concluirse que la propues
 Como resultado de todo lo anterior, las puntuaciones finales obtenidas por los licitadores reflejan de forma proporcionada las fortalezas y debilidades identificadas durante la evaluación:
 
 | **Empresa** | **Solución técnica** | **Planificación** | **Total** |
-| --- | --- | --- | --- |
-| empresa_s, | 10,85 | 7,85 | **18,70** |
-| empresa_n, | 7,25 | 2,80 | **9,90** |
+| ----------- | -------------------- | ----------------- | --------- |
+| empresa_s,  | 10,85                | 7,85              | **18,70** |
+| empresa_n,  | 7,25                 | 2,80              | **9,90**  |
 
 En consecuencia, la valoración realizada permite afirmar que **ambas ofertas no se sitúan en un nivel técnico equiparable** y que la diferencia observada entre las puntuaciones finales constituye una consecuencia directa del **distinto grado de desarrollo, concreción y madurez** alcanzado por las soluciones propuestas. Desde esta perspectiva, las valoraciones asignadas resultan coherentes con la metodología de evaluación aplicada, con los criterios definidos en el Documento de Invitación y con las evidencias objetivamente identificadas en la documentación analizada.
 
@@ -335,9 +331,9 @@ Tal y como se establece en el apartado correspondiente del Documento de Invitaci
 Una vez finalizada la evaluación técnica comparada de las ofertas y consolidadas las puntuaciones obtenidas en los distintos criterios objeto de valoración, los resultados finales son los siguientes:
 
 | **Empresa** | **Puntuación total juicio de valor** | **Supera umbral** |
-| --- | --- | --- |
-| empresa_s, | 18,70 / 30 | Sí |
-| empresa_n, | 9,90 / 30 | No |
+| ----------- | ------------------------------------ | ----------------- |
+| empresa_s,  | 18,70 / 30                           | Sí                |
+| empresa_n,  | 9,90 / 30                            | No                |
 
 A la vista de los resultados anteriores, se constata que la oferta presentada por empresa_s **supera el umbral mínimo de calidad exigido por el Documento de Invitación**, obteniendo una puntuación total de **18,70 puntos sobre 30**. Por el contrario, la oferta presentada por empresa_n alcanza únicamente una puntuación total de **9,90 puntos sobre 30**, situándose por debajo del umbral mínimo establecido por el pliego para continuar en el procedimiento.
 

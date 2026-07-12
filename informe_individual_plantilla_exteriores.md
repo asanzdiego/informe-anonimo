@@ -1,13 +1,13 @@
 # INFORME DE VALORACIÓN TÉCNICA INDIVIDUAL
 
-- **Contrato:** [DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])
+- **Contrato:** SERVICIOS DE MANTENIMIENTO Y SOPORTE PARA PROYECTOS EXTERIORES ALOJADOS EN LA PLATAFORMA EEDUCAMADRID(BAC01_2026)
 - **Licitador:** [NOMBRE DEL LICITADOR]
 
 ## RESUMEN EJECUTIVO
 
 ### Objeto del informe
 
-El presente informe tiene por objeto realizar la **valoración técnica de la propuesta presentada por [NOMBRE DEL LICITADOR]** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los servicios de **[DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])**.
+El presente informe tiene por objeto realizar la **valoración técnica de la propuesta presentada por [NOMBRE DEL LICITADOR]** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los servicios de **SERVICIOS DE MANTENIMIENTO Y SOPORTE PARA PROYECTOS EXTERIORES ALOJADOS EN LA PLATAFORMA EEDUCAMADRID(BAC01_2026)**.
 
 El informe determina la puntuación correspondiente a los criterios sujetos a juicio de valor, comprueba el cumplimiento del **umbral mínimo de 15 puntos sobre 30** y formula la propuesta de continuación o exclusión que procede para la oferta.
 
@@ -23,7 +23,7 @@ Este enfoque garantiza la trazabilidad entre **los requisitos definidos, las evi
 
 ### Principales conclusiones del análisis
 
-*Exponer los patrones que se repiten en los distintos bloques. Distinguir entre cobertura nominal y desarrollo técnico efectivo, e indicar si las conclusiones afectan a proyectos aislados o constituyen fortalezas o deficiencias estructurales de la oferta.*
+*Exponer los patrones que se repiten en los bloques ELIF, IFP, EMOM, EDIN, EIPE, ESIS, ESEG, EDSA y EBBO. Distinguir entre cobertura nominal y desarrollo técnico efectivo, e indicar si las conclusiones afectan a subproyectos aislados o constituyen fortalezas o deficiencias estructurales de la oferta.*
 
 ### Resultado de la valoración
 
@@ -41,7 +41,7 @@ Este enfoque garantiza la trazabilidad entre **los requisitos definidos, las evi
 
 ### Alcance del informe
 
-El presente informe evalúa la memoria técnica presentada por **[NOMBRE DEL LICITADOR]** para la prestación de los servicios de **[DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])**. El análisis comprende tanto la **solución técnica ofertada** como la **planificación del servicio**, de acuerdo con los criterios sujetos a juicio de valor establecidos en el apartado 7.2 del Documento de Invitación.
+El presente informe evalúa la memoria técnica presentada por **[NOMBRE DEL LICITADOR]** para la prestación de los servicios de **SERVICIOS DE MANTENIMIENTO Y SOPORTE PARA PROYECTOS EXTERIORES ALOJADOS EN LA PLATAFORMA EEDUCAMADRID(BAC01_2026)**. El análisis comprende tanto la **solución técnica ofertada** como la **planificación del servicio**, de acuerdo con los criterios sujetos a juicio de valor establecidos en el apartado 7.2 del Documento de Invitación.
 
 La evaluación toma como referencia los proyectos, subproyectos, actuaciones y entregables definidos en el Anexo II, y atiende exclusivamente al contenido efectivamente desarrollado en la documentación presentada.
 
@@ -61,7 +61,23 @@ La evaluación se ajusta igualmente al **principio de evaluabilidad**, conforme 
 
 ### Contexto técnico del servicio
 
-*Describir brevemente el ámbito al que pertenece el informe —Desarrollo, Exteriores o Sistemas—, los principales servicios y tecnologías afectados, el número y la organización de los proyectos o subproyectos, sus dependencias, su criticidad y los requisitos relevantes de disponibilidad, rendimiento, seguridad, integración o continuidad. Este contenido debe adaptarse al lote o contrato y no puede unificarse entre los distintos informes.*
+Los proyectos exteriores son aplicaciones y servicios que, sin constituir el núcleo principal de EducaMadrid, se alojan en su infraestructura o se integran con componentes corporativos de la plataforma. El alcance reúne tecnologías, arquitecturas, responsables funcionales y niveles de criticidad heterogéneos, e incluye actuaciones sobre:
+
+- páginas web Liferay y su integración con Scribe CMS;
+
+- la plataforma Drupal de Innovación y Formación del Profesorado;
+
+- entornos MoodleMisc y sus integraciones;
+
+- aplicaciones heredadas del entorno Dinámicas y su espacio de transferencia de ficheros;
+
+- aplicaciones, plugins, scripts y adaptaciones front-end para integración con EducaMadrid;
+
+- infraestructura, software base, bases de datos, identidades, aprovisionamiento, monitorización, continuidad y seguridad de sistemas externos;
+
+- seguridad de aplicaciones web, desarrollo seguro y gestión del programa de Bug Bounty.
+
+La ejecución debe coordinarse con los responsables de los proyectos exteriores y con los servicios corporativos de EducaMadrid, manteniendo la compatibilidad, disponibilidad, seguridad, trazabilidad y continuidad del entorno. Por ello, no basta con enumerar actuaciones: la oferta debe definir soluciones concretas, técnicamente viables y adaptadas a las dependencias reales de cada subproyecto.
 
 ### Naturaleza de la valoración
 
@@ -266,29 +282,43 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 ### Consideraciones generales sobre la propuesta
 
-*Ofrecer una primera visión transversal de la memoria: estructura y coherencia interna; cobertura del Anexo II; adaptación al entorno real; nivel de concreción; calidad de las arquitecturas y procedimientos; uso de herramientas y métricas; tratamiento de los requisitos no funcionales; y consistencia entre la solución, los recursos y la planificación. Señalar si las fortalezas o deficiencias observadas son puntuales o se repiten de forma estructural.*
+#### Enfoque global de evaluación
 
-### [BLOQUE O FAMILIA DE PROYECTOS — CÓDIGO]
+*Presentar una visión transversal de la capacidad de la oferta para convertir los requisitos del Anexo II en soluciones concretas, coherentes y verificables. No anticipar conclusiones que después no se desarrollen por bloques.*
 
-*Crear un bloque por cada familia funcional del Anexo II. Su denominación y número varían entre Desarrollo, Exteriores y Sistemas. Repetir toda esta estructura tantas veces como sea necesario.*
+#### Cobertura del Anexo II
 
-#### [CÓDIGO DEL PROYECTO O SUBPROYECTO] — [DENOMINACIÓN]
+*Distinguir entre proyectos desarrollados de forma suficiente, proyectos tratados de forma parcial o genérica y proyectos omitidos o no evaluables. Explicar si el patrón de cobertura es homogéneo o varía entre bloques.*
+
+#### Fortalezas y aportaciones de valor añadido
+
+*Identificar únicamente las mejoras acreditadas que superen el requisito base mediante nuevas capacidades, automatizaciones, herramientas, controles o resultados verificables. No considerar valor añadido la reformulación de una obligación del Documento de Invitación.*
+
+#### Carencias, errores y riesgos recurrentes
+
+*Sintetizar las omisiones, insuficiencias, incoherencias o errores técnicos y explicar su incidencia sobre la viabilidad, el rendimiento, la seguridad, la continuidad o la evaluabilidad de la solución.*
+
+### Análisis por bloques funcionales del Anexo II
+
+*En cada bloque se utilizará la estructura indicada a continuación. Repetir el apartado «Proyecto o subproyecto» para cada código que deba analizarse. Cuando varios proyectos reciban un tratamiento agregado en la memoria, justificar expresamente esa agrupación y conservar la trazabilidad individual en el anexo.*
+
+#### [CÓDIGO] — [DENOMINACIÓN]
 
 ##### Requisito y alcance
 
-*Resumir qué exige el Anexo II para este proyecto o subproyecto, incluyendo las funcionalidades, integraciones, condicionantes técnicos y entregables que sean relevantes para la evaluación.*
+*Resumir las funcionalidades, integraciones, condicionantes técnicos y entregables exigidos por el Anexo II.*
 
 ##### Análisis de la propuesta
 
-*Describir qué solución ofrece el licitador y contrastarla con el requisito. Identificar evidencias concretas de la memoria —arquitectura, tecnologías, procesos, herramientas, automatizaciones, métricas, pruebas, mecanismos de seguridad o entregables— y explicar su adecuación al entorno real.*
+*Contrastar la solución del licitador con el requisito e identificar las evidencias concretas incluidas en la memoria.*
 
-##### Fortalezas
+##### Fortalezas y valor añadido
 
-*Recoger únicamente los aspectos positivos acreditados y evaluables. Indicar, cuando proceda, si existe una mejora coherente o un valor añadido real respecto del requisito base.*
+*Recoger los aspectos positivos acreditados y distinguir el cumplimiento del requisito de las mejoras reales.*
 
-##### Carencias, omisiones o riesgos
+##### Carencias, omisiones, errores o riesgos
 
-*Identificar falta de detalle, contenido genérico, requisitos no tratados, incoherencias, errores técnicos, ausencia de métricas o cualquier limitación que afecte a la viabilidad o verificabilidad de la solución. Explicar su relevancia, sin suplir con inferencias la información que no figure en la oferta.*
+*Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad y explicar su relevancia.*
 
 ##### Valoración cualitativa
 
@@ -296,9 +326,311 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 *Justificar brevemente el nivel asignado y mantenerlo alineado con las evidencias expuestas.*
 
-### Conclusión del bloque [CÓDIGO]
+### Proyectos Web Liferay (ELIF)
 
-*Sintetizar el grado de cobertura y desarrollo del bloque, sus fortalezas y debilidades recurrentes, la relevancia de las omisiones o errores detectados y su incidencia en los subcriterios de arquitectura, comprensión, viabilidad, rendimiento y satisfacción de requisitos.*
+#### Consideración general del bloque
+
+Este bloque comprende la adaptación y evolución de páginas externas integradas en Liferay y Scribe CMS, los elementos corporativos comunes, la presentación, la usabilidad y la accesibilidad. Deben valorarse la compatibilidad con las personalizaciones existentes, la mantenibilidad, el despliegue controlado, la validación multidispositivo y el cumplimiento de los estándares aplicables.
+
+#### ELIF1 — Adaptaciones de las páginas web Liferay
+
+*Analizar la revisión y adaptación de vistas públicas y de edición, plantillas y componentes asociados a Scribe CMS, así como la metodología, compatibilidad, pruebas y entregables propuestos.*
+
+#### ELIF2 — Barra de herramientas y pie común de EducaMadrid
+
+*Analizar la integración homogénea de la barra y el pie corporativos en los servicios externos, incluyendo compatibilidad, accesibilidad, despliegue, validación y gestión de personalizaciones.*
+
+#### ELIF3 — Mejoras de presentación
+
+*Analizar la evolución de páginas y plantillas JSP/JSTL, el cumplimiento de HTML5, el comportamiento responsive, el rendimiento front-end y los mecanismos de comprobación.*
+
+#### ELIF4 — Mejoras de usabilidad y accesibilidad
+
+*Analizar las actuaciones sobre espacios institucionales y boletines, los estándares de accesibilidad aplicables, las pruebas, la corrección de incidencias y el seguimiento del cumplimiento.*
+
+#### Conclusión del bloque ELIF
+
+*Sintetizar la cobertura de ELIF1 a ELIF4, la adaptación al entorno Liferay/Scribe CMS y el grado de desarrollo, mantenibilidad, accesibilidad y verificabilidad de las soluciones.*
+
+### Innovación y Formación del Profesorado (IFP)
+
+#### Consideración general del bloque
+
+El bloque aborda la actualización y evolución de la plataforma de Innovación y Formación del Profesorado basada en Drupal. Deben considerarse la migración de versión, las funcionalidades e integraciones, la continuidad, la seguridad, el rendimiento, el tratamiento de contenidos y la validación de la transición.
+
+#### IFP1 — Mejoras y mantenimiento de la web de Innovación y Formación del Profesorado
+
+*Analizar la arquitectura y estrategia de migración o actualización, la compatibilidad de módulos y contenidos, las integraciones, el plan de pruebas, el despliegue, el rollback, el rendimiento y los criterios de aceptación.*
+
+#### Conclusión del bloque IFP
+
+*Sintetizar la viabilidad y profundidad de la solución para IFP1, diferenciando una descripción de alto nivel de un plan ejecutable y verificable.*
+
+### Proyectos MoodleMisc (EMOM)
+
+#### Consideración general del bloque
+
+Este bloque reúne la actualización, adaptación, mantenimiento, seguridad y operación del entorno MoodleMisc. Deben valorarse la compatibilidad entre versiones, plugins e integraciones; el despliegue en los distintos entornos; la escalabilidad; el rendimiento; las copias de seguridad; la automatización; y la resolución de problemas específicos.
+
+#### EMOM1 — Actualización de la plataforma MoodleMisc
+
+*Analizar el inventario y la matriz de compatibilidad, la versión objetivo, la actualización de código y plugins, el despliegue en servidores y entornos, las pruebas, el rollback y la aceptación.*
+
+#### EMOM2 — Adaptación de la plataforma MoodleMisc
+
+*Analizar las adaptaciones e integraciones requeridas, la arquitectura propuesta, el escalado, las copias de seguridad distribuidas, la compatibilidad y las métricas de capacidad.*
+
+#### EMOM3 — Mantenimiento de la plataforma MoodleMisc
+
+*Analizar el mantenimiento correctivo, evolutivo y adaptativo, la gestión de incidencias, plugins, integraciones, rendimiento, copias y herramientas operativas.*
+
+#### EMOM4 — Mejora de la ciberseguridad en MoodleMisc
+
+*Analizar las medidas de endurecimiento, autenticación, configuración segura, cabeceras, protección de información, seguimiento de vulnerabilidades e indicadores de seguridad.*
+
+#### EMOM5 — Solución de problemas conocidos en MoodleMisc
+
+*Analizar el tratamiento individual de los problemas identificados, su reproducción, diagnóstico, corrección, prueba, despliegue y medición de tiempos y resultados.*
+
+#### EMOM6 — Configuraciones para conexiones externas
+
+*Analizar las configuraciones e integraciones con servicios externos, los escenarios contemplados, los mecanismos técnicos, la seguridad, la validación y el tratamiento de glosarios u otros elementos exigidos.*
+
+#### EMOM7 — Otras tareas específicas de actualización y procedimiento
+
+*Analizar la protocolización, automatización o actualización de tareas complejas, las dependencias, las herramientas, los controles y la repetibilidad de los procedimientos.*
+
+#### Conclusión del bloque EMOM
+
+*Sintetizar la cobertura de EMOM1 a EMOM7, el conocimiento del ecosistema Moodle y el equilibrio entre amplitud funcional, concreción técnica, rendimiento, seguridad y verificabilidad.*
+
+### Proyectos de Dinámicas (EDIN)
+
+#### Consideración general del bloque
+
+El entorno Dinámicas agrupa aplicaciones heredadas con arquitecturas, dependencias y estados de mantenimiento heterogéneos. Deben valorarse el inventario, la adaptación de código y componentes, la actualización tecnológica, la segregación, la seguridad, la adecuación al ENS, la continuidad y el control de accesos y ficheros.
+
+#### EDIN1 — Mantenimiento, actualización y adecuación ENS del entorno Dinámicas
+
+*Analizar el diagnóstico del entorno, la actualización progresiva, el tratamiento de aplicaciones heredadas, las medidas de seguridad, la correspondencia con el ENS, la monitorización y los indicadores de evolución.*
+
+#### EDIN2 — Mantenimiento, actualización y mejora del espacio FTP
+
+*Analizar la gestión de usuarios, directorios y permisos; la segregación; el uso de protocolos seguros; el cifrado y la autenticación; la trazabilidad; y la adecuación al ENS.*
+
+#### Conclusión del bloque EDIN
+
+*Sintetizar la adaptación de la propuesta al carácter heredado del entorno, la viabilidad de la modernización y el grado de formalización de la seguridad y del cumplimiento.*
+
+### Integración con la plataforma EducaMadrid (EIPE)
+
+#### Consideración general del bloque
+
+Este bloque comprende modificaciones de aplicaciones, plugins, scripts e interfaces necesarias para integrar proyectos exteriores con la plataforma. Deben valorarse el análisis de dependencias, la compatibilidad tecnológica, el ciclo de vida del software, la seguridad, la validación y el control del despliegue.
+
+#### EIPE1 — Modificación de aplicaciones, plugins y scripts de integración
+
+*Analizar el proceso de recepción y revisión técnica, la modificación de código, las integraciones corporativas, las pruebas, la documentación, el versionado y el despliegue.*
+
+#### EIPE2 — Modificaciones front-end (HTML, CSS y JavaScript)
+
+*Analizar las adaptaciones de interfaz, la compatibilidad, la accesibilidad, el rendimiento, la integración visual, las pruebas y los criterios de aceptación.*
+
+#### Conclusión del bloque EIPE
+
+*Sintetizar la capacidad de integrar sistemas heterogéneos de forma coherente, mantenible, segura y verificable.*
+
+### Proyectos de Sistemas Externos (ESIS)
+
+#### Consideración general del bloque
+
+El bloque ESIS cubre el ciclo completo de incorporación, operación, mantenimiento, seguridad y evolución de proyectos exteriores: software base y bases de datos, consultoría, identidades, aprovisionamiento, configuración, integraciones corporativas, documentación, riesgos, continuidad, monitorización, ciberseguridad y gestión de infraestructura.
+
+#### ESIS1 — Servicio de actualización del software base
+
+*Analizar la coordinación de actualizaciones, las matrices de compatibilidad y soporte, las pruebas, el despliegue progresivo y la reversión de cambios.*
+
+#### ESIS2 — Servicio de actualización de bases de datos
+
+*Analizar la actualización de los distintos gestores, la compatibilidad de aplicaciones, la integridad, las copias, las pruebas, la migración y el rollback.*
+
+#### ESIS3 — Consultoría de integración
+
+*Analizar el soporte técnico y funcional a responsables y desarrolladores, el estudio del impacto y la definición de soluciones de integración sostenibles.*
+
+#### ESIS4 — Consultoría de ciberseguridad
+
+*Analizar el asesoramiento para conexiones seguras, bastionado, conectores, adaptación de formatos y reducción del impacto sobre los servicios corporativos.*
+
+#### ESIS5 — Actualización de la autenticación centralizada de usuarios
+
+*Analizar la evolución de conectores SSO o LDAP, la compatibilidad, la migración, la protección de credenciales y la continuidad de la autenticación.*
+
+#### ESIS6 — Mantenimiento de la autenticación centralizada de usuarios
+
+*Analizar la operación, adaptación y seguimiento continuo de los mecanismos de identidad, interoperabilidad, trazabilidad y seguridad.*
+
+#### ESIS7 — Gestión de servicios para la sincronización de usuarios
+
+*Analizar la validación y sincronización bajo demanda de identidades y atributos, los controles, la protección de datos, la auditoría y la gestión de errores.*
+
+#### ESIS8 — Supervisión de usuarios de aplicaciones externas
+
+*Analizar el mantenimiento de la aplicación de supervisión, la autenticación, los perfiles, los controles de acceso, la consulta de datos y la trazabilidad.*
+
+#### ESIS9 — Soporte técnico en entornos de preproducción
+
+*Analizar la recepción, preparación, validación e integración de aplicativos externos antes de producción, con sus pruebas, evidencias y criterios de paso.*
+
+#### ESIS10 — Despliegue de aplicaciones externas en producción
+
+*Analizar el procedimiento de despliegue, aprobaciones, automatización, segregación de funciones, validación posterior, rollback y documentación.*
+
+#### ESIS11 — Integración con el gestor de servidores de bases de datos
+
+*Analizar el registro y gestión centralizada de los servidores y bases de datos, la seguridad, la automatización, el inventario y el seguimiento operativo.*
+
+#### ESIS12 — Estudio de los recursos solicitados
+
+*Analizar la toma de requisitos, el dimensionamiento, las dependencias, la capacidad, la criticidad y los entregables del estudio.*
+
+#### ESIS13 — Solicitud de los recursos necesarios
+
+*Analizar el flujo de solicitud y aprobación, la trazabilidad, la automatización, los responsables y la correspondencia con el estudio validado.*
+
+#### ESIS14 — Bastionado de los recursos solicitados
+
+*Analizar las guías y perfiles aplicados, la adecuación al ENS y a estándares de seguridad, la gestión de excepciones y la verificación del endurecimiento.*
+
+#### ESIS15 — Instalación de paquetería y gestión de dependencias
+
+*Analizar los repositorios, versiones, dependencias, vulnerabilidades, automatización, reproducibilidad y control del ciclo de vida del software.*
+
+#### ESIS16 — Configuración del entorno
+
+*Analizar la configuración de sistemas y servicios, la separación entre entornos, la automatización, el control de cambios, la validación y la auditoría.*
+
+#### ESIS17 — Integración con LDAP
+
+*Analizar los esquemas, conectores, sincronización, permisos, seguridad, pruebas, operación y trazabilidad de la integración con el directorio corporativo.*
+
+#### ESIS18 — Integración con el sistema de correo
+
+*Analizar la configuración SMTP, relay, autenticación, protección frente a abuso, registros de dominio, monitorización y validación del servicio.*
+
+#### ESIS19 — Integración con bases de datos
+
+*Analizar la interconexión con bases de datos de otros proyectos, la seguridad, los permisos, el cifrado, el rendimiento y el control de cambios.*
+
+#### ESIS20 — Integración con la CMDB
+
+*Analizar el alta y mantenimiento de elementos de configuración, las relaciones y dependencias, la calidad del dato, la automatización y la trazabilidad.*
+
+#### ESIS21 — Documentación del proyecto exterior
+
+*Analizar el inventario documental, la arquitectura, los procedimientos, responsables, versiones, repositorios, actualización y criterios de aceptación.*
+
+#### ESIS22 — Gestión del riesgo del proyecto exterior
+
+*Analizar la identificación, valoración, priorización, tratamiento, responsables, indicadores y revisión de los riesgos técnicos y operativos.*
+
+#### ESIS23 — Implementación de copias de seguridad y recuperación ante desastres
+
+*Analizar el alcance de las copias, retención, cifrado, restauración, replicación, RPO, RTO, pruebas y coordinación del plan de recuperación.*
+
+#### ESIS24 — Implementación de monitorización básica
+
+*Analizar la supervisión de disponibilidad y recursos, los umbrales, alertas, paneles, cobertura, responsables y procedimientos de respuesta.*
+
+#### ESIS25 — Implementación de monitorización avanzada
+
+*Analizar la monitorización externa, el rendimiento, la observabilidad, la correlación, la detección de anomalías y la integración con los procesos operativos.*
+
+#### ESIS26 — Implantación de medidas de ciberseguridad básicas
+
+*Analizar los controles básicos alineados con el ENS, el endurecimiento, la gestión de accesos y vulnerabilidades, las evidencias y el seguimiento.*
+
+#### ESIS27 — Implantación de medidas de ciberseguridad avanzadas
+
+*Analizar las capacidades avanzadas de detección, protección y respuesta, su integración con los sistemas corporativos, las herramientas y las métricas.*
+
+#### ESIS28 — Actualización de sistemas operativos
+
+*Analizar el control del ciclo de vida, la matriz de compatibilidad y soporte, la prevención del fin de vida, las pruebas, la planificación y el rollback.*
+
+#### ESIS29 — Gestión y seguimiento del proyecto
+
+*Analizar la gobernanza, los responsables, reuniones, indicadores, informes, hitos, control de cambios, incidencias y mecanismos de aprobación.*
+
+#### ESIS30 — Segmentación de la red de servidores
+
+*Analizar la arquitectura de red, zonas y flujos, reglas, mínimo privilegio, implantación progresiva, pruebas y monitorización de la segmentación.*
+
+#### ESIS31 — Optimización de la infraestructura de virtualización
+
+*Analizar el diagnóstico de capacidad, consolidación y rendimiento, la alta disponibilidad, la escalabilidad, la continuidad y los indicadores de mejora.*
+
+#### Conclusión del bloque ESIS
+
+*Sintetizar la cobertura de ESIS1 a ESIS31, distinguiendo entre respuesta formal y desarrollo efectivo. Explicar la coherencia del ciclo de incorporación y operación, así como las fortalezas y carencias recurrentes en automatización, seguridad, métricas, herramientas y trazabilidad.*
+
+### Seguridad de Aplicaciones Web (ESEG)
+
+#### Consideración general del bloque
+
+Este bloque aborda la evaluación continua de la seguridad de las aplicaciones web, la gestión y explotación de sus registros y la supervisión de la superficie de exposición. Deben valorarse el alcance, las metodologías, herramientas, evidencias, priorización, seguimiento y coordinación de la remediación.
+
+#### ESEG1 — Realización de auditorías y pentesting web
+
+*Analizar el alcance y metodología de las auditorías, las herramientas, los entornos, la clasificación y validación de hallazgos, los informes y el seguimiento de correcciones.*
+
+#### ESEG2 — Gestión de logs de las aplicaciones web
+
+*Analizar la recogida, normalización, retención, protección, integración con Wazuh, correlación, alertas, explotación y respuesta ante eventos.*
+
+#### ESEG3 — Análisis y protección de la superficie de ataque
+
+*Analizar el inventario y supervisión de dominios, DNS, certificados y activos expuestos, la detección de cambios, la priorización y el seguimiento de riesgos.*
+
+#### Conclusión del bloque ESEG
+
+*Sintetizar el grado de cobertura, especialización, continuidad y verificabilidad del modelo de seguridad de aplicaciones web.*
+
+### Desarrollo Seguro de Aplicaciones Web (EDSA)
+
+#### Consideración general del bloque
+
+Este bloque comprende el análisis de seguridad del código y el apoyo a los equipos de desarrollo para prevenir, resolver y verificar vulnerabilidades. Deben valorarse la integración en el ciclo de desarrollo, las técnicas de análisis, las herramientas, la gestión de hallazgos y la transferencia de conocimiento.
+
+#### EDSA1 — Análisis de código web
+
+*Analizar el alcance del análisis estático o dinámico, las herramientas, reglas, lenguajes, priorización, falsos positivos, evidencias y seguimiento de la remediación.*
+
+#### EDSA2 — Ayuda al desarrollo seguro de código web
+
+*Analizar el modelo de soporte, la gestión de consultas e incidencias, las guías, revisiones, formación, validación de correcciones y trazabilidad.*
+
+#### Conclusión del bloque EDSA
+
+*Sintetizar la capacidad de incorporar seguridad de forma continua y verificable en el desarrollo y mantenimiento de aplicaciones.*
+
+### Gestión del programa de Bug Bounty (EBBO)
+
+#### Consideración general del bloque
+
+El bloque comprende la revisión y gestión del programa de Bug Bounty, la recepción y tratamiento de informes y la coordinación de la información pública asociada al programa.
+
+#### EBBO1 — Mantenimiento y gestión del programa de Bug Bounty
+
+*Analizar los canales de recepción, triaje, validación, priorización, coordinación de la remediación, comunicación con participantes, plazos, métricas y actualización de la web del programa.*
+
+#### Conclusión del bloque EBBO
+
+*Sintetizar si la propuesta define un proceso completo, seguro, trazable y medible para gestionar el programa y sus hallazgos.*
+
+### Conclusión del análisis detallado
+
+*Integrar las conclusiones de los nueve bloques. Explicar el patrón global de cobertura, concreción, adaptación al entorno, arquitectura, integración, rendimiento, seguridad y evaluabilidad, y señalar qué elementos tendrán mayor incidencia en los subcriterios de valoración.*
 
 ## EVALUACIÓN DE LA SOLUCIÓN TÉCNICA OFERTADA
 
@@ -478,15 +810,105 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 - **Propuesta con valor añadido (VA):** incorpora una mejora real, coherente y suficientemente desarrollada mediante nuevas capacidades, herramientas, automatizaciones, arquitecturas o resultados verificables.
 
-### [BLOQUE O FAMILIA DE PROYECTOS — CÓDIGO]
+### Tablas de subproyectos
 
-*Repetir una tabla por cada bloque del Anexo II y adaptar las columnas si el expediente requiere distinguir de forma expresa la existencia de errores graves.*
+#### Proyectos Web Liferay (ELIF)
 
-| **Proyecto** | **Grado de desarrollo**                   | **Mejora**     | **Error técnico** | **Observación** |
-| ------------ | ----------------------------------------- | -------------- | ----------------- | --------------- |
-| [CÓDIGO 1]   | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ]         | [JUSTIFICACIÓN] |
-| [CÓDIGO 2]   | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ]         | [JUSTIFICACIÓN] |
-| [CÓDIGO N]   | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ]         | [JUSTIFICACIÓN] |
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| ELIF1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ELIF2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ELIF3 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ELIF4 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Innovación y Formación del Profesorado (IFP)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| IFP1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Proyectos MoodleMisc (EMOM)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| EMOM1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| EMOM2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| EMOM3 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| EMOM4 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| EMOM5 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| EMOM6 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| EMOM7 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Proyectos de Dinámicas (EDIN)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| EDIN1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| EDIN2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Integración con la plataforma EducaMadrid (EIPE)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| EIPE1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| EIPE2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Proyectos de Sistemas Externos (ESIS)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| ESIS1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS3 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS4 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS5 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS6 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS7 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS8 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS9 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS10 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS11 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS12 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS13 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS14 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS15 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS16 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS17 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS18 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS19 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS20 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS21 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS22 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS23 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS24 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS25 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS26 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS27 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS28 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS29 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS30 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESIS31 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Seguridad de Aplicaciones Web (ESEG)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| ESEG1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESEG2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| ESEG3 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Desarrollo Seguro de Aplicaciones Web (EDSA)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| EDSA1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+| EDSA2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
+
+#### Gestión del programa de Bug Bounty (EBBO)
+
+| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| --- | --- | --- | --- | --- |
+| EBBO1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 
 ### Resumen cuantitativo del anexo
 
