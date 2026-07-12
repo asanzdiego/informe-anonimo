@@ -196,7 +196,7 @@ La evaluación se apoya de forma directa en el **análisis detallado de las memo
 
 ## ANÁLISIS INDIVIDUAL DE LAS PROPUESTAS TÉCNICAS.
 
-### Propuesta técnica de empresa_s S.A.
+### Propuesta técnica de empresa_s
 
 La propuesta técnica presentada por empresa_s se caracteriza por un **enfoque estructurado**, con un **grado de desarrollo técnico notable** en una parte significativa de los subproyectos analizados, así como por una clara orientación hacia la operación en entornos complejos y de gran escala.
 
@@ -280,7 +280,7 @@ En conjunto, la propuesta de empresa_n presenta un **carácter claramente insufi
 
 ### Introducción y síntesis comparativa
 
-El análisis conjunto de las propuestas presentadas por empresa_s S.A. y empresa_n pone de manifiesto una **diferencia significativa en el nivel de desarrollo técnico, en la profundidad de las soluciones planteadas y en la capacidad de respuesta efectiva** a los requisitos establecidos en el Documento de Invitación.
+El análisis conjunto de las propuestas presentadas por empresa_s y empresa_n pone de manifiesto una **diferencia significativa en el nivel de desarrollo técnico, en la profundidad de las soluciones planteadas y en la capacidad de respuesta efectiva** a los requisitos establecidos en el Documento de Invitación.
 
 De forma general, ambas propuestas parten de una comprensión conceptual del entorno EducaMadrid; sin embargo, la forma en que dicha comprensión se materializa en **soluciones técnicas concretas difiere de manera sustancial**.
 
@@ -343,7 +343,7 @@ En conjunto, la comparación pone de manifiesto una **diferencia clara y objetiv
 
 ## CONCLUSIONES DE LA VALORACIÓN COMPARADA
 
-El análisis técnico comparado de las propuestas presentadas por empresa_s S.A. y empresa_n permite establecer, con base en criterios objetivos y verificables, una **diferencia significativa en el nivel de adecuación de ambas ofertas** respecto a los requisitos establecidos en el Documento de Invitación.
+El análisis técnico comparado de las propuestas presentadas por empresa_s y empresa_n permite establecer, con base en criterios objetivos y verificables, una **diferencia significativa en el nivel de adecuación de ambas ofertas** respecto a los requisitos establecidos en el Documento de Invitación.
 
 En primer lugar, debe señalarse que ambas propuestas han sido evaluadas conforme a los **mismos criterios**, aplicando de manera homogénea la metodología descrita en el apartado 7.2 del Documento de Invitación y garantizando en todo momento la **trazabilidad entre los elementos analizados y las puntuaciones asignadas**.
 
@@ -403,7 +403,7 @@ Dado que la puntuación máxima asociada a dichos criterios es de 30 puntos, el 
 
 A la vista de los resultados obtenidos en la evaluación realizada, se constata lo siguiente:
 
-- La oferta presentada por **empresa_s S.A.** obtiene una puntuación total en los criterios de juicio de valor de **20,85 puntos**, superando el umbral mínimo exigido.
+- La oferta presentada por **empresa_s** obtiene una puntuación total en los criterios de juicio de valor de **20,85 puntos**, superando el umbral mínimo exigido.
 
 - La oferta presentada por **empresa_n** obtiene una puntuación total de **11,45 puntos**, no alcanzando el umbral mínimo requerido.
 

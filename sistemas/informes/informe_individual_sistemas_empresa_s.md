@@ -2,7 +2,7 @@
 
 ## Objeto del informe
 
-**El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa empresa_s S.A.** en el procedimiento relativo al desarrollo evolutivo y correctivo del portal educativo, LDAP, cloud, sistema operativo MAX y otros sistemas de la plataforma EducaMadrid. La evaluación se realiza conforme a los criterios establecidos en el Documento de Invitación, con especial atención a los definidos en el apartado 7.2.2 relativos a criterios sujetos a juicio de valor.
+**El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa empresa_s** en el procedimiento relativo al desarrollo evolutivo y correctivo del portal educativo, LDAP, cloud, sistema operativo MAX y otros sistemas de la plataforma EducaMadrid. La evaluación se realiza conforme a los criterios establecidos en el Documento de Invitación, con especial atención a los definidos en el apartado 7.2.2 relativos a criterios sujetos a juicio de valor.
 
 El análisis tiene como finalidad determinar el nivel real de adecuación de la propuesta tanto en términos de calidad técnica como de viabilidad operativa, considerando la capacidad efectiva del licitador para ejecutar el servicio en un entorno de alta complejidad tecnológica y criticidad operativa como el descrito en el pliego.
 
@@ -1389,7 +1389,7 @@ En consecuencia, la trazabilidad presentada puede considerarse adecuada, aunque 
 
 ## RESULTADO FINAL CONSOLIDADO
 
-La puntuación total obtenida por la propuesta presentada por **empresa_s S.A.**, como resultado de la suma de los bloques correspondientes a la solución técnica ofertada y a la planificación del servicio, es la siguiente: [\[INFORME TÉ...ISTEMAS\_v2 | Word\]](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7B9004464D-73E7-4F3A-963B-3B5B7CDD5900%7D&file=INFORME%20T%C3%89CNICO%20CONSOLIDADO%20-%20SISTEMAS_v2.docx&action=default&mobileredirect=true>)
+La puntuación total obtenida por la propuesta presentada por **empresa_s**, como resultado de la suma de los bloques correspondientes a la solución técnica ofertada y a la planificación del servicio, es la siguiente: [\[INFORME TÉ...ISTEMAS\_v2 | Word\]](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7B9004464D-73E7-4F3A-963B-3B5B7CDD5900%7D&file=INFORME%20T%C3%89CNICO%20CONSOLIDADO%20-%20SISTEMAS_v2.docx&action=default&mobileredirect=true>)
 
 | **Bloque** | **Puntuación** |
 | --- | --- |
@@ -1403,7 +1403,7 @@ La puntuación total obtenida por la propuesta presentada por **empresa_s S.A.**
 
 ### Resultado agregado
 
-La puntuación total obtenida por la propuesta presentada por **empresa_s S.A.**, como resultado de la suma de los bloques correspondientes a la solución técnica ofertada y a la planificación del servicio, es la siguiente:
+La puntuación total obtenida por la propuesta presentada por **empresa_s**, como resultado de la suma de los bloques correspondientes a la solución técnica ofertada y a la planificación del servicio, es la siguiente:
 
 | **Bloque** | **Puntuación** |
 | --- | --- |

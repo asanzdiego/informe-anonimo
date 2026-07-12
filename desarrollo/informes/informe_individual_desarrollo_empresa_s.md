@@ -2,7 +2,7 @@
 
 ## Objeto del informe
 
-**El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa empresa_s S.A.** en el marco del procedimiento basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo, soporte técnico y mejora continua del ecosistema tecnológico EducaMadrid.
+**El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por la empresa empresa_s** en el marco del procedimiento basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo, soporte técnico y mejora continua del ecosistema tecnológico EducaMadrid.
 
 **La valoración se realiza conforme a los criterios establecidos en el Documento de Invitación, en particular los recogidos en su apartado relativo a los criterios sujetos a juicio de valor.** El análisis se ha efectuado exclusivamente sobre el contenido de la memoria técnica presentada por el licitador, sin considerar aspectos de naturaleza económica.
 
@@ -76,7 +76,7 @@ El contenido de la memoria permite verificar de manera objetiva la adecuación d
 
 ### Objeto del informe
 
-**El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por empresa_s S.A.** en el procedimiento de contratación basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo y mejora del ecosistema EducaMadrid.
+**El presente informe tiene por objeto la evaluación técnica de la propuesta presentada por empresa_s** en el procedimiento de contratación basado en el Sistema Dinámico de Adquisición SDA 26/2021, relativo a los servicios de desarrollo evolutivo, mantenimiento correctivo y mejora del ecosistema EducaMadrid.
 
 La valoración se realiza conforme a los criterios establecidos en el Documento de Invitación, centrándose en los aspectos sujetos a juicio de valor.
 
@@ -990,7 +990,7 @@ En consecuencia, el conjunto de la solución técnica se sitúa en un nivel alto
 
 ### Fundamentación de la valoración
 
-**La valoración técnica de la propuesta presentada por empresa_s S.A.** se ha llevado a cabo conforme a los criterios definidos en el Documento de Invitación, tomando como base el análisis técnico exhaustivo desarrollado en el Capítulo 2 del presente informe.
+**La valoración técnica de la propuesta presentada por empresa_s** se ha llevado a cabo conforme a los criterios definidos en el Documento de Invitación, tomando como base el análisis técnico exhaustivo desarrollado en el Capítulo 2 del presente informe.
 
 Este enfoque metodológico garantiza que la puntuación asignada es el resultado directo de un proceso de evaluación objetivo, trazable y verificable, basado exclusivamente en el contenido de la memoria técnica aportada por el licitador.
 
@@ -1254,7 +1254,7 @@ Como resultado de la evaluación:
 
 La valoración técnica recogida en el presente informe se ha realizado en estricta aplicación de lo previsto en el Documento de Invitación, y en particular conforme a los criterios sujetos a juicio de valor definidos en su apartado correspondiente.
 
-**El análisis se ha limitado exclusivamente al contenido de la memoria técnica presentada por la empresa empresa_s S.A., sin incorporar inferencias, presunciones de ejecución futura ni referencias a capacidades no explicitadas en la documentación aportada.** Este criterio responde al principio de objetividad que rige los procedimientos de contratación pública, conforme al cual la evaluación de las ofertas debe fundamentarse en elementos verificables contenidos en las mismas.
+**El análisis se ha limitado exclusivamente al contenido de la memoria técnica presentada por la empresa empresa_s, sin incorporar inferencias, presunciones de ejecución futura ni referencias a capacidades no explicitadas en la documentación aportada.** Este criterio responde al principio de objetividad que rige los procedimientos de contratación pública, conforme al cual la evaluación de las ofertas debe fundamentarse en elementos verificables contenidos en las mismas.
 
 Asimismo, se ha aplicado de forma uniforme el mismo enfoque metodológico utilizado en la evaluación del resto de ofertas del procedimiento, garantizando así el cumplimiento del principio de igualdad de trato entre licitadores.
 
@@ -1376,7 +1376,7 @@ Este enfoque permite descartar cualquier posibilidad de tratamiento desigual, as
 
 ### Conclusión final del informe
 
-**A la vista del análisis técnico realizado, se concluye que la propuesta presentada por empresa_s S.A.** presenta un alto grado de adecuación a los requisitos del contrato, tanto en términos de desarrollo técnico como de viabilidad de las soluciones planteadas.
+**A la vista del análisis técnico realizado, se concluye que la propuesta presentada por empresa_s** presenta un alto grado de adecuación a los requisitos del contrato, tanto en términos de desarrollo técnico como de viabilidad de las soluciones planteadas.
 
 La puntuación obtenida, de **26,70 puntos** sobre un máximo de 30, refleja de manera fiel el nivel de calidad de la propuesta, situándola en los tramos superiores del baremo de valoración.
 
@@ -1386,7 +1386,7 @@ En consecuencia, puede afirmarse que la propuesta cumple plenamente los requisit
 
 ## ANEXO RELACIÓN DE PROYECTOS Y GRADO DE DESARROLLO EN LA PROPUESTA TÉCNICA DE empresa_s
 
-El presente anexo identifica, de manera sistemática, el grado de desarrollo técnico de los proyectos y subproyectos incluidos en el Anexo II del pliego, conforme a su tratamiento en la memoria técnica presentada por empresa_s S.A.
+El presente anexo identifica, de manera sistemática, el grado de desarrollo técnico de los proyectos y subproyectos incluidos en el Anexo II del pliego, conforme a su tratamiento en la memoria técnica presentada por empresa_s
 
 La clasificación utilizada distingue los siguientes niveles:
 

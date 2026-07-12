@@ -1,207 +1,347 @@
 # INFORME DE VALORACIÓN TÉCNICA
 
-**Servicios de mantenimiento y soporte para proyectos exteriores alojados en la plataforma EducaMadrid (BAC01_2026)**
+Servicios de mantenimiento y soporte para proyectos exteriores alojados en la plataforma EducaMadrid (BAC01_2026)
 
-## INTRODUCCIÓN
+## CAPÍTULO Base jurídica y normativa de la valoración
 
-### Objeto del informe
+## OBJETO DEL INFORME
 
-El presente informe tiene por objeto realizar una **evaluación comparativa de las propuestas técnicas** presentadas por las empresas licitadoras **empresa_s, S.A.** y **empresa_n, S.A.** en el procedimiento de contratación correspondiente al expediente BAC01\_2026, relativo a los servicios de mantenimiento y soporte de proyectos exteriores de la plataforma EducaMadrid.
+El presente informe tiene por objeto realizar una **evaluación comparativa de las propuestas técnicas** presentadas por las empresas licitadoras **empresa_s***,** y **empresa_n***,** en el procedimiento de contratación correspondiente al expediente BAC01\_2026, relativo a los servicios de mantenimiento y soporte de proyectos exteriores de la plataforma EducaMadrid.
 
-La finalidad del documento es analizar de forma **homogénea, objetiva, motivada y proporcional** las memorias técnicas presentadas por ambos licitadores, aplicando los criterios sometidos a juicio de valor establecidos en el Documento de Invitación, y determinar la puntuación correspondiente a cada oferta en los apartados evaluables mediante juicio técnico.
+La finalidad del documento es analizar de forma **homogénea, objetiva, motivada y proporcional** las memorias técnicas presentadas por ambos licitadores, aplicando los criterios sometidos a juicio de valor establecidos en el Documento de Invitación (Documento de Invitación), y determinar la puntuación correspondiente a cada oferta en los apartados evaluables mediante juicio técnico.
 
 Asimismo, el informe tiene por finalidad verificar el **cumplimiento del umbral mínimo exigido** por el pliego para continuar en el procedimiento, así como formular la propuesta correspondiente respecto de la admisión o exclusión de las ofertas evaluadas.
 
 La valoración realizada se fundamenta **exclusivamente en el contenido de las memorias técnicas** presentadas por los licitadores y en los criterios definidos en la documentación reguladora del procedimiento, sin incorporar elementos ajenos a la documentación aportada ni valoraciones derivadas de circunstancias externas al expediente.
 
-### Marco normativo
+## MARCO NORMATIVO APLICABLE
 
-El presente informe se elabora en el marco del **procedimiento correspondiente al expediente BAC01_2026**, relativo a **los servicios de mantenimiento y soporte para proyectos exteriores alojados en la plataforma EducaMadrid**. El procedimiento se rige por lo dispuesto en la **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público** (en adelante, LCSP), por el Pliego de Cláusulas Administrativas Particulares y por las condiciones específicas establecidas en el Documento de Invitación y demás documentación reguladora del expediente.
+La presente valoración se realiza en el marco de la **legislación vigente en materia de contratación pública** y de conformidad con la documentación reguladora específica del procedimiento.
 
-La valoración técnica se fundamenta en los **criterios de adjudicación sujetos a juicio de valor definidos en el apartado 7.2 del Documento de Invitación**, cuya finalidad es evaluar la calidad de las propuestas desde una perspectiva integral que contemple tanto la **adecuación de la solución técnica ofertada** como la **viabilidad organizativa y temporal de su ejecución**.
+Constituyen la base jurídica principal del análisis los siguientes instrumentos:
 
-De conformidad con el **artículo 145 de la LCSP**, los criterios de adjudicación deben permitir determinar la mejor relación calidad-precio y aplicarse de forma objetiva, transparente y no discriminatoria. La evaluación se realiza, por tanto, con arreglo a los principios de **igualdad de trato, objetividad, transparencia, proporcionalidad y trazabilidad**, aplicando a todas las ofertas un mismo marco metodológico y sin incorporar elementos externos a la documentación presentada por los licitadores.
+### Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público
 
-Asimismo, el **artículo 146.3 de la LCSP** permite establecer umbrales mínimos en los criterios cualitativos sujetos a juicio de valor. Conforme al Documento de Invitación, las ofertas deben alcanzar un **nivel mínimo de calidad técnica equivalente al cincuenta por ciento de la puntuación máxima asignable a estos criterios** para continuar en el procedimiento.
+El procedimiento se encuentra sometido a la **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)**, mediante la cual se incorporan al ordenamiento jurídico español las Directivas 2014/23/UE y 2014/24/UE del Parlamento Europeo y del Consejo.
 
-La aplicación de este umbral no constituye una decisión discrecional: una vez constatado su incumplimiento, la oferta afectada no puede continuar en las fases posteriores del procedimiento. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**.
+Dicha norma establece los principios que deben regir toda actuación de los órganos de contratación, entre los que destacan:
 
-La evaluación se ajusta igualmente al **principio de evaluabilidad**, conforme al cual únicamente pueden valorarse los elementos de la oferta que estén suficientemente desarrollados y que permitan su comprobación objetiva. Las declaraciones genéricas, las capacidades presumidas, las referencias no desarrolladas o las soluciones futuras no descritas en la memoria no pueden suplirse mediante inferencias del órgano evaluador.
+- igualdad de trato de los licitadores;
 
-### Naturaleza de la valoración
+- libre concurrencia;
 
-La valoración de los criterios sometidos a juicio de valor requiere un **análisis técnico cualitativo** que determine el grado de adecuación, desarrollo, madurez y calidad de las soluciones propuestas. No se limita a una comprobación binaria del cumplimiento, sino que examina, entre otros aspectos:
+- no discriminación;
+
+- transparencia;
+
+- proporcionalidad;
+
+- objetividad;
+
+- eficiencia en la utilización de los fondos públicos.
+
+La evaluación realizada en el presente informe se ha desarrollado respetando de forma estricta dichos principios y garantizando una **aplicación uniforme de los criterios** establecidos en el pliego a todas las ofertas analizadas.
+
+### Pliego de Cláusulas Administrativas Particulares
+
+El **Pliego de Cláusulas Administrativas Particulares** constituye la norma específica que regula el procedimiento de adjudicación y define:
+
+- las condiciones de participación;
+
+- el procedimiento de evaluación;
+
+- la distribución de puntuaciones;
+
+- los criterios de adjudicación;
+
+- los umbrales mínimos exigidos para continuar en el procedimiento.
+
+De acuerdo con dicho pliego, la adjudicación debe realizarse mediante la aplicación de **criterios objetivos previamente establecidos y conocidos** por los licitadores, garantizando la transparencia del procedimiento y la trazabilidad de la valoración realizada.
+
+### Documento de Invitación
+
+El **Documento de Invitación constituye el documento técnico de referencia** para la evaluación de las ofertas.
+
+En particular, el **apartado 7.2 establece los criterios sometidos a juicio de valor** y define el marco metodológico que debe utilizarse para analizar las memorias técnicas.
+
+La evaluación desarrollada en este informe se ha fundamentado íntegramente en dichos criterios, tomando como referencia:
+
+- el alcance funcional definido en el Anexo II;
+
+- los requisitos técnicos exigidos para cada bloque de servicio;
+
+- la estructura de valoración cualitativa establecida por el pliego;
+
+- los criterios de planificación y organización del servicio.
+
+Toda conclusión reflejada en el presente informe encuentra su **justificación directa en alguno de los requisitos expresamente definidos** por el Documento de Invitación.
+
+## NATURALEZA DE LA EVALUACIÓN TÉCNICA
+
+La valoración objeto del presente documento tiene naturaleza de **juicio técnico especializado**.
+
+A diferencia de los criterios evaluables mediante fórmulas matemáticas, los criterios sometidos a juicio de valor requieren la realización de un **análisis cualitativo** que permita determinar el grado de adecuación, desarrollo y calidad de las soluciones propuestas por los licitadores.
+
+Esta evaluación no puede limitarse a una comprobación binaria de cumplimiento o incumplimiento de requisitos, sino que exige valorar aspectos tales como:
 
 - la coherencia de las arquitecturas propuestas;
 
-- la comprensión del entorno tecnológico y de los requisitos;
+- la comprensión del entorno tecnológico;
 
 - la viabilidad de las soluciones planteadas;
 
-- la adecuación de la metodología de trabajo;
+- la calidad metodológica;
 
-- el rendimiento previsible;
+- el nivel de detalle técnico;
 
-- el grado de satisfacción de los requisitos;
+- la capacidad de ejecución;
 
-- la capacidad de ejecución y la profundidad de la planificación;
+- la aportación de mejoras;
 
-- la concreción, verificabilidad y eventual valor añadido de las propuestas.
+- la profundidad de la planificación.
 
-La discrecionalidad técnica propia de esta evaluación no implica arbitrariedad. Las conclusiones deben basarse en los criterios previamente establecidos, estar suficientemente motivadas, mantener coherencia con la documentación analizada y poder reconstruirse a partir de evidencias concretas contenidas en las memorias técnicas.
+Por ello, la valoración no se basa exclusivamente en la existencia o ausencia de una determinada propuesta, sino también en el **grado de madurez, concreción y verificabilidad** con que dicha propuesta es desarrollada en la memoria técnica.
 
-### Principios rectores de la valoración
+## PRINCIPIOS RECTORES DE LA VALORACIÓN
 
-#### Igualdad de trato
+La elaboración del presente informe se ha guiado por una serie de principios metodológicos destinados a garantizar la **imparcialidad y la solidez técnica** del proceso evaluador.
 
-Todas las ofertas se analizan mediante **los mismos criterios, el mismo nivel de exigencia y las mismas reglas de puntuación**, sin introducir requisitos adicionales ni emplear estándares distintos para cada licitador. Fortalezas y debilidades equivalentes deben recibir una ponderación equivalente.
+### Principio de igualdad de trato
 
-#### Objetividad y evaluabilidad
+Todas las ofertas han sido analizadas aplicando **exactamente los mismos criterios de valoración y los mismos estándares de exigencia**.
 
-Las puntuaciones se fundamentan exclusivamente en **evidencias identificables en la documentación presentada**, como arquitecturas, procedimientos, metodologías, herramientas, mecanismos de validación, cronogramas e indicadores efectivamente descritos. No se valoran expectativas, capacidades presumidas ni contenidos ajenos a las ofertas.
+La valoración ha sido realizada **sin introducir requisitos adicionales** no contemplados en el pliego y sin utilizar criterios distintos para cada licitador.
 
-#### Proporcionalidad
+Cualquier fortaleza o debilidad identificada en una memoria técnica ha sido **ponderada de manera equivalente** cuando se ha observado una circunstancia similar en otra oferta.
 
-Las fortalezas y debilidades se ponderan según su **relevancia real para la ejecución del servicio**. Una carencia menor no recibe el mismo peso que una deficiencia estructural que comprometa la viabilidad, y una mejora puntual no compensa automáticamente limitaciones significativas del conjunto de la propuesta.
+### Principio de objetividad
 
-#### Trazabilidad
+La puntuación asignada a cada licitador se fundamenta exclusivamente en **evidencias identificables dentro de la documentación presentada**.
 
-Cada valoración debe poder **vincularse con los requisitos del pliego, las evidencias concretas de la memoria técnica y la puntuación asignada**. Esta correspondencia garantiza la transparencia, la motivación de las conclusiones y la posibilidad de revisar posteriormente el proceso de evaluación.
+No se han valorado **expectativas futuras, capacidades presumidas, referencias comerciales o circunstancias no acreditadas** documentalmente.
 
-#### Coherencia
+La evaluación se ha sustentado únicamente en:
 
-La puntuación cuantitativa y el nivel cualitativo asignados deben reflejar de forma equilibrada las fortalezas y debilidades identificadas. **Las conclusiones individuales, la comparación global y la propuesta final deben ser consistentes entre sí**.
+- procedimientos descritos;
 
-### Umbral mínimo
+- arquitecturas definidas;
 
-El Documento de Invitación establece una **puntuación máxima de 30 puntos** para los criterios sujetos a juicio de valor y exige alcanzar, como mínimo, el **50 % de dicha puntuación** para continuar en el procedimiento de adjudicación.
+- metodologías propuestas;
+
+- mecanismos de validación identificados;
+
+- elementos técnicos desarrollados en la memoria.
+
+### Principio de proporcionalidad
+
+Las fortalezas y debilidades detectadas han sido ponderadas en función de su **relevancia real respecto al servicio** objeto del contrato.
+
+La ausencia de un elemento menor no ha recibido el mismo peso que una **carencia estructural que afecte a la viabilidad del servicio**.
+
+De igual forma, la presencia de mejoras puntuales no ha compensado automáticamente otras **limitaciones significativas cuando éstas afectaban a la ejecución global** de la propuesta.
+
+### Principio de trazabilidad
+
+Todas las valoraciones incorporadas en este informe deben poder **reconstruirse y justificarse a partir de la documentación evaluada**.
+
+La trazabilidad constituye un requisito esencial para garantizar:
+
+- la transparencia del procedimiento;
+
+- la defensa técnica de las conclusiones alcanzadas;
+
+- la posibilidad de revisión posterior;
+
+- la adecuada motivación de las puntuaciones otorgadas.
+
+Por ello, cada valoración incluida en los capítulos posteriores estará **directamente vinculada a evidencias concretas** identificadas en las memorias técnicas analizadas.
+
+## DISCRECIONALIDAD TÉCNICA DEL ÓRGANO EVALUADOR
+
+La valoración de criterios sometidos a juicio de valor se encuentra amparada por el **principio de discrecionalidad técnica** reconocido de forma reiterada por la jurisprudencia y por la doctrina de los órganos especializados en contratación pública.
+
+Dicha discrecionalidad **no implica arbitrariedad ni libertad absoluta de decisión**.
+
+Por el contrario, exige que las conclusiones alcanzadas:
+
+- se basen en criterios previamente establecidos;
+
+- estén suficientemente motivadas;
+
+- resulten coherentes con la documentación analizada;
+
+- puedan ser explicadas de forma racional;
+
+- respeten los principios de igualdad y proporcionalidad.
+
+En consecuencia, el presente informe no pretende determinar cuál es la única valoración posible de las ofertas examinadas, sino establecer una valoración **técnicamente razonable, objetivamente motivada y plenamente alineada** con los criterios definidos por el pliego.
+
+## UMBRAL MÍNIMO DE SUPERACIÓN DE LOS CRITERIOS SUJETOS A JUICIO DE VALOR
+
+El Documento de Invitación establece una **puntuación máxima de treinta puntos** para los criterios sometidos a juicio de valor.
+
+Asimismo, el pliego determina la necesidad de alcanzar una **puntuación mínima equivalente al cincuenta por ciento** de dicha puntuación máxima para poder continuar en el procedimiento de adjudicación.
 
 En consecuencia:
 
-- la puntuación mínima exigida es de **15 puntos sobre 30**;
+- la puntuación mínima exigida es de 15 puntos sobre 30;
 
-- las ofertas que alcancen o superen dicho umbral podrán continuar en el procedimiento;
+- las ofertas que no alcancen dicho umbral no pueden continuar en el proceso de adjudicación;
 
-- las ofertas que no alcancen el umbral deberán ser excluidas por aplicación directa de la documentación reguladora del procedimiento.
+- la exclusión derivada de este supuesto no constituye una decisión discrecional, sino la aplicación directa de una condición expresamente establecida en la documentación reguladora del procedimiento.
 
-## METODOLOGÍA DE VALORACIÓN
+Por tanto, una vez realizada la valoración comparativa de las ofertas, será necesario **verificar el cumplimiento de este requisito** antes de formular la propuesta final de admisión o exclusión de cada licitador.
 
-La valoración se realiza conforme al apartado 7.2 del Documento de Invitación mediante un **modelo de análisis estructurado, homogéneo y trazable**. La evaluación atiende exclusivamente al contenido efectivamente desarrollado en las memorias y combina dos marcos complementarios:
+## ESTRUCTURA DEL PRESENTE INFORME
 
-- los criterios cualitativos y niveles de cumplimiento definidos en el Documento de Invitación;
+Con el fin de garantizar la máxima claridad expositiva y facilitar la comprensión de los resultados obtenidos, el informe se estructura en los siguientes capítulos:
 
-- los requisitos funcionales y técnicos incluidos en el Anexo II del Documento de Invitación, que determinan el alcance material del servicio.
+- Capítulo 1. Base jurídica y normativa de la valoración.
 
-La calidad de una respuesta no se determina por la mera existencia formal de una referencia a cada requisito, sino por el **grado de desarrollo, madurez, adecuación, viabilidad y verificabilidad** con que se presenta la solución.
+- Capítulo 2. Metodología de evaluación aplicada.
+
+- Capítulo 3. Resumen ejecutivo individual de cada propuesta técnica.
+
+- Capítulo 4. Comparación detallada de las ofertas y valoración de los criterios sometidos a juicio de valor.
+
+- Capítulo 5. Conclusiones y valoración comparativa final.
+
+- Capítulo 6. Propuesta de exclusión y continuación del procedimiento.
+
+Este esquema permite separar claramente **los fundamentos normativos, la metodología utilizada, el análisis técnico individual y la comparación final entre licitadores**, garantizando una exposición transparente y plenamente defendible de todas las conclusiones alcanzadas.
+
+## METODOLOGÍA DE VALORACIÓN DE LAS PROPUESTAS TÉCNICAS
+
+La valoración de las propuestas técnicas presentadas por las empresas licitadoras se ha realizado conforme a lo establecido en el apartado 7.2 del Documento de Invitación del expediente BAC01\_2026, aplicando un **modelo de análisis técnico estructurado** que permite garantizar la objetividad, proporcionalidad y trazabilidad de todas las puntuaciones asignadas.
+
+La metodología empleada tiene como finalidad asegurar que la evaluación realizada responda **exclusivamente al contenido efectivamente desarrollado en las memorias técnicas aportadas por los licitadores**, evitando en todo momento la realización de inferencias favorables no respaldadas documentalmente, así como la consideración de capacidades, experiencias o soluciones que no hayan sido descritas de manera expresa dentro de las ofertas sometidas a valoración.
+
+La evaluación se ha llevado a cabo tomando como referencia simultáneamente **dos marcos de análisis complementarios**. Por una parte, los criterios cualitativos definidos en el apartado 7.2 del Documento de Invitación, que establecen los elementos susceptibles de valoración y los distintos niveles de cumplimiento previstos por el pliego. Por otra, los requisitos funcionales y técnicos descritos en el Anexo II, que constituyen el alcance material del servicio y permiten determinar el grado real de adecuación de cada propuesta a las necesidades de la plataforma EducaMadrid.
+
+La combinación de ambos elementos resulta especialmente relevante en un contrato de estas características, donde la calidad de una solución técnica no puede medirse únicamente por la existencia formal de una respuesta a cada requisito, sino por el **nivel de desarrollo, madurez, viabilidad y verificabilidad** con que dicha respuesta es planteada.
 
 ### Estructura general de la valoración
 
-El modelo se articula en **dos bloques de 15 puntos cada uno**: la solución técnica ofertada y la planificación del servicio. Ambos configuran conjuntamente los 30 puntos asignados a los criterios sujetos a juicio de valor.
+El modelo de valoración definido en el Documento de Invitación se articula en torno a **dos grandes bloques diferenciados**, que permiten evaluar tanto la calidad técnica de las soluciones propuestas como la capacidad de los licitadores para planificar y organizar la prestación efectiva del servicio.
 
-- **Solución técnica ofertada — 15 puntos**
-  - Arquitectura.
-  - Comprensión de los requisitos.
-  - Viabilidad.
-  - Metodología.
-  - Rendimiento previsible.
-  - Satisfacción de los requisitos.
+El primero de estos bloques corresponde a la **solución técnica ofertada** y cuenta con una ponderación máxima de quince puntos. El segundo bloque corresponde a la **planificación del servicio**, igualmente valorado con un máximo de quince puntos. Ambos apartados configuran conjuntamente los **treinta puntos asignados a los criterios sometidos a juicio de valor**.
 
-- **Planificación del servicio — 15 puntos**
-  - Calendario.
-  - Análisis de riesgos.
-  - Plan de contingencias.
-  - Plan de calidad.
-  - Trazabilidad del servicio.
+| **CRITERIO** | **PUNTUACIÓN MÁXIMA** |
+| --- | --- |
+| Solución técnica ofertada | 15 |
+| Planificación del servicio | 15 |
+| **TOTAL** | **30** |
 
-Los dos bloques se evalúan de forma diferenciada, aunque mantienen una relación directa: una solución técnicamente correcta debe acompañarse de una planificación que permita ejecutarla en condiciones reales, y una buena planificación no subsana las deficiencias que comprometan la calidad o viabilidad de la solución.
+La existencia de una distribución equilibrada entre ambos bloques refleja la necesidad de valorar simultáneamente la **calidad intrínseca de las soluciones técnicas propuestas** y la **capacidad real de llevarlas a la práctica** dentro del contexto operativo de EducaMadrid.
+
+La evaluación se ha desarrollado considerando que **ambos ámbitos mantienen una relación directa entre sí**. Una solución técnicamente correcta carece de valor real si no dispone de una planificación que permita ejecutar las actuaciones de manera controlada, verificable y compatible con los requisitos operativos de la plataforma. Del mismo modo, una planificación adecuada no resulta suficiente cuando las soluciones técnicas propuestas presentan limitaciones que comprometen su viabilidad o su grado de satisfacción de los requisitos.
 
 ### Valoración de la solución técnica ofertada
 
-Este bloque evalúa la calidad técnica real de la propuesta, su adecuación al contexto del contrato y el nivel de satisfacción o mejora de los requisitos. Se distribuye en los siguientes subcriterios:
+El Documento de Invitación establece que los licitadores deben presentar una **memoria técnica descriptiva de la prestación del servicio** en la que se describan de manera detallada los trabajos a desarrollar, tanto desde un punto de vista técnico como funcional, así como la metodología prevista para su ejecución.
 
-- Arquitectura planteada en los distintos subproyectos (**2 puntos**),
+La evaluación de este bloque se ha realizado a través de los seis subcriterios establecidos expresamente en el pliego:
 
-- Grado de comprensión de los requisitos planteados (**2 puntos**),
+| **SUBCRITERIO** | **PUNTUACIÓN MÁXIMA** |
+| --- | --- |
+| Arquitectura | 2 |
+| Comprensión de requisitos | 2 |
+| Viabilidad | 1 |
+| Metodología | 1 |
+| Rendimiento | 1 |
+| Satisfacción de requisitos | 8 |
+| **TOTAL** | **15** |
 
-- Viabilidad del proyecto en general (**1 punto**),
+La valoración de estos subcriterios no se ha limitado a verificar la existencia de referencias a los distintos requisitos incluidos en el pliego, sino que ha tenido como objetivo determinar el **grado real de madurez de las soluciones propuestas**.
 
-- Metodología de trabajo aplicada (**1 punto**),
+En este sentido, la evaluación ha considerado especialmente relevantes aspectos como la **coherencia de las arquitecturas planteadas**, la **correcta comprensión del ecosistema EducaMadrid**, la **capacidad de integración entre sistemas heterogéneos**, el nivel de detalle técnico de las actuaciones, la existencia de procedimientos verificables de ejecución, la identificación de tecnologías concretas y la incorporación de mecanismos de control, validación y seguimiento.
 
-- Rendimiento previsible de las distintas soluciones (**1 punto**),
+Asimismo, se ha prestado una especial atención al **criterio de satisfacción de requisitos**, dado que constituye el subapartado de mayor peso dentro de este bloque. Para ello se ha realizado un análisis detallado de todos los proyectos y subproyectos definidos en el Anexo II, verificando para cada uno de ellos:
 
-- Satisfacción de los requisitos (**8 puntos**).
+- el grado de cobertura funcional del requisito;
 
-La evaluación debe realizarse para cada proyecto o subproyecto del Anexo II del Documento de Invitación distinguiendo entre una **descripción genérica de objetivos** y una **solución técnica efectivamente definida**. Las propuestas de mejora solo se considerarán positivamente cuando aporten una ventaja técnica u operativa objetiva, sean coherentes con el objeto del contrato y estén suficientemente desarrolladas.
+- el nivel de desarrollo técnico de la solución planteada;
 
-Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de puntuación:
+- la existencia de una metodología de ejecución identificable;
 
-- **EXCELENTE**: La solución técnica aportada describe de forma excelente y completa la arquitectura de los distintos subproyectos. La comprensión de los requisitos planteados es excelente. La viabilidad del proyecto no genera ningún atisbo de dudas. La metodología de trabajo elegida es comúnmente utilizada dentro del ámbito tecnológico y concuerda con las tareas del proyecto. Se justifica de forma convincente un excelente rendimiento de las distintas soluciones aportadas. La solución técnica cumple ampliamente los requisitos del pliego aportando mejoras coherentes y sustanciales de los mismos.
+- la incorporación de elementos verificables;
 
-- **ALTA**: La solución técnica aportada describe de forma correcta y completa la arquitectura de los distintos subproyectos. La comprensión de los requisitos planteados es buena. La viabilidad del proyecto no genera dudas. La metodología de trabajo elegida es utilizada dentro del ámbito tecnológico y concuerda con las tareas del proyecto. Se justifica de forma convincente un buen rendimiento de las distintas soluciones aportadas. La solución técnica cumple los requisitos del pliego aportando pocas mejoras de los mismos.
+- la aportación de mejoras o valor añadido respecto al contenido mínimo exigido por el pliego.
 
-- **MEDIA**: La solución técnica aportada describe de forma completa la arquitectura de los distintos subproyectos. La comprensión de los requisitos planteados es normal. La viabilidad del proyecto puede generar dudas. La metodología de trabajo elegida es utilizada dentro del ámbito tecnológico, pero no concuerda con las tareas del proyecto. Se justifica de forma convincente un rendimiento normal de las distintas soluciones aportadas. La solución técnica cumple los requisitos del pliego aportando muy pocas mejoras de los mismos o mejoras que no son coherentes.
+Resulta importante destacar que la metodología aplicada distingue claramente entre la **mera descripción de una actuación** y la **definición efectiva de una solución técnica**. En consecuencia, no se ha considerado equivalente una propuesta basada en afirmaciones genéricas o principios de actuación a otra en la que existan procedimientos, arquitecturas, tecnologías, herramientas y mecanismos de validación claramente identificados.
 
-- **BAJA**: La solución técnica aportada describe de forma incorrecta o incompleta la arquitectura de los distintos subproyectos. La comprensión de los requisitos planteados es mala. La viabilidad del proyecto genera dudas. La metodología de trabajo elegida no es utilizada dentro del ámbito tecnológico, aunque concuerda con las tareas del proyecto. Se justifica de forma convincente un mal rendimiento de las distintas soluciones aportadas. La solución técnica cumple justo los requisitos del pliego sin aportar mejoras o mejoras nada coherentes.
-
-- **MUY BAJA**: La solución técnica aportada no describe o lo hace de forma muy incorrecta la arquitectura de los distintos subproyectos. La comprensión de los requisitos planteados es muy mala. La viabilidad del proyecto genera muchas dudas. La metodología de trabajo elegida no es utilizada dentro del ámbito tecnológico y no concuerda con las tareas del proyecto. Se justifica de forma convincente un rendimiento muy malo de las distintas soluciones aportadas. La solución técnica no cumple, o cumple muy justo los requisitos del pliego sin aportar mejoras o mejoras nada coherentes.
-
-Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
-
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
-- **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
+Del mismo modo, la existencia de propuestas de mejora no ha supuesto automáticamente una valoración superior. Para que una mejora pudiera ser considerada como un elemento efectivamente positivo dentro de la evaluación, debía aportar una **capacidad técnica adicional verificable, una ventaja operativa objetiva o una evolución real** respecto a los requisitos definidos en el Documento de Invitación.
 
 ### Valoración de la planificación del servicio
 
-Este bloque evalúa la capacidad del licitador para organizar, coordinar, controlar y ejecutar el servicio durante la vigencia del contrato. Se distribuye del siguiente modo:
+El segundo bloque de evaluación corresponde a la **planificación del servicio** y tiene como finalidad determinar la capacidad real de cada licitador para organizar, coordinar y controlar la ejecución de las actividades previstas durante toda la vigencia del contrato.
 
-- Calendario de los trabajos a desarrollar (**11 puntos**),
+El Documento de Invitación establece expresamente que las memorias técnicas deben incorporar una **planificación temporal de las actuaciones**, así como un **análisis de riesgos**, un **plan de contingencias**, un **plan de calidad** y una descripción de los mecanismos previstos para garantizar la **trazabilidad del servicio**.
 
-- Análisis de riesgos del proyecto (**1 punto**),
+La distribución de puntuaciones definida para este bloque es la siguiente:
 
-- Plan de gestión de contingencias (**1 punto**),
+| **SUBCRITERIO** | **PUNTUACIÓN MÁXIMA** |
+| --- | --- |
+| Calendario y planificación | 11 |
+| Análisis de riesgos | 1 |
+| Plan de contingencias | 1 |
+| Plan de calidad | 1 |
+| Trazabilidad | 1 |
+| **TOTAL** | **15** |
 
-- Plan de gestión de la calidad del servicio (**1 punto**),
+La evaluación realizada no se ha limitado a verificar la existencia formal de estos documentos o apartados dentro de las memorias técnicas. Por el contrario, se ha analizado el **grado de desarrollo real** alcanzado por cada uno de ellos.
 
-- Trazabilidad del servicio (**1 punto**).
+En particular, se han considerado elementos especialmente relevantes:
 
-La planificación del servicio debe constituir una **herramienta real de gestión**, no una representación genérica de fases sin detalle suficiente para verificar la viabilidad temporal y operativa de la propuesta.
+- el nivel de detalle de la planificación temporal;
 
-Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de puntuación:
+- la existencia de hitos verificables;
 
-- **EXCELENTE**: Excelente nivel de detalle en cuanto a la planificación, mediante un diagrama de Gantt o similar adaptado al proyecto, con muy buen detalle en cuanto a la ejecución de las diferentes tareas, con fechas específicas de cuándo se va a hacer cada tarea teniendo en cuenta el calendario escolar. Las tareas tienen una excelente coherencia en cuanto a su duración y su relación entre ellas para lograr la consecución de hitos y objetivos definidos. Se presenta un excelente análisis de riesgos del proyecto, un excelente plan de gestión de contingencias, un excelente plan de gestión de la calidad del servicio, y una excelente descripción de cómo se va a fiscalizar la trazabilidad del servicio.
+- la coherencia de la secuencia de actividades;
 
-- **ALTA**: Buen nivel de detalle en cuanto a la planificación, mediante un diagrama de Gantt o similar adaptado al proyecto, con buen detalle en cuanto a la ejecución de las diferentes tareas. Las tareas tienen una buena coherencia en cuanto a su duración y relación entre ellas para lograr la consecución de hitos y objetivos definidos. Se presenta un buen análisis de riesgos del proyecto, un buen plan de gestión de contingencias, un buen plan de gestión de la calidad del servicio, y una buena descripción de cómo se va a fiscalizar la trazabilidad del servicio.
+- la identificación de dependencias;
 
-- **MEDIA**: Detalle básico en cuanto a la planificación, mediante un diagrama de Gantt o similar, con poco detalle en cuanto a la ejecución de las diferentes tareas. Las tareas tienen una poca de coherencia en cuanto a su duración y su relación entre ellas para lograr la consecución de hitos y objetivos definidos. Se presenta un análisis de riesgos del proyecto correcto, un plan de gestión de contingencias correcto, un plan de gestión de la calidad del servicio correcto, y una descripción correcta de cómo se va a fiscalizar la trazabilidad del servicio.
+- la adecuación a la complejidad de los distintos subproyectos;
 
-- **BAJA**: Planificación muy básica, mediante un diagrama de Gantt o similar, con tareas genéricas y con poco detalle en cuanto a la ejecución de las diferentes tareas. Las tareas tienen una nula coherencia en cuanto a su duración y su relación entre ellas para lograr la consecución de hitos y objetivos definidos. Se presenta un mal análisis de riesgos del proyecto, un mal plan de gestión de contingencias, un mal plan de gestión de la calidad del servicio, y una mala descripción de cómo se va a fiscalizar la trazabilidad del servicio.
+- la existencia de mecanismos de seguimiento y control.
 
-- **MUY BAJA**: Mala planificación, mediante un diagrama de Gantt o similar, con muy poco detalle en cuanto a la ejecución de las diferentes tareas. Las tareas tienen incoherencias en cuanto a su duración y su relación entre ellas para lograr la consecución de hitos y objetivos definidos. Se presenta un muy mal análisis de riesgos del proyecto, un muy mal plan de gestión de contingencias, un muy mal plan de gestión de la calidad del servicio, y una mala descripción de cómo se va a fiscalizar la trazabilidad del servicio.
+Asimismo, se ha valorado especialmente la capacidad de las propuestas para **anticipar riesgos reales de ejecución**, definir **medidas concretas de contingencia** y establecer procedimientos que permitan monitorizar la **calidad y trazabilidad del servicio** a lo largo de todo el ciclo de vida del contrato.
 
-Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
+En consecuencia, las propuestas basadas exclusivamente en **planteamientos conceptuales o genéricos** han recibido una valoración inferior a aquellas que desarrollan **mecanismos operativos concretos** y directamente aplicables a la gestión del servicio.
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
-- **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
+### Escala de valoración cualitativa
 
-### Fases del proceso de valoración
+La interpretación de las puntuaciones asignadas se ha realizado conforme al **esquema cualitativo definido en el Documento de Invitación**, que establece distintos niveles de adecuación de las propuestas en función de su grado de cumplimiento.
 
-El proceso se desarrolla en dos fases:
+La aplicación de esta escala se ha fundamentado en un análisis conjunto de los siguientes factores:
 
-1. **Análisis individual:** examen exhaustivo de cada memoria para identificar su cobertura, fortalezas, debilidades, omisiones, incoherencias y elementos de valor añadido en relación con los requisitos del Anexo II.
+- nivel de comprensión del requisito;
 
-2. **Valoración comparativa:** traslado homogéneo de los resultados individuales al esquema de subcriterios, asignación de niveles y puntuaciones, y comparación global de todas las ofertas.
+- calidad técnica de la solución propuesta;
 
-Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y garantiza la aplicación uniforme de los criterios a todos los licitadores.
+- profundidad del desarrollo realizado;
+
+- grado de adaptación al entorno EducaMadrid;
+
+- verificabilidad de las actuaciones;
+
+- coherencia interna de la propuesta;
+
+- viabilidad operativa de las soluciones planteadas.
+
+Este enfoque permite reflejar de forma proporcional las diferencias existentes entre ofertas que, aun respondiendo a los mismos requisitos, presentan **niveles muy distintos de desarrollo, concreción y madurez técnica**.
+
+### Principios de evaluación aplicados
+
+Finalmente, toda la valoración se ha realizado aplicando de forma estricta los principios de **igualdad, objetividad, proporcionalidad y trazabilidad**.
+
+Las fortalezas y debilidades identificadas en las distintas ofertas han sido ponderadas utilizando el **mismo nivel de exigencia para todos los licitadores**. Del mismo modo, la presencia de propuestas de valor añadido, elementos innovadores o mejoras metodológicas ha sido evaluada conforme a criterios homogéneos, evitando interpretaciones favorables o desfavorables que pudieran dar lugar a situaciones de agravio comparativo.
+
+La metodología aplicada permite por tanto establecer una correspondencia directa entre **el contenido efectivamente desarrollado en las memorias técnicas, las conclusiones obtenidas durante el análisis y las puntuaciones finalmente asignadas**, garantizando la plena trazabilidad de todo el proceso de evaluación y proporcionando una base sólida para la comparación posterior entre las ofertas presentadas.
 
 ## ANÁLISIS INDIVIDUAL DE LAS PROPUESTAS TÉCNICAS
 
-### Propuesta técnica de empresa_s S.A.
+### Propuesta técnica de empresa_s
 
 La propuesta técnica presentada por empresa_s se caracteriza por un **nivel de desarrollo global elevado**, una **cobertura prácticamente completa de los requisitos** incluidos en el Anexo II del Documento de Invitación y una orientación claramente alineada con los entornos tecnológicos objeto del contrato. A lo largo de la memoria se aprecia una comprensión sólida tanto de la naturaleza de los servicios solicitados como de las interrelaciones existentes entre los distintos sistemas que componen el ecosistema EducaMadrid, circunstancia que se refleja en la definición de arquitecturas coherentes, metodologías de migración estructuradas, modelos de integración entre plataformas y procedimientos orientados al mantenimiento evolutivo y a la operación continuada del servicio.
 
@@ -219,7 +359,7 @@ También se observa un **uso recurrente de formulaciones abiertas** que traslada
 
 En términos globales, la propuesta de empresa_s puede considerarse una **solución técnicamente sólida, completa y razonablemente madura**, que demuestra una comprensión adecuada del entorno tecnológico objeto del contrato y una capacidad significativa para cubrir los requisitos establecidos en el pliego. Sin embargo, las limitaciones detectadas en materia de métricas, cuantificación de resultados, herramientas concretas y nivel de detalle operativo **impiden situarla en los niveles de excelencia** previstos por el Documento de Invitación. Esta combinación de fortalezas y debilidades justifica la valoración obtenida tanto en el bloque de solución técnica como en el de planificación del servicio.
 
-### Propuesta técnica de empresa_n S.A.
+### Propuesta técnica de empresa_n
 
 La propuesta técnica presentada por empresa_n muestra una **aproximación significativamente diferente** a la observada en la oferta de empresa_s. Desde una perspectiva general, la memoria evidencia una **comprensión funcional razonable del alcance del contrato** y de los grandes ámbitos tecnológicos que conforman la plataforma EducaMadrid. En numerosos apartados se identifican correctamente los objetivos perseguidos por los distintos subproyectos, así como la necesidad de abordar actividades de mantenimiento, evolución tecnológica, integración de sistemas, operación de infraestructuras o refuerzo de la seguridad. Esta circunstancia permite concluir que existe una comprensión general del servicio solicitado y de los principales retos asociados a su ejecución.
 
@@ -239,7 +379,7 @@ En conjunto, la propuesta de empresa_n presenta fortalezas relacionadas con la c
 
 ### Introducción y síntesis comparativa
 
-El análisis conjunto de las propuestas presentadas por empresa_s, S.A. y empresa_n, S.A. pone de manifiesto la existencia de **diferencias significativas tanto en el grado de desarrollo técnico de las soluciones planteadas como en la profundidad** con la que cada licitador aborda los distintos requisitos definidos en el Anexo II del Documento de Invitación. Aunque ambas propuestas evidencian una comprensión general del alcance funcional del contrato y de los principales sistemas que componen el ecosistema EducaMadrid, la forma en que dicha comprensión se transforma en soluciones técnicas concretas presenta diferencias sustanciales que afectan de manera directa a la valoración obtenida dentro de los criterios sometidos a juicio de valor.
+El análisis conjunto de las propuestas presentadas por empresa_s, y empresa_n, pone de manifiesto la existencia de **diferencias significativas tanto en el grado de desarrollo técnico de las soluciones planteadas como en la profundidad** con la que cada licitador aborda los distintos requisitos definidos en el Anexo II del Documento de Invitación. Aunque ambas propuestas evidencian una comprensión general del alcance funcional del contrato y de los principales sistemas que componen el ecosistema EducaMadrid, la forma en que dicha comprensión se transforma en soluciones técnicas concretas presenta diferencias sustanciales que afectan de manera directa a la valoración obtenida dentro de los criterios sometidos a juicio de valor. citeturn10search1turn13search1
 
 Desde una perspectiva general, la propuesta de empresa_s destaca por la **amplitud de cobertura de los requisitos**, la existencia de arquitecturas identificables para una parte importante de los subproyectos, la incorporación de metodologías de actuación estructuradas y una adaptación razonablemente consistente a la naturaleza específica de los distintos entornos tecnológicos incluidos en el contrato. A ello se suma la presencia de **propuestas de mejora y elementos de valor añadido** en numerosos ámbitos relacionados con automatización, gobierno de infraestructuras, gestión avanzada de identidades, aprovisionamiento de sistemas, integración de plataformas y observabilidad de servicios. Aunque la memoria presenta limitaciones relevantes en materia de métricas, definición de herramientas concretas y cuantificación de resultados, el conjunto de la solución mantiene un **nivel de coherencia y madurez técnica** que permite considerarla alineada con los objetivos perseguidos por el Documento de Invitación.
 
@@ -249,37 +389,36 @@ Estas diferencias no implican que la propuesta de empresa_n carezca por completo
 
 Como consecuencia de todo ello, el análisis comparativo realizado pone de manifiesto que ambas empresas se sitúan en **posiciones técnicas claramente diferenciadas**. Mientras que empresa_s presenta una **propuesta globalmente consistente**, con carencias localizadas pero sin comprometer la viabilidad del servicio, empresa_n presenta una oferta que, aun comprendiendo el alcance general del contrato, no alcanza el **nivel mínimo de desarrollo técnico exigible** para considerar suficientemente acreditada la forma en que se ejecutarían una parte importante de los trabajos objeto de contratación.
 
-### Valoración comparativa de la solución técnica ofertada
+### Valoración de la solución técnica ofertada
 
-| **Subcriterio** | **Máximo** | **empresa_s: nivel** | **Puntos** | **empresa_n: nivel** | **Puntos** |
-| --- | ---: | --- | ---: | --- | ---: |
+La valoración comparativa de la solución técnica se ha realizado atendiendo a los seis subcriterios definidos en el apartado 7.2 del Documento de Invitación y siguiendo la metodología descrita en el capítulo anterior.
+
+### Tabla 1. Valoración comparativa de la solución técnica ofertada
+
+| **Subcriterio** | **Máximo** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** |
+| --- | --- | --- | --- | --- | --- |
 | Arquitectura | 2 | Alta | 1,50 | Media | 0,90 |
 | Comprensión de requisitos | 2 | Alta | 1,75 | Media | 1,00 |
 | Viabilidad | 1 | Alta | 0,75 | Media-Baja | 0,40 |
 | Metodología | 1 | Media-Alta | 0,60 | Media | 0,50 |
 | Rendimiento | 1 | Media | 0,50 | Baja | 0,25 |
 | Satisfacción de requisitos | 8 | Alta | 5,75 | Baja | 4,20 |
-| **Total** | **15** |  | **10,85** |  | **7,25** |
+| **TOTAL** | **15** |  | **10,85** |  | **7,25** |
 
-### Valoración comparativa de la planificación del servicio
+### Valoración de la planificación del servicio
 
-| **Subcriterio** | **Máximo** | **empresa_s: nivel** | **Puntos** | **empresa_n: nivel** | **Puntos** |
-| --- | ---: | --- | ---: | --- | ---: |
+Del mismo modo, se ha efectuado la comparación de los criterios relativos a la planificación del servicio definidos en el apartado 7.2.3 del Documento de Invitación.
+
+### Tabla 2. Valoración comparativa de la planificación del servicio
+
+| **Subcriterio** | **Máximo** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** |
+| --- | --- | --- | --- | --- | --- |
 | Calendario y planificación | 11 | Media | 5,50 | Baja | 1,80 |
 | Análisis de riesgos | 1 | Media-Alta | 0,60 | Media | 0,25 |
 | Plan de contingencias | 1 | Media-Alta | 0,60 | Media | 0,25 |
 | Plan de calidad | 1 | Media-Alta | 0,65 | Media | 0,25 |
 | Trazabilidad | 1 | Media | 0,50 | Media-Baja | 0,25 |
-| **Total** | **15** |  | **7,85** |  | **2,80** |
-
-### Resultado global de los criterios sujetos a juicio de valor
-
-La suma de los dos bloques y la comprobación del umbral mínimo arrojan el siguiente resultado:
-
-| **Licitador** | **Solución técnica** | **Planificación** | **Total sobre 30** | **Umbral de 15 puntos** |
-| --- | ---: | ---: | ---: | --- |
-| empresa_s S.A. | 10,85 | 7,85 | **18,70** | SUPERA |
-| empresa_n S.A. | 7,25 | 2,80 | **9,90** | NO SUPERA |
+| **TOTAL** | **15** |  | **7,85** |  | **2,80** |
 
 ### Justificación de la valoración comparativa
 
@@ -299,7 +438,7 @@ A la vista de todo lo anterior, la diferencia final observada entre ambas oferta
 
 ## CONCLUSIONES DE LA VALORACIÓN COMPARADA
 
-El análisis técnico comparado de las propuestas presentadas por empresa_s, S.A. y empresa_n, S.A. permite establecer, con un grado elevado de certeza técnica y sobre la base de evidencias objetivamente verificables, que ambas ofertas presentan **niveles de madurez, desarrollo y adecuación sustancialmente diferentes** respecto a los requisitos establecidos en el Documento de Invitación. Esta diferencia se refleja de forma consistente a lo largo de la totalidad de los bloques analizados, tanto en la solución técnica ofertada como en la planificación prevista para la ejecución del servicio.
+El análisis técnico comparado de las propuestas presentadas por empresa_s, y empresa_n, permite establecer, con un grado elevado de certeza técnica y sobre la base de evidencias objetivamente verificables, que ambas ofertas presentan **niveles de madurez, desarrollo y adecuación sustancialmente diferentes** respecto a los requisitos establecidos en el Documento de Invitación. Esta diferencia se refleja de forma consistente a lo largo de la totalidad de los bloques analizados, tanto en la solución técnica ofertada como en la planificación prevista para la ejecución del servicio.
 
 Debe señalarse, en primer lugar, que **ninguna de las dos ofertas puede considerarse una propuesta de excelencia** en los términos definidos por el Documento de Invitación. Ambas presentan limitaciones relacionadas con la **escasa definición de métricas cuantificables**, la falta de indicadores operativos suficientemente desarrollados y la ausencia de determinados mecanismos de control que permitan verificar de forma objetiva el comportamiento futuro de las soluciones propuestas. Esta circunstancia ha tenido reflejo en las puntuaciones asignadas y explica que ninguna de las empresas alcance las franjas superiores previstas por el pliego para las valoraciones excelentes.
 
@@ -321,12 +460,12 @@ Como resultado de todo lo anterior, las puntuaciones finales obtenidas por los l
 
 | **Empresa** | **Solución técnica** | **Planificación** | **Total** |
 | --- | --- | --- | --- |
-| empresa_s, S.A. | 10,85 | 7,85 | **18,70** |
-| empresa_n, S.A. | 7,25 | 2,80 | **9,90** |
+| empresa_s, | 10,85 | 7,85 | **18,70** |
+| empresa_n, | 7,25 | 2,80 | **9,90** |
 
 En consecuencia, la valoración realizada permite afirmar que **ambas ofertas no se sitúan en un nivel técnico equiparable** y que la diferencia observada entre las puntuaciones finales constituye una consecuencia directa del **distinto grado de desarrollo, concreción y madurez** alcanzado por las soluciones propuestas. Desde esta perspectiva, las valoraciones asignadas resultan coherentes con la metodología de evaluación aplicada, con los criterios definidos en el Documento de Invitación y con las evidencias objetivamente identificadas en la documentación analizada.
 
-## PROPUESTA DE ADMISIÓN, EXCLUSIÓN Y CONTINUACIÓN DEL PROCEDIMIENTO
+## PROPUESTA DE EXCLUSIÓN Y CONTINUACIÓN DEL PROCEDIMIENTO
 
 De conformidad con lo establecido en el Documento de Invitación y en la documentación reguladora del procedimiento BAC01\_2026, las ofertas sometidas a valoración mediante juicio de valor deben **superar el umbral mínimo de calidad técnica** fijado para poder continuar en el proceso de adjudicación.
 
@@ -336,8 +475,8 @@ Una vez finalizada la evaluación técnica comparada de las ofertas y consolidad
 
 | **Empresa** | **Puntuación total juicio de valor** | **Supera umbral** |
 | --- | --- | --- |
-| empresa_s, S.A. | 18,70 / 30 | Sí |
-| empresa_n, S.A. | 9,90 / 30 | No |
+| empresa_s, | 18,70 / 30 | Sí |
+| empresa_n, | 9,90 / 30 | No |
 
 A la vista de los resultados anteriores, se constata que la oferta presentada por empresa_s **supera el umbral mínimo de calidad exigido por el Documento de Invitación**, obteniendo una puntuación total de **18,70 puntos sobre 30**. Por el contrario, la oferta presentada por empresa_n alcanza únicamente una puntuación total de **9,90 puntos sobre 30**, situándose por debajo del umbral mínimo establecido por el pliego para continuar en el procedimiento.
 
@@ -347,8 +486,8 @@ Asimismo, la **motivación de esta exclusión encuentra soporte suficiente** en 
 
 Por todo lo anteriormente expuesto, se formula la siguiente propuesta:
 
-**Primero.** Proponer la exclusión de la empresa **empresa_n, S.A.** del procedimiento BAC01\_2026 por no haber alcanzado la puntuación mínima exigida en los criterios sometidos a juicio de valor, de conformidad con lo establecido en el Documento de Invitación y en la normativa aplicable en materia de contratación pública.
+**Primero.** Proponer la exclusión de la empresa **empresa_n***,** del procedimiento BAC01\_2026 por no haber alcanzado la puntuación mínima exigida en los criterios sometidos a juicio de valor, de conformidad con lo establecido en el Documento de Invitación y en la normativa aplicable en materia de contratación pública.
 
-**Segundo.** Proponer que la empresa **empresa_s, S.A.**, única oferta que ha superado el umbral mínimo de calidad técnica exigido, continúe en el procedimiento de adjudicación, procediéndose a la valoración de los criterios evaluables mediante fórmulas y a la continuación de las actuaciones previstas en la documentación reguladora del expediente.
+**Segundo.** Proponer que la empresa **empresa_s***,**, única oferta que ha superado el umbral mínimo de calidad técnica exigido, continúe en el procedimiento de adjudicación, procediéndose a la valoración de los criterios evaluables mediante fórmulas y a la continuación de las actuaciones previstas en la documentación reguladora del expediente.
 
 Con ello queda completada la **evaluación comparativa de las ofertas presentadas en el procedimiento**, quedando debidamente acreditadas tanto las puntuaciones otorgadas como la **propuesta resultante de admisión y exclusión** derivada de la aplicación de los criterios establecidos en el Documento de Invitación.

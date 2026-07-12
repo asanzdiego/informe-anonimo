@@ -1,6 +1,6 @@
 # INTRODUCCIÓN
 
-**El presente documento tiene por objeto la realización de una evaluación técnica detallada de la memoria presentada por la empresa empresa_s S.A.** en el marco del procedimiento de contratación correspondiente al expediente BAC01\_2026, relativo a los servicios de mantenimiento y soporte para proyectos exteriores alojados en la plataforma EducaMadrid.
+**El presente documento tiene por objeto la realización de una evaluación técnica detallada de la memoria presentada por la empresa empresa_s** en el marco del procedimiento de contratación correspondiente al expediente BAC01\_2026, relativo a los servicios de mantenimiento y soporte para proyectos exteriores alojados en la plataforma EducaMadrid.
 
 La valoración se ha llevado a cabo atendiendo de forma estricta a lo establecido en el Documento de Invitación, y en particular a los criterios de adjudicación sujetos a juicio de valor descritos en el apartado 7.2, los cuales definen tanto la estructura de la evaluación como el baremo cualitativo aplicable en cada uno de los apartados considerados. **En este sentido, resulta especialmente relevante señalar que la valoración no se basa en una verificación binaria de cumplimiento, sino en un análisis cualitativo del grado de adecuación, profundidad, viabilidad y rigor técnico de la propuesta presentada, situando cada uno de los aspectos evaluados dentro de los niveles de excelencia, alta, media, baja o muy baja definidos en el pliego.**
 
@@ -12,7 +12,7 @@ Asimismo, el análisis incorpora como elemento relevante la identificación de f
 
 **Hay que destacar que la ausencia de métricas, indicadores o criterios objetivos de validación no ha sido ponderada de forma uniforme en todos los subproyectos, sino en función de la relevancia que dichos elementos tienen para cada tipo de actuación.** Así, su impacto se ha considerado especialmente significativo en ámbitos relacionados con rendimiento, seguridad, escalabilidad, operación o cumplimiento normativo, mientras que en actuaciones de carácter más funcional o visual se ha valorado principalmente como una limitación de verificabilidad y seguimiento.
 
-En conjunto, el presente informe tiene como finalidad ofrecer una evaluación técnica rigurosa, exhaustiva y coherente con los criterios establecidos en el pliego, permitiendo fundamentar de manera sólida la valoración final de la propuesta presentada por empresa_s S.A.
+En conjunto, el presente informe tiene como finalidad ofrecer una evaluación técnica rigurosa, exhaustiva y coherente con los criterios establecidos en el pliego, permitiendo fundamentar de manera sólida la valoración final de la propuesta presentada por empresa_s
 
 ## ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
 
@@ -846,7 +846,7 @@ Este patrón será clave en la valoración final del apartado 7.2.2.
 
 ## EVALUACIÓN DE LA SOLUCIÓN TÉCNICA (APARTADO 7.2.2 DEL Documento de Invitación)
 
-La presente sección tiene como finalidad realizar la valoración global de la **solución técnica ofertada por la empresa empresa_s S.A.**, conforme a los criterios establecidos en el apartado 7.2.2 del Documento de Invitación, en el que se define un sistema de evaluación basado en juicio de valor, estructurado en distintos subcriterios cualitativos y asociado a una puntuación máxima en función del grado de cumplimiento.
+La presente sección tiene como finalidad realizar la valoración global de la **solución técnica ofertada por la empresa empresa_s**, conforme a los criterios establecidos en el apartado 7.2.2 del Documento de Invitación, en el que se define un sistema de evaluación basado en juicio de valor, estructurado en distintos subcriterios cualitativos y asociado a una puntuación máxima en función del grado de cumplimiento.
 
 A diferencia del análisis realizado en el capítulo anterior, que se ha orientado a la evaluación detallada de cada subproyecto del Anexo II, el presente apartado realiza una **síntesis integradora**, agrupando las valoraciones parciales en torno a los ejes definidos en el pliego, con el objetivo de determinar el nivel de calidad global de la solución ofrecida.
 
@@ -1047,7 +1047,7 @@ representa de forma equilibrada:
 
 ## EVALUACIÓN DE LA PLANIFICACIÓN (APARTADO 7.2.3 DEL Documento de Invitación)
 
-La presente sección tiene como finalidad analizar la planificación propuesta por la empresa empresa_s S.A. desde una perspectiva técnica y operativa, de acuerdo con los criterios definidos en el apartado 7.2.3 del Documento de Invitación. **Este análisis no se limita a verificar la existencia de un plan de trabajo, sino que evalúa en profundidad su nivel de detalle, su coherencia interna, su alineación con la complejidad del servicio y su capacidad para garantizar una ejecución controlada, trazable y verificable de las actuaciones previstas.**
+La presente sección tiene como finalidad analizar la planificación propuesta por la empresa empresa_s desde una perspectiva técnica y operativa, de acuerdo con los criterios definidos en el apartado 7.2.3 del Documento de Invitación. **Este análisis no se limita a verificar la existencia de un plan de trabajo, sino que evalúa en profundidad su nivel de detalle, su coherencia interna, su alineación con la complejidad del servicio y su capacidad para garantizar una ejecución controlada, trazable y verificable de las actuaciones previstas.**
 
 En este contexto, la planificación debe ser entendida como un elemento estructural fundamental de la propuesta, que permite transformar la solución técnica en una realidad operativa, articulando temporalmente las actividades, identificando dependencias, estableciendo hitos y definiendo mecanismos de control que aseguren el cumplimiento de los objetivos del contrato.
 
@@ -1178,7 +1178,7 @@ En consecuencia, la planificación presentada por empresa_s se sitúa de forma c
 
 ## PUNTUACIÓN GLOBAL JUSTIFICADA
 
-A partir del análisis detallado desarrollado en los capítulos anteriores, tanto en lo relativo a la solución técnica ofertada como a la planificación del servicio, se procede a establecer una valoración global integrada de la propuesta presentada por la empresa empresa_s S.A., conforme al modelo de juicio de valor definido en el apartado 7.2 del Documento de Invitación.
+A partir del análisis detallado desarrollado en los capítulos anteriores, tanto en lo relativo a la solución técnica ofertada como a la planificación del servicio, se procede a establecer una valoración global integrada de la propuesta presentada por la empresa empresa_s, conforme al modelo de juicio de valor definido en el apartado 7.2 del Documento de Invitación.
 
 **La evaluación realizada pone de manifiesto que la oferta presenta un nivel de desarrollo técnico global elevado, caracterizado por una amplia cobertura de los requisitos del Anexo II, una comprensión clara del entorno tecnológico y una arquitectura coherente y adecuadamente estructurada.** Este posicionamiento se ha visto reflejado de manera consistente en el análisis del capítulo 3, donde la propuesta se sitúa de forma estable en la franja de valoración alta, sin alcanzar el nivel máximo exigido para obtener la puntuación plena.
 
@@ -1304,7 +1304,7 @@ A partir de las valoraciones cuantitativas establecidas en los capítulos 3 y 4,
 
 ### Conclusión final
 
-En base al análisis realizado, la propuesta presentada por empresa_s S.A. obtiene una puntuación total de **18,70 puntos sobre 30**, y por tanto una valoración **ALTA***,** posicionándose de forma justificada como una oferta técnicamente sólida, viable y ampliamente alineada con los requisitos del pliego, pero limitada por un **déficit de concreción técnica, cuantificación y detalle en la planificación**, que impide alcanzar niveles de excelencia en la valoración por juicios de valor.
+En base al análisis realizado, la propuesta presentada por empresa_s obtiene una puntuación total de **18,70 puntos sobre 30**, y por tanto una valoración **ALTA***,** posicionándose de forma justificada como una oferta técnicamente sólida, viable y ampliamente alineada con los requisitos del pliego, pero limitada por un **déficit de concreción técnica, cuantificación y detalle en la planificación**, que impide alcanzar niveles de excelencia en la valoración por juicios de valor.
 
 <!-- salto de página -->
 

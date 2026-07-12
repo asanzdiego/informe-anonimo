@@ -6,7 +6,7 @@
 
 ### Objeto del informe
 
-El presente informe tiene por objeto realizar la **valoración técnica comparativa de las propuestas presentadas por empresa_s S.A. y empresa_n** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA26**, relativo a los sistemas integrados en la plataforma EducaMadrid.
+El presente informe tiene por objeto realizar la **valoración técnica comparativa de las propuestas presentadas por empresa_s y empresa_n** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA26**, relativo a los sistemas integrados en la plataforma EducaMadrid.
 
 El informe determina la puntuación correspondiente a los criterios sujetos a juicio de valor, comprueba el cumplimiento del **umbral mínimo de 15 puntos sobre 30** y formula la propuesta de admisión o exclusión que procede para cada oferta.
 
@@ -197,7 +197,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 ## ANÁLISIS INDIVIDUAL DE LAS PROPUESTAS TÉCNICAS
 
-### Propuesta técnica de empresa_s S.A.
+### Propuesta técnica de empresa_s
 
 La propuesta técnica presentada por empresa_s se caracteriza por un **enfoque estructurado**, con un **grado de desarrollo técnico notable** en una parte significativa de los subproyectos analizados, así como por una clara orientación hacia la operación en entornos complejos y de gran escala.
 
@@ -281,7 +281,7 @@ En conjunto, la propuesta de empresa_n presenta un **carácter claramente insufi
 
 ### Introducción y síntesis comparativa
 
-El análisis conjunto de las propuestas presentadas por empresa_s S.A. y empresa_n pone de manifiesto una **diferencia significativa en el nivel de desarrollo técnico, en la profundidad de las soluciones planteadas y en la capacidad de respuesta efectiva** a los requisitos establecidos en el Documento de Invitación.
+El análisis conjunto de las propuestas presentadas por empresa_s y empresa_n pone de manifiesto una **diferencia significativa en el nivel de desarrollo técnico, en la profundidad de las soluciones planteadas y en la capacidad de respuesta efectiva** a los requisitos establecidos en el Documento de Invitación.
 
 De forma general, ambas propuestas parten de una comprensión conceptual del entorno EducaMadrid; sin embargo, la forma en que dicha comprensión se materializa en **soluciones técnicas concretas difiere de manera sustancial**.
 
@@ -326,7 +326,7 @@ La suma de los dos bloques y la comprobación del umbral mínimo arrojan el sigu
 
 | **Licitador** | **Solución técnica** | **Planificación** | **Total sobre 30** | **Umbral de 15 puntos** |
 | --- | ---: | ---: | ---: | --- |
-| empresa_s S.A. | 11,05 | 9,80 | **20,85** | SUPERA |
+| empresa_s | 11,05 | 9,80 | **20,85** | SUPERA |
 | empresa_n | 5,05 | 6,40 | **11,45** | NO SUPERA |
 
 ### Justificación de la valoración comparativa
@@ -345,7 +345,7 @@ En conjunto, la comparación pone de manifiesto una **diferencia clara y objetiv
 
 ## CONCLUSIONES DE LA VALORACIÓN COMPARADA
 
-El análisis técnico comparado de las propuestas presentadas por empresa_s S.A. y empresa_n permite establecer, con base en criterios objetivos y verificables, una **diferencia significativa en el nivel de adecuación de ambas ofertas** respecto a los requisitos establecidos en el Documento de Invitación.
+El análisis técnico comparado de las propuestas presentadas por empresa_s y empresa_n permite establecer, con base en criterios objetivos y verificables, una **diferencia significativa en el nivel de adecuación de ambas ofertas** respecto a los requisitos establecidos en el Documento de Invitación.
 
 En primer lugar, debe señalarse que ambas propuestas han sido evaluadas conforme a los **mismos criterios**, aplicando de manera homogénea la metodología descrita en el apartado 7.2 del Documento de Invitación y garantizando en todo momento la **trazabilidad entre los elementos analizados y las puntuaciones asignadas**.
 
@@ -405,7 +405,7 @@ Dado que la puntuación máxima asociada a dichos criterios es de 30 puntos, el 
 
 A la vista de los resultados obtenidos en la evaluación realizada, se constata lo siguiente:
 
-- La oferta presentada por **empresa_s S.A.** obtiene una puntuación total en los criterios de juicio de valor de **20,85 puntos**, superando el umbral mínimo exigido.
+- La oferta presentada por **empresa_s** obtiene una puntuación total en los criterios de juicio de valor de **20,85 puntos**, superando el umbral mínimo exigido.
 
 - La oferta presentada por **empresa_n** obtiene una puntuación total de **11,45 puntos**, no alcanzando el umbral mínimo requerido.
 
