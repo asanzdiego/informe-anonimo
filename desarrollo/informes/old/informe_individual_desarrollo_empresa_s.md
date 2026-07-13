@@ -1402,129 +1402,129 @@ Debe destacarse que, a diferencia de otras propuestas analizadas, la de empresa_
 
 ## BLOQUE TRANSVERSAL (TRA)
 
-| **Proyecto** | **Clasificación** | **Valor añadido** |
-| --- | --- | --- |
-| TRA1 | Propuesta técnica con valor añadido | Sí (modo “simulación”) |
-| TRA2 | Propuesta técnica con valor añadido | No |
-| TRA3 | Propuesta técnica con valor añadido | No |
-| TRA4 | Propuesta técnica incluida (desarrollo suficiente) | No |
-| TRA5 | Propuesta técnica incluida (desarrollo suficiente) | Sí (mejora de seguridad y soporte) |
-| TRA6 | Propuesta técnica con valor añadido | Sí (generación automática de una especificación OpenAPI) |
-| TRA7 | Propuesta técnica incluida (desarrollo suficiente) | Sí (verificador automático de secretos expuestos) |
-| TRA8 | Propuesta técnica incluida (desarrollo suficiente) | Sí (modo identificativo único para eventos de centro o de calendario escolar) |
+| **Proyecto** | **Clasificación**                                  | **Valor añadido**                                                             |
+| ------------ | -------------------------------------------------- | ----------------------------------------------------------------------------- |
+| TRA1         | Propuesta técnica con valor añadido                | Sí (modo “simulación”)                                                        |
+| TRA2         | Propuesta técnica con valor añadido                | No                                                                            |
+| TRA3         | Propuesta técnica con valor añadido                | No                                                                            |
+| TRA4         | Propuesta técnica incluida (desarrollo suficiente) | No                                                                            |
+| TRA5         | Propuesta técnica incluida (desarrollo suficiente) | Sí (mejora de seguridad y soporte)                                            |
+| TRA6         | Propuesta técnica con valor añadido                | Sí (generación automática de una especificación OpenAPI)                      |
+| TRA7         | Propuesta técnica incluida (desarrollo suficiente) | Sí (verificador automático de secretos expuestos)                             |
+| TRA8         | Propuesta técnica incluida (desarrollo suficiente) | Sí (modo identificativo único para eventos de centro o de calendario escolar) |
 
 ## AULAS VIRTUALES (AV)
 
-| **Proyecto** | **Clasificación** | **Valor añadido** |
-| --- | --- | --- |
-| AV1 | Propuesta técnica con valor añadido | Sí (“informe de salud post-upgrade” por isla) |
-| AV2 | Propuesta técnica incluida (desarrollo suficiente) | Sí (perfiles para tráfico web y tareas internas) |
-| AV3 | Propuesta técnica incluida (desarrollo suficiente) | Sí (ficha técnica por plugin con “decisión de ciclo de vida”) |
-| AV4 | Propuesta técnica con valor añadido | Sí (cuadro de mando técnico de salud Moodle) |
-| AV5 | Propuesta técnica incluida (desarrollo suficiente) | No |
-| AV6 | Propuesta técnica incluida (desarrollo suficiente) | Sí (modo compacto) |
-| AV7 | Propuesta técnica incluida (desarrollo suficiente) | No |
-| AV8 | Propuesta técnica incluida (desarrollo suficiente) | Sí (calendario técnico de “campaña de inicio de curso”) |
-| AV9 | Propuesta técnica incluida (desarrollo suficiente) | Sí (modo “dry-run”) |
-| AV10 | Propuesta técnica incluida (desarrollo suficiente) | Sí (prueba automática de conectividad) |
-| AV11 | Propuesta técnica con valor añadido | Sí (notificación por correo al docente) |
-| AV12 | Propuesta técnica con valor añadido | Sí (opción de generar textos en distintos idiomas con IA) |
-| AV13 | Propuesta técnica con valor añadido | No |
-| AV14 | Propuesta técnica incluida (desarrollo suficiente) | Sí (mostrar NIA enmascarado cuando no sea imprescindible verlo completo) |
-| AV15 | Propuesta técnica incluida (desarrollo suficiente) | Sí (SSO funcional desde el aplicativo móvil) |
-| AV16 | Propuesta técnica incluida (desarrollo suficiente) | Sí (prueba de carga específica para Kuet) |
-| AV17 | Propuesta técnica incluida (desarrollo suficiente) | Sí (modo de previsualización) |
-| AV18 | Propuesta técnica incluida (desarrollo suficiente) | Sí (simulación previa “validar sin enviar”) |
-| AV19 | Propuesta técnica incluida (desarrollo suficiente) | Sí (añadir estimación previa de impacto) |
-| AV20 | Propuesta técnica incluida (desarrollo suficiente) | No |
-| AV21 | Propuesta técnica incluida (desarrollo suficiente) | Sí (añadir scopes de API por tipo de operación) |
+| **Proyecto** | **Clasificación**                                  | **Valor añadido**                                                        |
+| ------------ | -------------------------------------------------- | ------------------------------------------------------------------------ |
+| AV1          | Propuesta técnica con valor añadido                | Sí (“informe de salud post-upgrade” por isla)                            |
+| AV2          | Propuesta técnica incluida (desarrollo suficiente) | Sí (perfiles para tráfico web y tareas internas)                         |
+| AV3          | Propuesta técnica incluida (desarrollo suficiente) | Sí (ficha técnica por plugin con “decisión de ciclo de vida”)            |
+| AV4          | Propuesta técnica con valor añadido                | Sí (cuadro de mando técnico de salud Moodle)                             |
+| AV5          | Propuesta técnica incluida (desarrollo suficiente) | No                                                                       |
+| AV6          | Propuesta técnica incluida (desarrollo suficiente) | Sí (modo compacto)                                                       |
+| AV7          | Propuesta técnica incluida (desarrollo suficiente) | No                                                                       |
+| AV8          | Propuesta técnica incluida (desarrollo suficiente) | Sí (calendario técnico de “campaña de inicio de curso”)                  |
+| AV9          | Propuesta técnica incluida (desarrollo suficiente) | Sí (modo “dry-run”)                                                      |
+| AV10         | Propuesta técnica incluida (desarrollo suficiente) | Sí (prueba automática de conectividad)                                   |
+| AV11         | Propuesta técnica con valor añadido                | Sí (notificación por correo al docente)                                  |
+| AV12         | Propuesta técnica con valor añadido                | Sí (opción de generar textos en distintos idiomas con IA)                |
+| AV13         | Propuesta técnica con valor añadido                | No                                                                       |
+| AV14         | Propuesta técnica incluida (desarrollo suficiente) | Sí (mostrar NIA enmascarado cuando no sea imprescindible verlo completo) |
+| AV15         | Propuesta técnica incluida (desarrollo suficiente) | Sí (SSO funcional desde el aplicativo móvil)                             |
+| AV16         | Propuesta técnica incluida (desarrollo suficiente) | Sí (prueba de carga específica para Kuet)                                |
+| AV17         | Propuesta técnica incluida (desarrollo suficiente) | Sí (modo de previsualización)                                            |
+| AV18         | Propuesta técnica incluida (desarrollo suficiente) | Sí (simulación previa “validar sin enviar”)                              |
+| AV19         | Propuesta técnica incluida (desarrollo suficiente) | Sí (añadir estimación previa de impacto)                                 |
+| AV20         | Propuesta técnica incluida (desarrollo suficiente) | No                                                                       |
+| AV21         | Propuesta técnica incluida (desarrollo suficiente) | Sí (añadir scopes de API por tipo de operación)                          |
 
 ## MEDIATECA (MED)
 
-| **Proyecto** | **Clasificación** | **Valor añadido** |
-| --- | --- | --- |
-| MED1 | Propuesta técnica con valor añadido | Sí (incorporar todos los subtítulos multiidioma en las búsquedas por Elastic) |
-| MED2 | Propuesta técnica con valor añadido | Sí (“modo explicación”) |
-| MED3 | Propuesta técnica incluida (desarrollo suficiente) | Sí (limitar la comprobación de sesión activa en ciertos casos) |
-| MED4 | Propuesta técnica incluida (desarrollo suficiente) | Sí (guardado de versiones anteriores del proyecto) |
-| MED5 | Propuesta técnica incluida (desarrollo suficiente) | Sí (comprobación previa del ZIP e informe al usuario) |
-| MED6 | Propuesta técnica incluida (desarrollo suficiente) | Sí (modo “simulación”) |
-| MED7 | Propuesta técnica incluida (desarrollo suficiente) | Sí (mostrar antes de enviar validación ligera en cliente para extensiones admitidas) |
-| MED8 | Propuesta técnica incluida (desarrollo suficiente) | Sí (bloque “qué puedo hacer ahora”) |
-| MED9 | Propuesta técnica incluida (desarrollo suficiente) | Sí (transcripción multiidioma) |
-| MED10 | Propuesta técnica incluida (desarrollo suficiente) | Sí (indicador interno de confianza) |
-| MED11 | Propuesta técnica incluida (desarrollo suficiente) | Sí (mapa vivo de deuda técnica) |
+| **Proyecto** | **Clasificación**                                  | **Valor añadido**                                                                    |
+| ------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| MED1         | Propuesta técnica con valor añadido                | Sí (incorporar todos los subtítulos multiidioma en las búsquedas por Elastic)        |
+| MED2         | Propuesta técnica con valor añadido                | Sí (“modo explicación”)                                                              |
+| MED3         | Propuesta técnica incluida (desarrollo suficiente) | Sí (limitar la comprobación de sesión activa en ciertos casos)                       |
+| MED4         | Propuesta técnica incluida (desarrollo suficiente) | Sí (guardado de versiones anteriores del proyecto)                                   |
+| MED5         | Propuesta técnica incluida (desarrollo suficiente) | Sí (comprobación previa del ZIP e informe al usuario)                                |
+| MED6         | Propuesta técnica incluida (desarrollo suficiente) | Sí (modo “simulación”)                                                               |
+| MED7         | Propuesta técnica incluida (desarrollo suficiente) | Sí (mostrar antes de enviar validación ligera en cliente para extensiones admitidas) |
+| MED8         | Propuesta técnica incluida (desarrollo suficiente) | Sí (bloque “qué puedo hacer ahora”)                                                  |
+| MED9         | Propuesta técnica incluida (desarrollo suficiente) | Sí (transcripción multiidioma)                                                       |
+| MED10        | Propuesta técnica incluida (desarrollo suficiente) | Sí (indicador interno de confianza)                                                  |
+| MED11        | Propuesta técnica incluida (desarrollo suficiente) | Sí (mapa vivo de deuda técnica)                                                      |
 
 ## CORREO WEB (COR)
 
-| **Proyecto** | **Clasificación** | **Valor añadido** |
-| --- | --- | --- |
-| COR1 | Propuesta técnica con valor añadido | Sí (pantalla de diagnóstico) |
-| COR2 | Propuesta técnica con valor añadido | Sí (botón “el resumen no es correcto”) |
-| COR3 | Propuesta técnica incluida (desarrollo suficiente) | Sí (opción “mantener tono institucional”) |
-| COR4 | Propuesta técnica incluida (desarrollo suficiente) | Sí (opción “no cambiar información factual”) |
+| **Proyecto** | **Clasificación**                                  | **Valor añadido**                            |
+| ------------ | -------------------------------------------------- | -------------------------------------------- |
+| COR1         | Propuesta técnica con valor añadido                | Sí (pantalla de diagnóstico)                 |
+| COR2         | Propuesta técnica con valor añadido                | Sí (botón “el resumen no es correcto”)       |
+| COR3         | Propuesta técnica incluida (desarrollo suficiente) | Sí (opción “mantener tono institucional”)    |
+| COR4         | Propuesta técnica incluida (desarrollo suficiente) | Sí (opción “no cambiar información factual”) |
 
 ## CLOUD (CLO)
 
-| **Proyecto** | **Clasificación** | **Valor añadido** |
-| --- | --- | --- |
-| CLO1 | Propuesta técnica con valor añadido | No |
-| CLO2 | Propuesta técnica con valor añadido | No |
+| **Proyecto** | **Clasificación**                   | **Valor añadido** |
+| ------------ | ----------------------------------- | ----------------- |
+| CLO1         | Propuesta técnica con valor añadido | No                |
+| CLO2         | Propuesta técnica con valor añadido | No                |
 
 ## WORDPRESS (WPM)
 
-| **Proyecto** | **Clasificación** | **Valor añadido** |
-| --- | --- | --- |
-| WPM1 | Propuesta técnica con valor añadido | Sí (panel técnico interno de versiones por componente) |
-| WPM2 | Propuesta técnica incluida (desarrollo suficiente) | Sí (aviso de licencias a punto de caducar o pendientes de activar) |
-| WPM3 | Propuesta técnica con valor añadido | Sí (procedimiento de correlación entre eventos del WAF y logs de WordPress) |
-| WPM4 | Propuesta técnica incluida (desarrollo suficiente) | Sí (mejoras en captcha) |
-| WPM5 | Propuesta técnica incluida (desarrollo suficiente) | Sí (política individualizada de 2FA) |
+| **Proyecto** | **Clasificación**                                  | **Valor añadido**                                                           |
+| ------------ | -------------------------------------------------- | --------------------------------------------------------------------------- |
+| WPM1         | Propuesta técnica con valor añadido                | Sí (panel técnico interno de versiones por componente)                      |
+| WPM2         | Propuesta técnica incluida (desarrollo suficiente) | Sí (aviso de licencias a punto de caducar o pendientes de activar)          |
+| WPM3         | Propuesta técnica con valor añadido                | Sí (procedimiento de correlación entre eventos del WAF y logs de WordPress) |
+| WPM4         | Propuesta técnica incluida (desarrollo suficiente) | Sí (mejoras en captcha)                                                     |
+| WPM5         | Propuesta técnica incluida (desarrollo suficiente) | Sí (política individualizada de 2FA)                                        |
 
 ## VIDEO (VID)
 
-| **Proyecto** | **Clasificación** | **Valor añadido** |
-| --- | --- | --- |
-| VID1 | Propuesta técnica con valor añadido | Sí (recolector de métricas por emisión) |
-| VID2 | Propuesta técnica con valor añadido | Sí (regla de admisión progresiva para salas de invitados) |
-| VID3 | Propuesta técnica incluida (desarrollo suficiente) | Sí (aviso de caducidad de grabaciones para responsables de centro) |
-| VID4 | Propuesta técnica incluida (desarrollo suficiente) | Sí (plantilla de “evento de alta audiencia”) |
+| **Proyecto** | **Clasificación**                                  | **Valor añadido**                                                  |
+| ------------ | -------------------------------------------------- | ------------------------------------------------------------------ |
+| VID1         | Propuesta técnica con valor añadido                | Sí (recolector de métricas por emisión)                            |
+| VID2         | Propuesta técnica con valor añadido                | Sí (regla de admisión progresiva para salas de invitados)          |
+| VID3         | Propuesta técnica incluida (desarrollo suficiente) | Sí (aviso de caducidad de grabaciones para responsables de centro) |
+| VID4         | Propuesta técnica incluida (desarrollo suficiente) | Sí (plantilla de “evento de alta audiencia”)                       |
 
 ## SERVICIOS UNITARIOS
 
-| **Proyecto** | **Clasificación** | **Valor añadido** |
-| --- | --- | --- |
-| EMP1 | Propuesta técnica con valor añadido | Sí (dashboard de salud de diferentes componentes) |
-| LDAP | Propuesta técnica con valor añadido | Sí (panel de “contraseñas temporales activas”) |
-| EXE | Propuesta técnica con valor añadido | Sí (plantilla “DUA ligero” y reproductor en la nube Nextcloud de EM) |
-| FOR1 | Propuesta técnica incluida (desarrollo suficiente) | Sí (informe de salud de Formularios) |
-| BUS1 | Propuesta técnica con valor añadido | Sí (modo de “búsquedas frecuentes sin resultados”) |
-| ANI1 | Propuesta técnica incluida (desarrollo suficiente) | Sí (crear un “mapa de deuda técnica”) |
+| **Proyecto** | **Clasificación**                                  | **Valor añadido**                                                    |
+| ------------ | -------------------------------------------------- | -------------------------------------------------------------------- |
+| EMP1         | Propuesta técnica con valor añadido                | Sí (dashboard de salud de diferentes componentes)                    |
+| LDAP         | Propuesta técnica con valor añadido                | Sí (panel de “contraseñas temporales activas”)                       |
+| EXE          | Propuesta técnica con valor añadido                | Sí (plantilla “DUA ligero” y reproductor en la nube Nextcloud de EM) |
+| FOR1         | Propuesta técnica incluida (desarrollo suficiente) | Sí (informe de salud de Formularios)                                 |
+| BUS1         | Propuesta técnica con valor añadido                | Sí (modo de “búsquedas frecuentes sin resultados”)                   |
+| ANI1         | Propuesta técnica incluida (desarrollo suficiente) | Sí (crear un “mapa de deuda técnica”)                                |
 
 ## RESTO DE SISTEMAS
 
-| **Proyecto** | **Clasificación** | **Valor añadido** |
-| --- | --- | --- |
-| SYN | Propuesta técnica con valor añadido | Sí (evolución hacia API de Raíces) |
-| CAU | Propuesta técnica incluida (desarrollo suficiente) | Sí (panel de verificación postactualización) |
-| EDU | Propuesta técnica incluida (desarrollo suficiente) | Sí (Biblioteca interna ligera de seguridad para EducaSAAC,) |
-| BAN | Propuesta técnica incluida (desarrollo suficiente) | Sí (panel de comprobación previa) |
-| DTIC | Propuesta técnica incluida (desarrollo suficiente) | Sí (informe previo en HTML y CSV) |
-| SEG | Propuesta técnica con valor añadido | Sí (panel de salud de edición) |
-| ALB | Propuesta técnica incluida (desarrollo suficiente) | Sí (consola de revisión de respuestas sin datos personales) |
-| AVI | Propuesta técnica incluida (desarrollo suficiente) | Sí (validación de seguridad previa) |
-| FOR | Propuesta técnica incluida (desarrollo suficiente) | Sí (autencitación contra SSO) |
-| BOL | Propuesta técnica incluida (desarrollo suficiente) | Sí (validación previa al envío) |
-| AYU | Propuesta técnica incluida (desarrollo suficiente) | No |
-| POR | Propuesta técnica con valor añadido | Sí (endpoint de validación previa) |
-| WES | Propuesta técnica incluida (desarrollo suficiente) | Sí (matriz de páginas críticas) |
-| IFZ | Propuesta técnica con valor añadido | Sí (catálogo vivo de componentes) |
-| MAX | Propuesta técnica incluida (desarrollo suficiente) | No |
-| GES | Propuesta técnica incluida (desarrollo suficiente) | Sí (validador previo de ficheros) |
-| USO | Propuesta técnica con valor añadido | Sí (instalación de rybbit contra el SSO y script de generación de entorno para los centros solicitados) |
-| MAM | Propuesta técnica incluida (desarrollo suficiente) | Sí (orquestador ligero de scripts accesible por VPN) |
-| EML | Propuesta técnica con valor añadido | No |
-| ABI | Propuesta técnica incluida (desarrollo suficiente) | No |
+| **Proyecto** | **Clasificación**                                  | **Valor añadido**                                                                                       |
+| ------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| SYN          | Propuesta técnica con valor añadido                | Sí (evolución hacia API de Raíces)                                                                      |
+| CAU          | Propuesta técnica incluida (desarrollo suficiente) | Sí (panel de verificación postactualización)                                                            |
+| EDU          | Propuesta técnica incluida (desarrollo suficiente) | Sí (Biblioteca interna ligera de seguridad para EducaSAAC,)                                             |
+| BAN          | Propuesta técnica incluida (desarrollo suficiente) | Sí (panel de comprobación previa)                                                                       |
+| DTIC         | Propuesta técnica incluida (desarrollo suficiente) | Sí (informe previo en HTML y CSV)                                                                       |
+| SEG          | Propuesta técnica con valor añadido                | Sí (panel de salud de edición)                                                                          |
+| ALB          | Propuesta técnica incluida (desarrollo suficiente) | Sí (consola de revisión de respuestas sin datos personales)                                             |
+| AVI          | Propuesta técnica incluida (desarrollo suficiente) | Sí (validación de seguridad previa)                                                                     |
+| FOR          | Propuesta técnica incluida (desarrollo suficiente) | Sí (autencitación contra SSO)                                                                           |
+| BOL          | Propuesta técnica incluida (desarrollo suficiente) | Sí (validación previa al envío)                                                                         |
+| AYU          | Propuesta técnica incluida (desarrollo suficiente) | No                                                                                                      |
+| POR          | Propuesta técnica con valor añadido                | Sí (endpoint de validación previa)                                                                      |
+| WES          | Propuesta técnica incluida (desarrollo suficiente) | Sí (matriz de páginas críticas)                                                                         |
+| IFZ          | Propuesta técnica con valor añadido                | Sí (catálogo vivo de componentes)                                                                       |
+| MAX          | Propuesta técnica incluida (desarrollo suficiente) | No                                                                                                      |
+| GES          | Propuesta técnica incluida (desarrollo suficiente) | Sí (validador previo de ficheros)                                                                       |
+| USO          | Propuesta técnica con valor añadido                | Sí (instalación de rybbit contra el SSO y script de generación de entorno para los centros solicitados) |
+| MAM          | Propuesta técnica incluida (desarrollo suficiente) | Sí (orquestador ligero de scripts accesible por VPN)                                                    |
+| EML          | Propuesta técnica con valor añadido                | No                                                                                                      |
+| ABI          | Propuesta técnica incluida (desarrollo suficiente) | No                                                                                                      |
 
 ## WEKAN (WEK)
 

@@ -143,10 +143,10 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente, salvo el 0 %, que se clasifica como **MUY BAJA**.
 - **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
 
 ### Valoración de la planificación del servicio
@@ -179,10 +179,10 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente, salvo el 0 %, que se clasifica como **MUY BAJA**.
 - **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
 
 ### Fases del proceso de valoración
@@ -207,7 +207,7 @@ Asimismo, la propuesta evidencia una **comprensión profunda del entorno técnic
 
 Otro elemento diferencial reside en el **grado de desarrollo técnico de las soluciones**. La memoria no se limita a enumerar funcionalidades, sino que **describe de forma detallada los mecanismos de implementación**, incluyendo arquitecturas específicas, tecnologías aplicadas, flujos de integración y procedimientos operativos. Este nivel de concreción permite **verificar la viabilidad de las actuaciones** y reduce la necesidad de inferencias por parte del órgano evaluador, alineándose plenamente con el principio de evaluabilidad.
 
-En relación con el cumplimiento de los requisitos del Anexo II, la propuesta alcanza un **nivel muy alto de cobertura**, desarrollando de forma efectiva **la totalidad de los sistemas incluidos en el alcance del contrato**. Este cumplimiento no se limita a una reproducción de requisitos, sino que se acompaña de **soluciones técnicas adaptadas a cada caso**, incorporando además mejoras y elementos de valor añadido que incrementan la calidad global de la oferta.
+En relación con el cumplimiento de los requisitos del Anexo II, la propuesta alcanza un **nivel muy alto de cobertura del alcance contractual**: los 85 proyectos tienen presencia nominal y solución concreta; 81 presentan desarrollo suficiente y los cuatro proyectos WEK reciben un desarrollo agregado que se clasifica individualmente como insuficiente. Por tanto, la cobertura completa del alcance no implica que las 85 filas tengan grado suficiente. El cumplimiento se acompaña de **soluciones técnicas adaptadas a cada bloque**, además de mejoras y elementos de valor añadido que incrementan la calidad global de la oferta.
 
 Desde el punto de vista del rendimiento, la propuesta presenta un **tratamiento específico por sistema, incorporando mecanismos específicos y concretos**. Este enfoque demuestra una consideración realista de las condiciones de operación del sistema, lo que contribuye a reforzar la **viabilidad técnica de la solución**.
 
@@ -219,7 +219,7 @@ En conjunto, la propuesta de empresa_s se caracteriza por su **elevado grado de 
 
 ### Propuesta técnica de empresa_n
 
-La propuesta presentada por empresa_n muestra una **cobertura funcional amplia del alcance del contrato**, en la medida en que identifica la mayoría de los sistemas y proyectos definidos en el Anexo II. Sin embargo, este amplio alcance nominal **no se traduce en un desarrollo técnico suficientemente profundo**, lo que condiciona de forma significativa su evaluación en los distintos criterios establecidos en el Documento de Invitación.
+La propuesta presentada por empresa_n muestra una **cobertura nominal completa del alcance del contrato**: identifica los 85 proyectos definidos en el Anexo II, pero solo 12 presentan desarrollo suficiente y 73 desarrollo insuficiente. Esta presencia nominal **no se traduce en un desarrollo técnico suficientemente profundo**, lo que condiciona de forma significativa su evaluación en los distintos criterios establecidos en el Documento de Invitación.
 
 Desde el punto de vista general, la memoria técnica presenta una **estructura formal adecuada y una organización coherente**, lo que facilita su lectura. No obstante, el análisis detallado pone de manifiesto que el contenido se articula fundamentalmente en **términos descriptivos**, reproduciendo en numerosos casos los requisitos del pliego **sin aportar soluciones técnicas concretas que permitan acreditar la capacidad real de ejecución**.
 
@@ -229,7 +229,7 @@ Un elemento especialmente relevante en la valoración negativa de la propuesta e
 
 Ejemplos significativos de estas deficiencias incluyen la propuesta de **soluciones basadas en tecnologías no utilizadas en el entorno real**, la **incorrecta caracterización de sistemas existentes** o la definición de **modelos de ejecución incompatibles con los requisitos del pliego**, como el planteamiento de procesos síncronos en contextos donde se exige procesamiento asíncrono.
 
-En relación con la cobertura del Anexo II, aunque se identifican la mayoría de los sistemas, el **grado de desarrollo técnico es insuficiente en numerosos casos**, detectando **carencia de soluciones concretas para algunos sistemas específicos**. Este patrón de falta de concreción se reproduce también en los sistemas complementarios, lo que contribuye a una penalización acumulativa en la valoración.
+En relación con la cobertura del Anexo II, se identifican nominalmente los 85 proyectos, pero el **grado de desarrollo técnico es insuficiente en 73 casos**. La cobertura nominal total debe distinguirse de la cobertura efectiva: solo 12 proyectos aportan una solución suficientemente desarrollada. Este patrón de falta de concreción se reproduce también en los sistemas complementarios, lo que contribuye a una penalización acumulativa en la valoración.
 
 Desde el punto de vista de la planificación, la propuesta presenta igualmente **carencias importantes**, al no definir de forma detallada los mecanismos de ejecución, las dependencias entre tareas o las estrategias de control del servicio. En este aspecto cabe destacar la **omisión de una leyenda explicativa del diagrama de Gantt presentado**, lo que ha impedido la correcta interpretación del mismo afectando enormemente a la valoración de ese subcriterio. Además, aunque se mencionan algunos aspectos organizativos, estos **no alcanzan el nivel de detalle necesario para acreditar la viabilidad temporal y operativa del servicio**.
 
@@ -267,7 +267,7 @@ El análisis conjunto de las tres propuestas presentadas pone de manifiesto la e
 
 En primer lugar, la propuesta de empresa_s se sitúa claramente en un **nivel superior respecto a las demás**, destacando por su **coherencia técnica, su alto grado de desarrollo y su plena evaluabilidad**. La oferta no solo aborda de forma completa los requisitos del Anexo II, sino que lo hace mediante soluciones específicas, adaptadas al entorno real del contrato y acompañadas de mecanismos de control, integración y validación. Esta circunstancia permite considerar que la propuesta **ofrece garantías suficientes para la correcta ejecución del servicio**.
 
-En segundo lugar, la propuesta de empresa_n ocupa una **posición intermedia**, caracterizada por una **cobertura funcional amplia pero insuficientemente desarrollada desde el punto de vista técnico**. Aunque identifica la mayoría de los requerimientos, **no consigue traducirlos en soluciones concretas y verificables**, presentando además errores conceptuales relevantes que afectan a su viabilidad. Esta combinación de factores limita de forma significativa su evaluabilidad y su adecuación al contrato.
+En segundo lugar, la propuesta de empresa_n ocupa una **posición intermedia**, caracterizada por una **cobertura nominal completa pero insuficientemente desarrollada desde el punto de vista técnico**. Aunque identifica los 85 proyectos, solo 12 presentan desarrollo suficiente y **no consigue traducir la mayor parte del alcance en soluciones concretas y verificables**, presentando además errores conceptuales relevantes que afectan a su viabilidad. Esta combinación de factores limita de forma significativa su evaluabilidad y su adecuación al contrato.
 
 Por último, la propuesta presentada por la empresa_u se sitúa en el **nivel más bajo**, debido a **deficiencias estructurales que afectan a la mayor parte de su contenido**. La falta de desarrollo técnico, la presencia de contenido no finalizado y la ausencia de planificación verificable **impiden evaluar una parte sustancial de la oferta**, lo que determina su valoración claramente insuficiente.
 
@@ -277,23 +277,23 @@ Desde una perspectiva comparada, puede afirmarse que mientras **empresa_s presen
 
 | **Subcriterio**            | **Máx** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** | **empresa_u** | **Puntos** |
 | -------------------------- | ------: | ------------- | ---------: | ------------- | ---------: | ------------- | ---------: |
-| Arquitectura               |       2 | Excelente     |       1,80 | Media-Alta    |       1,00 | Media         |       0,30 |
-| Comprensión de requisitos  |       2 | Excelente     |       1,90 | Media-Alta    |       1,00 | Media         |       0,30 |
-| Viabilidad                 |       1 | Excelente     |       0,90 | Media         |       0,40 | Baja          |       0,20 |
-| Metodología                |       1 | Excelente     |       0,90 | Media         |       0,40 | Media         |       0,40 |
-| Rendimiento                |       1 | Excelente     |       0,90 | Media         |       0,40 | Baja          |       0,20 |
-| Satisfacción de requisitos |       8 | Excelente     |       7,20 | Media         |       2,50 | Baja          |       0,80 |
+| Arquitectura               |       2 | EXCELENTE     |       1,80 | MEDIA         |       1,00 | BAJA          |       0,30 |
+| Comprensión de requisitos  |       2 | EXCELENTE     |       1,90 | MEDIA         |       1,00 | BAJA          |       0,30 |
+| Viabilidad                 |       1 | EXCELENTE     |       0,90 | MEDIA         |       0,40 | BAJA          |       0,20 |
+| Metodología                |       1 | EXCELENTE     |       0,90 | MEDIA         |       0,40 | MEDIA         |       0,40 |
+| Rendimiento                |       1 | EXCELENTE     |       0,90 | MEDIA         |       0,40 | BAJA          |       0,20 |
+| Satisfacción de requisitos |       8 | EXCELENTE     |       7,20 | MEDIA         |       2,50 | BAJA          |       0,80 |
 | **Total**                  |  **15** |               |  **13,60** |               |   **5,70** |               |   **2,20** |
 
 ### Valoración comparativa de la planificación del servicio
 
 | **Subcriterio**            | **Máx** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** | **empresa_u** | **Puntos** |
 | -------------------------- | ------: | ------------- | ---------: | ------------- | ---------: | ------------- | ---------: |
-| Calendario y planificación |      11 | Excelente     |       9,60 | Media         |       3,75 | Baja          |       0,50 |
-| Análisis de riesgos        |       1 | Excelente     |       0,85 | Alta          |       0,55 | Baja          |       0,30 |
-| Plan de contingencias      |       1 | Excelente     |       0,90 | Media         |       0,40 | Baja          |       0,20 |
-| Plan de calidad            |       1 | Excelente     |       0,90 | Media         |       0,60 | Baja          |       0,30 |
-| Trazabilidad               |       1 | Excelente     |       0,85 | Media         |       0,30 | Baja          |       0,20 |
+| Calendario y planificación |      11 | EXCELENTE     |       9,60 | MEDIA         |       3,75 | BAJA          |       0,50 |
+| Análisis de riesgos        |       1 | EXCELENTE     |       0,85 | ALTA          |       0,55 | MEDIA         |       0,30 |
+| Plan de contingencias      |       1 | EXCELENTE     |       0,90 | MEDIA         |       0,40 | BAJA          |       0,20 |
+| Plan de calidad            |       1 | EXCELENTE     |       0,90 | ALTA          |       0,60 | MEDIA         |       0,30 |
+| Trazabilidad               |       1 | EXCELENTE     |       0,85 | MEDIA         |       0,30 | BAJA          |       0,20 |
 | **Total**                  |  **15** |               |  **13,10** |               |   **5,60** |               |   **1,50** |
 
 ### Resultado global de los criterios sujetos a juicio de valor
@@ -310,7 +310,7 @@ La suma de los dos bloques y la comprobación del umbral mínimo arrojan el sigu
 
 La valoración reflejada en las tablas anteriores responde a un **análisis técnico homogéneo, basado exclusivamente en el contenido de las propuestas** y en su capacidad para dar respuesta a los requisitos establecidos en el pliego.
 
-En el caso de empresa_s, la puntuación elevada se justifica por la **existencia de soluciones técnicas concretas, la cobertura completa del Anexo II y la incorporación de mecanismos de control, integración y validación** que permiten verificar la viabilidad de la solución, así como propuestas de mejora en la mayoría de los subproyectos. La propuesta **no presenta carencias estructurales ni errores conceptuales**, lo que permite situarla en niveles altos o excelentes en la mayoría de los subcriterios.
+En el caso de empresa_s, la puntuación elevada se justifica por la **existencia de soluciones técnicas concretas, la cobertura nominal completa del Anexo II y la incorporación de mecanismos de control, integración y validación** que permiten verificar la viabilidad de la solución, así como propuestas de mejora en la mayoría de los subproyectos. La propuesta contiene 81 desarrollos suficientes y cuatro desarrollos agregados insuficientes en WEK, pero **no presenta carencias estructurales ni errores conceptuales**, lo que permite situarla en niveles altos o excelentes en la mayoría de los subcriterios.
 
 Por el contrario, la propuesta de empresa_n presenta un **nivel de desarrollo técnico insuficiente**, caracterizado por un **enfoque descriptivo, la ausencia de mecanismos concretos de implementación y la existencia de errores técnicos** que afectan a la correcta comprensión del entorno. Estas deficiencias se trasladan de manera homogénea a los distintos subcriterios, dando lugar a una **valoración media-baja en ambos bloques**.
 

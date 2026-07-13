@@ -196,10 +196,10 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente, salvo el 0 %, que se clasifica como **MUY BAJA**.
 - **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
 
 ### Valoración de la planificación del servicio
@@ -232,10 +232,10 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente, salvo el 0 %, que se clasifica como **MUY BAJA**.
 - **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
 
 ### Fases del proceso de valoración individual
@@ -286,7 +286,7 @@ La propuesta presenta un desarrollo técnico muy limitado y desigual. Una parte 
 
 #### Cobertura del Anexo II
 
-De los 85 proyectos, 22 presentan desarrollo suficiente, 37 desarrollo insuficiente y 26 no incluyen una solución concreta. TRA recibe un tratamiento general; AV y MED contienen numerosos apartados pendientes; COR, CLO, VID y la mayoría de servicios unitarios y complementarios se limitan a menciones; WEK queda íntegramente pendiente. La falta de finalización y de adaptación al entorno es transversal, no una deficiencia aislada.
+De los 85 proyectos, 59 tienen presencia nominal —22 presentan desarrollo suficiente y 37 desarrollo insuficiente—, mientras que 26 no incluyen una solución concreta. La cobertura nominal y la cobertura efectiva son, por tanto, parciales y deben distinguirse: solo 22 proyectos alcanzan desarrollo suficiente. TRA recibe un tratamiento general; AV y MED contienen numerosos apartados pendientes; COR, CLO, VID y la mayoría de servicios unitarios y complementarios se limitan a menciones; WEK queda íntegramente pendiente. La falta de finalización y de adaptación al entorno es transversal, no una deficiencia aislada.
 
 #### Fortalezas y aportaciones de valor añadido
 

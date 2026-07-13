@@ -304,31 +304,31 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 #### [CÓDIGO] — [DENOMINACIÓN]
 
-##### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funcionalidades, integraciones, condicionantes técnicos y entregables exigidos por el Anexo II.*
 
-##### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar las evidencias concretas incluidas en la memoria.*
 
-##### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados y distinguir el cumplimiento del requisito de las mejoras reales.*
 
-##### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad y explicar su relevancia.*
 
-##### Valoración cualitativa
+- **Valoración cualitativa**
 
-**[EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
+- **[EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
 
 *Justificar brevemente el nivel asignado y mantenerlo alineado con las evidencias expuestas.*
 
 ### Proyectos Web Liferay (ELIF)
 
-#### Consideración general del bloque
+- **Consideración general del bloque**
 
 Este bloque comprende la adaptación y evolución de páginas externas integradas en Liferay y Scribe CMS, los elementos corporativos comunes, la presentación, la usabilidad y la accesibilidad. Deben valorarse la compatibilidad con las personalizaciones existentes, la mantenibilidad, el despliegue controlado, la validación multidispositivo y el cumplimiento de los estándares aplicables.
 
@@ -354,7 +354,7 @@ Este bloque comprende la adaptación y evolución de páginas externas integrada
 
 ### Innovación y Formación del Profesorado (IFP)
 
-#### Consideración general del bloque
+- **Consideración general del bloque**
 
 El bloque aborda la actualización y evolución de la plataforma de Innovación y Formación del Profesorado basada en Drupal. Deben considerarse la migración de versión, las funcionalidades e integraciones, la continuidad, la seguridad, el rendimiento, el tratamiento de contenidos y la validación de la transición.
 
@@ -368,7 +368,7 @@ El bloque aborda la actualización y evolución de la plataforma de Innovación 
 
 ### Proyectos MoodleMisc (EMOM)
 
-#### Consideración general del bloque
+- **Consideración general del bloque**
 
 Este bloque reúne la actualización, adaptación, mantenimiento, seguridad y operación del entorno MoodleMisc. Deben valorarse la compatibilidad entre versiones, plugins e integraciones; el despliegue en los distintos entornos; la escalabilidad; el rendimiento; las copias de seguridad; la automatización; y la resolución de problemas específicos.
 
@@ -406,7 +406,7 @@ Este bloque reúne la actualización, adaptación, mantenimiento, seguridad y op
 
 ### Proyectos de Dinámicas (EDIN)
 
-#### Consideración general del bloque
+- **Consideración general del bloque**
 
 El entorno Dinámicas agrupa aplicaciones heredadas con arquitecturas, dependencias y estados de mantenimiento heterogéneos. Deben valorarse el inventario, la adaptación de código y componentes, la actualización tecnológica, la segregación, la seguridad, la adecuación al ENS, la continuidad y el control de accesos y ficheros.
 
@@ -424,7 +424,7 @@ El entorno Dinámicas agrupa aplicaciones heredadas con arquitecturas, dependenc
 
 ### Integración con la plataforma EducaMadrid (EIPE)
 
-#### Consideración general del bloque
+- **Consideración general del bloque**
 
 Este bloque comprende modificaciones de aplicaciones, plugins, scripts e interfaces necesarias para integrar proyectos exteriores con la plataforma. Deben valorarse el análisis de dependencias, la compatibilidad tecnológica, el ciclo de vida del software, la seguridad, la validación y el control del despliegue.
 
@@ -442,7 +442,7 @@ Este bloque comprende modificaciones de aplicaciones, plugins, scripts e interfa
 
 ### Proyectos de Sistemas Externos (ESIS)
 
-#### Consideración general del bloque
+- **Consideración general del bloque**
 
 El bloque ESIS cubre el ciclo completo de incorporación, operación, mantenimiento, seguridad y evolución de proyectos exteriores: software base y bases de datos, consultoría, identidades, aprovisionamiento, configuración, integraciones corporativas, documentación, riesgos, continuidad, monitorización, ciberseguridad y gestión de infraestructura.
 
@@ -576,7 +576,7 @@ El bloque ESIS cubre el ciclo completo de incorporación, operación, mantenimie
 
 ### Seguridad de Aplicaciones Web (ESEG)
 
-#### Consideración general del bloque
+- **Consideración general del bloque**
 
 Este bloque aborda la evaluación continua de la seguridad de las aplicaciones web, la gestión y explotación de sus registros y la supervisión de la superficie de exposición. Deben valorarse el alcance, las metodologías, herramientas, evidencias, priorización, seguimiento y coordinación de la remediación.
 
@@ -598,7 +598,7 @@ Este bloque aborda la evaluación continua de la seguridad de las aplicaciones w
 
 ### Desarrollo Seguro de Aplicaciones Web (EDSA)
 
-#### Consideración general del bloque
+- **Consideración general del bloque**
 
 Este bloque comprende el análisis de seguridad del código y el apoyo a los equipos de desarrollo para prevenir, resolver y verificar vulnerabilidades. Deben valorarse la integración en el ciclo de desarrollo, las técnicas de análisis, las herramientas, la gestión de hallazgos y la transferencia de conocimiento.
 
@@ -616,7 +616,7 @@ Este bloque comprende el análisis de seguridad del código y el apoyo a los equ
 
 ### Gestión del programa de Bug Bounty (EBBO)
 
-#### Consideración general del bloque
+- **Consideración general del bloque**
 
 El bloque comprende la revisión y gestión del programa de Bug Bounty, la recepción y tratamiento de informes y la coordinación de la información pública asociada al programa.
 

@@ -104,7 +104,7 @@ La respuesta presenta un nivel de madurez superior al observado en otros apartad
 
 La propuesta permite apreciar una solución técnica reconocible y razonablemente alineada con los objetivos del contrato. **No obstante, la profundidad técnica alcanzada resulta insuficiente para acreditar plenamente la viabilidad operativa de los mecanismos descritos o justificar una valoración situada en niveles superiores.** Atendiendo al modelo de valoración previsto en el Documento de Invitación, la calidad observada se corresponde con una valoración MEDIA. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**MEDIA**
+- **MEDIA**
 
 ## ELIF3 – Mejoras de presentación
 
@@ -122,7 +122,7 @@ Pese a la amplitud de conceptos incluidos, una parte significativa de las actuac
 
 **La propuesta demuestra comprensión del problema planteado y presenta una cobertura funcional adecuada del requisito.** Sin embargo, la insuficiente concreción metodológica y la limitada definición de mecanismos verificables de ejecución condicionan la calidad global de la respuesta. En consecuencia, la valoración se corresponde con el nivel MEDIA previsto en el Documento de Invitación. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**MEDIA**
+- **MEDIA**
 
 ## ELIF4 – Mejoras de usabilidad y accesibilidad
 
@@ -140,7 +140,7 @@ El subproyecto ELIF4 persigue la mejora de la usabilidad, la accesibilidad y det
 
 La principal debilidad observada reside en la falta de concreción técnica de las medidas propuestas. **Dicha circunstancia dificulta la comprobación objetiva de los resultados esperados y limita la capacidad de valorar favorablemente la calidad de la solución presentada.** Conforme al modelo previsto en el apartado 7.2.2 del Documento de Invitación, la respuesta se ajusta al nivel BAJA. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## CONCLUSIÓN GLOBAL DEL BLOQUE ELIF
 
@@ -186,7 +186,7 @@ Del mismo modo, las actuaciones relacionadas con infraestructura, seguridad, LDA
 
 Atendiendo al modelo de valoración previsto en el apartado 7.2.2 del Documento de Invitación, la propuesta demuestra una comprensión adecuada de los requisitos y una cobertura funcional claramente satisfactoria, pero no alcanza el nivel de especialización técnica y verificabilidad necesario para justificar una valoración superior.
 
-**MEDIA**
+- **MEDIA**
 
 ## CONCLUSIÓN GLOBAL DEL BLOQUE IFP
 
@@ -224,7 +224,7 @@ Si bien se identifican los principales componentes tecnológicos afectados, el g
 
 **La propuesta demuestra una comprensión adecuada del alcance funcional del requisito y cubre satisfactoriamente los principales elementos incluidos en el mismo.** Sin embargo, la limitada definición de procedimientos técnicos verificables, mecanismos específicos de validación y estrategias detalladas de implantación impide considerar la solución particularmente avanzada desde el punto de vista metodológico o tecnológico. Conforme al baremo establecido en el Documento de Invitación, la calidad de la respuesta se ajusta al nivel MEDIA. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**MEDIA**
+- **MEDIA**
 
 ## EMOM2 – Adaptación de la plataforma MoodleMisc
 
@@ -244,7 +244,7 @@ Asimismo, la memoria desarrolla de forma limitada las arquitecturas de integraci
 
 La propuesta proporciona una cobertura parcial del alcance efectivo del requisito y presenta un nivel de desarrollo predominantemente funcional y organizativo. **La limitada concreción técnica observada reduce significativamente la capacidad de verificar los mecanismos concretos de ejecución previstos para las diferentes integraciones especializadas contempladas en el Documento de Invitación.** Conforme al modelo de valoración aplicable, la calidad de la respuesta se ajusta al nivel BAJA. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## EMOM3 – Mantenimiento de la plataforma MoodleMisc
 
@@ -264,7 +264,7 @@ La propuesta proporciona una cobertura parcial del alcance efectivo del requisit
 
 **Aunque la propuesta permite apreciar una comprensión adecuada de la finalidad del servicio de mantenimiento y cubre de forma general los ámbitos tecnológicos afectados, la escasa concreción técnica observada limita significativamente la verificabilidad de la solución y su capacidad para acreditar experiencia especializada en los distintos componentes que integran MoodleMisc.** Conforme a la escala de valoración del apartado 7.2.2 del Documento de Invitación, la calidad de la respuesta se corresponde con el nivel BAJA. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## EMOM4 – Mejora de la Ciberseguridad en MoodleMisc
 
@@ -284,7 +284,7 @@ El objeto de este subproyecto consiste en reforzar las medidas de seguridad exis
 
 **La propuesta resulta compatible con el objeto del requisito y demuestra una comprensión básica de las necesidades de seguridad planteadas por la Administración.** Sin embargo, la insuficiente especialización técnica observada y la limitada definición de procedimientos verificables reducen de forma significativa el valor diferencial de la solución. Conforme al baremo previsto en el Documento de Invitación, la respuesta se ajusta al nivel BAJA. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## EMOM5 – Solución de problemas conocidos en MoodleMisc
 
@@ -304,7 +304,7 @@ Como consecuencia de ello, buena parte del contenido aportado se centra en repro
 
 **La propuesta cubre adecuadamente el ámbito funcional del requisito y demuestra conocimiento sobre los problemas identificados por la Administración.** No obstante, la limitada profundización en las metodologías de resolución y la ausencia de mecanismos de validación suficientemente desarrollados impiden situar la respuesta en niveles superiores de valoración. Conforme al modelo de puntuación del Documento de Invitación, la calidad observada se ajusta al nivel MEDIA. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**MEDIA**
+- **MEDIA**
 
 ## EMOM6 – Tareas sobre las configuraciones para las conexiones externas
 
@@ -324,7 +324,7 @@ Asimismo, los procesos de seguimiento, monitorización y validación funcional p
 
 **La propuesta cubre parcialmente el alcance funcional solicitado, pero la limitada profundidad técnica y la escasa definición de mecanismos verificables de integración condicionan significativamente la valoración global del subproyecto.** Conforme al apartado 7.2.2 del Documento de Invitación, la calidad de la respuesta se corresponde con el nivel BAJA. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## EMOM7 – Otras tareas específicas para la actualización y procedimiento en MoodleMisc
 
@@ -344,7 +344,7 @@ Como sucede en otros apartados del bloque, la solución desarrolla adecuadamente
 
 **La principal debilidad observada vuelve a encontrarse en la insuficiente concreción técnica de la solución.** Aunque el requisito se encuentra cubierto desde una perspectiva funcional general, el nivel de detalle aportado resulta insuficiente para acreditar con claridad los procedimientos y mecanismos de ejecución contemplados. Conforme al modelo de valoración aplicable, la calidad de la respuesta se ajusta al nivel BAJA. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## CONCLUSIÓN GLOBAL DEL BLOQUE EMOM
 
@@ -392,7 +392,7 @@ La propuesta demuestra una comprensión razonable del entorno funcional y cubre 
 
 Conforme a la escala de valoración del apartado 7.2.2 del Documento de Invitación, la calidad de la respuesta se corresponde con el nivel **BAJA**. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## EDIN2 – Mantenimiento, actualización y mejora del espacio FTP
 
@@ -420,7 +420,7 @@ La limitada definición de procedimientos técnicos, herramientas especializadas
 
 Atendiendo al modelo de valoración previsto en el apartado 7.2.2 del Documento de Invitación, la calidad de la respuesta se corresponde con el nivel **BAJA**. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## CONCLUSIÓN GLOBAL DEL BLOQUE EDIN
 
@@ -468,7 +468,7 @@ Como consecuencia de esta insuficiente concreción, no quedan suficientemente de
 
 Atendiendo a la escala de valoración establecida en el apartado 7.2.2 del Documento de Invitación, la calidad técnica observada se corresponde con el nivel **BAJA**. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## EIPE2 – Modificaciones Front-End (HTML, CSS y JavaScript)
 
@@ -496,7 +496,7 @@ La limitada profundidad técnica observada impide considerar acreditado un nivel
 
 Conforme a la escala de valoración prevista en el apartado 7.2.2 del Documento de Invitación, la respuesta se corresponde con el nivel **BAJA**. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## CONCLUSIÓN GLOBAL DEL BLOQUE EIPE
 
@@ -540,7 +540,7 @@ El objeto de este subproyecto consiste en garantizar la actualización controlad
 
 La valoración propuesta no debe interpretarse como una acreditación de excelencia técnica completa del requisito. **Se reconoce la existencia de limitaciones relevantes en ámbitos como automatización, regresión avanzada, procedimientos de reversión y definición detallada de entornos.** No obstante, dentro del contexto específico del bloque ESIS, la propuesta presenta un nivel de estructuración superior al observado en la mayoría de los subproyectos analizados, incorporando mecanismos verificables de validación previa que permiten diferenciarla del patrón general de respuestas predominantemente descriptivas identificado en la oferta.
 
-**ALTA**
+- **ALTA**
 
 ## ESIS2 – Servicio de actualización de bases de datos
 
@@ -560,7 +560,7 @@ La respuesta desarrolla con mayor profundidad que otros apartados determinados a
 
 **La valoración asignada responde a una comparación relativa con el resto de soluciones presentadas para el bloque ESIS y no a una consideración de completitud técnica absoluta.** Aunque la memoria no desarrolla con suficiente profundidad aspectos como la alta disponibilidad, la recuperación avanzada o las particularidades de cada motor de base de datos, sí incorpora una aproximación continuada a la revisión y optimización de los entornos de persistencia que, dentro del contexto general de la oferta, proporciona un grado de desarrollo superior al observado en una parte significativa de los requisitos analizados.
 
-**ALTA**
+- **ALTA**
 
 ## ESIS3 – Consultoría de integración
 
@@ -578,7 +578,7 @@ La propuesta contempla actividades de análisis, evaluación de necesidades e id
 
 La propuesta cubre el requisito desde una perspectiva funcional, pero no alcanza el nivel de profundidad técnica exigible para una actividad de consultoría especializada. **La ausencia de arquitecturas detalladas, metodologías específicas y mecanismos verificables limita significativamente la capacidad de acreditar experiencia diferencial en entornos complejos de integración.** Considerando la clasificación recogida en el Anexo I y la limitada concreción observada en la memoria, la calidad global de la respuesta se corresponde con un nivel BAJO.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS4 – Consultoría de ciberseguridad
 
@@ -596,7 +596,7 @@ Pese a ello, la solución permanece situada en un plano principalmente conceptua
 
 **Aunque la comprensión de la finalidad del servicio resulta adecuada, la escasa profundidad metodológica y la ausencia de planteamientos especializados limitan considerablemente la capacidad de valorar favorablemente el requisito.** La respuesta no aporta elementos diferenciales que permitan acreditar un nivel técnico elevado de consultoría de seguridad y se ajusta claramente a los criterios correspondientes a una valoración BAJA.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS5 – Actualización de la autenticación centralizada de usuarios
 
@@ -616,7 +616,7 @@ La propuesta presentada por empresa_n identifica correctamente la relevancia de 
 
 **La solución acredita una comprensión adecuada del objetivo del requisito y proporciona una cobertura funcional aceptable.** Sin embargo, la ausencia de una definición detallada de los mecanismos de implantación, la limitada especialización técnica observada y la inexistencia de elementos de valor añadido verificables impiden considerar que la calidad de la respuesta alcance niveles superiores. Conforme al modelo de valoración aplicado, la solución se corresponde con un nivel BAJO.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS6 – Mantenimiento de la autenticación centralizada de usuarios
 
@@ -636,7 +636,7 @@ La documentación aportada no incorpora elementos diferenciales que permitan con
 
 La propuesta cubre formalmente el requisito y evidencia comprender las necesidades operativas asociadas al mantenimiento de los sistemas de autenticación. **Sin embargo, la limitada profundidad técnica y la falta de mecanismos verificables reducen significativamente la capacidad de acreditar una especialización diferencial respecto a una prestación estándar de soporte.** Por ello, la calidad global de la solución se corresponde con una valoración BAJA.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS7 – Gestión de servicios para la sincronización de usuarios
 
@@ -656,7 +656,7 @@ La respuesta permanece situada en un plano eminentemente conceptual, sin que sea
 
 **La propuesta demuestra comprender la necesidad de mantener la coherencia de identidades, pero no desarrolla suficientemente los mecanismos técnicos necesarios para llevar a cabo dicha tarea en un entorno complejo y altamente integrado como EducaMadrid.** La falta de detalle metodológico y la escasa especialización observada justifican una valoración BAJA.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS8 – Supervisión de usuarios de aplicaciones externas
 
@@ -676,7 +676,7 @@ El análisis realizado tampoco permite identificar elementos diferenciales que e
 
 **La propuesta proporciona una cobertura funcional razonable del requisito, pero su limitado desarrollo técnico, la ausencia de procedimientos verificables y la inexistencia de elementos de valor añadido reducen significativamente la calidad global de la solución.** En consecuencia, la valoración se corresponde con un nivel BAJO.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS9 – Soporte técnico en entornos de preproducción
 
@@ -696,7 +696,7 @@ La propuesta tampoco incorpora metodologías específicas que permitan acreditar
 
 **La propuesta cubre adecuadamente la finalidad funcional del requisito, pero la limitada definición de procedimientos verificables impide valorar favorablemente la capacidad real de ejecución de las actuaciones descritas.** La ausencia de metodologías formales de validación y control justifica una valoración BAJA.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS10 – Despliegue de aplicaciones externas en producción
 
@@ -716,7 +716,7 @@ La propuesta tampoco incorpora elementos de mejora o valor añadido identificado
 
 **Aunque la comprensión funcional del requisito resulta adecuada, la limitada definición metodológica y la ausencia de procedimientos técnicos verificables reducen significativamente la calidad de la respuesta.** La solución no aporta evidencias suficientes para acreditar una capacidad diferencial de gestión de despliegues complejos y, por ello, se corresponde con una valoración BAJA.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS11 – Integración con gestor corporativo de bases de datos
 
@@ -754,7 +754,7 @@ Esta falta de concreción resulta coherente con la clasificación de desarrollo 
 
 **Aunque existe una propuesta identificable y funcionalmente alineada con el requisito, la ausencia de metodología específica y de mecanismos verificables limita significativamente la calidad técnica de la solución.** La respuesta permite acreditar comprensión del objetivo, pero no demuestra un nivel suficiente de especialización en materia de dimensionamiento de infraestructuras.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS13 – Gestión de solicitudes de recursos
 
@@ -774,7 +774,7 @@ La clasificación establecida en el Anexo I resulta plenamente coherente con est
 
 **La respuesta cubre funcionalmente el requisito, pero la limitada definición de procedimientos y la ausencia de mecanismos verificables impiden atribuir a la solución un nivel de madurez superior.** La propuesta presenta un desarrollo insuficiente para acreditar una capacidad diferencial de gestión.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS14 – Bastionado de sistemas
 
@@ -814,7 +814,7 @@ Este subproyecto persigue garantizar el control de los componentes software util
 
 **La respuesta acredita una comprensión adecuada del objetivo perseguido por el requisito, pero no desarrolla los mecanismos técnicos necesarios para demostrar una capacidad real de gestión avanzada de dependencias.** La limitada concreción observada justifica una valoración BAJA.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS16 – Configuración de entornos
 
@@ -834,7 +834,7 @@ La documentación mantiene un enfoque principalmente descriptivo, reproduciendo 
 
 **La propuesta proporciona una cobertura funcional aceptable, pero la escasa profundidad técnica y la ausencia de mecanismos verificables limitan significativamente la calidad de la solución.** La respuesta se sitúa por tanto en el nivel correspondiente a una valoración BAJA.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS17 – Integración con LDAP corporativo
 
@@ -858,7 +858,7 @@ Adicionalmente, la solución se desarrolla mediante planteamientos genéricos so
 
 **Debe señalarse que las inconsistencias observadas no implican una ausencia total de comprensión del requisito ni del entorno funcional objeto del contrato.** Sin embargo, constituyen indicios objetivos de un conocimiento parcial o imperfecto de determinados componentes tecnológicos específicos de la plataforma EducaMadrid. Por ello, la valoración realizada distingue entre una comprensión general adecuada de la finalidad del servicio y el conocimiento detallado de determinadas implementaciones concretas actualmente desplegadas.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS18 – Integración con servicios de correo electrónico
 
@@ -878,7 +878,7 @@ Este subproyecto contempla la integración de los distintos proyectos externos c
 
 **La respuesta cubre funcionalmente el requisito, pero la limitada profundidad técnica y la ausencia de procedimientos verificables reducen significativamente la calidad global de la solución.** La propuesta se corresponde con una valoración BAJA.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS19 – Integración con bases de datos corporativas
 
@@ -902,7 +902,7 @@ La ausencia de arquitecturas de integración claramente definidas, procedimiento
 
 **Debe señalarse que las inconsistencias observadas no implican una ausencia total de comprensión del requisito ni del entorno funcional objeto del contrato.** Sin embargo, constituyen indicios objetivos de un conocimiento parcial o imperfecto de determinados componentes tecnológicos específicos de la plataforma EducaMadrid. Por ello, la valoración realizada distingue entre una comprensión general adecuada de la finalidad del servicio y el conocimiento detallado de determinadas implementaciones concretas actualmente desplegadas.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS20 – Integración con CMDB y sistemas corporativos de inventario
 
@@ -922,7 +922,7 @@ La solución tampoco incorpora mejoras o capacidades diferenciales reconocidas e
 
 **La respuesta permite apreciar una comprensión adecuada de la finalidad del requisito, pero la ausencia de desarrollo técnico específico limita significativamente su calidad.** La propuesta se ajusta a los parámetros correspondientes a una valoración BAJA.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS21 – Gestión documental asociada a proyectos externos
 
@@ -942,7 +942,7 @@ La memoria dedica una atención significativa a los aspectos relacionados con la
 
 **La propuesta presenta un mayor grado de desarrollo que la mayoría de los requisitos clasificados como desarrollo deficiente, si bien continúa alejándose del nivel de profundidad deseable para acreditar una metodología documental especialmente madura.** En coherencia con la clasificación recogida en el Anexo I, la valoración final se mantiene en nivel BAJO, aunque situada en la parte alta de dicho intervalo.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS22 – Gestión de riesgos tecnológicos
 
@@ -962,7 +962,7 @@ El Anexo I clasifica este subproyecto como propuesta técnica incluida con desar
 
 **La existencia de una metodología reconocible, la adecuada cobertura funcional del requisito y la incorporación de una propuesta de mejora identificable permiten situar este subproyecto por encima del nivel predominante dentro del bloque ESIS.** No obstante, las limitaciones observadas en cuanto a profundidad técnica y mecanismos de implantación impiden alcanzar valoraciones superiores.
 
-**MEDIA**
+- **MEDIA**
 
 ## ESIS23 – Copias de seguridad y recuperación ante desastres
 
@@ -982,7 +982,7 @@ La memoria desarrolla de forma razonablemente extensa las actividades relacionad
 
 La propuesta proporciona una respuesta técnicamente más desarrollada que la media del bloque, incorpora mecanismos operativos identificables y permite acreditar una capacidad razonable de ejecución. **No obstante, la ausencia de determinados elementos avanzados de continuidad limita la valoración final al nivel correspondiente a una MEDIA.**
 
-**MEDIA**
+- **MEDIA**
 
 ## ESIS24 – Monitorización de servicios externos
 
@@ -1002,7 +1002,7 @@ La escasa concreción técnica observada resulta coherente con la clasificación
 
 **La cobertura funcional es adecuada, pero la limitada profundidad metodológica y la ausencia de mecanismos verificables reducen significativamente la calidad global de la solución.** La propuesta no acredita capacidades diferenciales que permitan justificar una valoración superior.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS25 – Gestión de incidencias
 
@@ -1022,7 +1022,7 @@ Esta apreciación resulta consistente con la clasificación de desarrollo defici
 
 **La propuesta ofrece una cobertura funcional adecuada, pero el escaso nivel de desarrollo técnico y metodológico limita la calidad efectiva de la solución.** La respuesta se ajusta a los criterios de una valoración BAJA.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS26 – Gestión de problemas
 
@@ -1042,7 +1042,7 @@ Como ocurre en otros subproyectos del bloque, el contenido desarrollado resulta 
 
 La oferta cubre formalmente el requisito solicitado, pero no desarrolla suficientemente los mecanismos que permitirían demostrar capacidad diferencial de ejecución. **La limitada profundidad técnica observada justifica una valoración BAJA.**
 
-**BAJA**
+- **BAJA**
 
 ## ESIS27 – Seguridad de servicios e infraestructura
 
@@ -1062,7 +1062,7 @@ Aunque la propuesta podría haberse desarrollado con un mayor nivel de detalle r
 
 **La incorporación de una propuesta técnica concreta, diferenciadora y verificable permite acreditar una aportación de valor superior a la media del bloque ESIS.** Aunque la profundidad técnica podría haber sido mayor, la solución incorpora elementos suficientes para justificar una valoración ALTA.
 
-**ALTA**
+- **ALTA**
 
 ## ESIS22 – Gestión de riesgos tecnológicos
 
@@ -1082,7 +1082,7 @@ El Anexo I clasifica este subproyecto como propuesta técnica incluida con desar
 
 **La existencia de una metodología reconocible, la adecuada cobertura funcional del requisito y la incorporación de una propuesta de mejora identificable permiten situar este subproyecto por encima del nivel predominante dentro del bloque ESIS.** No obstante, las limitaciones observadas en cuanto a profundidad técnica y mecanismos de implantación impiden alcanzar valoraciones superiores.
 
-**MEDIA**
+- **MEDIA**
 
 ## ESIS23 – Copias de seguridad y recuperación ante desastres
 
@@ -1102,7 +1102,7 @@ La memoria desarrolla de forma razonablemente extensa las actividades relacionad
 
 La propuesta proporciona una respuesta técnicamente más desarrollada que la media del bloque, incorpora mecanismos operativos identificables y permite acreditar una capacidad razonable de ejecución. **No obstante, la ausencia de determinados elementos avanzados de continuidad limita la valoración final al nivel correspondiente a una MEDIA.**
 
-**MEDIA**
+- **MEDIA**
 
 ## ESIS24 – Monitorización de servicios externos
 
@@ -1122,7 +1122,7 @@ La escasa concreción técnica observada resulta coherente con la clasificación
 
 **La cobertura funcional es adecuada, pero la limitada profundidad metodológica y la ausencia de mecanismos verificables reducen significativamente la calidad global de la solución.** La propuesta no acredita capacidades diferenciales que permitan justificar una valoración superior.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS25 – Gestión de incidencias
 
@@ -1142,7 +1142,7 @@ Esta apreciación resulta consistente con la clasificación de desarrollo defici
 
 **La propuesta ofrece una cobertura funcional adecuada, pero el escaso nivel de desarrollo técnico y metodológico limita la calidad efectiva de la solución.** La respuesta se ajusta a los criterios de una valoración BAJA.
 
-**BAJA**
+- **BAJA**
 
 ## ESIS26 – Gestión de problemas
 
@@ -1162,7 +1162,7 @@ Como ocurre en otros subproyectos del bloque, el contenido desarrollado resulta 
 
 La oferta cubre formalmente el requisito solicitado, pero no desarrolla suficientemente los mecanismos que permitirían demostrar capacidad diferencial de ejecución. **La limitada profundidad técnica observada justifica una valoración BAJA.**
 
-**BAJA**
+- **BAJA**
 
 ## ESIS27 – Seguridad de servicios e infraestructura
 
@@ -1182,7 +1182,7 @@ Aunque la propuesta podría haberse desarrollado con un mayor nivel de detalle r
 
 **La incorporación de una propuesta técnica concreta, diferenciadora y verificable permite acreditar una aportación de valor superior a la media del bloque ESIS.** Aunque la profundidad técnica podría haber sido mayor, la solución incorpora elementos suficientes para justificar una valoración ALTA.
 
-**ALTA**
+- **ALTA**
 
 ## ESIS28 – Actualización de sistemas operativos
 
@@ -1202,7 +1202,7 @@ A diferencia de otros requisitos del bloque, el contenido desarrollado permite i
 
 **La propuesta ofrece una cobertura adecuada del requisito y desarrolla un conjunto de actividades suficientemente definido para acreditar una capacidad razonable de ejecución.** Sin embargo, la ausencia de elementos diferenciales, junto con la limitada profundidad técnica observada en determinados aspectos operativos, impiden justificar una valoración superior. En consecuencia, la calidad global de la respuesta se corresponde con un nivel MEDIO.
 
-**MEDIA**
+- **MEDIA**
 
 ## ESIS29 – Gobernanza y seguimiento de servicios externos
 
@@ -1222,7 +1222,7 @@ La documentación incorpora determinados elementos de mejora relacionados con la
 
 **La propuesta incorpora elementos de mejora identificables y desarrolla adecuadamente los mecanismos generales de gobernanza del servicio.** Sin embargo, el alcance real de dichas mejoras resulta limitado y no permite acreditar una capacidad diferencial especialmente significativa. Por ello, la valoración correspondiente al subproyecto se sitúa en el nivel MEDIO.
 
-**MEDIA**
+- **MEDIA**
 
 ## ESIS30 – Modelo Zero Trust y autenticación multifactor
 
@@ -1242,7 +1242,7 @@ Este subproyecto tiene por objeto reforzar los mecanismos de protección de acce
 
 La existencia de una propuesta concreta, reconocida expresamente como valor añadido en el Anexo I, junto con la incorporación de capacidades de seguridad diferenciadoras respecto a los requisitos mínimos solicitados, permiten considerar que la solución se sitúa en un nivel claramente superior al predominante dentro del bloque ESIS. **Por ello, la valoración correspondiente se considera ALTA.**
 
-**ALTA**
+- **ALTA**
 
 ## ESIS31 – Soporte operativo a servicios externos
 
@@ -1262,7 +1262,7 @@ La memoria contempla actividades de soporte, supervisión y asistencia técnica 
 
 **Aunque el requisito se encuentra formalmente cubierto, la escasa profundidad técnica de la solución impide acreditar una capacidad diferencial de prestación del servicio solicitado.** La respuesta se ajusta a los parámetros correspondientes a una valoración BAJA. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7B98432A6A-A804-4C33-AEB7-018B4B99EE71%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_Anexo%20I.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7B98432A6A-A804-4C33-AEB7-018B4B99EE71%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_Anexo%20I.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## Conclusión global del bloque ESIS
 
@@ -1308,7 +1308,7 @@ La respuesta transmite conocimiento general del objetivo perseguido, pero no des
 
 Atendiendo al modelo de valoración previsto en el apartado 7.2.2 del Documento de Invitación, la calidad técnica observada se corresponde con el nivel **MEDIA**. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**MEDIA**
+- **MEDIA**
 
 ## ESEG2 – Gestión de logs de las aplicaciones Web
 
@@ -1332,7 +1332,7 @@ La propuesta cubre satisfactoriamente el ámbito funcional requerido y demuestra
 
 Conforme al baremo previsto en el Documento de Invitación, la calidad de la respuesta se corresponde con el nivel **MEDIA**. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**MEDIA**
+- **MEDIA**
 
 ## ESEG3 – Análisis y protección de la superficie de ataque
 
@@ -1356,7 +1356,7 @@ Tampoco se concretan para el requisito evaluado tecnologías, herramientas o met
 
 El documento original asignaba una categoría intermedia (**MEDIA-BAJA**) que conviene eliminar para adaptarse al esquema homogéneo de valoración. Atendiendo al contenido realmente desarrollado, la calidad de la respuesta se corresponde con el nivel **BAJA**. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## CONCLUSIÓN GLOBAL DEL BLOQUE ESEG
 
@@ -1406,7 +1406,7 @@ Del mismo modo, no se identifican herramientas específicas, procedimientos de r
 
 **La propuesta cubre adecuadamente el alcance funcional solicitado y demuestra comprender la finalidad del requisito.** No obstante, la limitada concreción técnica observada impide considerar acreditado un nivel elevado de especialización metodológica.
 
-**MEDIA**
+- **MEDIA**
 
 ## EDSA2 – Ayuda al Desarrollo Seguro de Código Web
 
@@ -1430,7 +1430,7 @@ Aunque existe cierta cobertura funcional del requisito, la limitada concreción 
 
 Por coherencia con el modelo revisado y con las propias observaciones recogidas en el análisis global del documento, esta respuesta debe situarse en **BAJA** y no en MEDIA. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**BAJA**
+- **BAJA**
 
 ## CONCLUSIÓN GLOBAL DEL BLOQUE EDSA
 
@@ -1482,7 +1482,7 @@ La respuesta demuestra comprender qué actividades deben desarrollarse para gest
 
 Conforme al modelo de valoración establecido en el apartado 7.2.2 del Documento de Invitación, la calidad de la respuesta se corresponde con el nivel **MEDIA**. [https://aiccm-my.sharepoint.com/personal/juanramon\_garcia\_madrid\_org/\_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n\_largo.docx&action=default&mobileredirect=true](<https://aiccm-my.sharepoint.com/personal/juanramon_garcia_madrid_org/_layouts/15/Doc.aspx?sourcedoc=%7BF463DFEA-51FD-46A1-B348-29AE543DD118%7D&file=Informe%20JR%20-%20EXTERIORES%20-%20empresa_n_largo.docx&action=default&mobileredirect=true>)
 
-**MEDIA**
+- **MEDIA**
 
 ## CONCLUSIÓN GLOBAL DEL BLOQUE EBBO
 

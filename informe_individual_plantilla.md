@@ -274,23 +274,23 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 #### [CÓDIGO DEL PROYECTO O SUBPROYECTO] — [DENOMINACIÓN]
 
-##### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir qué exige el Anexo II para este proyecto o subproyecto, incluyendo las funcionalidades, integraciones, condicionantes técnicos y entregables que sean relevantes para la evaluación.*
 
-##### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Describir qué solución ofrece el licitador y contrastarla con el requisito. Identificar evidencias concretas de la memoria —arquitectura, tecnologías, procesos, herramientas, automatizaciones, métricas, pruebas, mecanismos de seguridad o entregables— y explicar su adecuación al entorno real.*
 
-##### Fortalezas
+- **Fortalezas**
 
 *Recoger únicamente los aspectos positivos acreditados y evaluables. Indicar, cuando proceda, si existe una mejora coherente o un valor añadido real respecto del requisito base.*
 
-##### Carencias, omisiones o riesgos
+- **Carencias, omisiones o riesgos**
 
 *Identificar falta de detalle, contenido genérico, requisitos no tratados, incoherencias, errores técnicos, ausencia de métricas o cualquier limitación que afecte a la viabilidad o verificabilidad de la solución. Explicar su relevancia, sin suplir con inferencias la información que no figure en la oferta.*
 
-##### Valoración cualitativa
+- **Valoración cualitativa**
 
 **[EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
 

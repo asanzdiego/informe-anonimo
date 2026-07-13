@@ -1,12 +1,12 @@
 # INFORME DE VALORACIÓN TÉCNICA
 
-SERVICIOS DE MANTENIMIENTO Y SOPORTE PARA PROYECTOS EXTERIORES ALOJADOS EN LA PLATAFORMA EEDUCAMADRID (BAC01_2026)
+Servicios de mantenimiento y soporte para proyectos exteriores alojados en la plataforma EducaMadrid (BAC01_2026)
 
 ## INTRODUCCIÓN
 
 ### Objeto del informe
 
-El presente informe tiene por objeto realizar la **valoración técnica comparativa de las propuestas presentadas por empresa_s, empresa_n y empresa_u** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los servicios de **SERVICIOS DE MANTENIMIENTO Y SOPORTE PARA PROYECTOS EXTERIORES ALOJADOS EN LA PLATAFORMA EEDUCAMADRID (BAC01_2026)**.
+El presente informe tiene por objeto realizar la **valoración técnica comparativa de las propuestas presentadas por empresa_s y empresa_n** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los **Servicios de mantenimiento y soporte para proyectos exteriores alojados en la plataforma EducaMadrid (BAC01_2026)**.
 
 El informe determina la puntuación correspondiente a los criterios sujetos a juicio de valor, comprueba el cumplimiento del **umbral mínimo de 15 puntos sobre 30** y formula la propuesta de admisión o exclusión que procede para cada oferta.
 
@@ -143,11 +143,11 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
-- **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente.
+- **MUY BAJA:** exactamente el 0 % de la puntuación de la sección correspondiente; en el 0 % prevalece esta categoría sobre BAJA.
 
 ### Valoración de la planificación del servicio
 
@@ -179,11 +179,11 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
-- **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente.
+- **MUY BAJA:** exactamente el 0 % de la puntuación de la sección correspondiente; en el 0 % prevalece esta categoría sobre BAJA.
 
 ### Fases del proceso de valoración
 
@@ -235,7 +235,7 @@ En conjunto, la propuesta de empresa_n presenta fortalezas relacionadas con la c
 
 ### Introducción y síntesis comparativa
 
-El análisis conjunto de las propuestas presentadas por empresa_s, y empresa_n, pone de manifiesto la existencia de **diferencias significativas tanto en el grado de desarrollo técnico de las soluciones planteadas como en la profundidad** con la que cada licitador aborda los distintos requisitos definidos en el Anexo II del Documento de Invitación. Aunque ambas propuestas evidencian una comprensión general del alcance funcional del contrato y de los principales sistemas que componen el ecosistema EducaMadrid, la forma en que dicha comprensión se transforma en soluciones técnicas concretas presenta diferencias sustanciales que afectan de manera directa a la valoración obtenida dentro de los criterios sometidos a juicio de valor.
+El análisis conjunto de las propuestas presentadas por empresa_s y empresa_n pone de manifiesto la existencia de **diferencias significativas tanto en el grado de desarrollo técnico de las soluciones planteadas como en la profundidad** con la que cada licitador aborda los distintos requisitos definidos en el Anexo II del Documento de Invitación. Aunque ambas propuestas evidencian una comprensión general del alcance funcional del contrato y de los principales sistemas que componen el ecosistema EducaMadrid, la forma en que dicha comprensión se transforma en soluciones técnicas concretas presenta diferencias sustanciales que afectan de manera directa a la valoración obtenida dentro de los criterios sometidos a juicio de valor.
 
 Desde una perspectiva general, la propuesta de empresa_s destaca por la **amplitud de cobertura de los requisitos**, la existencia de arquitecturas identificables para una parte importante de los subproyectos, la incorporación de metodologías de actuación estructuradas y una adaptación razonablemente consistente a la naturaleza específica de los distintos entornos tecnológicos incluidos en el contrato. A ello se suma la presencia de **propuestas de mejora y elementos de valor añadido** en numerosos ámbitos relacionados con automatización, gobierno de infraestructuras, gestión avanzada de identidades, aprovisionamiento de sistemas, integración de plataformas y observabilidad de servicios. Aunque la memoria presenta limitaciones relevantes en materia de métricas, definición de herramientas concretas y cuantificación de resultados, el conjunto de la solución mantiene un **nivel de coherencia y madurez técnica** que permite considerarla alineada con los objetivos perseguidos por el Documento de Invitación.
 
@@ -249,23 +249,23 @@ Como consecuencia de todo ello, el análisis comparativo realizado pone de manif
 
 | **Subcriterio**            | **Máximo** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** |
 | -------------------------- | ---------: | ------------- | ---------: | ------------- | ---------: |
-| Arquitectura               |          2 | Alta          |       1,50 | Media         |       0,90 |
-| Comprensión de requisitos  |          2 | Alta          |       1,75 | Media         |       1,00 |
-| Viabilidad                 |          1 | Alta          |       0,75 | Media-Baja    |       0,40 |
-| Metodología                |          1 | Media-Alta    |       0,60 | Media         |       0,50 |
-| Rendimiento                |          1 | Media         |       0,50 | Baja          |       0,25 |
-| Satisfacción de requisitos |          8 | Alta          |       5,75 | Baja          |       4,20 |
+| Arquitectura               |          2 | ALTA          |       1,50 | MEDIA         |       0,90 |
+| Comprensión de requisitos  |          2 | EXCELENTE     |       1,75 | MEDIA         |       1,00 |
+| Viabilidad                 |          1 | ALTA          |       0,75 | MEDIA         |       0,40 |
+| Metodología                |          1 | ALTA          |       0,60 | MEDIA         |       0,50 |
+| Rendimiento                |          1 | MEDIA         |       0,50 | BAJA          |       0,25 |
+| Satisfacción de requisitos |          8 | ALTA          |       5,75 | ALTA          |       4,20 |
 | **Total**                  |     **15** |               |  **10,85** |               |   **7,25** |
 
 ### Valoración comparativa de la planificación del servicio
 
 | **Subcriterio**            | **Máximo** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** |
 | -------------------------- | ---------: | ------------- | ---------: | ------------- | ---------: |
-| Calendario y planificación |         11 | Media         |       5,50 | Baja          |       1,80 |
-| Análisis de riesgos        |          1 | Media-Alta    |       0,60 | Media         |       0,25 |
-| Plan de contingencias      |          1 | Media-Alta    |       0,60 | Media         |       0,25 |
-| Plan de calidad            |          1 | Media-Alta    |       0,65 | Media         |       0,25 |
-| Trazabilidad               |          1 | Media         |       0,50 | Media-Baja    |       0,25 |
+| Calendario y planificación |         11 | MEDIA         |       5,50 | BAJA          |       1,80 |
+| Análisis de riesgos        |          1 | ALTA          |       0,60 | BAJA          |       0,25 |
+| Plan de contingencias      |          1 | ALTA          |       0,60 | BAJA          |       0,25 |
+| Plan de calidad            |          1 | ALTA          |       0,65 | BAJA          |       0,25 |
+| Trazabilidad               |          1 | MEDIA         |       0,50 | BAJA          |       0,25 |
 | **Total**                  |     **15** |               |   **7,85** |               |   **2,80** |
 
 ### Resultado global de los criterios sujetos a juicio de valor
@@ -275,7 +275,7 @@ La suma de los dos bloques y la comprobación del umbral mínimo arrojan el sigu
 | **Licitador** | **Solución técnica** | **Planificación** | **Total** | **Umbral de 15 puntos** |
 | ------------- | -------------------: | ----------------: | --------: | ----------------------- |
 | empresa_s     |                10,85 |              7,85 | **18,70** | SUPERA                  |
-| empresa_n     |                 7,25 |              2,80 |  **9,90** | NO SUPERA               |
+| empresa_n     |                 7,25 |              2,80 | **10,05** | NO SUPERA               |
 
 ### Justificación de la valoración comparativa
 
@@ -295,7 +295,7 @@ A la vista de todo lo anterior, la diferencia final observada entre ambas oferta
 
 ## CONCLUSIONES DE LA VALORACIÓN COMPARADA
 
-El análisis técnico comparado de las propuestas presentadas por empresa_s, y empresa_n, permite establecer, con un grado elevado de certeza técnica y sobre la base de evidencias objetivamente verificables, que ambas ofertas presentan **niveles de madurez, desarrollo y adecuación sustancialmente diferentes** respecto a los requisitos establecidos en el Documento de Invitación. Esta diferencia se refleja de forma consistente a lo largo de la totalidad de los bloques analizados, tanto en la solución técnica ofertada como en la planificación prevista para la ejecución del servicio.
+El análisis técnico comparado de las propuestas presentadas por empresa_s y empresa_n permite establecer, con un grado elevado de certeza técnica y sobre la base de evidencias objetivamente verificables, que ambas ofertas presentan **niveles de madurez, desarrollo y adecuación sustancialmente diferentes** respecto a los requisitos establecidos en el Documento de Invitación. Esta diferencia se refleja de forma consistente a lo largo de la totalidad de los bloques analizados, tanto en la solución técnica ofertada como en la planificación prevista para la ejecución del servicio.
 
 Debe señalarse, en primer lugar, que **ninguna de las dos ofertas puede considerarse una propuesta de excelencia** en los términos definidos por el Documento de Invitación. Ambas presentan limitaciones relacionadas con la **escasa definición de métricas cuantificables**, la falta de indicadores operativos suficientemente desarrollados y la ausencia de determinados mecanismos de control que permitan verificar de forma objetiva el comportamiento futuro de las soluciones propuestas. Esta circunstancia ha tenido reflejo en las puntuaciones asignadas y explica que ninguna de las empresas alcance las franjas superiores previstas por el pliego para las valoraciones excelentes.
 
@@ -317,8 +317,8 @@ Como resultado de todo lo anterior, las puntuaciones finales obtenidas por los l
 
 | **Empresa** | **Solución técnica** | **Planificación** | **Total** |
 | ----------- | -------------------- | ----------------- | --------- |
-| empresa_s,  | 10,85                | 7,85              | **18,70** |
-| empresa_n,  | 7,25                 | 2,80              | **9,90**  |
+| empresa_s   | 10,85                | 7,85              | **18,70** |
+| empresa_n   | 7,25                 | 2,80              | **10,05** |
 
 En consecuencia, la valoración realizada permite afirmar que **ambas ofertas no se sitúan en un nivel técnico equiparable** y que la diferencia observada entre las puntuaciones finales constituye una consecuencia directa del **distinto grado de desarrollo, concreción y madurez** alcanzado por las soluciones propuestas. Desde esta perspectiva, las valoraciones asignadas resultan coherentes con la metodología de evaluación aplicada, con los criterios definidos en el Documento de Invitación y con las evidencias objetivamente identificadas en la documentación analizada.
 
@@ -332,10 +332,10 @@ Una vez finalizada la evaluación técnica comparada de las ofertas y consolidad
 
 | **Empresa** | **Puntuación total juicio de valor** | **Supera umbral** |
 | ----------- | ------------------------------------ | ----------------- |
-| empresa_s,  | 18,70 / 30                           | Sí                |
-| empresa_n,  | 9,90 / 30                            | No                |
+| empresa_s   | 18,70 / 30                           | Sí                |
+| empresa_n   | 10,05 / 30                           | No                |
 
-A la vista de los resultados anteriores, se constata que la oferta presentada por empresa_s **supera el umbral mínimo de calidad exigido por el Documento de Invitación**, obteniendo una puntuación total de **18,70 puntos sobre 30**. Por el contrario, la oferta presentada por empresa_n alcanza únicamente una puntuación total de **9,90 puntos sobre 30**, situándose por debajo del umbral mínimo establecido por el pliego para continuar en el procedimiento.
+A la vista de los resultados anteriores, se constata que la oferta presentada por empresa_s **supera el umbral mínimo de calidad exigido por el Documento de Invitación**, obteniendo una puntuación total de **18,70 puntos sobre 30**. Por el contrario, la oferta presentada por empresa_n alcanza únicamente una puntuación total de **10,05 puntos sobre 30**, situándose por debajo del umbral mínimo establecido por el pliego para continuar en el procedimiento.
 
 Debe señalarse que esta circunstancia **no constituye una valoración discrecional adicional realizada por el órgano evaluador**, sino la aplicación directa de una condición objetiva previamente establecida en la documentación contractual y conocida por todos los licitadores desde el inicio del procedimiento. La exclusión derivada de no alcanzar el umbral mínimo de calidad técnica responde, por tanto, a la **aplicación automática de una regla expresamente prevista** en el Documento de Invitación y vinculada a la necesidad de garantizar unos niveles mínimos de solvencia técnica en contratos de elevada complejidad tecnológica.
 
@@ -343,8 +343,8 @@ Asimismo, la **motivación de esta exclusión encuentra soporte suficiente** en 
 
 Por todo lo anteriormente expuesto, se formula la siguiente propuesta:
 
-**Primero.** Proponer la exclusión de la empresa **empresa_n,** del procedimiento BAC01\_2026 por no haber alcanzado la puntuación mínima exigida en los criterios sometidos a juicio de valor, de conformidad con lo establecido en el Documento de Invitación y en la normativa aplicable en materia de contratación pública.
+**Primero.** Proponer la exclusión de la empresa **empresa_n** del procedimiento BAC01\_2026 por no haber alcanzado la puntuación mínima exigida en los criterios sometidos a juicio de valor, de conformidad con lo establecido en el Documento de Invitación y en la normativa aplicable en materia de contratación pública.
 
-**Segundo.** Proponer que la empresa **empresa_s,**, única oferta que ha superado el umbral mínimo de calidad técnica exigido, continúe en el procedimiento de adjudicación, procediéndose a la valoración de los criterios evaluables mediante fórmulas y a la continuación de las actuaciones previstas en la documentación reguladora del expediente.
+**Segundo.** Proponer que la empresa **empresa_s**, única oferta que ha superado el umbral mínimo de calidad técnica exigido, continúe en el procedimiento de adjudicación, procediéndose a la valoración de los criterios evaluables mediante fórmulas y a la continuación de las actuaciones previstas en la documentación reguladora del expediente.
 
 Con ello queda completada la **evaluación comparativa de las ofertas presentadas en el procedimiento**, quedando debidamente acreditadas tanto las puntuaciones otorgadas como la **propuesta resultante de admisión y exclusión** derivada de la aplicación de los criterios establecidos en el Documento de Invitación.

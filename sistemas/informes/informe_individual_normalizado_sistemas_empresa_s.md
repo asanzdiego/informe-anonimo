@@ -19,19 +19,19 @@ Este enfoque garantiza la trazabilidad entre **los requisitos definidos, las evi
 
 ### Síntesis técnica de la propuesta
 
-La propuesta presenta una cobertura amplia y una base técnica sólida, con arquitecturas, procedimientos y herramientas concretas en bases de datos, monitorización, observabilidad, automatización y seguridad. El uso de Ansible, Prometheus, Grafana, JMeter, Docker, Keycloak y GitLab refuerza su viabilidad. El desarrollo es, no obstante, desigual: MAX y determinados ámbitos de correo, cloud, LDAP y servicios auxiliares tienen menor profundidad, y faltan métricas y umbrales cuantificables.
+La propuesta presenta una cobertura amplia y una base técnica sólida, con arquitecturas, procedimientos y herramientas concretas en bases de datos, monitorización, observabilidad, automatización y seguridad. El uso de Ansible, Prometheus, Grafana, JMeter, Docker, Keycloak y GitLab refuerza su viabilidad. El desarrollo cubre también de forma específica MAX y los módulos de inyección de correo; persiste, no obstante, una cuantificación incompleta de métricas, umbrales y criterios de aceptación en distintos subproyectos.
 
 ### Principales conclusiones del análisis
 
-La propuesta desarrolla con mayor madurez BD, MON, SEG, automatización y varias infraestructuras críticas. UPD, CLO, OTR, COR, AV, POR, CON, MIG e IA presentan una cobertura general adecuada, aunque heterogénea. MAX constituye la principal debilidad estructural y se repite la falta de indicadores cuantificados, objetivos medibles y procedimientos completamente formalizados.
+La propuesta desarrolla de forma específica los trece bloques del Anexo II, incluidos MAX, la inyección directa de correo y la migración entre CPD. La principal limitación transversal es la falta de indicadores cuantificados, valores objetivo y criterios de aceptación completamente formalizados.
 
 ### Resultado de la valoración
 
 | **Bloque**                 | **Puntuación máxima** | **Puntuación obtenida** |
 | -------------------------- | --------------------: | ----------------------: |
-| Solución técnica ofertada  |                 15,00 |                  11,05 |
-| Planificación del servicio |                 15,00 |                  9,80 |
-| **TOTAL**                  |             **30,00** |              **20,85** |
+| Solución técnica ofertada  |                 15,00 |                   11,05 |
+| Planificación del servicio |                 15,00 |                    9,80 |
+| **TOTAL**                  |             **30,00** |               **20,85** |
 
 ### Conclusión del resumen ejecutivo
 
@@ -184,11 +184,11 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
-- **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente.
+- **MUY BAJA:** exactamente el 0 % de la puntuación de la sección correspondiente; en el 0 % prevalece esta categoría específica.
 
 ### Valoración de la planificación del servicio
 
@@ -220,11 +220,11 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
-- **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente.
+- **MUY BAJA:** exactamente el 0 % de la puntuación de la sección correspondiente; en el 0 % prevalece esta categoría específica.
 
 ### Fases del proceso de valoración individual
 
@@ -246,23 +246,23 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 #### Estructura, coherencia interna y grado de finalización
 
-La memoria mantiene una estructura coherente entre arquitectura, operación, automatización y planificación, e identifica herramientas y procedimientos aplicables al entorno. Su nivel de concreción es alto en los bloques más maduros, aunque desigual en MAX y en determinados subproyectos auxiliares. La trazabilidad y la evaluabilidad son suficientes, pero no siempre se apoyan en métricas, umbrales y criterios de aceptación cuantificados.
+La memoria mantiene una estructura coherente entre arquitectura, operación, automatización y planificación, e identifica herramientas y procedimientos aplicables al entorno. Su nivel de concreción es alto en los bloques más maduros y aporta procedimientos específicos también para MAX, aunque persisten diferencias de profundidad entre subproyectos. La trazabilidad y la evaluabilidad son suficientes, pero no siempre se apoyan en métricas, umbrales y criterios de aceptación cuantificados.
 
 #### Nivel de desarrollo técnico y grado de concreción
 
-La memoria mantiene una estructura coherente entre arquitectura, operación, automatización y planificación, e identifica herramientas y procedimientos aplicables al entorno. Su nivel de concreción es alto en los bloques más maduros, aunque desigual en MAX y en determinados subproyectos auxiliares. La trazabilidad y la evaluabilidad son suficientes, pero no siempre se apoyan en métricas, umbrales y criterios de aceptación cuantificados.
+La memoria mantiene una estructura coherente entre arquitectura, operación, automatización y planificación, e identifica herramientas y procedimientos aplicables al entorno. Su nivel de concreción es alto en los bloques más maduros y aporta procedimientos específicos también para MAX, aunque persisten diferencias de profundidad entre subproyectos. La trazabilidad y la evaluabilidad son suficientes, pero no siempre se apoyan en métricas, umbrales y criterios de aceptación cuantificados.
 
 #### Comprensión y adaptación al entorno EducaMadrid
 
-La memoria mantiene una estructura coherente entre arquitectura, operación, automatización y planificación, e identifica herramientas y procedimientos aplicables al entorno. Su nivel de concreción es alto en los bloques más maduros, aunque desigual en MAX y en determinados subproyectos auxiliares. La trazabilidad y la evaluabilidad son suficientes, pero no siempre se apoyan en métricas, umbrales y criterios de aceptación cuantificados.
+La memoria mantiene una estructura coherente entre arquitectura, operación, automatización y planificación, e identifica herramientas y procedimientos aplicables al entorno. Su nivel de concreción es alto en los bloques más maduros y aporta procedimientos específicos también para MAX, aunque persisten diferencias de profundidad entre subproyectos. La trazabilidad y la evaluabilidad son suficientes, pero no siempre se apoyan en métricas, umbrales y criterios de aceptación cuantificados.
 
 #### Arquitectura, integración y requisitos no funcionales
 
-La memoria mantiene una estructura coherente entre arquitectura, operación, automatización y planificación, e identifica herramientas y procedimientos aplicables al entorno. Su nivel de concreción es alto en los bloques más maduros, aunque desigual en MAX y en determinados subproyectos auxiliares. La trazabilidad y la evaluabilidad son suficientes, pero no siempre se apoyan en métricas, umbrales y criterios de aceptación cuantificados.
+La memoria mantiene una estructura coherente entre arquitectura, operación, automatización y planificación, e identifica herramientas y procedimientos aplicables al entorno. Su nivel de concreción es alto en los bloques más maduros y aporta procedimientos específicos también para MAX, aunque persisten diferencias de profundidad entre subproyectos. La trazabilidad y la evaluabilidad son suficientes, pero no siempre se apoyan en métricas, umbrales y criterios de aceptación cuantificados.
 
 #### Trazabilidad y evaluabilidad
 
-La memoria mantiene una estructura coherente entre arquitectura, operación, automatización y planificación, e identifica herramientas y procedimientos aplicables al entorno. Su nivel de concreción es alto en los bloques más maduros, aunque desigual en MAX y en determinados subproyectos auxiliares. La trazabilidad y la evaluabilidad son suficientes, pero no siempre se apoyan en métricas, umbrales y criterios de aceptación cuantificados.
+La memoria mantiene una estructura coherente entre arquitectura, operación, automatización y planificación, e identifica herramientas y procedimientos aplicables al entorno. Su nivel de concreción es alto en los bloques más maduros y aporta procedimientos específicos también para MAX, aunque persisten diferencias de profundidad entre subproyectos. La trazabilidad y la evaluabilidad son suficientes, pero no siempre se apoyan en métricas, umbrales y criterios de aceptación cuantificados.
 
 ## ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
 
@@ -270,11 +270,11 @@ La memoria mantiene una estructura coherente entre arquitectura, operación, aut
 
 #### Enfoque global de evaluación
 
-La propuesta presenta una cobertura amplia y una base técnica sólida, con arquitecturas, procedimientos y herramientas concretas en bases de datos, monitorización, observabilidad, automatización y seguridad. El uso de Ansible, Prometheus, Grafana, JMeter, Docker, Keycloak y GitLab refuerza su viabilidad. El desarrollo es, no obstante, desigual: MAX y determinados ámbitos de correo, cloud, LDAP y servicios auxiliares tienen menor profundidad, y faltan métricas y umbrales cuantificables.
+La propuesta presenta una cobertura amplia y una base técnica sólida, con arquitecturas, procedimientos y herramientas concretas en bases de datos, monitorización, observabilidad, automatización y seguridad. El uso de Ansible, Prometheus, Grafana, JMeter, Docker, Keycloak y GitLab refuerza su viabilidad. El desarrollo cubre también de forma específica MAX y los módulos de inyección de correo; persiste, no obstante, una cuantificación incompleta de métricas, umbrales y criterios de aceptación en distintos subproyectos.
 
 #### Cobertura del Anexo II
 
-La propuesta desarrolla con mayor madurez BD, MON, SEG, automatización y varias infraestructuras críticas. UPD, CLO, OTR, COR, AV, POR, CON, MIG e IA presentan una cobertura general adecuada, aunque heterogénea. MAX constituye la principal debilidad estructural y se repite la falta de indicadores cuantificados, objetivos medibles y procedimientos completamente formalizados.
+La propuesta desarrolla de forma específica los trece bloques del Anexo II, incluidos MAX, la inyección directa de correo y la migración entre CPD. La principal limitación transversal es la falta de indicadores cuantificados, valores objetivo y criterios de aceptación completamente formalizados.
 
 #### Fortalezas y aportaciones de valor añadido
 
@@ -282,13 +282,13 @@ Se reconocen arquitecturas, herramientas y automatizaciones concretas, especialm
 
 #### Carencias, errores y riesgos recurrentes
 
-Se repiten la falta de métricas cuantificadas, umbrales operativos y criterios de aceptación; MAX y determinados ámbitos de correo, cloud, LDAP y servicios auxiliares presentan menor profundidad. Estas limitaciones explican la distancia respecto del nivel excelente.
+Se repiten la falta de métricas cuantificadas, umbrales operativos y criterios de aceptación, aun cuando la oferta sí desarrolla soluciones específicas para MAX, correo, cloud, LDAP y los servicios auxiliares. Estas limitaciones explican la distancia respecto del nivel excelente.
 
 ### Análisis por bloques funcionales del Anexo II
 
 El análisis utiliza la misma estructura para los 89 subproyectos: requisito, contraste de la propuesta, fortalezas, carencias y nivel cualitativo. La clasificación individual se conserva en el anexo.
 
-#### Bloque BD — Bases de Datos
+#### Bloque BD — Mantenimiento y mejora de entornos de Bases de Datos (BD)
 
 - **Consideración general del bloque**
 
@@ -296,7 +296,7 @@ El bloque comprende la operación a gran escala de MariaDB, PostgreSQL, MongoDB 
 
 El contraste identifica 6 subproyectos con desarrollo suficiente, 0 con desarrollo insuficiente y 0 no incluidos; 6 incorporan valor añadido según la clasificación del anexo.
 
-##### BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y ProxySQL avanzado
+##### BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y Proxy SQL avanzado
 
 - **Requisito y alcance**
 
@@ -348,7 +348,7 @@ Sin embargo, se detectan ciertas limitaciones en la identificación de herramien
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### BD3 — Mantenimiento de las bases de datos de gestión de la configuración de EducaMadrid
+##### BD3 — Mantenimiento de las diferentes Bases de Datos de gestión de la configuración de EducaMadrid
 
 - **Requisito y alcance**
 
@@ -400,7 +400,7 @@ Las carencias detectadas se centran en la falta de identificación de herramient
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### BD5 — Mantenimiento de disparadores y Foreign Data Wrappers en los entornos Portal y LDAP Plano
+##### BD5 — Mantenimiento de disparadores y Foreign Data Wrappers en los entornos “Portal” y “LDAP Plano”
 
 - **Requisito y alcance**
 
@@ -426,7 +426,7 @@ No obstante, la propuesta presenta un nivel limitado de detalle en lo relativo a
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### BD6 — Implementación y mantenimiento de bases de datos en entornos de microservicios
+##### BD6 — Implementación y Mantenimiento de las Bases de Datos necesarias en entornos de Microservicios
 
 - **Requisito y alcance**
 
@@ -456,7 +456,7 @@ Sin embargo, se detecta la ausencia de herramientas específicas de orquestació
 
 La valoración conjunta del bloque es **ALTA**. La clasificación individual muestra 6 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 6 aportaciones de valor añadido.
 
-#### Bloque MON — Monitorización, testeo y pruebas de rendimiento
+#### Bloque MON — Monitorización, testeo y pruebas de rendimiento (MON)
 
 - **Consideración general del bloque**
 
@@ -518,7 +518,7 @@ Como limitación, se observa la ausencia de definición explícita de objetivos 
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### MON3 — Mantenimiento del sistema de monitorización y estadísticas de uso
+##### MON3 — Mantener actualizado el sistema de monitorización y estadísticas de uso
 
 - **Requisito y alcance**
 
@@ -546,7 +546,7 @@ Sin embargo, la propuesta presenta una cierta falta de definición en lo relativ
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### MON4 — Monitorización y estadísticas de servicios basados en IA
+##### MON4 — Mantener actualizado el sistema de monitorización y estadísticas de servicios basados en IA
 
 - **Requisito y alcance**
 
@@ -576,7 +576,7 @@ No obstante, se detecta una menor profundidad en la definición de herramientas 
 
 La valoración conjunta del bloque es **ALTA**. La clasificación individual muestra 4 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 4 aportaciones de valor añadido.
 
-#### Bloque UPD — Actualización de servicios existentes
+#### Bloque UPD — Actualización de servicios existentes (UPD)
 
 - **Consideración general del bloque**
 
@@ -610,7 +610,7 @@ Sin embargo, la propuesta no desarrolla en profundidad los mecanismos de escalab
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD2 — Mantenimiento y mejora del sistema secundario de videoconferencias con opción de grabación
+##### UPD2 — Mantenimiento y mejora del sistema secundario de Videoconferencias con opción de grabación
 
 - **Requisito y alcance**
 
@@ -636,7 +636,7 @@ No obstante, la propuesta presenta un nivel de desarrollo limitado en lo relativ
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD3 — Mantenimiento y mejora de Mattermost
+##### UPD3 — Mantenimiento y mejora de la herramienta Mattermost
 
 - **Requisito y alcance**
 
@@ -666,27 +666,27 @@ En términos generales, la solución es correcta y coherente, aunque con un nive
 
 - **Requisito y alcance**
 
-El subproyecto plantea la gestión de una herramienta de tipo Kanban, incluyendo su mantenimiento, actualización y evolución funcional.
+El subproyecto exige una solución concreta y evaluable para **Mantenimiento y mejora de la solución Kanban**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La propuesta de empresa_s aborda este requisito de forma indirecta, integrando herramientas de gestión dentro del ecosistema general, pero sin desarrollar de forma específica una solución concreta ni identificar la herramienta utilizada.
+La oferta identifica Wekan y define actualización sobre versiones estables, migraciones controladas de datos y configuración, validación en preproducción y reversión. Añade despliegue contenerizado, plantillas de flujo e integración de notificaciones.
+
+La evidencia se encuentra en el apartado específico **UPD4** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: optimización rendimiento servicios web.
+Mantenimiento de Wekan con migración, preproducción, reversión y despliegue contenerizado.
 
 - **Carencias, omisiones, errores o riesgos**
 
-La falta de concreción técnica impide evaluar con detalle la capacidad real de ejecución en este ámbito, así como su integración con otros sistemas como Redmine o GitLab.
-
-En consecuencia, la cobertura del requisito resulta parcialmente insuficiente, al mantenerse en un nivel conceptual sin desarrollo operativo.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
-##### UPD5 — Mantenimiento y mejora de GitLab
+##### UPD5 — Mantenimiento y mejora de la solución GitLab
 
 - **Requisito y alcance**
 
@@ -710,7 +710,7 @@ No obstante, el nivel de detalle sobre la configuración específica de pipeline
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD6 — Mantenimiento y mejora de LimeSurvey
+##### UPD6 — Mantenimiento y mejora de la solución LimeSurvey
 
 - **Requisito y alcance**
 
@@ -722,14 +722,10 @@ No obstante, el nivel de detalle sobre la configuración específica de pipeline
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: automatización despliegues servicios.
-
+La memoria original desarrolla para **UPD6** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, el análisis técnico evidencia que el nivel de desarrollo específico para LimeSurvey resulta limitado.** La propuesta no detalla mecanismos concretos de optimización de consultas, mejora de rendimiento o evolución funcional, ni incorpora procedimientos específicos de pruebas asociados al comportamiento de la herramienta. Tampoco se describen mejoras en la experiencia de usuario ni actuaciones sobre la arquitectura objetivo.
-
-En consecuencia, aunque el planteamiento resulta coherente desde un punto de vista estructural, carece de profundidad técnica suficiente para evaluar su aplicabilidad en un entorno de gran escala.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -784,7 +780,7 @@ No obstante, la propuesta no profundiza en aspectos como la configuración de fl
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD9 — Mantenimiento y configuración de Wowza Streaming Engine
+##### UPD9 — Mantenimiento y configuración de Wowza Streaming Engine.
 
 - **Requisito y alcance**
 
@@ -800,12 +796,10 @@ En conjunto, la solución presenta un nivel técnico adecuado y una alineación 
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: optimización servicios colaborativos.
-
+La memoria original desarrolla para **UPD9** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-Sin embargo, la propuesta no detalla aspectos operativos relevantes como la gestión de protocolos específicos, la optimización de caché ni la monitorización detallada de flujos de vídeo en tiempo real.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -824,39 +818,37 @@ En conjunto, la cobertura del requisito es parcial y se mantiene en un nivel des
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: mejora de mantenimiento evolutivo.
-
+La memoria original desarrolla para **UPD10** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, no se identifican procedimientos de carga masiva de datos, ni mecanismos de sincronización con sistemas externos, ni estrategias de evolución funcional específicas para esta herramienta.** Esto limita la profundidad de la solución y su aplicabilidad en escenarios reales.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD11 — Actualización, mantenimiento y gestión de contenidos de Abies+
+##### UPD11 — Actualización, Mantenimiento y gestión de contenidos de Abies+
 
 - **Requisito y alcance**
 
-Este subproyecto exige la evolución del sistema Abies+, incluyendo la realización de pruebas, la implementación de mejoras y la gestión de contenidos.
+El subproyecto exige una solución concreta y evaluable para **Actualización, Mantenimiento y gestión de contenidos de Abies+**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-Tampoco se aborda de forma específica la posible migración desde sistemas anteriores, aspecto relevante en el contexto del pliego.
+La oferta trata Abies+ como una implantación diferenciada: dimensiona desarrollo, preproducción y producción, optimiza la base de datos, contempla alta disponibilidad, copias consistentes e integración con Keycloak o LDAP, y automatiza las actualizaciones.
+
+La evidencia se encuentra en el apartado específico **UPD11** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: reducción incidencias post-update.
+Arquitectura, alta disponibilidad y actualización automatizada de Abies+.
 
 - **Carencias, omisiones, errores o riesgos**
 
-**La propuesta de empresa_s mantiene un enfoque similar al del subproyecto anterior, centrado en la actualización general del sistema y en la gestión básica de contenidos.** No se describen procedimientos específicos de pruebas, ni mecanismos de validación estructurada, ni planes de evolución funcional detallados.
-
-En consecuencia, la propuesta presenta una cobertura limitada del requisito, sin un desarrollo técnico suficiente que permita evaluar su capacidad real de ejecución.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### UPD12 — Implementación, mantenimiento y mejora de Empieza
 
@@ -872,19 +864,15 @@ El planteamiento incluye una arquitectura multinivel con balanceo, integración 
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: rollback automatizado seguro.
-
+La memoria original desarrolla para **UPD12** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, la propuesta no desarrolla con suficiente detalle los mecanismos de escalabilidad horizontal, balanceo de carga ni alta disponibilidad asociados a este tipo de sistemas críticos.** Tampoco se identifican herramientas concretas ni arquitecturas específicas que respalden estos conceptos.
-
-En conjunto, la solución es conceptualmente sólida pero presenta carencias en su desarrollo técnico detallado.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD13 — Mantenimiento y mejora del sistema de gestión de la configuración
+##### UPD13 — mantenimiento y mejora del sistema de gestión de la configuración
 
 - **Requisito y alcance**
 
@@ -898,17 +886,15 @@ En consecuencia, la cobertura del requisito es parcial, con un enfoque generalis
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: validación previa en preproducción.
-
+La memoria original desarrolla para **UPD13** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, no se desarrollan en profundidad las herramientas específicas indicadas en el pliego ni los mecanismos de correlación de información entre sistemas.** Tampoco se identifican procedimientos detallados de automatización orientados a la gestión de la configuración.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD14 — Mantenimiento, actualización y mejora de la solución de contenedores
+##### UPD14 — Mantenimiento, Actualización y mejora de la solución de contenedores
 
 - **Requisito y alcance**
 
@@ -920,19 +906,15 @@ La propuesta de empresa_s incluye la utilización de Docker y la integración en
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: optimización plataformas educativas.
-
+La memoria original desarrolla para **UPD14** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, la propuesta indica en múltiples casos que el uso de contenedores se encuentra “en estudio”, lo que introduce incertidumbre sobre su aplicación real en la arquitectura.** Asimismo, no se identifican herramientas de orquestación como Kubernetes ni se describen arquitecturas completas de despliegue.
-
-Esta falta de definición limita significativamente la capacidad de evaluar la viabilidad de la solución en entornos distribuidos.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD15 — Mantenimiento, gestión y decomisionado de servidores
+##### UPD15 — Mantenimiento de gestión y decomisionado de servidores
 
 - **Requisito y alcance**
 
@@ -944,14 +926,10 @@ La propuesta de empresa_s aborda este aspecto de forma general dentro de su mode
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: mejora continua servicios actualizados.
-
+La memoria original desarrolla para **UPD15** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-Sin embargo, no se describen procedimientos completos de decomisionado ni mecanismos detallados para la gestión de DNS, almacenamiento o dependencias asociadas a los servidores retirados.
-
-En consecuencia, la propuesta presenta una cobertura parcial del requisito, con un nivel de detalle insuficiente para su evaluación completa.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -960,7 +938,7 @@ En consecuencia, la propuesta presenta una cobertura parcial del requisito, con 
 
 La valoración conjunta del bloque es **ALTA**. La clasificación individual muestra 15 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 15 aportaciones de valor añadido.
 
-#### Bloque CLO — Cloud
+#### Bloque CLO — Cloud (CLO)
 
 - **Consideración general del bloque**
 
@@ -1034,14 +1012,10 @@ En consecuencia, la propuesta presenta una cobertura funcional adecuada, pero co
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: autoescalado y balanceo dinámico.
-
+La memoria original desarrolla para **CLO3** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, el análisis técnico muestra que no se desarrollan mecanismos específicos de escalabilidad ni estrategias de optimización del rendimiento en escenarios de alta concurrencia.** Tampoco se detallan procedimientos de balanceo de carga ni de gestión de sesiones en condiciones de uso intensivo.
-
-La ausencia de estos elementos limita la capacidad de evaluar la robustez de la solución en un entorno real de explotación, especialmente considerando la criticidad del servicio para el usuario final.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -1050,7 +1024,7 @@ La ausencia de estos elementos limita la capacidad de evaluar la robustez de la 
 
 La valoración conjunta del bloque es **ALTA**. La clasificación individual muestra 3 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 3 aportaciones de valor añadido.
 
-#### Bloque OTR — Otros desarrollos
+#### Bloque OTR — Otros desarrollos (OTR)
 
 - **Consideración general del bloque**
 
@@ -1058,7 +1032,7 @@ El bloque comprende SSO y 2FA, automatización, Elastic, flujos de trabajo, Port
 
 El contraste identifica 7 subproyectos con desarrollo suficiente, 0 con desarrollo insuficiente y 0 no incluidos; 7 incorporan valor añadido según la clasificación del anexo.
 
-##### OTR1 — Mantenimiento y mejora del sistema de autenticación centralizada Single Sign-On (SSO)
+##### OTR1 — Mantenimiento y mejora del sistema de autentificación centralizada Single Sign On (SSO)
 
 - **Requisito y alcance**
 
@@ -1084,7 +1058,7 @@ Sin embargo, la propuesta no desarrolla en profundidad aspectos como la federaci
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### OTR2 — Mantenimiento, configuración y gestión de 2FA en el servicio de Single Sign-On
+##### OTR2 — Mantenimiento, configuración y gestión 2FA en el servicio de Single Sign On (SSO)
 
 - **Requisito y alcance**
 
@@ -1132,7 +1106,7 @@ Sin embargo, no se identifican arquitecturas específicas de orquestación ni si
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### OTR4 — Mantenimiento y mejora del sistema de gestión y análisis de datos mediante Elastic
+##### OTR4 — Mantenimiento y mejora de un sistema de gestión y análisis de datos mediante el stack de Elastic
 
 - **Requisito y alcance**
 
@@ -1160,25 +1134,25 @@ No obstante, el nivel de desarrollo técnico específico es limitado, ya que no 
 
 - **Requisito y alcance**
 
-El subproyecto OTR5 establece la gestión de una herramienta de workflow, incluyendo la automatización de procesos y la gestión de flujos de trabajo.
+El subproyecto exige una solución concreta y evaluable para **Mantenimiento y mejora de la herramienta de flujos de trabajo**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-El análisis específico se integra en las fortalezas y carencias que siguen.
+La oferta desarrolla una plataforma de flujos con actualización controlada, base de datos dedicada, automatización y trazabilidad. La integra expresamente con GitLab, CMDB, monitorización y SSO, y prevé métricas y cuadros de mando.
+
+La evidencia se encuentra en el apartado específico **OTR5** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: portal CAU mejorado.
+Flujos automatizados e integrados con GitLab, CMDB, monitorización y SSO.
 
 - **Carencias, omisiones, errores o riesgos**
 
-La propuesta de empresa_s no desarrolla de forma específica este subproyecto, limitándose a integrar la automatización dentro de su modelo general sin identificar herramientas concretas ni procedimientos asociados.
-
-Esta ausencia de desarrollo impide evaluar la capacidad real de ejecución del requisito.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### OTR6 — Mantenimiento y mejora del Portal CAU
 
@@ -1202,7 +1176,7 @@ La falta de detalle técnico limita la valoración del subproyecto.
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### OTR7 — Mantenimiento y evolución de servicios de Inteligencia Artificial
+##### OTR7 — Mantenimiento y evolución de servicios de Inteligencia Artificial para la plataforma EducaMadrid
 
 - **Requisito y alcance**
 
@@ -1228,7 +1202,7 @@ Se aprecia un enfoque innovador y alineado con las tendencias actuales, aunque l
 
 La valoración conjunta del bloque es **ALTA**. La clasificación individual muestra 7 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 7 aportaciones de valor añadido.
 
-#### Bloque COR — Correo electrónico
+#### Bloque COR — Correo electrónico (COR)
 
 - **Consideración general del bloque**
 
@@ -1250,12 +1224,10 @@ En consecuencia, la cobertura del requisito resulta parcial, al centrarse en la 
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: gestión inteligente de colas.
-
+La memoria original desarrolla para **COR1** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el análisis técnico pone de manifiesto que la propuesta no desarrolla de forma específica mecanismos de control del tráfico saliente como políticas de limitación por usuario, gestión de colas o control de reputación de IPs.** Tampoco se describen modelos de regulación dinámica del flujo de correo en función del comportamiento del sistema.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -1274,16 +1246,10 @@ Se aprecia una alineación conceptual con el requisito, en tanto que la propuest
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: optimización anti-spam dinámica.
-
+La memoria original desarrolla para **COR2** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, el nivel de desarrollo técnico específico resulta limitado.** La propuesta no describe procedimientos concretos para la actualización automatizada de listas, ni mecanismos de gestión de cambios masivos, ni flujos operativos definidos para la sincronización con directorios corporativos. Tampoco se identifican herramientas específicas de gestión de listas de distribución ni métricas que permitan evaluar la consistencia o el estado de las mismas.
-
-Esta falta de concreción reduce la capacidad de evaluar la viabilidad real de la solución en condiciones operativas y limita su verificabilidad.
-
-En conjunto, la propuesta presenta una base conceptual adecuada pero carece del desarrollo técnico necesario para garantizar una implementación operativa completa del requisito.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -1302,19 +1268,15 @@ En consecuencia, la cobertura del requisito resulta parcial, al centrarse en la 
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: mejora almacenamiento buzones.
-
+La memoria original desarrolla para **COR3** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el análisis técnico evidencia que el tratamiento de las cuotas de correo no se desarrolla de forma específica.** No se describen políticas diferenciadas por tipo de usuario, ni mecanismos automatizados de ajuste dinámico de cuotas, ni sistemas de alerta asociados al consumo de espacio.
-
-Asimismo, no se identifican herramientas específicas para la gestión de cuotas ni métricas operativas que permitan evaluar el comportamiento del sistema en condiciones reales.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### COR4 — Mantenimiento y mejora de las herramientas de control del spam
+##### COR4 — Mantenimiento y mejora de las herramientas relacionadas con el control del spam
 
 - **Requisito y alcance**
 
@@ -1326,16 +1288,10 @@ La propuesta de empresa_s incluye la integración de sistemas antispam dentro de
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: automatización listas correo.
-
+La memoria original desarrolla para **COR4** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, no se desarrolla en profundidad la estrategia de gestión del spam.** No se describen herramientas concretas utilizadas para la clasificación de correos, ni mecanismos avanzados de análisis de comportamiento, ni procesos de ajuste continuo de reglas.
-
-Asimismo, no se definen métricas asociadas al rendimiento del sistema de filtrado, como tasas de falsos positivos o niveles de detección.
-
-La ausencia de estos elementos limita la capacidad de evaluar la eficacia real de la solución.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -1354,19 +1310,15 @@ Se aprecia un enfoque orientado a garantizar la continuidad del servicio, con me
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: seguridad reforzada correo.
-
+La memoria original desarrolla para **COR5** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-No obstante, no se describen procedimientos operativos detallados para la gestión de buzones, ni herramientas específicas de administración, ni métricas asociadas al rendimiento del sistema.
-
-Esta falta de concreción limita la evaluación de la operatividad del servicio.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### COR6 — Mantenimiento y mejora de la seguridad del sistema de correo
+##### COR6 — Mantenimiento y mejora continua de la seguridad del sistema de correo
 
 - **Requisito y alcance**
 
@@ -1378,17 +1330,15 @@ La propuesta de empresa_s integra la seguridad como un elemento transversal, inc
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: monitorización avanzada correo.
-
+La memoria original desarrolla para **COR6** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, el nivel de desarrollo técnico específico es limitado.** No se describen procedimientos concretos de actualización de políticas de seguridad, ni herramientas específicas de análisis, ni métricas que permitan evaluar el nivel de protección.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### COR7 — Actualización y mejora continua de la infraestructura de correo
+##### COR7 — Actualización y mejora continua de la infraestructura en la que se basa el sistema de correo
 
 - **Requisito y alcance**
 
@@ -1444,67 +1394,59 @@ En consecuencia, la solución resulta adecuada a nivel conceptual, pero con un d
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### COR9 — Implementación de un módulo receptor de inyección directa de correo
+##### COR9 — Implementación y mejora de un módulo receptor de inyección directa para la infraestructura de transporte de correo
 
 - **Requisito y alcance**
 
-Este subproyecto exige la implementación de un sistema de recepción de correo mediante inyección directa, incluyendo su integración con la infraestructura existente.
+El subproyecto exige una solución concreta y evaluable para **Implementación y mejora de un módulo receptor de inyección directa para la infraestructura de transporte de correo**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-El análisis específico se integra en las fortalezas y carencias que siguen.
+La oferta propone un módulo de ingestión directa mediante QMQP y qmqpd, con escritura atómica en el spool, coexistencia no intrusiva con SMTP, persistencia, escalado en paralelo y despliegue reversible.
+
+La evidencia se encuentra en el apartado específico **COR9** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: control reputación envío.
+Inyección QMQP en spool, no intrusiva, persistente, escalable y reversible.
 
 - **Carencias, omisiones, errores o riesgos**
 
-**El análisis de la propuesta de empresa_s pone de manifiesto que este subproyecto no se desarrolla de forma explícita dentro de la memoria técnica.** La descripción de la arquitectura de correo se mantiene en un nivel general, centrado en los componentes principales del sistema (RoundCube, QMail, mecanismos antispam y almacenamiento), sin incluir referencias específicas a módulos de inyección directa ni a su integración dentro del flujo de correo.
-
-Asimismo, no se describen herramientas, procedimientos ni arquitecturas asociadas a este componente, ni se identifican mecanismos de validación, control de seguridad o gestión del tráfico asociado a la inyección directa.
-
-Esta ausencia de desarrollo impide evaluar la capacidad real del licitador para implementar el módulo requerido, tanto desde el punto de vista técnico como operativo.
-
-En consecuencia, la cobertura del requisito resulta claramente insuficiente.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### COR10 — Mantenimiento y soporte del módulo de inyección directa de correo
 
 - **Requisito y alcance**
 
-El subproyecto COR10 implica el mantenimiento del sistema de inyección directa, incluyendo soporte, monitorización y mejora del rendimiento.
+El subproyecto exige una solución concreta y evaluable para **Mantenimiento y soporte del módulo de inyección directa de correo**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-El análisis específico se integra en las fortalezas y carencias que siguen.
+La oferta concreta el soporte de qmqpd: supervisión del socket y los procesos, control de escritura e integridad, parámetros de back-pressure y concurrencia, pruebas funcionales, de carga, resiliencia y coexistencia, rollback, documentación y transferencia.
+
+La evidencia se encuentra en el apartado específico **COR10** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: automatización gestión correo.
+Soporte qmqpd con pruebas, observabilidad, back-pressure, rollback y documentación.
 
 - **Carencias, omisiones, errores o riesgos**
 
-**Dado que la propuesta de empresa_s no desarrolla la implementación inicial del módulo (COR9), tampoco se identifican elementos específicos asociados a su mantenimiento o soporte.** La memoria técnica no incluye procedimientos operativos, herramientas de monitorización ni estrategias de evolución para este componente.
-
-Aunque el modelo general de operación planteado por empresa_s incluye monitorización, automatización y gestión de incidencias a nivel global, estos elementos no se concretan en el caso específico del módulo de inyección directa, lo que impide establecer una correspondencia directa con el requisito.
-
-Asimismo, no se definen métricas de funcionamiento, ni acuerdos de nivel de servicio específicos, ni mecanismos de control que permitan evaluar el comportamiento del módulo en condiciones reales.
-
-En consecuencia, la propuesta no proporciona información suficiente para valorar la viabilidad operativa del mantenimiento del módulo, lo que supone una cobertura claramente insuficiente del requisito.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### Conclusión del bloque COR
 
 La valoración conjunta del bloque es **ALTA**. La clasificación individual muestra 10 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 10 aportaciones de valor añadido.
 
-#### Bloque MAX — Sistema Operativo MAX
+#### Bloque MAX — Sistema Operativo MAX (MAX)
 
 - **Consideración general del bloque**
 
@@ -1516,315 +1458,343 @@ El contraste identifica 14 subproyectos con desarrollo suficiente, 0 con desarro
 
 - **Requisito y alcance**
 
-El subproyecto MAX1 comprende mantenimiento y actualización de MAX de forma presencial en centros de forma regular, con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Mantenimiento y actualización de MAX de forma presencial en centros de forma regular**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta define intervenciones presenciales planificadas por criticidad, versión y hardware; incluye actualización, parcheado, compatibilidad de periféricos, imágenes certificadas, diagnóstico remoto previo y automatización de configuraciones.
+
+La evidencia se encuentra en el apartado específico **MAX1** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: optimización hardware educativo.
+Intervención presencial planificada, imágenes certificadas y diagnóstico remoto previo.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### MAX2 — Mantenimiento y actualización del servidor MAX para el desarrollo de distribuciones
 
 - **Requisito y alcance**
 
-El subproyecto MAX2 comprende mantenimiento y actualización del servidor MAX para el desarrollo de distribuciones, con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Mantenimiento y actualización del servidor MAX para el desarrollo de distribuciones**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta separa los entornos de construcción legacy y actual, gestiona dependencias y propone un pipeline CI/CD, builds reproducibles en contenedores, versionado y trazabilidad de distribuciones y repositorios propios.
+
+La evidencia se encuentra en el apartado específico **MAX2** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: despliegue masivo automatizado.
+Construcción CI/CD reproducible, versionada y trazable de distribuciones MAX.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### MAX3 — Mantenimiento de aplicaciones basadas en MAX
 
 - **Requisito y alcance**
 
-El subproyecto MAX3 comprende mantenimiento de aplicaciones basadas en MAX, con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Mantenimiento de aplicaciones basadas en MAX**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta desarrolla el ciclo de vida de aplicaciones MAX: control de código y versiones, compilación, dependencias, parcheado y validación. Añade preproducción, certificación de aplicaciones, seguimiento de vulnerabilidades y catálogo controlado.
+
+La evidencia se encuentra en el apartado específico **MAX3** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: gestión centralizada equipos.
+Validación, certificación y control de vulnerabilidades de aplicaciones MAX.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
-##### MAX4 — Lanzamiento anual de distribuciones de MAX «Full Equip»
+##### MAX4 — Lanzamiento de distribuciones de MAX “Full Equip” anualmente
 
 - **Requisito y alcance**
 
-El subproyecto MAX4 comprende lanzamiento anual de distribuciones de MAX «Full Equip», con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Lanzamiento de distribuciones de MAX “Full Equip” anualmente**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta estructura el lanzamiento Full Equip en definición, construcción y validación, con pruebas funcionales y de compatibilidad. Añade pipeline de generación, testing, trazabilidad de builds y actualizaciones incrementales.
+
+La evidencia se encuentra en el apartado específico **MAX4** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: reducción tiempos arranque.
+Lanzamiento Full Equip mediante pipeline, testing y trazabilidad de versiones.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
-##### MAX5 — Lanzamiento anual de distribuciones «MAX lite» y/o «MAX gestión»
+##### MAX5 — Lanzamiento de distribuciones de “MAX lite” y/o “max gestión” anualmente
 
 - **Requisito y alcance**
 
-El subproyecto MAX5 comprende lanzamiento anual de distribuciones «MAX lite» y/o «MAX gestión», con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Lanzamiento de distribuciones de “MAX lite” y/o “max gestión” anualmente**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta diferencia MAX Lite y MAX Gestión, adapta cada distribución a su perfil de uso y hardware, y propone modularidad, optimización de rendimiento e integración de herramientas de gestión.
+
+La evidencia se encuentra en el apartado específico **MAX5** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: integración con servicios EducaMadrid.
+Distribuciones Lite y Gestión diferenciadas, modulares y optimizadas.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
-##### MAX6 — Integración de aplicaciones externas en los repositorios oficiales
+##### MAX6 — Integración de aplicaciones externas a los repositorios oficiales
 
 - **Requisito y alcance**
 
-El subproyecto MAX6 comprende integración de aplicaciones externas en los repositorios oficiales, con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Integración de aplicaciones externas a los repositorios oficiales**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta define análisis funcional, compatibilidad y seguridad de aplicaciones externas, adaptación y empaquetado, gestión de dependencias e incorporación controlada a repositorios. Añade catálogo, entorno de pruebas, seguimiento de CVE y empaquetado automatizado.
+
+La evidencia se encuentra en el apartado específico **MAX6** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: optimización consumo recursos.
+Integración controlada con catálogo, pruebas, seguimiento de CVE y empaquetado automatizado.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
-##### MAX7 — Mantenimiento y mejora del servidor de gestión de accesos remotos
+##### MAX7 — Mantenimiento y mejora del servidor de gestión accesos remotos
 
 - **Requisito y alcance**
 
-El subproyecto MAX7 comprende mantenimiento y mejora del servidor de gestión de accesos remotos, con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Mantenimiento y mejora del servidor de gestión accesos remotos**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta configura una plataforma central de acceso remoto con roles, registro de sesiones e integración en la infraestructura. Añade cifrado, control unificado, monitorización y trazabilidad de conexiones.
+
+La evidencia se encuentra en el apartado específico **MAX7** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: automatización actualizaciones.
+Acceso remoto centralizado, cifrado, monitorizado y trazable.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### MAX8 — Soporte de asistencia telefónica y remota para incidencias de entornos MAX
 
 - **Requisito y alcance**
 
-El subproyecto MAX8 comprende soporte de asistencia telefónica y remota para incidencias de entornos MAX, con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Soporte de asistencia telefónica y remota para incidencias de entornos MAX**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta combina soporte telefónico y remoto, registro y clasificación de incidencias, diagnóstico y validación posterior. Añade base de conocimiento, priorización y métricas de resolución.
+
+La evidencia se encuentra en el apartado específico **MAX8** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: soporte remoto eficiente.
+Soporte remoto trazable con priorización, base de conocimiento y métricas.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### MAX9 — Asistencia presencial en los diferentes eventos MAX
 
 - **Requisito y alcance**
 
-El subproyecto MAX9 comprende asistencia presencial en los diferentes eventos MAX, con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Asistencia presencial en los diferentes eventos MAX**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta planifica la asistencia a eventos, coordina recursos y presta soporte presencial sobre equipos y aplicaciones. Añade preparación previa, procedimientos estandarizados e incorporación de incidencias a la base de conocimiento.
+
+La evidencia se encuentra en el apartado específico **MAX9** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: gestión heterogeneidad hardware.
+Soporte de eventos planificado, estandarizado y reutilizable como conocimiento.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
-##### MAX10 — Soporte presencial en eventos especiales MAX Install Party
+##### MAX10 — Soporte presencial en eventos especiales (MAX Install Party)
 
 - **Requisito y alcance**
 
-El subproyecto MAX10 comprende soporte presencial en eventos especiales MAX Install Party, con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Soporte presencial en eventos especiales (MAX Install Party)**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta prepara las Install Party con imágenes, scripts y repositorios locales, ejecuta instalaciones y configuraciones masivas y recoge resultados. Añade automatización, homogeneidad y transferencia de conocimiento.
+
+La evidencia se encuentra en el apartado específico **MAX10** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: reducción incidencias sistemas.
+Install Party con imágenes, scripts, repositorios locales y despliegue automatizado.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### MAX11 — Gestión, mantenimiento y actualización de equipos MAX en remoto
 
 - **Requisito y alcance**
 
-El subproyecto MAX11 comprende gestión, mantenimiento y actualización de equipos MAX en remoto, con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Gestión, mantenimiento y actualización de equipos MAX en remoto**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta inventaría los equipos gestionados y ejecuta actualizaciones, parches y validaciones remotas. Añade plataforma central, automatización de despliegues y monitorización continua del parque.
+
+La evidencia se encuentra en el apartado específico **MAX11** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: mejora experiencia usuario.
+Gestión remota centralizada con inventario, actualizaciones y monitorización.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
-##### MAX12 — Instalación y configuración de dispositivos solicitados por los centros educativos
+##### MAX12 — Instalación y configuración de dispositivos solicitadas por los centros educativos
 
 - **Requisito y alcance**
 
-El subproyecto MAX12 comprende instalación y configuración de dispositivos solicitados por los centros educativos, con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Instalación y configuración de dispositivos solicitadas por los centros educativos**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta valida compatibilidad Linux/MAX, instala controladores, configura y prueba periféricos. Añade catálogo de dispositivos, procedimientos homogéneos, scripts de drivers y base de conocimiento.
+
+La evidencia se encuentra en el apartado específico **MAX12** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: control versiones sistema.
+Integración de periféricos con catálogo de compatibilidad y scripts de instalación.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### MAX13 — Mantenimiento y soporte del servidor de repositorio individual para centros educativos
 
 - **Requisito y alcance**
 
-El subproyecto MAX13 comprende mantenimiento y soporte del servidor de repositorio individual para centros educativos, con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Mantenimiento y soporte del servidor de repositorio individual para centros educativos**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta mantiene el repositorio individual mediante una plataforma de software libre orientada a Migasfree, con inventario, paquetes, versiones y control del parque. Añade gestión multicentro, políticas automatizadas y auditoría.
+
+La evidencia se encuentra en el apartado específico **MAX13** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: optimización despliegue centros.
+Repositorio Migasfree multicentro con inventario, políticas y auditoría.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### MAX14 — Herramienta de gestión centralizada de maquetas de MAX
 
 - **Requisito y alcance**
 
-El subproyecto MAX14 comprende herramienta de gestión centralizada de maquetas de MAX, con los procedimientos, integraciones, controles, entregables y mecanismos de validación necesarios para su ejecución en el entorno de EducaMadrid.
+El subproyecto exige una solución concreta y evaluable para **Herramienta de gestión centralizada de maquetas de MAX**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria trata MAX1 a MAX14 de forma agregada, por lo que la valoración de este subproyecto se integra en la conclusión conjunta del bloque y en su clasificación individual del anexo.
+La oferta evoluciona Migasfree como plataforma de maquetas versionadas, agentes, políticas y control de cumplimiento. Añade gobierno del software, despliegues automatizados y detección de equipos fuera de estándar.
+
+La evidencia se encuentra en el apartado específico **MAX14** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: automatización mantenimiento MAX.
+Maquetas versionadas y gobernadas mediante Migasfree y políticas automatizadas.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### Conclusión del bloque MAX
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 14 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 14 aportaciones de valor añadido.
+La valoración conjunta del bloque es **ALTA**. La clasificación individual muestra 14 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 14 aportaciones de valor añadido.
 
-#### Bloque AV — Aulas Virtuales
+#### Bloque AV — Aulas Virtuales (AV)
 
 - **Consideración general del bloque**
 
@@ -1832,7 +1802,7 @@ El bloque comprende actualización y estabilidad de bases de datos y FrontEnd, d
 
 El contraste identifica 4 subproyectos con desarrollo suficiente, 0 con desarrollo insuficiente y 0 no incluidos; 4 incorporan valor añadido según la clasificación del anexo.
 
-##### AV1 — Actualización y comprobación periódicas de servidores de bases de datos de aulas virtuales
+##### AV1 — Actualización y comprobación periódicas de servidores físicos y virtuales de BBDD de los entornos de aulas virtuales
 
 - **Requisito y alcance**
 
@@ -1846,17 +1816,15 @@ En consecuencia, la cobertura puede considerarse parcial, basada en extrapolacio
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: optimización picos educativos.
-
+La memoria original desarrolla para **AV1** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el análisis pone de manifiesto que no existe un desarrollo específico asociado a las aulas virtuales como sistema diferenciado.** No se describen procedimientos concretos para la validación periódica de servidores ni criterios específicos de actuación en este entorno, lo que limita la trazabilidad del cumplimiento del requisito.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### AV2 — Mantenimiento de los servidores FrontEnd de aulas virtuales
+##### AV2 — Mantenimiento de los servidores virtuales FrontEnd de los entornos de aulas virtuales
 
 - **Requisito y alcance**
 
@@ -1868,19 +1836,15 @@ Este subproyecto exige el mantenimiento de los servidores de front-end, incluyen
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: balanceo inteligente Moodle.
-
+La memoria original desarrolla para **AV2** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, no se desarrolla de forma específica el entorno de aulas virtuales ni los componentes concretos que lo constituyen, como Moodle u otras plataformas educativas.** Tampoco se describen procedimientos operativos asociados al mantenimiento, despliegue o actualización de estos servidores.
-
-La ausencia de este nivel de detalle limita la evaluación del grado real de cumplimiento del requisito.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### AV3 — Despliegue de nuevos grupos de aulas virtuales
+##### AV3 — Despliegue periódico de nuevos grupos de aulas virtuales y ampliación de los actuales
 
 - **Requisito y alcance**
 
@@ -1892,19 +1856,15 @@ La propuesta de empresa_s incorpora conceptos de automatización y despliegue me
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: modelo predictivo de carga.
-
+La memoria original desarrolla para **AV3** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, la propuesta no describe procedimientos específicos de despliegue de aulas virtuales, ni define plantillas de entornos, ni establece tiempos de provisión ni mecanismos de validación tras el despliegue.** Esta falta de concreción limita la capacidad de evaluar la operatividad del proceso en escenarios reales.
-
-En consecuencia, la cobertura del subproyecto resulta parcialmente insuficiente.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### AV4 — Redistribución periódica de NFS de aulas virtuales
+##### AV4 — Redistribución periódica de los NFS de datos de las aulas virtuales
 
 - **Requisito y alcance**
 
@@ -1932,7 +1892,7 @@ En consecuencia, la solución es técnicamente coherente pero insuficientemente 
 
 La valoración conjunta del bloque es **ALTA**. La clasificación individual muestra 4 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 4 aportaciones de valor añadido.
 
-#### Bloque POR — Servicio de LDAP y Portal Educativo
+#### Bloque POR — Servicio de LDAP y Portal Educativo (POR)
 
 - **Consideración general del bloque**
 
@@ -1954,12 +1914,10 @@ En consecuencia, la cobertura del requisito resulta parcial.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: identidad unificada escalable.
-
+La memoria original desarrolla para **POR1** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, no se describen procedimientos específicos para la ampliación del sistema de esclavos, ni estrategias de replicación, ni mecanismos de balanceo de carga entre nodos.** La falta de estos elementos limita la capacidad de evaluar la viabilidad técnica del proceso.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -1968,33 +1926,31 @@ La memoria identifica una aportación de valor añadido: identidad unificada esc
 
 - **Requisito y alcance**
 
-El subproyecto POR2 implica la migración del nodo maestro LDAP, operación crítica que requiere planificación, ejecución controlada y validación de integridad del sistema, así como la minimización del impacto sobre los servicios dependientes.
+El subproyecto exige una solución concreta y evaluable para **Migración del sistema LDAP máster de EducaMadrid**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-El análisis específico se integra en las fortalezas y carencias que siguen.
+La oferta define un nuevo LDAP Master virtualizado y endurecido, comunicaciones LDAPS/TLS, exportación e importación controladas, reconfiguración de la replicación y validación funcional. Añade alta disponibilidad, preproducción y copias flexibles.
+
+La evidencia se encuentra en el apartado específico **POR2** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: alta disponibilidad LDAP.
+Migración LDAP con LDAPS, replicación, alta disponibilidad, preproducción y copias.
 
 - **Carencias, omisiones, errores o riesgos**
 
-La propuesta de empresa_s contempla LDAP dentro de su arquitectura, pero no desarrolla procesos de migración ni procedimientos asociados a este tipo de operaciones críticas.
-
-No se describen fases de migración, ni entornos de pruebas, ni mecanismos de validación ni estrategias de rollback, aspectos fundamentales en este tipo de actuaciones.
-
-En consecuencia, la propuesta presenta una carencia significativa en este subproyecto.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### Conclusión del bloque POR
 
 La valoración conjunta del bloque es **ALTA**. La clasificación individual muestra 2 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 2 aportaciones de valor añadido.
 
-#### Bloque SEG — Seguridad
+#### Bloque SEG — Seguridad (SEG)
 
 - **Consideración general del bloque**
 
@@ -2018,19 +1974,15 @@ En consecuencia, la propuesta cubre el requisito desde una perspectiva general d
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: monitorización seguridad proactiva.
-
+La memoria original desarrolla para **SEG1** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el análisis específico del subproyecto pone de manifiesto que no se desarrollan herramientas ni procedimientos concretos orientados al control de cambios en DNS.** No se describen flujos de aprobación, validación previa, control de versiones ni mecanismos de rollback específicos para este tipo de sistemas. Tampoco se identifican herramientas especializadas para la gestión de DNS ni métricas que permitan evaluar la estabilidad o integridad del sistema tras modificaciones.
-
-Esta falta de desarrollo reduce el nivel de concreción técnica y limita la evaluación de la solución en términos de viabilidad operativa.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG2 — LDAP Máster independiente para usuarios privilegiados
+##### SEG2 — Mantenimiento y mejora de un LDAP Máster independiente para usuarios privilegiados
 
 - **Requisito y alcance**
 
@@ -2046,19 +1998,15 @@ En consecuencia, la propuesta presenta un buen enfoque general de identidad, per
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: detección temprana amenazas.
-
+La memoria original desarrolla para **SEG2** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, el análisis técnico muestra que la propuesta no desarrolla de forma específica la existencia de un LDAP máster independiente para usuarios privilegiados.** No se describen arquitecturas segregadas, ni mecanismos diferenciados de control de accesos, ni políticas de seguridad reforzadas para este tipo de usuarios. Tampoco se identifican procedimientos operativos de gestión de privilegios ni herramientas específicas orientadas a la protección de cuentas críticas.
-
-Esta falta de diferenciación limita la alineación completa con el requisito, al tratar todos los usuarios dentro de un mismo modelo de identidad sin un tratamiento específico para cuentas privilegiadas.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG3 — Gestión, mantenimiento e implantación de certificados
+##### SEG3 — Gestión, mantenimiento e implantación anual de los certificados de EducaMadrid
 
 - **Requisito y alcance**
 
@@ -2072,19 +2020,15 @@ Se aprecia que el modelo de operación incorpora la actualización de componente
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: correlación eventos seguridad.
-
+La memoria original desarrolla para **SEG3** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el desarrollo específico del subproyecto es limitado.** No se describen herramientas concretas de gestión de certificados, ni procedimientos de renovación automatizada, ni calendario de actualización anual. Tampoco se identifican mecanismos de control de caducidad, auditoría de certificados o validación tras su despliegue.
-
-La ausencia de estos elementos introduce incertidumbre en la ejecución del proceso y limita la verificabilidad del cumplimiento del requisito.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG4 — Gestión y mantenimiento de dominios DNS
+##### SEG4 — Gestión y mantenimiento periódico de dominios DNS
 
 - **Requisito y alcance**
 
@@ -2098,14 +2042,10 @@ En consecuencia, la cobertura del requisito se mantiene en un nivel general, sin
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: hardening automatizado sistemas.
-
+La memoria original desarrolla para **SEG4** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, no se desarrollan aspectos específicos relacionados con la gestión de dominios DNS.** No se describen herramientas de administración, ni procedimientos operativos de mantenimiento, ni mecanismos de detección de inconsistencias o errores de resolución.
-
-Asimismo, no se incluyen métricas operativas ni indicadores de rendimiento que permitan evaluar el estado del sistema DNS.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -2124,19 +2064,15 @@ Este enfoque representa un aspecto positivo, ya que introduce un componente de o
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: gestión certificados centralizada.
-
+La memoria original desarrolla para **SEG5** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el desarrollo técnico específico es limitado.** No se identifican herramientas concretas de análisis de vulnerabilidades (como escáneres específicos), ni metodologías definidas (por ejemplo, análisis automático frente a auditorías manuales). Tampoco se describen procesos detallados de clasificación, priorización o seguimiento de vulnerabilidades.
-
-La ausencia de métricas cuantificadas y procedimientos operativos detallados limita la capacidad de evaluar la eficacia del modelo propuesto.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG6 — Detección de intrusiones y análisis de logs
+##### SEG6 — Gestión, mantenimiento y ajuste de la herramienta para la detección de intrusiones, monitorización de la integridad, análisis de logs y respuesta ante incidentes.
 
 - **Requisito y alcance**
 
@@ -2150,21 +2086,15 @@ Este enfoque resulta alineado con los principios básicos del subproyecto y apor
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: control accesos avanzado.
-
+La memoria original desarrolla para **SEG6** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el desarrollo técnico específico presenta limitaciones.** No se identifican herramientas concretas de detección de intrusiones (IDS/IPS), ni arquitecturas definidas de análisis centralizado (por ejemplo, SIEM), ni mecanismos de correlación avanzada de eventos. Tampoco se describen procedimientos detallados de respuesta ante incidentes, incluyendo clasificación de eventos, niveles de criticidad o flujos de actuación.
-
-Asimismo, no se incluyen métricas cuantificadas relacionadas con tiempos de detección, respuesta o resolución, lo que limita la capacidad de evaluar la eficacia del sistema de seguridad.
-
-En consecuencia, la propuesta presenta una base conceptual adecuada en materia de observabilidad y monitorización, pero con un desarrollo insuficiente en lo relativo a la operación estructurada de la detección y respuesta ante incidentes.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG7 — Auditorías internas de aplicaciones
+##### SEG7 — Realización de auditorías internas de aplicaciones
 
 - **Requisito y alcance**
 
@@ -2176,21 +2106,15 @@ La propuesta de empresa_s integra prácticas de seguridad dentro del ciclo de vi
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: auditoría continua seguridad.
-
+La memoria original desarrolla para **SEG7** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, el análisis evidencia que no se desarrollan procedimientos específicos de auditoría.** No se detallan metodologías concretas (auditorías estáticas, dinámicas, revisión de código), ni herramientas utilizadas ni periodicidad de ejecución. Tampoco se describen entregables asociados a estas auditorías, como informes de vulnerabilidades o planes de remediación.
-
-La ausencia de estos elementos limita la capacidad de evaluar la madurez del proceso y su aplicabilidad en entornos reales.
-
-En consecuencia, la cobertura del requisito es adecuada a nivel conceptual, pero insuficiente en su desarrollo operativo.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG8 — Auditorías internas continuas de sistemas
+##### SEG8 — Realización de auditorías internas continuas de los sistemas
 
 - **Requisito y alcance**
 
@@ -2204,14 +2128,10 @@ En consecuencia, la propuesta presenta un enfoque coherente desde la perspectiva
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: protección sin impacto rendimiento.
-
+La memoria original desarrolla para **SEG8** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el concepto de auditoría continua no se desarrolla de forma específica.** No se describen procesos automatizados de evaluación periódica, ni herramientas orientadas a auditoría continua, ni mecanismos de revisión sistemática de configuraciones o estados del sistema.
-
-Asimismo, no se identifican indicadores de control ni métricas que permitan medir el nivel de cumplimiento de los estándares de seguridad a lo largo del tiempo.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -2230,14 +2150,10 @@ Se valora positivamente la integración de logs, métricas y trazas dentro de un
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: gestión vulnerabilidades proactiva.
-
+La memoria original desarrolla para **SEG9** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, el desarrollo técnico presenta ciertas limitaciones.** No se identifican herramientas concretas utilizadas para la centralización y análisis de logs (por ejemplo, ELK o soluciones equivalentes), ni se describen arquitecturas detalladas de ingestión, almacenamiento y procesamiento. Tampoco se definen políticas de retención de logs ni niveles de acceso a la información.
-
-A pesar de estas carencias, la claridad del enfoque y su integración dentro del modelo global de observabilidad permiten valorar positivamente este subproyecto.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -2256,19 +2172,15 @@ En consecuencia, la cobertura del subproyecto resulta parcial.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: SIEM integrado.
-
+La memoria original desarrolla para **SEG10** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, no se desarrolla de forma específica la gestión de claves RSA.** No se describen procedimientos de generación, distribución o rotación de claves, ni herramientas específicas para su gestión centralizada. Tampoco se identifican mecanismos de control de acceso a claves ni auditoría de su uso.
-
-La ausencia de este desarrollo limita la alineación con el requisito, especialmente en lo relativo a la gestión operativa de claves.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG11 — Asistencia en eventos de ciberseguridad
+##### SEG11 — Asistencia y soporte presencial en los diferentes eventos de Ciberseguridad de EducaMadrid
 
 - **Requisito y alcance**
 
@@ -2282,14 +2194,10 @@ En consecuencia, la propuesta cubre el requisito de forma genérica, pero sin un
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: respuesta automática incidentes.
-
+La memoria original desarrolla para **SEG11** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, el desarrollo específico del subproyecto es limitado.** No se describen planes de actuación en eventos, ni roles definidos, ni procedimientos operativos asociados a este soporte. Tampoco se identifican recursos asignados específicamente a este tipo de actividades.
-
-La falta de concreción impide evaluar con precisión el nivel de preparación para este tipo de actuaciones.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -2298,7 +2206,7 @@ La falta de concreción impide evaluar con precisión el nivel de preparación p
 
 La valoración conjunta del bloque es **ALTA**. La clasificación individual muestra 11 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 11 aportaciones de valor añadido.
 
-#### Bloque CON — Automatización y contenedores
+#### Bloque CON — Automatización y contenedores (CON)
 
 - **Consideración general del bloque**
 
@@ -2320,19 +2228,15 @@ Asimismo, el propio planteamiento indica en algunos casos que el uso de determin
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: orquestación Kubernetes avanzada.
-
+La memoria original desarrolla para **CON1** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el análisis técnico pone de manifiesto que la propuesta no desarrolla de forma completa la arquitectura de contenedores.** En particular, no se identifican plataformas de orquestación como Kubernetes ni se describen mecanismos de gestión de clusters, escalabilidad automática o tolerancia a fallos. La ausencia de estos elementos limita significativamente la capacidad de evaluar la madurez del sistema propuesto en entornos de producción complejos.
-
-En consecuencia, la solución resulta conceptualmente adecuada pero insuficientemente desarrollada para garantizar su aplicabilidad en un entorno de gran escala.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### CON2 — Mantenimiento y mejora de scripts y automatización de tareas
+##### CON2 — Mantenimiento y mejora de los scripts y sistemas de automatización de tareas
 
 - **Requisito y alcance**
 
@@ -2358,35 +2262,35 @@ Sin embargo, no se identifican sistemas centralizados de orquestación ni plataf
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### CON3 — Mantenimiento del sistema auxiliar de automatización
+##### CON3 — Mantenimiento y mejora del sistema auxiliar de automatización
 
 - **Requisito y alcance**
 
-El subproyecto requiere la gestión de sistemas auxiliares de automatización de procesos.
+El subproyecto exige una solución concreta y evaluable para **Mantenimiento y mejora del sistema auxiliar de automatización**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-El análisis específico se integra en las fortalezas y carencias que siguen.
+La oferta desarrolla CON3 como plataforma de APIs REST versionadas, con supervisión de endpoints, reintentos, registro de eventos y trazabilidad. Añade integración con Ansible y GitLab CI/CD, preproducción y refuerzo de seguridad.
+
+La evidencia se encuentra en el apartado específico **CON3** de la oferta original y permite evaluar el subproyecto de forma separada, sin inferir contenido de otras tareas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: despliegue automatizado DevOps.
+Automatización por APIs REST con observabilidad, CI/CD, reintentos y auditoría.
 
 - **Carencias, omisiones, errores o riesgos**
 
-**La propuesta de empresa_s no desarrolla de forma específica este subproyecto, limitándose a describir de forma general la automatización dentro de su modelo operativo.** No se identifican herramientas diferenciadas ni casos de uso concretos que permitan evaluar la funcionalidad de estos sistemas auxiliares.
-
-Esta falta de concreción reduce la capacidad de valorar la solución y pone de manifiesto una cobertura limitada del requisito.
+Pese al desarrollo técnico acreditado, la oferta no cuantifica de forma completa valores objetivo, umbrales operativos o criterios de aceptación para todos los resultados descritos. Esta limitación impide asignar el nivel EXCELENTE.
 
 - **Valoración cualitativa**
 
-**BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta, evaluable y adaptada al requisito, con mejoras coherentes; las limitaciones de cuantificación justifican mantenerla en la banda del 51 % al 75 %.
 
 ##### Conclusión del bloque CON
 
 La valoración conjunta del bloque es **ALTA**. La clasificación individual muestra 3 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 3 aportaciones de valor añadido.
 
-#### Bloque MIG — Gestión de la migración de servidores entre CPDs
+#### Bloque MIG — Gestión de la migración de servidores entre CPDs (MIG)
 
 - **Consideración general del bloque**
 
@@ -2408,14 +2312,10 @@ Asimismo, el modelo de gobierno multinivel (estratégico, táctico y operativo) 
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: migración sin impacto usuario.
-
+La memoria original desarrolla para **MIG1** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el desarrollo específico del subproyecto es limitado.** No se describen planes concretos de revisión post-migración, ni procedimientos de validación estructurados, ni criterios de aceptación de los entornos migrados. Tampoco se identifican herramientas específicas para la verificación del estado de los sistemas ni métricas que permitan evaluar objetivamente el éxito de la migración.
-
-En consecuencia, la propuesta ofrece una base funcional adecuada desde el punto de vista de monitorización y control, pero carece de un desarrollo operativo detallado en lo relativo a la coordinación y revisión de entornos migrados.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -2434,16 +2334,10 @@ Asimismo, el modelo DevOps planteado, junto con la validación en entornos de pr
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: validación completa pre/post.
-
+La memoria original desarrolla para **MIG2** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, el análisis técnico evidencia que no se desarrollan de forma específica las fases preparatorias de la migración.** No se describen planes detallados por sistemas, análisis de dependencias entre servicios, cronogramas de migración ni estrategias de priorización. Tampoco se definen mecanismos de coordinación entre equipos ni herramientas específicas de planificación de migraciones.
-
-Esta falta de concreción limita la capacidad de evaluar la viabilidad real del proceso en un entorno de alta complejidad.
-
-En consecuencia, la propuesta presenta una buena base metodológica, pero con un nivel de desarrollo técnico insuficiente en la planificación específica de la migración.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -2452,63 +2346,45 @@ En consecuencia, la propuesta presenta una buena base metodológica, pero con un
 
 - **Requisito y alcance**
 
-El subproyecto MIG3 implica la preparación de los servidores antes de la migración, incluyendo la revisión de configuraciones, la estandarización de sistemas y la generación de documentación técnica.
+El subproyecto exige una solución concreta y evaluable para **Preparación de servidores y documentación de sistemas**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-**La propuesta de empresa_s incluye la utilización de una CMDB como “fuente única de verdad”, junto con procesos de automatización y gestión de configuración, lo que representa un elemento relevante para la documentación y control de los sistemas.** Este enfoque facilita la trazabilidad de componentes y la identificación de dependencias, aspectos clave en procesos de migración.
-
-Asimismo, la integración de herramientas como Ansible y CI/CD dentro del modelo operativo permite inferir la capacidad de automatizar la preparación de entornos y la configuración de servidores, lo que constituye un punto positivo.
-
-En consecuencia, la propuesta ofrece una base coherente en términos de gestión de configuración, pero no alcanza el nivel de detalle requerido para una preparación sistemática y documentada de los entornos.
-
-El subproyecto MIG4 exige la comprobación exhaustiva del éxito de la migración, incluyendo validación funcional, verificación de integridad de datos, comprobación de rendimiento y detección de posibles incidencias.
-
-**La propuesta de empresa_s incorpora mecanismos de monitorización continua, pruebas en entornos de preproducción y validación previa a despliegues, lo que constituye una base adecuada para la verificación de cambios en la plataforma.** Asimismo, el uso de métricas y observabilidad permite identificar desviaciones en el comportamiento del sistema.
-
-Este enfoque resulta coherente con el objetivo del subproyecto y aporta elementos relevantes para la validación de entornos migrados.
+La oferta recopila CPU, memoria, almacenamiento, sistema operativo, servicios, aplicaciones, puertos y dependencias en fichas técnicas por servidor. Define procedimientos de parada y arranque, validaciones y checklists antes, durante y después de la migración, y añade extracción automatizada y trazabilidad de las comprobaciones.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: procedimientos automatizados.
+Fichas normalizadas, procedimientos reutilizables, recopilación automatizada y checklists operativos.
 
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el desarrollo específico del subproyecto presenta limitaciones.** No se describen procedimientos concretos de preparación de servidores, ni checklists de validación previa a la migración, ni formatos estructurados de documentación técnica. Tampoco se detallan mecanismos de actualización continua de la documentación ni su validación tras los cambios.
-
-Adicionalmente, no se identifican métricas de calidad de la documentación ni herramientas específicas para su gestión.
-
-**Sin embargo, el análisis técnico evidencia que no se desarrollan procedimientos específicos de verificación de migración.** No se describen planes de pruebas estructurados, ni criterios de aceptación, ni validaciones diferenciadas por tipo de sistema (datos, aplicaciones, servicios). Tampoco se incluyen métricas cuantificadas que permitan determinar objetivamente el éxito de la migración.
-
-La falta de estos elementos limita la capacidad de evaluar la robustez del proceso de verificación.
-
-En consecuencia, la propuesta presenta una base funcional adecuada en términos de monitorización y validación general, pero no desarrolla de forma específica la verificación de migraciones complejas.
+La oferta desarrolla el procedimiento, pero no fija valores objetivo ni criterios de aceptación cuantificados para todas las verificaciones, por lo que no procede elevar la valoración a EXCELENTE.
 
 - **Valoración cualitativa**
 
-**ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta y evaluable, con mejoras coherentes y una limitación residual de cuantificación.
 
-##### MIG4 — Verificación de la migración
+##### MIG4 — verificación de la migración
 
 - **Requisito y alcance**
 
-Este subproyecto requiere la validación del proceso de migración mediante la comprobación de la integridad de los sistemas, la disponibilidad de los servicios y la correcta transferencia de los datos.
+El subproyecto exige una solución concreta y evaluable para **verificación de la migración**, conforme al alcance definido en el Anexo II.
 
 - **Análisis de la propuesta**
 
-La memoria no presenta un apartado diferenciado para MIG4 en el análisis principal; su tratamiento se integra en el enfoque global de migración y se conserva su clasificación individual en el anexo.
+La oferta ejecuta scripts de diagnóstico antes, durante y después del traslado, compara estados, supervisa servicios y aplicaciones, registra incidencias y verifica integridad de datos, configuraciones y sistemas de ficheros. Añade informes comparativos, panel de seguimiento y validación por capas.
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: supervisión intensiva migración.
+Diagnóstico automatizado, comparación pre/post, seguimiento en tiempo real y validación por capas.
 
 - **Carencias, omisiones, errores o riesgos**
 
-No se identifican carencias adicionales distintas de las limitaciones recogidas en el análisis de la propuesta.
+La oferta desarrolla el procedimiento, pero no fija valores objetivo ni criterios de aceptación cuantificados para todas las verificaciones, por lo que no procede elevar la valoración a EXCELENTE.
 
 - **Valoración cualitativa**
 
-**ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**ALTA**: existe una solución concreta y evaluable, con mejoras coherentes y una limitación residual de cuantificación.
 
 ##### MIG5 — Mantenimiento y soporte tras la migración
 
@@ -2524,16 +2400,10 @@ Se valora positivamente la integración de estos mecanismos dentro del modelo ge
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: control total proceso migración.
-
+La memoria original desarrolla para **MIG5** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el desarrollo específico del subproyecto es limitado.** No se describen planes de soporte específicos post-migración, ni procedimientos de estabilización del sistema, ni mecanismos de seguimiento adaptados a este contexto. Tampoco se identifican métricas específicas de estabilidad post-migración ni indicadores que permitan evaluar la evolución del sistema tras el cambio.
-
-Esta falta de especialización reduce la capacidad de evaluar la eficiencia del soporte en escenarios de migración.
-
-En consecuencia, la propuesta cubre adecuadamente el mantenimiento general del sistema, pero no desarrolla con suficiente detalle las particularidades del soporte tras migraciones.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -2542,7 +2412,7 @@ En consecuencia, la propuesta cubre adecuadamente el mantenimiento general del s
 
 La valoración conjunta del bloque es **ALTA**. La clasificación individual muestra 5 desarrollos suficientes, 0 insuficientes y 0 no incluidos, con 5 aportaciones de valor añadido.
 
-#### Bloque IA — Inteligencia Artificial
+#### Bloque IA — Inteligencia Artificial (IA)
 
 - **Consideración general del bloque**
 
@@ -2550,7 +2420,7 @@ El bloque comprende evaluación de modelos, ingeniería de prompts, guardarraíl
 
 El contraste identifica 5 subproyectos con desarrollo suficiente, 0 con desarrollo insuficiente y 0 no incluidos; 5 incorporan valor añadido según la clasificación del anexo.
 
-##### IA1 — Evaluación del rendimiento de los modelos seleccionados
+##### IA1 — EVALUAR el rendimiento de los modelos seleccionados
 
 - **Requisito y alcance**
 
@@ -2564,21 +2434,15 @@ Asimismo, se describe el uso de mecanismos de monitorización asociados a los se
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: integración LLM en servicios.
-
+La memoria original desarrolla para **IA1** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el desarrollo técnico específico presenta limitaciones relevantes.** No se definen métricas concretas ni umbrales de aceptación asociados a los modelos, ni metodologías de evaluación estructuradas. Tampoco se describen datasets de validación, procedimientos de benchmarking ni herramientas específicas para la medición del rendimiento.
-
-Esta falta de cuantificación y formalización limita la verificabilidad del modelo de evaluación y dificulta su aplicación en entornos operativos donde es necesario justificar el comportamiento de los sistemas de IA.
-
-En consecuencia, la propuesta contempla la evaluación del rendimiento desde un enfoque conceptual adecuado, pero con un nivel de desarrollo técnico insuficiente para su aplicación sistemática.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### IA2 — Ingeniería de prompts adaptados para cada servicio
+##### IA2 — Ingeniería de Prompts adaptados para cada servicio
 
 - **Requisito y alcance**
 
@@ -2592,16 +2456,10 @@ Asimismo, se contempla la integración de la IA en distintos servicios, lo que i
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: optimización inferencia IA.
-
+La memoria original desarrolla para **IA2** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el desarrollo técnico presenta ciertas limitaciones.** No se describen herramientas específicas para la gestión de prompts, ni metodologías de optimización (por ejemplo, técnicas de evaluación iterativa o ajuste fino de prompts). Tampoco se identifican métricas que permitan evaluar la calidad o eficacia de los prompts en los distintos servicios.
-
-Adicionalmente, no se detalla cómo se gestionará la evolución de estos prompts ni su validación en entornos reales de uso.
-
-En consecuencia, la propuesta presenta un enfoque conceptual sólido y alineado con buenas prácticas emergentes, pero con una concreción técnica limitada en su desarrollo.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -2622,19 +2480,15 @@ En consecuencia, la propuesta aborda adecuadamente el concepto de control de IA,
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: observabilidad modelo IA.
-
+La memoria original desarrolla para **IA3** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, el desarrollo específico del subproyecto presenta limitaciones.** No se describen mecanismos concretos de implementación de guardarraíles (filtros de contenido, clasificación previa/posterior, validación automática), ni escenarios de prueba estructurados para su validación. Tampoco se definen métricas que permitan evaluar la eficacia de estos controles ni procedimientos de ajuste continuo.
-
-La ausencia de estos elementos reduce la capacidad de evaluar la robustez del sistema en la práctica.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### IA4 — Evaluación de posibilidades de integración en distintos aplicativos
+##### IA4 — Evaluar Posibilidades de Integración en Distintos Aplicativos
 
 - **Requisito y alcance**
 
@@ -2648,21 +2502,15 @@ Este planteamiento resulta coherente con el requisito y demuestra una comprensi�
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: seguridad y control IA.
-
+La memoria original desarrolla para **IA4** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el análisis técnico evidencia que no se desarrollan evaluaciones estructuradas de integración.** No se describen análisis de viabilidad técnica por sistema, ni arquitecturas específicas de integración, ni planes de despliegue progresivo. Tampoco se identifican herramientas concretas ni mecanismos de control del impacto en los sistemas existentes.
-
-Esta falta de detalle limita la capacidad de evaluar la aplicabilidad real de las integraciones propuestas.
-
-En consecuencia, la propuesta presenta una visión conceptual sólida, pero con un nivel de desarrollo técnico limitado en la evaluación e implementación de integraciones.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### IA5 — Evaluación de capacidades de respuesta y límites por usuario
+##### IA5 — Evaluación de Capacidades de Respuesta y Límites por Usuario
 
 - **Requisito y alcance**
 
@@ -2676,16 +2524,10 @@ Este enfoque resulta coherente con el requisito y evidencia una comprensión de 
 
 - **Fortalezas y valor añadido**
 
-La memoria identifica una aportación de valor añadido: modelo LLMOps completo.
-
+La memoria original desarrolla para **IA5** una propuesta de mejora específica en el apartado propio del subproyecto; se conserva como **VA** sin trasladar aportaciones de otros ID.
 - **Carencias, omisiones, errores o riesgos**
 
-**Sin embargo, el desarrollo técnico presenta limitaciones.** No se definen políticas concretas de limitación por usuario, ni mecanismos de control de consumo, ni herramientas específicas de gestión de uso. Tampoco se describen métricas cuantificadas ni umbrales de funcionamiento que permitan evaluar el comportamiento del sistema bajo diferentes niveles de carga.
-
-La ausencia de estos elementos limita la capacidad de evaluar la viabilidad operativa del control de uso de los sistemas de IA.
-
-En consecuencia, la propuesta cubre adecuadamente el concepto del requisito, pero con un nivel de detalle insuficiente para su implementación práctica.
-
+Aunque existe una solución concreta y evaluable, la oferta no fija en todos los casos valores objetivo para las métricas, los umbrales operativos y los criterios de aceptación; esta limitación impide elevar automáticamente la valoración a EXCELENTE.
 - **Valoración cualitativa**
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
@@ -2696,7 +2538,7 @@ La valoración conjunta del bloque es **ALTA**. La clasificación individual mue
 
 ### Conclusión del análisis detallado
 
-La propuesta desarrolla con mayor madurez BD, MON, SEG, automatización y varias infraestructuras críticas. UPD, CLO, OTR, COR, AV, POR, CON, MIG e IA presentan una cobertura general adecuada, aunque heterogénea. MAX constituye la principal debilidad estructural y se repite la falta de indicadores cuantificados, objetivos medibles y procedimientos completamente formalizados. La propuesta presenta una cobertura amplia y una base técnica sólida, con arquitecturas, procedimientos y herramientas concretas en bases de datos, monitorización, observabilidad, automatización y seguridad. El uso de Ansible, Prometheus, Grafana, JMeter, Docker, Keycloak y GitLab refuerza su viabilidad. El desarrollo es, no obstante, desigual: MAX y determinados ámbitos de correo, cloud, LDAP y servicios auxiliares tienen menor profundidad, y faltan métricas y umbrales cuantificables.
+La propuesta desarrolla de forma específica los trece bloques del Anexo II, incluidos MAX, la inyección directa de correo y la migración entre CPD. La principal limitación transversal es la falta de indicadores cuantificados, valores objetivo y criterios de aceptación completamente formalizados. La propuesta presenta una cobertura amplia y una base técnica sólida, con arquitecturas, procedimientos y herramientas concretas en bases de datos, monitorización, observabilidad, automatización y seguridad. El uso de Ansible, Prometheus, Grafana, JMeter, Docker, Keycloak y GitLab refuerza su viabilidad. El desarrollo cubre también de forma específica MAX y los módulos de inyección de correo; persiste, no obstante, una cuantificación incompleta de métricas, umbrales y criterios de aceptación en distintos subproyectos.
 
 ## EVALUACIÓN DE LA SOLUCIÓN TÉCNICA OFERTADA
 
@@ -2712,7 +2554,7 @@ La valoración se basa en el análisis pormenorizado anterior y atiende a la cal
 
 Asimismo, se aprecia una adaptación razonable a las particularidades de los distintos bloques incluidos en el Anexo II, evitando en numerosos casos enfoques genéricos y desarrollando soluciones específicas según la naturaleza de cada sistema. **Este aspecto resulta especialmente visible en los bloques de bases de datos, monitorización, streaming, videoconferencia y observabilidad.**
 
-**No obstante, la propuesta presenta limitaciones relevantes en determinados ámbitos.** En particular, algunos bloques muestran un desarrollo arquitectónico claramente inferior al observado en las áreas principales, especialmente en determinados servicios de correo electrónico, cloud, LDAP, contenedores y, de manera especialmente significativa, en el bloque MAX, donde no existe una arquitectura específica que permita evaluar adecuadamente la capacidad de ejecución del servicio.
+**No obstante, la propuesta presenta limitaciones relevantes en determinados ámbitos.** En particular, algunos bloques muestran un desarrollo arquitectónico claramente inferior al observado en las áreas principales, en la cuantificación de métricas, umbrales y criterios de aceptación de determinados servicios, pese a que la oferta sí aporta arquitecturas y procedimientos específicos para correo, cloud, LDAP, contenedores y MAX.
 
 Asimismo, en algunos subproyectos se identifican referencias a futuras evoluciones o tecnologías pendientes de definición, lo que introduce un cierto nivel de incertidumbre sobre la arquitectura final de determinados componentes.
 
@@ -2729,7 +2571,7 @@ Esta comprensión se manifiesta especialmente en la capacidad de diferenciar tec
 
 Asimismo, se aprecia una adecuada comprensión de los principales retos asociados a la operación de una plataforma de elevada complejidad, incluyendo aspectos como la escalabilidad, la automatización, la observabilidad, la continuidad del servicio y la gestión de grandes volúmenes de usuarios y sistemas.
 
-**No obstante, el análisis detallado permite observar que esta comprensión no se traduce con la misma intensidad en todos los bloques funcionales.** Existen ámbitos donde el nivel de desarrollo técnico resulta claramente inferior, destacando especialmente MAX, determinados subproyectos de correo electrónico, algunas actuaciones específicas de LDAP y varios servicios auxiliares. Estas limitaciones impiden considerar la cobertura de requisitos como completamente homogénea.
+**No obstante, el análisis detallado permite observar que esta comprensión no se traduce con la misma intensidad en todos los bloques funcionales.** Existen ámbitos donde el nivel de desarrollo técnico resulta claramente inferior, principalmente por la distinta cuantificación y profundidad operativa de determinados subproyectos, aunque todos los bloques cuentan con desarrollo específico. Estas limitaciones impiden considerar la cobertura de requisitos como completamente homogénea.
 
 En conjunto, la propuesta demuestra un elevado conocimiento del entorno objeto del contrato y una comprensión significativamente superior a la observada en otras propuestas evaluadas, aunque sin alcanzar un nivel excelente debido a las carencias detectadas en determinados ámbitos concretos.
 
@@ -2744,7 +2586,7 @@ La utilización de tecnologías ampliamente implantadas en el sector, tales como
 
 Adicionalmente, la propuesta incorpora mecanismos de automatización y observabilidad que permiten mejorar la eficiencia operativa y reducir riesgos asociados a la gestión manual de infraestructuras complejas.
 
-**Sin embargo, la viabilidad global se ve parcialmente condicionada por determinadas carencias detectadas en algunos bloques específicos.** La ausencia de desarrollo suficiente en MAX, junto con la escasa concreción observada en determinados ámbitos de correo electrónico, LDAP, cloud y contenedores, introduce incertidumbre sobre la ejecución homogénea de la totalidad del alcance contractual.
+**Sin embargo, la viabilidad global se ve parcialmente condicionada por determinadas carencias detectadas en algunos bloques específicos.** La cuantificación incompleta de resultados en determinados ámbitos de correo electrónico, LDAP, cloud, contenedores y MAX introduce una limitación de verificabilidad, sin negar el desarrollo específico acreditado en la oferta.
 
 Asimismo, la falta recurrente de indicadores cuantificables, métricas operativas y objetivos medibles limita en algunos casos la posibilidad de verificar objetivamente el comportamiento esperado de las soluciones propuestas.
 
@@ -2791,7 +2633,7 @@ La satisfacción de requisitos constituye el principal elemento de valoración d
 
 Especialmente destacables resultan los bloques relacionados con bases de datos, monitorización, observabilidad, automatización y determinadas infraestructuras críticas, donde la propuesta alcanza niveles elevados de madurez técnica y demuestra una clara orientación hacia la operación real del servicio.
 
-**Sin embargo, la evaluación también ha identificado una importante heterogeneidad en el nivel de desarrollo de los distintos subproyectos.** Existen ámbitos donde el grado de detalle disminuye significativamente o donde la cobertura resulta parcial. Entre ellos destacan el bloque MAX, determinados servicios de correo electrónico, algunos componentes cloud, actuaciones específicas de LDAP y diversos subproyectos auxiliares.
+**Sin embargo, la evaluación también ha identificado una importante heterogeneidad en el nivel de desarrollo de los distintos subproyectos.** Existen ámbitos donde el grado de detalle disminuye significativamente o donde la cobertura resulta parcial. Las diferencias se concentran en la cuantificación y formalización de métricas, umbrales y criterios de aceptación entre subproyectos.
 
 Asimismo, aunque se presentan mejoras y mecanismos de evolución tecnológica, en numerosos casos se echan en falta métricas cuantitativas, criterios objetivos o procedimientos completamente definidos que permitan maximizar la verificabilidad de las soluciones propuestas.
 
@@ -2802,15 +2644,15 @@ En consecuencia, la propuesta satisface los requisitos del pliego de forma clara
 
 ### Resultado global de la solución técnica
 
-| **Subcriterio** | **Máximo** | **Nivel** | **Puntuación** |
-| --- | ---: | --- | ---: |
-| Arquitectura | 2,00 | ALTA | 1,50 |
-| Comprensión de los requisitos | 2,00 | ALTA | 1,50 |
-| Viabilidad | 1,00 | ALTA | 0,65 |
-| Metodología | 1,00 | ALTA | 0,65 |
-| Rendimiento | 1,00 | ALTA | 0,75 |
-| Satisfacción de los requisitos | 8,00 | ALTA | 6,00 |
-| **TOTAL SOLUCIÓN TÉCNICA** | **15,00** |  | **11,05** |
+| **Subcriterio**                | **Máximo** | **Nivel** | **Puntuación** |
+| ------------------------------ | ---------: | --------- | -------------: |
+| Arquitectura                   |       2,00 | ALTA      |           1,50 |
+| Comprensión de los requisitos  |       2,00 | ALTA      |           1,50 |
+| Viabilidad                     |       1,00 | ALTA      |           0,65 |
+| Metodología                    |       1,00 | ALTA      |           0,65 |
+| Rendimiento                    |       1,00 | ALTA      |           0,75 |
+| Satisfacción de los requisitos |       8,00 | ALTA      |           6,00 |
+| **TOTAL SOLUCIÓN TÉCNICA**     |  **15,00** |           |      **11,05** |
 
 ## EVALUACIÓN DE LA PLANIFICACIÓN DEL SERVICIO
 
@@ -2891,22 +2733,22 @@ En consecuencia, la trazabilidad presentada puede considerarse adecuada, aunque 
 
 ### Resultado global de la planificación
 
-| **Subcriterio** | **Máximo** | **Nivel** | **Puntuación** |
-| --- | ---: | --- | ---: |
-| Calendario y planificación temporal | 11,00 | ALTA | 7,50 |
-| Análisis de riesgos | 1,00 | MEDIA | 0,50 |
-| Plan de contingencias | 1,00 | MEDIA | 0,50 |
-| Plan de calidad | 1,00 | ALTA | 0,65 |
-| Trazabilidad | 1,00 | ALTA | 0,65 |
-| **TOTAL PLANIFICACIÓN** | **15,00** |  | **9,80** |
+| **Subcriterio**                     | **Máximo** | **Nivel** | **Puntuación** |
+| ----------------------------------- | ---------: | --------- | -------------: |
+| Calendario y planificación temporal |      11,00 | ALTA      |           7,50 |
+| Análisis de riesgos                 |       1,00 | MEDIA     |           0,50 |
+| Plan de contingencias               |       1,00 | MEDIA     |           0,50 |
+| Plan de calidad                     |       1,00 | ALTA      |           0,65 |
+| Trazabilidad                        |       1,00 | ALTA      |           0,65 |
+| **TOTAL PLANIFICACIÓN**             |  **15,00** |           |       **9,80** |
 
 ## RESULTADO FINAL CONSOLIDADO
 
-| **Bloque** | **Puntuación máxima** | **Puntuación obtenida** |
-| --- | ---: | ---: |
-| Solución técnica ofertada | 15,00 | 11,05 |
-| Planificación del servicio | 15,00 | 9,80 |
-| **PUNTUACIÓN FINAL** | **30,00** | **20,85** |
+| **Bloque**                 | **Puntuación máxima** | **Puntuación obtenida** |
+| -------------------------- | --------------------: | ----------------------: |
+| Solución técnica ofertada  |                 15,00 |                   11,05 |
+| Planificación del servicio |                 15,00 |                    9,80 |
+| **PUNTUACIÓN FINAL**       |             **30,00** |               **20,85** |
 
 ### Interpretación de la puntuación
 
@@ -2916,11 +2758,11 @@ La puntuación refleja una oferta técnicamente adecuada y viable, con fortaleza
 
 ### Conclusiones globales de la evaluación técnica
 
-La propuesta presenta una cobertura amplia y una base técnica sólida, con arquitecturas, procedimientos y herramientas concretas en bases de datos, monitorización, observabilidad, automatización y seguridad. El uso de Ansible, Prometheus, Grafana, JMeter, Docker, Keycloak y GitLab refuerza su viabilidad. El desarrollo es, no obstante, desigual: MAX y determinados ámbitos de correo, cloud, LDAP y servicios auxiliares tienen menor profundidad, y faltan métricas y umbrales cuantificables.
+La propuesta presenta una cobertura amplia y una base técnica sólida, con arquitecturas, procedimientos y herramientas concretas en bases de datos, monitorización, observabilidad, automatización y seguridad. El uso de Ansible, Prometheus, Grafana, JMeter, Docker, Keycloak y GitLab refuerza su viabilidad. El desarrollo cubre también de forma específica MAX y los módulos de inyección de correo; persiste, no obstante, una cuantificación incompleta de métricas, umbrales y criterios de aceptación en distintos subproyectos.
 
 ### Conclusiones sobre la solución técnica
 
-La propuesta desarrolla con mayor madurez BD, MON, SEG, automatización y varias infraestructuras críticas. UPD, CLO, OTR, COR, AV, POR, CON, MIG e IA presentan una cobertura general adecuada, aunque heterogénea. MAX constituye la principal debilidad estructural y se repite la falta de indicadores cuantificados, objetivos medibles y procedimientos completamente formalizados.
+La propuesta desarrolla de forma específica los trece bloques del Anexo II, incluidos MAX, la inyección directa de correo y la migración entre CPD. La principal limitación transversal es la falta de indicadores cuantificados, valores objetivo y criterios de aceptación completamente formalizados.
 
 ### Conclusiones sobre la planificación del servicio
 
@@ -2952,183 +2794,185 @@ Se aplican tres grados de desarrollo: **NO INCLUIDA**, cuando no existe una solu
 
 De forma separada se indican los errores técnicos relevantes, las propuestas de mejora sin valor añadido real (**PM**) y las propuestas con valor añadido verificable (**VA**).
 
+El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionadas pero no equivalentes: el primero comprueba si existe una solución concreta y evaluable; el segundo pondera su calidad, completitud y mejoras. Por ello, un desarrollo puede ser **SUFICIENTE** y recibir nivel **BAJA** si apenas alcanza el requisito. El valor numérico del CSV se deriva únicamente del nivel cualitativo mediante la escala **MUY BAJA=0, BAJA=2, MEDIA=5, ALTA=8 y EXCELENTE=10**.
+
 ### Tablas de subproyectos
 
-#### BD — Bases de Datos
+#### BD — Mantenimiento y mejora de entornos de Bases de Datos (BD)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y ProxySQL avanzado | SUFICIENTE | VA | NO | operación predictiva y alta disponibilidad. |
-| BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma | SUFICIENTE | VA | NO | optimización masiva y automatización. |
-| BD3 — Mantenimiento de las bases de datos de gestión de la configuración de EducaMadrid | SUFICIENTE | VA | NO | CMDB automatizada y sincronizada. |
-| BD4 — Mantenimiento de las bases de datos de las Aulas Virtuales | SUFICIENTE | VA | NO | redistribución dinámica de carga. |
-| BD5 — Mantenimiento de disparadores y Foreign Data Wrappers en los entornos Portal y LDAP Plano | SUFICIENTE | VA | NO | sincronización avanzada Portal-LDAP. |
-| BD6 — Implementación y mantenimiento de bases de datos en entornos de microservicios | SUFICIENTE | VA | NO | migración DevOps contenerizada. |
+| **Subproyecto**                                                                                 | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                       |
+| ----------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ------------------------------------------- |
+| BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y Proxy SQL avanzado | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para BD1. |
+| BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para BD2. |
+| BD3 — Mantenimiento de las diferentes Bases de Datos de gestión de la configuración de EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para BD3. |
+| BD4 — Mantenimiento de las bases de datos de las Aulas Virtuales | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para BD4. |
+| BD5 — Mantenimiento de disparadores y Foreign Data Wrappers en los entornos “Portal” y “LDAP Plano” | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para BD5. |
+| BD6 — Implementación y Mantenimiento de las Bases de Datos necesarias en entornos de Microservicios | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para BD6. |
 
-#### MON — Monitorización, testeo y pruebas de rendimiento
+#### MON — Monitorización, testeo y pruebas de rendimiento (MON)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| MON1 — Mantenimiento periódico del almacenamiento de los centros | SUFICIENTE | VA | NO | redistribución predictiva almacenamiento. |
-| MON2 — Realización periódica de pruebas de estrés en diferentes entornos de la plataforma | SUFICIENTE | VA | NO | pruebas integradas en DevOps. |
-| MON3 — Mantenimiento del sistema de monitorización y estadísticas de uso | SUFICIENTE | VA | NO | observabilidad avanzada completa. |
-| MON4 — Monitorización y estadísticas de servicios basados en IA | SUFICIENTE | VA | NO | modelo LLMOps y control IA. |
+| **Subproyecto**                                                                           | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                     |
+| ----------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ----------------------------------------- |
+| MON1 — Mantenimiento periódico del almacenamiento de los centros | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para MON1. |
+| MON2 — Realización periódica de pruebas de estrés en diferentes entornos de la plataforma | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para MON2. |
+| MON3 — Mantener actualizado el sistema de monitorización y estadísticas de uso | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para MON3. |
+| MON4 — Mantener actualizado el sistema de monitorización y estadísticas de servicios basados en IA | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para MON4. |
 
-#### UPD — Actualización de servicios existentes
+#### UPD — Actualización de servicios existentes (UPD)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| UPD1 — Mantenimiento y mejora de los sistemas de videoconferencias de EducaMadrid | SUFICIENTE | VA | NO | optimización videoconferencia escalable. |
-| UPD2 — Mantenimiento y mejora del sistema secundario de videoconferencias con opción de grabación | SUFICIENTE | VA | NO | mejora grabación y estabilidad BBB. |
-| UPD3 — Mantenimiento y mejora de Mattermost | SUFICIENTE | VA | NO | actualización automatizada sin impacto. |
-| UPD4 — Mantenimiento y mejora de la solución Kanban | SUFICIENTE | VA | NO | optimización rendimiento servicios web. |
-| UPD5 — Mantenimiento y mejora de GitLab | SUFICIENTE | VA | NO | gestión avanzada actualizaciones. |
-| UPD6 — Mantenimiento y mejora de LimeSurvey | SUFICIENTE | VA | NO | automatización despliegues servicios. |
-| UPD7 — Mantenimiento y mejora de SonarQube | SUFICIENTE | VA | NO | integración continua y validación. |
-| UPD8 — Mantenimiento y mejora de Redmine | SUFICIENTE | VA | NO | mejora compatibilidad y rendimiento. |
-| UPD9 — Mantenimiento y configuración de Wowza Streaming Engine | SUFICIENTE | VA | NO | optimización servicios colaborativos. |
-| UPD10 — Mantenimiento y gestión de contenidos AbiesWeb | SUFICIENTE | VA | NO | mejora de mantenimiento evolutivo. |
-| UPD11 — Actualización, mantenimiento y gestión de contenidos de Abies+ | SUFICIENTE | VA | NO | reducción incidencias post-update. |
-| UPD12 — Implementación, mantenimiento y mejora de Empieza | SUFICIENTE | VA | NO | rollback automatizado seguro. |
-| UPD13 — Mantenimiento y mejora del sistema de gestión de la configuración | SUFICIENTE | VA | NO | validación previa en preproducción. |
-| UPD14 — Mantenimiento, actualización y mejora de la solución de contenedores | SUFICIENTE | VA | NO | optimización plataformas educativas. |
-| UPD15 — Mantenimiento, gestión y decomisionado de servidores | SUFICIENTE | VA | NO | mejora continua servicios actualizados. |
+| **Subproyecto**                                                                                   | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                    |
+| ------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ---------------------------------------- |
+| UPD1 — Mantenimiento y mejora de los sistemas de videoconferencias de EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD1. |
+| UPD2 — Mantenimiento y mejora del sistema secundario de Videoconferencias con opción de grabación | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD2. |
+| UPD3 — Mantenimiento y mejora de la herramienta Mattermost | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD3. |
+| UPD4 — Mantenimiento y mejora de la solución Kanban | SUFICIENTE              | VA                         | NO                          | Wekan con migración, preproducción, reversión y contenedores. |
+| UPD5 — Mantenimiento y mejora de la solución GitLab | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD5. |
+| UPD6 — Mantenimiento y mejora de la solución LimeSurvey | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD6. |
+| UPD7 — Mantenimiento y mejora de SonarQube | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD7. |
+| UPD8 — Mantenimiento y mejora de Redmine | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD8. |
+| UPD9 — Mantenimiento y configuración de Wowza Streaming Engine. | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD9. |
+| UPD10 — Mantenimiento y gestión de contenidos AbiesWeb | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD10. |
+| UPD11 — Actualización, Mantenimiento y gestión de contenidos de Abies+ | SUFICIENTE              | VA                         | NO                          | Arquitectura, alta disponibilidad y actualización automatizada de Abies+. |
+| UPD12 — Implementación, mantenimiento y mejora de Empieza | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD12. |
+| UPD13 — mantenimiento y mejora del sistema de gestión de la configuración | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD13. |
+| UPD14 — Mantenimiento, Actualización y mejora de la solución de contenedores | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD14. |
+| UPD15 — Mantenimiento de gestión y decomisionado de servidores | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD15. |
 
-#### CLO — Cloud
+#### CLO — Cloud (CLO)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| CLO1 — Mantenimiento del servicio de la nube de EducaMadrid | SUFICIENTE | VA | NO | arquitectura distribuida escalable. |
-| CLO2 — Mantenimiento y adaptación del sistema de almacenamiento temporal de datos de la nube | SUFICIENTE | VA | NO | optimización almacenamiento cloud. |
-| CLO3 — Mantenimiento del sistema de edición en línea de EducaMadrid | SUFICIENTE | VA | NO | autoescalado y balanceo dinámico. |
+| **Subproyecto**                                                                              | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**               |
+| -------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ----------------------------------- |
+| CLO1 — Mantenimiento del servicio de la nube de EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para CLO1. |
+| CLO2 — Mantenimiento y adaptación del sistema de almacenamiento temporal de datos de la nube | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para CLO2. |
+| CLO3 — Mantenimiento del sistema de edición en línea de EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para CLO3. |
 
-#### OTR — Otros desarrollos
+#### OTR — Otros desarrollos (OTR)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| OTR1 — Mantenimiento y mejora del sistema de autenticación centralizada Single Sign-On (SSO) | SUFICIENTE | VA | NO | SSO unificado y seguro. |
-| OTR2 — Mantenimiento, configuración y gestión de 2FA en el servicio de Single Sign-On | SUFICIENTE | VA | NO | autenticación multifactor optimizada. |
-| OTR3 — Mantenimiento y mejora de herramientas de automatización de tareas | SUFICIENTE | VA | NO | automatización procesos operativos. |
-| OTR4 — Mantenimiento y mejora del sistema de gestión y análisis de datos mediante Elastic | SUFICIENTE | VA | NO | analítica avanzada con ELK. |
-| OTR5 — Mantenimiento y mejora de la herramienta de flujos de trabajo | SUFICIENTE | VA | NO | portal CAU mejorado. |
-| OTR6 — Mantenimiento y mejora del Portal CAU | SUFICIENTE | VA | NO | integración herramientas internas. |
-| OTR7 — Mantenimiento y evolución de servicios de Inteligencia Artificial | SUFICIENTE | VA | NO | IA aplicada a procesos internos. |
+| **Subproyecto**                                                                              | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                 |
+| -------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ------------------------------------- |
+| OTR1 — Mantenimiento y mejora del sistema de autentificación centralizada Single Sign On (SSO) | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para OTR1. |
+| OTR2 — Mantenimiento, configuración y gestión 2FA en el servicio de Single Sign On (SSO) | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para OTR2. |
+| OTR3 — Mantenimiento y mejora de herramientas de automatización de tareas | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para OTR3. |
+| OTR4 — Mantenimiento y mejora de un sistema de gestión y análisis de datos mediante el stack de Elastic | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para OTR4. |
+| OTR5 — Mantenimiento y mejora de la herramienta de flujos de trabajo | SUFICIENTE              | VA                         | NO                          | Flujos integrados con GitLab, CMDB, monitorización y SSO. |
+| OTR6 — Mantenimiento y mejora del Portal CAU | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para OTR6. |
+| OTR7 — Mantenimiento y evolución de servicios de Inteligencia Artificial para la plataforma EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para OTR7. |
 
-#### COR — Correo electrónico
+#### COR — Correo electrónico (COR)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| COR1 — Mantenimiento y mejora de los sistemas de control de envíos de correo | SUFICIENTE | VA | NO | gestión inteligente de colas. |
-| COR2 — Mantenimiento automatizado de listas de distribución de EducaMadrid | SUFICIENTE | VA | NO | optimización anti-spam dinámica. |
-| COR3 — Mantenimiento y mejora del sistema de activación y gestión de cuotas de correo | SUFICIENTE | VA | NO | mejora almacenamiento buzones. |
-| COR4 — Mantenimiento y mejora de las herramientas de control del spam | SUFICIENTE | VA | NO | automatización listas correo. |
-| COR5 — Mantenimiento de buzones de correo | SUFICIENTE | VA | NO | seguridad reforzada correo. |
-| COR6 — Mantenimiento y mejora de la seguridad del sistema de correo | SUFICIENTE | VA | NO | monitorización avanzada correo. |
-| COR7 — Actualización y mejora continua de la infraestructura de correo | SUFICIENTE | VA | NO | alta disponibilidad distribuida. |
-| COR8 — Ampliación del número de servidores Mailbox Server | SUFICIENTE | VA | NO | optimización rendimiento envíos. |
-| COR9 — Implementación de un módulo receptor de inyección directa de correo | SUFICIENTE | VA | NO | control reputación envío. |
-| COR10 — Mantenimiento y soporte del módulo de inyección directa de correo | SUFICIENTE | VA | NO | automatización gestión correo. |
+| **Subproyecto**                                                                       | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**            |
+| ------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------- |
+| COR1 — Mantenimiento y mejora de los sistemas de control de envíos de correo | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para COR1. |
+| COR2 — Mantenimiento automatizado de listas de distribución de EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para COR2. |
+| COR3 — Mantenimiento y mejora del sistema de activación y gestión de cuotas de correo | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para COR3. |
+| COR4 — Mantenimiento y mejora de las herramientas relacionadas con el control del spam | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para COR4. |
+| COR5 — Mantenimiento de buzones de correo | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para COR5. |
+| COR6 — Mantenimiento y mejora continua de la seguridad del sistema de correo | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para COR6. |
+| COR7 — Actualización y mejora continua de la infraestructura en la que se basa el sistema de correo | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para COR7. |
+| COR8 — Ampliación del número de servidores Mailbox Server | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para COR8. |
+| COR9 — Implementación y mejora de un módulo receptor de inyección directa para la infraestructura de transporte de correo | SUFICIENTE              | VA                         | NO                          | Inyección QMQP en spool, no intrusiva, persistente y reversible. |
+| COR10 — Mantenimiento y soporte del módulo de inyección directa de correo | SUFICIENTE              | VA                         | NO                          | Soporte qmqpd con pruebas, observabilidad, rollback y documentación. |
 
-#### MAX — Sistema Operativo MAX
+#### MAX — Sistema Operativo MAX (MAX)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| MAX1 — Mantenimiento y actualización de MAX de forma presencial en centros de forma regular | SUFICIENTE | VA | NO | optimización hardware educativo. |
-| MAX2 — Mantenimiento y actualización del servidor MAX para el desarrollo de distribuciones | SUFICIENTE | VA | NO | despliegue masivo automatizado. |
-| MAX3 — Mantenimiento de aplicaciones basadas en MAX | SUFICIENTE | VA | NO | gestión centralizada equipos. |
-| MAX4 — Lanzamiento anual de distribuciones de MAX «Full Equip» | SUFICIENTE | VA | NO | reducción tiempos arranque. |
-| MAX5 — Lanzamiento anual de distribuciones «MAX lite» y/o «MAX gestión» | SUFICIENTE | VA | NO | integración con servicios EducaMadrid. |
-| MAX6 — Integración de aplicaciones externas en los repositorios oficiales | SUFICIENTE | VA | NO | optimización consumo recursos. |
-| MAX7 — Mantenimiento y mejora del servidor de gestión de accesos remotos | SUFICIENTE | VA | NO | automatización actualizaciones. |
-| MAX8 — Soporte de asistencia telefónica y remota para incidencias de entornos MAX | SUFICIENTE | VA | NO | soporte remoto eficiente. |
-| MAX9 — Asistencia presencial en los diferentes eventos MAX | SUFICIENTE | VA | NO | gestión heterogeneidad hardware. |
-| MAX10 — Soporte presencial en eventos especiales MAX Install Party | SUFICIENTE | VA | NO | reducción incidencias sistemas. |
-| MAX11 — Gestión, mantenimiento y actualización de equipos MAX en remoto | SUFICIENTE | VA | NO | mejora experiencia usuario. |
-| MAX12 — Instalación y configuración de dispositivos solicitados por los centros educativos | SUFICIENTE | VA | NO | control versiones sistema. |
-| MAX13 — Mantenimiento y soporte del servidor de repositorio individual para centros educativos | SUFICIENTE | VA | NO | optimización despliegue centros. |
-| MAX14 — Herramienta de gestión centralizada de maquetas de MAX | SUFICIENTE | VA | NO | automatización mantenimiento MAX. |
+| **Subproyecto**                                                                                | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                  |
+| ---------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------- |
+| MAX1 — Mantenimiento y actualización de MAX de forma presencial en centros de forma regular | SUFICIENTE              | VA                         | NO                          | Intervención planificada, imágenes certificadas y diagnóstico remoto. |
+| MAX2 — Mantenimiento y actualización del servidor MAX para el desarrollo de distribuciones | SUFICIENTE              | VA                         | NO                          | Construcción CI/CD reproducible y trazable. |
+| MAX3 — Mantenimiento de aplicaciones basadas en MAX | SUFICIENTE              | VA                         | NO                          | Certificación y control de vulnerabilidades de aplicaciones. |
+| MAX4 — Lanzamiento de distribuciones de MAX “Full Equip” anualmente | SUFICIENTE              | VA                         | NO                          | Pipeline, testing y trazabilidad de versiones Full Equip. |
+| MAX5 — Lanzamiento de distribuciones de “MAX lite” y/o “max gestión” anualmente | SUFICIENTE              | VA                         | NO                          | Distribuciones Lite y Gestión diferenciadas y optimizadas. |
+| MAX6 — Integración de aplicaciones externas a los repositorios oficiales | SUFICIENTE              | VA                         | NO                          | Catálogo, pruebas, seguimiento de CVE y empaquetado. |
+| MAX7 — Mantenimiento y mejora del servidor de gestión accesos remotos | SUFICIENTE              | VA                         | NO                          | Acceso remoto centralizado, cifrado y trazable. |
+| MAX8 — Soporte de asistencia telefónica y remota para incidencias de entornos MAX | SUFICIENTE              | VA                         | NO                          | Soporte priorizado con base de conocimiento y métricas. |
+| MAX9 — Asistencia presencial en los diferentes eventos MAX | SUFICIENTE              | VA                         | NO                          | Soporte de eventos planificado y reutilizable. |
+| MAX10 — Soporte presencial en eventos especiales (MAX Install Party) | SUFICIENTE              | VA                         | NO                          | Install Party con imágenes, scripts y despliegue automatizado. |
+| MAX11 — Gestión, mantenimiento y actualización de equipos MAX en remoto | SUFICIENTE              | VA                         | NO                          | Inventario, actualizaciones y monitorización remota. |
+| MAX12 — Instalación y configuración de dispositivos solicitadas por los centros educativos | SUFICIENTE              | VA                         | NO                          | Catálogo de compatibilidad y scripts de instalación. |
+| MAX13 — Mantenimiento y soporte del servidor de repositorio individual para centros educativos | SUFICIENTE              | VA                         | NO                          | Repositorio Migasfree multicentro con políticas y auditoría. |
+| MAX14 — Herramienta de gestión centralizada de maquetas de MAX | SUFICIENTE              | VA                         | NO                          | Maquetas versionadas y gobernadas mediante Migasfree. |
 
-#### AV — Aulas Virtuales
+#### AV — Aulas Virtuales (AV)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| AV1 — Actualización y comprobación periódicas de servidores de bases de datos de aulas virtuales | SUFICIENTE | VA | NO | optimización picos educativos. |
-| AV2 — Mantenimiento de los servidores FrontEnd de aulas virtuales | SUFICIENTE | VA | NO | balanceo inteligente Moodle. |
-| AV3 — Despliegue de nuevos grupos de aulas virtuales | SUFICIENTE | VA | NO | modelo predictivo de carga. |
-| AV4 — Redistribución periódica de NFS de aulas virtuales | SUFICIENTE | VA | NO | escalabilidad horizontal LMS. |
+| **Subproyecto**                                                                                  | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**          |
+| ------------------------------------------------------------------------------------------------ | ----------------------- | -------------------------- | --------------------------- | ------------------------------ |
+| AV1 — Actualización y comprobación periódicas de servidores físicos y virtuales de BBDD de los entornos de aulas virtuales | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para AV1. |
+| AV2 — Mantenimiento de los servidores virtuales FrontEnd de los entornos de aulas virtuales | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para AV2. |
+| AV3 — Despliegue periódico de nuevos grupos de aulas virtuales y ampliación de los actuales | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para AV3. |
+| AV4 — Redistribución periódica de los NFS de datos de las aulas virtuales | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para AV4. |
 
-#### POR — Servicio de LDAP y Portal Educativo
+#### POR — Servicio de LDAP y Portal Educativo (POR)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| POR1 — Ampliación periódica del sistema de esclavos LDAP de EducaMadrid | SUFICIENTE | VA | NO | identidad unificada escalable. |
-| POR2 — Migración del sistema LDAP máster de EducaMadrid | SUFICIENTE | VA | NO | alta disponibilidad LDAP. |
+| **Subproyecto**                                                         | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**          |
+| ----------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ------------------------------ |
+| POR1 — Ampliación periódica del sistema de esclavos LDAP de EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para POR1. |
+| POR2 — Migración del sistema LDAP máster de EducaMadrid | SUFICIENTE              | VA                         | NO                          | LDAP con LDAPS, replicación, HA, preproducción y copias. |
 
-#### SEG — Seguridad
+#### SEG — Seguridad (SEG)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| SEG1 — Mantenimiento y mejora del sistema de control de cambios en DNS | SUFICIENTE | VA | NO | monitorización seguridad proactiva. |
-| SEG2 — LDAP Máster independiente para usuarios privilegiados | SUFICIENTE | VA | NO | detección temprana amenazas. |
-| SEG3 — Gestión, mantenimiento e implantación de certificados | SUFICIENTE | VA | NO | correlación eventos seguridad. |
-| SEG4 — Gestión y mantenimiento de dominios DNS | SUFICIENTE | VA | NO | hardening automatizado sistemas. |
-| SEG5 — Análisis y corrección de vulnerabilidades | SUFICIENTE | VA | NO | gestión certificados centralizada. |
-| SEG6 — Detección de intrusiones y análisis de logs | SUFICIENTE | VA | NO | control accesos avanzado. |
-| SEG7 — Auditorías internas de aplicaciones | SUFICIENTE | VA | NO | auditoría continua seguridad. |
-| SEG8 — Auditorías internas continuas de sistemas | SUFICIENTE | VA | NO | protección sin impacto rendimiento. |
-| SEG9 — Mantenimiento y uso de logs centralizados | SUFICIENTE | VA | NO | gestión vulnerabilidades proactiva. |
-| SEG10 — Implementación y mantenimiento de claves RSA unificadas | SUFICIENTE | VA | NO | SIEM integrado. |
-| SEG11 — Asistencia en eventos de ciberseguridad | SUFICIENTE | VA | NO | respuesta automática incidentes. |
+| **Subproyecto**                                                        | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**               |
+| ---------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ----------------------------------- |
+| SEG1 — Mantenimiento y mejora del sistema de control de cambios en DNS | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG1. |
+| SEG2 — Mantenimiento y mejora de un LDAP Máster independiente para usuarios privilegiados | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG2. |
+| SEG3 — Gestión, mantenimiento e implantación anual de los certificados de EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG3. |
+| SEG4 — Gestión y mantenimiento periódico de dominios DNS | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG4. |
+| SEG5 — Análisis y corrección de vulnerabilidades | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG5. |
+| SEG6 — Gestión, mantenimiento y ajuste de la herramienta para la detección de intrusiones, monitorización de la integridad, análisis de logs y respuesta ante incidentes. | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG6. |
+| SEG7 — Realización de auditorías internas de aplicaciones | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG7. |
+| SEG8 — Realización de auditorías internas continuas de los sistemas | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG8. |
+| SEG9 — Mantenimiento y uso de logs centralizados | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG9. |
+| SEG10 — Implementación y mantenimiento de claves RSA unificadas | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG10. |
+| SEG11 — Asistencia y soporte presencial en los diferentes eventos de Ciberseguridad de EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG11. |
 
-#### CON — Automatización y contenedores
+#### CON — Automatización y contenedores (CON)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| CON1 — Mantenimiento y mejora del sistema de gestión de contenedores | SUFICIENTE | VA | NO | orquestación Kubernetes avanzada. |
-| CON2 — Mantenimiento y mejora de scripts y automatización de tareas | SUFICIENTE | VA | NO | infraestructura como código. |
-| CON3 — Mantenimiento del sistema auxiliar de automatización | SUFICIENTE | VA | NO | despliegue automatizado DevOps. |
+| **Subproyecto**                                                      | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**             |
+| -------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | --------------------------------- |
+| CON1 — Mantenimiento y mejora del sistema de gestión de contenedores | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para CON1. |
+| CON2 — Mantenimiento y mejora de los scripts y sistemas de automatización de tareas | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para CON2. |
+| CON3 — Mantenimiento y mejora del sistema auxiliar de automatización | SUFICIENTE              | VA                         | NO                          | APIs REST con observabilidad, CI/CD, reintentos y auditoría. |
 
-#### MIG — Gestión de la migración de servidores entre CPDs
+#### MIG — Gestión de la migración de servidores entre CPDs (MIG)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| MIG1 — Coordinación y planificación de la revisión de los entornos migrados | SUFICIENTE | VA | NO | migración sin impacto usuario. |
-| MIG2 — Fases preparatorias y planificación técnica de la migración | SUFICIENTE | VA | NO | validación completa pre/post. |
-| MIG3 — Preparación de servidores y documentación de sistemas | SUFICIENTE | VA | NO | procedimientos automatizados. |
-| MIG4 — Verificación de la migración | SUFICIENTE | VA | NO | supervisión intensiva migración. |
-| MIG5 — Mantenimiento y soporte tras la migración | SUFICIENTE | VA | NO | control total proceso migración. |
+| **Subproyecto**                                                             | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**            |
+| --------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------- |
+| MIG1 — Coordinación y planificación de la revisión de los entornos migrados | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para MIG1. |
+| MIG2 — Fases preparatorias y planificación técnica de la migración | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para MIG2. |
+| MIG3 — Preparación de servidores y documentación de sistemas | SUFICIENTE              | VA                         | NO                          | Fichas, procedimientos, recopilación automatizada y checklists. |
+| MIG4 — verificación de la migración | SUFICIENTE              | VA                         | NO                          | Comparación pre/post, seguimiento y validación por capas. |
+| MIG5 — Mantenimiento y soporte tras la migración | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para MIG5. |
 
-#### IA — Inteligencia Artificial
+#### IA — Inteligencia Artificial (IA)
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| IA1 — Evaluación del rendimiento de los modelos seleccionados | SUFICIENTE | VA | NO | integración LLM en servicios. |
-| IA2 — Ingeniería de prompts adaptados para cada servicio | SUFICIENTE | VA | NO | optimización inferencia IA. |
-| IA3 — Testeo de los guardarraíles para el entorno educativo | SUFICIENTE | VA | NO | observabilidad modelo IA. |
-| IA4 — Evaluación de posibilidades de integración en distintos aplicativos | SUFICIENTE | VA | NO | seguridad y control IA. |
-| IA5 — Evaluación de capacidades de respuesta y límites por usuario | SUFICIENTE | VA | NO | modelo LLMOps completo. |
+| **Subproyecto**                                                           | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**         |
+| ------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ----------------------------- |
+| IA1 — EVALUAR el rendimiento de los modelos seleccionados | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para IA1. |
+| IA2 — Ingeniería de Prompts adaptados para cada servicio | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para IA2. |
+| IA3 — Testeo de los guardarraíles para el entorno educativo | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para IA3. |
+| IA4 — Evaluar Posibilidades de Integración en Distintos Aplicativos | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para IA4. |
+| IA5 — Evaluación de Capacidades de Respuesta y Límites por Usuario | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para IA5. |
 
 ### Resumen cuantitativo del anexo
 
 #### Grado de desarrollo
 
-| **Clasificación** | **Número de proyectos** | **Porcentaje** |
-| --- | ---: | ---: |
-| No incluidos | 0 | 0,00 % |
-| Desarrollo insuficiente o deficiente | 0 | 0,00 % |
-| Desarrollo suficiente | 89 | 100,00 % |
-| **TOTAL DE PROYECTOS** | **89** | **100,00 %** |
+| **Clasificación**                    | **Número de proyectos** | **Porcentaje** |
+| ------------------------------------ | ----------------------: | -------------: |
+| No incluidos                         |                       0 |         0,00 % |
+| Desarrollo insuficiente o deficiente |                       0 |         0,00 % |
+| Desarrollo suficiente                |                      89 |       100,00 % |
+| **TOTAL DE PROYECTOS**               |                  **89** |   **100,00 %** |
 
 #### Indicadores adicionales
 
 Los indicadores no son excluyentes entre sí ni respecto del grado de desarrollo.
 
-| **Indicador** | **Número de proyectos** | **Porcentaje sobre el total** |
-| --- | ---: | ---: |
-| Con errores técnicos relevantes | 0 | 0,00 % |
-| Con propuesta de mejora sin valor añadido real | 0 | 0,00 % |
-| Con propuesta de mejora con valor añadido real | 89 | 100,00 % |
+| **Indicador**                                  | **Número de proyectos** | **Porcentaje sobre el total** |
+| ---------------------------------------------- | ----------------------: | ----------------------------: |
+| Con errores técnicos relevantes                |                       0 |                        0,00 % |
+| Con propuesta de mejora sin valor añadido real |                       0 |                        0,00 % |
+| Con propuesta de mejora con valor añadido real |                      89 |                      100,00 % |
 
 ### Conclusión del anexo
 
-La propuesta desarrolla con mayor madurez BD, MON, SEG, automatización y varias infraestructuras críticas. UPD, CLO, OTR, COR, AV, POR, CON, MIG e IA presentan una cobertura general adecuada, aunque heterogénea. MAX constituye la principal debilidad estructural y se repite la falta de indicadores cuantificados, objetivos medibles y procedimientos completamente formalizados.
+La propuesta desarrolla de forma específica los trece bloques del Anexo II, incluidos MAX, la inyección directa de correo y la migración entre CPD. La principal limitación transversal es la falta de indicadores cuantificados, valores objetivo y criterios de aceptación completamente formalizados.

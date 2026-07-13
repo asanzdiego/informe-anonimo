@@ -23,7 +23,7 @@ La propuesta presenta una cobertura formal amplia y una identificación correcta
 
 ### Principales conclusiones del análisis
 
-El patrón dominante es el desarrollo insuficiente: 66 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. Solo UPD5 y UPD8 alcanzan desarrollo suficiente y el valor añadido real es residual.
+El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual.
 
 ### Resultado de la valoración
 
@@ -184,11 +184,11 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
-- **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente.
+- **MUY BAJA:** exactamente el 0 % de la puntuación de la sección correspondiente; en el 0 % prevalece esta categoría específica.
 
 ### Valoración de la planificación del servicio
 
@@ -220,11 +220,11 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
-- **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente.
+- **MUY BAJA:** exactamente el 0 % de la puntuación de la sección correspondiente; en el 0 % prevalece esta categoría específica.
 
 ### Fases del proceso de valoración individual
 
@@ -274,7 +274,7 @@ La propuesta presenta una cobertura formal amplia y una identificación correcta
 
 #### Cobertura del Anexo II
 
-El patrón dominante es el desarrollo insuficiente: 66 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. Solo UPD5 y UPD8 alcanzan desarrollo suficiente y el valor añadido real es residual.
+El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual.
 
 #### Fortalezas y aportaciones de valor añadido
 
@@ -288,7 +288,7 @@ Se repiten la falta de arquitecturas específicas, procedimientos, herramientas,
 
 El análisis utiliza la misma estructura para los 89 subproyectos: requisito, contraste de la propuesta, fortalezas, carencias y nivel cualitativo. La clasificación individual se conserva en el anexo.
 
-#### Bloque BD — Bases de Datos
+#### Bloque BD — Mantenimiento y mejora de entornos de Bases de Datos (BD)
 
 - **Consideración general del bloque**
 
@@ -296,7 +296,7 @@ El bloque comprende la operación a gran escala de MariaDB, PostgreSQL, MongoDB 
 
 El contraste identifica 0 subproyectos con desarrollo suficiente, 6 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
 
-##### BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y ProxySQL avanzado
+##### BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y Proxy SQL avanzado
 
 - **Requisito y alcance**
 
@@ -340,7 +340,7 @@ La propuesta de empresa_n plantea actividades como la revisión de consultas, la
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### BD3 — Mantenimiento de las bases de datos de gestión de la configuración de EducaMadrid
+##### BD3 — Mantenimiento de las diferentes Bases de Datos de gestión de la configuración de EducaMadrid
 
 - **Requisito y alcance**
 
@@ -386,7 +386,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### BD5 — Mantenimiento de disparadores y Foreign Data Wrappers en los entornos Portal y LDAP Plano
+##### BD5 — Mantenimiento de disparadores y Foreign Data Wrappers en los entornos “Portal” y “LDAP Plano”
 
 - **Requisito y alcance**
 
@@ -410,7 +410,7 @@ El desarrollo es genérico o incompleto. La observación del anexo precisa: veri
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### BD6 — Implementación y mantenimiento de bases de datos en entornos de microservicios
+##### BD6 — Implementación y Mantenimiento de las Bases de Datos necesarias en entornos de Microservicios
 
 - **Requisito y alcance**
 
@@ -436,7 +436,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 6 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
 
-#### Bloque MON — Monitorización, testeo y pruebas de rendimiento
+#### Bloque MON — Monitorización, testeo y pruebas de rendimiento (MON)
 
 - **Consideración general del bloque**
 
@@ -488,7 +488,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### MON3 — Mantenimiento del sistema de monitorización y estadísticas de uso
+##### MON3 — Mantener actualizado el sistema de monitorización y estadísticas de uso
 
 - **Requisito y alcance**
 
@@ -510,7 +510,7 @@ La propuesta de empresa_n incluye la incorporación de nuevos sistemas, la actua
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### MON4 — Monitorización y estadísticas de servicios basados en IA
+##### MON4 — Mantener actualizado el sistema de monitorización y estadísticas de servicios basados en IA
 
 - **Requisito y alcance**
 
@@ -536,7 +536,7 @@ La propuesta de empresa_n describe actividades como el alta de modelos, la revis
 
 La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 4 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
 
-#### Bloque UPD — Actualización de servicios existentes
+#### Bloque UPD — Actualización de servicios existentes (UPD)
 
 - **Consideración general del bloque**
 
@@ -566,7 +566,7 @@ La propuesta de empresa_n plantea actividades como la instalación de versiones,
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD2 — Mantenimiento y mejora del sistema secundario de videoconferencias con opción de grabación
+##### UPD2 — Mantenimiento y mejora del sistema secundario de Videoconferencias con opción de grabación
 
 - **Requisito y alcance**
 
@@ -588,7 +588,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD3 — Mantenimiento y mejora de Mattermost
+##### UPD3 — Mantenimiento y mejora de la herramienta Mattermost
 
 - **Requisito y alcance**
 
@@ -634,7 +634,7 @@ Las propuestas de mejora no incorporan elementos adicionales y mantienen el mism
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD5 — Mantenimiento y mejora de GitLab
+##### UPD5 — Mantenimiento y mejora de la solución GitLab
 
 - **Requisito y alcance**
 
@@ -656,7 +656,7 @@ Se acredita una solución concreta y evaluable, aunque la mejora asociada no con
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD6 — Mantenimiento y mejora de LimeSurvey
+##### UPD6 — Mantenimiento y mejora de la solución LimeSurvey
 
 - **Requisito y alcance**
 
@@ -724,7 +724,7 @@ La propuesta de empresa_n presenta en este caso un mayor grado de alineación co
 
 **ALTA**: El nivel **ALTA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD9 — Mantenimiento y configuración de Wowza Streaming Engine
+##### UPD9 — Mantenimiento y configuración de Wowza Streaming Engine.
 
 - **Requisito y alcance**
 
@@ -768,7 +768,7 @@ La propuesta de empresa_n presenta una respuesta parcial, centrada en tareas de 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD11 — Actualización, mantenimiento y gestión de contenidos de Abies+
+##### UPD11 — Actualización, Mantenimiento y gestión de contenidos de Abies+
 
 - **Requisito y alcance**
 
@@ -812,7 +812,7 @@ La propuesta de empresa_n menciona aspectos como ajustes de alta disponibilidad,
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD13 — Mantenimiento y mejora del sistema de gestión de la configuración
+##### UPD13 — mantenimiento y mejora del sistema de gestión de la configuración
 
 - **Requisito y alcance**
 
@@ -834,7 +834,7 @@ La propuesta de empresa_n incluye referencias a automatización básica y revisi
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD14 — Mantenimiento, actualización y mejora de la solución de contenedores
+##### UPD14 — Mantenimiento, Actualización y mejora de la solución de contenedores
 
 - **Requisito y alcance**
 
@@ -856,7 +856,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### UPD15 — Mantenimiento, gestión y decomisionado de servidores
+##### UPD15 — Mantenimiento de gestión y decomisionado de servidores
 
 - **Requisito y alcance**
 
@@ -882,7 +882,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 2 desarrollos suficientes, 12 insuficientes y 1 no incluidos, con 1 aportaciones de valor añadido.
 
-#### Bloque CLO — Cloud
+#### Bloque CLO — Cloud (CLO)
 
 - **Consideración general del bloque**
 
@@ -960,37 +960,37 @@ La propuesta de empresa_n describe tareas de mantenimiento, actualización y com
 
 La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 2 insuficientes y 1 no incluidos, con 0 aportaciones de valor añadido.
 
-#### Bloque OTR — Otros desarrollos
+#### Bloque OTR — Otros desarrollos (OTR)
 
 - **Consideración general del bloque**
 
 El bloque comprende SSO y 2FA, automatización, Elastic, flujos de trabajo, Portal CAU e inteligencia artificial, con especial atención a integraciones, seguridad, trazabilidad, herramientas y operativa real.
 
-El contraste identifica 0 subproyectos con desarrollo suficiente, 7 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 1 subproyecto con desarrollo suficiente, 6 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
 
-##### OTR1 — Mantenimiento y mejora del sistema de autenticación centralizada Single Sign-On (SSO)
+##### OTR1 — Mantenimiento y mejora del sistema de autentificación centralizada Single Sign On (SSO)
 
 - **Requisito y alcance**
 
-El subproyecto OTR1 requiere la gestión del sistema de autenticación centralizada, incluyendo la integración SSO entre aplicaciones, la sincronización con LDAP, la implantación de alta disponibilidad y la incorporación de mecanismos de autenticación reforzada.
+El subproyecto requiere la gestión del sistema de autenticación centralizada, la sincronización con LDAP, alta disponibilidad y autenticación reforzada.
 
 - **Análisis de la propuesta**
 
-Las propuestas de mejora se centran en reforzar aspectos ya descritos, como el balanceo o la autenticación adicional, sin aportar mecanismos específicos que permitan evaluar el funcionamiento real del sistema.
+La oferta identifica Keycloak y desarrolla actualización de versiones, realms y clientes, certificados, sincronización y mapeos LDAP, nodos redundantes, balanceo, replicación de sesiones y 2FA mediante OTP. Estos elementos constituyen una solución concreta y evaluable.
 
 - **Fortalezas y valor añadido**
 
-Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no se acredita una capacidad diferencial verificable.
+La cobertura técnica permite clasificar el desarrollo como **SUFICIENTE**. La mejora refuerza aspectos ya exigidos y se mantiene como **PM**, sin atribuirle valor añadido diferencial.
 
 - **Carencias, omisiones, errores o riesgos**
 
-La propuesta de empresa_n identifica correctamente los elementos principales del sistema, mencionando tecnologías como Keycloak, LDAP, mecanismos de alta disponibilidad y autenticación multifactor. **No obstante, el análisis técnico pone de manifiesto la ausencia de desarrollo de mecanismos concretos de federación de identidades, gestión de sesiones, sincronización avanzada o arquitectura detallada de alta disponibilidad.**
+No se detallan la arquitectura de federación, el dimensionamiento de los nodos, los criterios de failover ni métricas de disponibilidad y rendimiento. Estas limitaciones justifican mantener el nivel **MEDIA**.
 
 - **Valoración cualitativa**
 
-**MEDIA**: El nivel **MEDIA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
+**MEDIA**: la solución es concreta, pero su profundidad y verificabilidad permanecen en la banda del 26 % al 50 %.
 
-##### OTR2 — Mantenimiento, configuración y gestión de 2FA en el servicio de Single Sign-On
+##### OTR2 — Mantenimiento, configuración y gestión 2FA en el servicio de Single Sign On (SSO)
 
 - **Requisito y alcance**
 
@@ -1034,7 +1034,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### OTR4 — Mantenimiento y mejora del sistema de gestión y análisis de datos mediante Elastic
+##### OTR4 — Mantenimiento y mejora de un sistema de gestión y análisis de datos mediante el stack de Elastic
 
 - **Requisito y alcance**
 
@@ -1104,7 +1104,7 @@ El desarrollo es genérico o incompleto. La observación del anexo precisa: port
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### OTR7 — Mantenimiento y evolución de servicios de Inteligencia Artificial
+##### OTR7 — Mantenimiento y evolución de servicios de Inteligencia Artificial para la plataforma EducaMadrid
 
 - **Requisito y alcance**
 
@@ -1128,9 +1128,9 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 ##### Conclusión del bloque OTR
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 7 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 1 desarrollo suficiente, 6 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
 
-#### Bloque COR — Correo electrónico
+#### Bloque COR — Correo electrónico (COR)
 
 - **Consideración general del bloque**
 
@@ -1204,7 +1204,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### COR4 — Mantenimiento y mejora de las herramientas de control del spam
+##### COR4 — Mantenimiento y mejora de las herramientas relacionadas con el control del spam
 
 - **Requisito y alcance**
 
@@ -1248,7 +1248,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### COR6 — Mantenimiento y mejora de la seguridad del sistema de correo
+##### COR6 — Mantenimiento y mejora continua de la seguridad del sistema de correo
 
 - **Requisito y alcance**
 
@@ -1270,7 +1270,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### COR7 — Actualización y mejora continua de la infraestructura de correo
+##### COR7 — Actualización y mejora continua de la infraestructura en la que se basa el sistema de correo
 
 - **Requisito y alcance**
 
@@ -1314,7 +1314,7 @@ La propuesta de empresa_n no define umbrales ni criterios de ampliación, ni se 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### COR9 — Implementación de un módulo receptor de inyección directa de correo
+##### COR9 — Implementación y mejora de un módulo receptor de inyección directa para la infraestructura de transporte de correo
 
 - **Requisito y alcance**
 
@@ -1364,7 +1364,7 @@ En la propuesta de empresa_n referente al bloque COR se detecta una **desviació
 
 La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 10 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
 
-#### Bloque MAX — Sistema Operativo MAX
+#### Bloque MAX — Sistema Operativo MAX (MAX)
 
 - **Consideración general del bloque**
 
@@ -1438,7 +1438,7 @@ La ausencia de una solución concreta impide valorar arquitectura, procedimiento
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### MAX4 — Lanzamiento anual de distribuciones de MAX «Full Equip»
+##### MAX4 — Lanzamiento de distribuciones de MAX “Full Equip” anualmente
 
 - **Requisito y alcance**
 
@@ -1460,7 +1460,7 @@ La ausencia de una solución concreta impide valorar arquitectura, procedimiento
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### MAX5 — Lanzamiento anual de distribuciones «MAX lite» y/o «MAX gestión»
+##### MAX5 — Lanzamiento de distribuciones de “MAX lite” y/o “max gestión” anualmente
 
 - **Requisito y alcance**
 
@@ -1482,7 +1482,7 @@ La ausencia de una solución concreta impide valorar arquitectura, procedimiento
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### MAX6 — Integración de aplicaciones externas en los repositorios oficiales
+##### MAX6 — Integración de aplicaciones externas a los repositorios oficiales
 
 - **Requisito y alcance**
 
@@ -1504,7 +1504,7 @@ La ausencia de una solución concreta impide valorar arquitectura, procedimiento
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### MAX7 — Mantenimiento y mejora del servidor de gestión de accesos remotos
+##### MAX7 — Mantenimiento y mejora del servidor de gestión accesos remotos
 
 - **Requisito y alcance**
 
@@ -1570,7 +1570,7 @@ La ausencia de una solución concreta impide valorar arquitectura, procedimiento
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### MAX10 — Soporte presencial en eventos especiales MAX Install Party
+##### MAX10 — Soporte presencial en eventos especiales (MAX Install Party)
 
 - **Requisito y alcance**
 
@@ -1614,7 +1614,7 @@ La ausencia de una solución concreta impide valorar arquitectura, procedimiento
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### MAX12 — Instalación y configuración de dispositivos solicitados por los centros educativos
+##### MAX12 — Instalación y configuración de dispositivos solicitadas por los centros educativos
 
 - **Requisito y alcance**
 
@@ -1684,7 +1684,7 @@ La ausencia de una solución concreta impide valorar arquitectura, procedimiento
 
 La valoración conjunta del bloque es **MUY BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 0 insuficientes y 14 no incluidos, con 0 aportaciones de valor añadido.
 
-#### Bloque AV — Aulas Virtuales
+#### Bloque AV — Aulas Virtuales (AV)
 
 - **Consideración general del bloque**
 
@@ -1692,7 +1692,7 @@ El bloque comprende actualización y estabilidad de bases de datos y FrontEnd, d
 
 El contraste identifica 0 subproyectos con desarrollo suficiente, 4 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
 
-##### AV1 — Actualización y comprobación periódicas de servidores de bases de datos de aulas virtuales
+##### AV1 — Actualización y comprobación periódicas de servidores físicos y virtuales de BBDD de los entornos de aulas virtuales
 
 - **Requisito y alcance**
 
@@ -1714,7 +1714,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### AV2 — Mantenimiento de los servidores FrontEnd de aulas virtuales
+##### AV2 — Mantenimiento de los servidores virtuales FrontEnd de los entornos de aulas virtuales
 
 - **Requisito y alcance**
 
@@ -1736,7 +1736,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### AV3 — Despliegue de nuevos grupos de aulas virtuales
+##### AV3 — Despliegue periódico de nuevos grupos de aulas virtuales y ampliación de los actuales
 
 - **Requisito y alcance**
 
@@ -1758,7 +1758,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### AV4 — Redistribución periódica de NFS de aulas virtuales
+##### AV4 — Redistribución periódica de los NFS de datos de las aulas virtuales
 
 - **Requisito y alcance**
 
@@ -1784,7 +1784,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 4 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
 
-#### Bloque POR — Servicio de LDAP y Portal Educativo
+#### Bloque POR — Servicio de LDAP y Portal Educativo (POR)
 
 - **Consideración general del bloque**
 
@@ -1840,7 +1840,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 2 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
 
-#### Bloque SEG — Seguridad
+#### Bloque SEG — Seguridad (SEG)
 
 - **Consideración general del bloque**
 
@@ -1870,7 +1870,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG2 — LDAP Máster independiente para usuarios privilegiados
+##### SEG2 — Mantenimiento y mejora de un LDAP Máster independiente para usuarios privilegiados
 
 - **Requisito y alcance**
 
@@ -1892,7 +1892,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG3 — Gestión, mantenimiento e implantación de certificados
+##### SEG3 — Gestión, mantenimiento e implantación anual de los certificados de EducaMadrid
 
 - **Requisito y alcance**
 
@@ -1914,7 +1914,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG4 — Gestión y mantenimiento de dominios DNS
+##### SEG4 — Gestión y mantenimiento periódico de dominios DNS
 
 - **Requisito y alcance**
 
@@ -1958,7 +1958,7 @@ La propuesta plantea la revisión de sistemas y la corrección de vulnerabilidad
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG6 — Detección de intrusiones y análisis de logs
+##### SEG6 — Gestión, mantenimiento y ajuste de la herramienta para la detección de intrusiones, monitorización de la integridad, análisis de logs y respuesta ante incidentes.
 
 - **Requisito y alcance**
 
@@ -1980,7 +1980,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG7 — Auditorías internas de aplicaciones
+##### SEG7 — Realización de auditorías internas de aplicaciones
 
 - **Requisito y alcance**
 
@@ -2002,7 +2002,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG8 — Auditorías internas continuas de sistemas
+##### SEG8 — Realización de auditorías internas continuas de los sistemas
 
 - **Requisito y alcance**
 
@@ -2070,7 +2070,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### SEG11 — Asistencia en eventos de ciberseguridad
+##### SEG11 — Asistencia y soporte presencial en los diferentes eventos de Ciberseguridad de EducaMadrid
 
 - **Requisito y alcance**
 
@@ -2096,7 +2096,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 11 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
 
-#### Bloque CON — Automatización y contenedores
+#### Bloque CON — Automatización y contenedores (CON)
 
 - **Consideración general del bloque**
 
@@ -2126,7 +2126,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### CON2 — Mantenimiento y mejora de scripts y automatización de tareas
+##### CON2 — Mantenimiento y mejora de los scripts y sistemas de automatización de tareas
 
 - **Requisito y alcance**
 
@@ -2148,7 +2148,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### CON3 — Mantenimiento del sistema auxiliar de automatización
+##### CON3 — Mantenimiento y mejora del sistema auxiliar de automatización
 
 - **Requisito y alcance**
 
@@ -2174,7 +2174,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 3 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
 
-#### Bloque MIG — Gestión de la migración de servidores entre CPDs
+#### Bloque MIG — Gestión de la migración de servidores entre CPDs (MIG)
 
 - **Consideración general del bloque**
 
@@ -2248,7 +2248,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 **BAJA**: El nivel **BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### MIG4 — Verificación de la migración
+##### MIG4 — verificación de la migración
 
 - **Requisito y alcance**
 
@@ -2296,7 +2296,7 @@ La propuesta de empresa_n describe el soporte de forma general, haciendo referen
 
 La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 5 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
 
-#### Bloque IA — Inteligencia Artificial
+#### Bloque IA — Inteligencia Artificial (IA)
 
 - **Consideración general del bloque**
 
@@ -2304,7 +2304,7 @@ El bloque comprende evaluación de modelos, ingeniería de prompts, guardarraíl
 
 El contraste identifica 0 subproyectos con desarrollo suficiente, 0 con desarrollo insuficiente y 5 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
 
-##### IA1 — Evaluación del rendimiento de los modelos seleccionados
+##### IA1 — EVALUAR el rendimiento de los modelos seleccionados
 
 - **Requisito y alcance**
 
@@ -2326,7 +2326,7 @@ La ausencia de una solución concreta impide valorar arquitectura, procedimiento
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### IA2 — Ingeniería de prompts adaptados para cada servicio
+##### IA2 — Ingeniería de Prompts adaptados para cada servicio
 
 - **Requisito y alcance**
 
@@ -2370,7 +2370,7 @@ La ausencia de una solución concreta impide valorar arquitectura, procedimiento
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### IA4 — Evaluación de posibilidades de integración en distintos aplicativos
+##### IA4 — Evaluar Posibilidades de Integración en Distintos Aplicativos
 
 - **Requisito y alcance**
 
@@ -2392,7 +2392,7 @@ La ausencia de una solución concreta impide valorar arquitectura, procedimiento
 
 **MUY BAJA**: El nivel **MUY BAJA** mantiene la correspondencia entre el contenido efectivamente desarrollado, su clasificación en el anexo y las fortalezas y carencias anteriores.
 
-##### IA5 — Evaluación de capacidades de respuesta y límites por usuario
+##### IA5 — Evaluación de Capacidades de Respuesta y Límites por Usuario
 
 - **Requisito y alcance**
 
@@ -2420,7 +2420,7 @@ La valoración conjunta del bloque es **MUY BAJA**. La clasificación individual
 
 ### Conclusión del análisis detallado
 
-El patrón dominante es el desarrollo insuficiente: 66 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. Solo UPD5 y UPD8 alcanzan desarrollo suficiente y el valor añadido real es residual. La propuesta presenta una cobertura formal amplia y una identificación correcta del entorno de EducaMadrid, pero su desarrollo es mayoritariamente descriptivo. Faltan arquitecturas específicas, procedimientos operativos, herramientas, métricas, criterios de aceptación y mecanismos de validación. La referencia a Métrica V3 y algunos contenidos evaluables en GitLab y Redmine aportan valor parcial, sin compensar la baja concreción ni la ausencia de solución en bloques completos.
+El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual. La propuesta presenta una cobertura formal amplia y una identificación correcta del entorno de EducaMadrid, pero su desarrollo es mayoritariamente descriptivo. Faltan arquitecturas específicas, procedimientos operativos, herramientas, métricas, criterios de aceptación y mecanismos de validación. La referencia a Métrica V3 y algunos contenidos evaluables en GitLab y Redmine aportan valor parcial, sin compensar la baja concreción ni la ausencia de solución en bloques completos.
 
 ## EVALUACIÓN DE LA SOLUCIÓN TÉCNICA OFERTADA
 
@@ -2568,7 +2568,7 @@ El diagrama tampoco incluye hitos o puntos de control que permitan realizar un s
 
 Finalmente, el cronograma no contempla mecanismos de adaptación a riesgos ni incluye márgenes o buffers que permitan absorber desviaciones, lo que evidencia una planificación rígida y poco resiliente.
 
-En conjunto, el diagrama de Gantt presentado cumple con el requisito formal de incluir un cronograma, pero no constituye una planificación operativa completa ni verificable. **De acuerdo con la escala establecida en el Documento de Invitación, estas deficiencias sitúan la valoración de este subcriterio en un nivel medio-bajo, cercano al límite inferior, al no permitir acreditar de forma suficiente la capacidad de planificación del servicio.**
+En conjunto, el diagrama de Gantt presentado cumple con el requisito formal de incluir un cronograma, pero no constituye una planificación operativa completa ni verificable. **De acuerdo con la escala establecida en el Documento de Invitación, estas deficiencias sitúan la valoración de este subcriterio en un nivel medio, dentro de la banda del 26 % al 50 %, al no permitir acreditar de forma suficiente la capacidad de planificación del servicio.**
 
 **Nivel cualitativo:** MEDIA
 **Puntuación:** 5,00 sobre 11,00
@@ -2581,7 +2581,7 @@ En conjunto, el diagrama de Gantt presentado cumple con el requisito formal de i
 
 **Asimismo, los riesgos identificados no se vinculan de forma directa con los subproyectos concretos definidos en el Anexo II, lo que limita la capacidad de trasladar este análisis a un contexto operativo real.** Tampoco se definen mecanismos específicos de seguimiento o indicadores que permitan monitorizar la evolución de los riesgos a lo largo del tiempo.
 
-**En consecuencia, el análisis de riesgos presentado puede considerarse adecuado desde un punto de vista conceptual, pero insuficiente desde una perspectiva operativa, al no proporcionar las herramientas necesarias para una gestión efectiva del riesgo.** Conforme a la escala del Documento de Invitación, esta situación se corresponde con un nivel medio.
+**En consecuencia, el análisis de riesgos presentado puede considerarse adecuado desde un punto de vista conceptual, pero insuficiente desde una perspectiva operativa, al no proporcionar las herramientas necesarias para una gestión efectiva del riesgo.** Conforme a la escala del Documento de Invitación, la puntuación del 25 % se corresponde con un nivel bajo.
 
 **Nivel cualitativo:** BAJA
 **Puntuación:** 0,25 sobre 1,00
@@ -2594,7 +2594,7 @@ En conjunto, el diagrama de Gantt presentado cumple con el requisito formal de i
 
 **Asimismo, no se establece una relación directa entre el plan de contingencias y los riesgos previamente identificados, lo que limita la coherencia global del modelo de gestión propuesto.** Esta falta de integración reduce la eficacia del plan y dificulta su aplicación en situaciones reales.
 
-**En consecuencia, el plan de contingencias presenta un carácter generalista, basado en principios de actuación comunes, pero sin un desarrollo técnico suficiente que permita su implantación.** De acuerdo con la escala del Documento de Invitación, esta situación se corresponde con un nivel medio-bajo.
+**En consecuencia, el plan de contingencias presenta un carácter generalista, basado en principios de actuación comunes, pero sin un desarrollo técnico suficiente que permita su implantación.** De acuerdo con la escala del Documento de Invitación, la puntuación del 25 % se corresponde con un nivel bajo.
 
 **Nivel cualitativo:** BAJA
 **Puntuación:** 0,25 sobre 1,00
@@ -2609,7 +2609,7 @@ En particular, no se definen indicadores cuantificables que permitan medir el re
 
 Asimismo, no se observa la existencia de procesos estructurados de mejora continua basados en resultados medibles, lo que limita la capacidad evolutiva del modelo propuesto.
 
-En consecuencia, el plan de calidad presenta un carácter generalista, con un nivel de desarrollo insuficiente para su aplicación efectiva, lo que justifica su valoración en un nivel medio-bajo conforme a la escala del Documento de Invitación.
+En consecuencia, el plan de calidad presenta un carácter generalista, con un nivel de desarrollo insuficiente para su aplicación efectiva, lo que justifica su valoración en un nivel medio, dentro de la banda del 26 % al 50 %.
 
 **Nivel cualitativo:** MEDIA
 **Puntuación:** 0,50 sobre 1,00
@@ -2624,9 +2624,9 @@ En consecuencia, el plan de calidad presenta un carácter generalista, con un ni
 
 Asimismo, no se identifican herramientas concretas ni procedimientos específicos de gestión de la trazabilidad que permitan garantizar el seguimiento de las actuaciones a lo largo del ciclo de vida del servicio.
 
-En consecuencia, la trazabilidad propuesta presenta un nivel de desarrollo insuficiente y un carácter fundamentalmente declarativo, lo que limita su aplicabilidad real y justifica su valoración en un nivel bajo conforme a la escala del Documento de Invitación.
+En consecuencia, la trazabilidad propuesta es parcial y presenta un carácter fundamentalmente declarativo. Sus mecanismos generales de registro aportan cobertura básica, pero las carencias de vinculación extremo a extremo limitan su aplicabilidad. La puntuación del 40 % se sitúa en la banda media.
 
-**Nivel cualitativo:** BAJA
+**Nivel cualitativo:** MEDIA
 **Puntuación:** 0,40 sobre 1,00
 
 ### Resultado global de la planificación
@@ -2637,7 +2637,7 @@ En consecuencia, la trazabilidad propuesta presenta un nivel de desarrollo insuf
 | Análisis de riesgos                 |       1,00 | BAJA      |           0,25 |
 | Plan de contingencias               |       1,00 | BAJA      |           0,25 |
 | Plan de calidad                     |       1,00 | MEDIA     |           0,50 |
-| Trazabilidad                        |       1,00 | BAJA      |           0,40 |
+| Trazabilidad                        |       1,00 | MEDIA     |           0,40 |
 | **TOTAL PLANIFICACIÓN**             |  **15,00** |           |       **6,40** |
 
 ## RESULTADO FINAL CONSOLIDADO
@@ -2660,7 +2660,7 @@ La propuesta presenta una cobertura formal amplia y una identificación correcta
 
 ### Conclusiones sobre la solución técnica
 
-El patrón dominante es el desarrollo insuficiente: 66 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. Solo UPD5 y UPD8 alcanzan desarrollo suficiente y el valor añadido real es residual.
+El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual.
 
 ### Conclusiones sobre la planificación del servicio
 
@@ -2692,161 +2692,163 @@ Se aplican tres grados de desarrollo: **NO INCLUIDA**, cuando no existe una solu
 
 De forma separada se indican los errores técnicos relevantes, las propuestas de mejora sin valor añadido real (**PM**) y las propuestas con valor añadido verificable (**VA**).
 
+El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionadas pero no equivalentes: el primero comprueba si existe una solución concreta y evaluable; el segundo pondera su calidad, completitud y mejoras. Por ello, **UPD5** puede mantener grado **SUFICIENTE** y nivel **BAJA**: enumera actuaciones concretas de mantenimiento, pero no desarrolla pipelines, runners ni una arquitectura DevOps verificable. El valor numérico del CSV se deriva únicamente del nivel cualitativo mediante la escala **MUY BAJA=0, BAJA=2, MEDIA=5, ALTA=8 y EXCELENTE=10**.
+
 ### Tablas de subproyectos
 
-#### BD — Bases de Datos
+#### BD — Mantenimiento y mejora de entornos de Bases de Datos (BD)
 
 | **Subproyecto**                                                                                 | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                       |
 | ----------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ------------------------------------------- |
-| BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y ProxySQL avanzado          | INSUFICIENTE            | PM                         | NO                          | refuerzo de revisiones sin técnicas nuevas. |
-| BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma        | INSUFICIENTE            | PM                         | NO                          | ampliación mantenimiento sin herramientas.  |
-| BD3 — Mantenimiento de las bases de datos de gestión de la configuración de EducaMadrid         | INSUFICIENTE            | PM                         | NO                          | actualización CMDB sin automatización.      |
-| BD4 — Mantenimiento de las bases de datos de las Aulas Virtuales                                | INSUFICIENTE            | PM                         | NO                          | seguimiento carga sin metodología.          |
-| BD5 — Mantenimiento de disparadores y Foreign Data Wrappers en los entornos Portal y LDAP Plano | INSUFICIENTE            | PM                         | NO                          | verificación sin sincronización avanzada.   |
-| BD6 — Implementación y mantenimiento de bases de datos en entornos de microservicios            | INSUFICIENTE            | PM                         | NO                          | mantenimiento sin enfoque microservicios.   |
+| BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y Proxy SQL avanzado | INSUFICIENTE            | PM                         | NO                          | refuerzo de revisiones sin técnicas nuevas. |
+| BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma | INSUFICIENTE            | PM                         | NO                          | ampliación mantenimiento sin herramientas.  |
+| BD3 — Mantenimiento de las diferentes Bases de Datos de gestión de la configuración de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | actualización CMDB sin automatización.      |
+| BD4 — Mantenimiento de las bases de datos de las Aulas Virtuales | INSUFICIENTE            | PM                         | NO                          | seguimiento carga sin metodología.          |
+| BD5 — Mantenimiento de disparadores y Foreign Data Wrappers en los entornos “Portal” y “LDAP Plano” | INSUFICIENTE            | PM                         | NO                          | verificación sin sincronización avanzada.   |
+| BD6 — Implementación y Mantenimiento de las Bases de Datos necesarias en entornos de Microservicios | INSUFICIENTE            | PM                         | NO                          | mantenimiento sin enfoque microservicios.   |
 
-#### MON — Monitorización, testeo y pruebas de rendimiento
+#### MON — Monitorización, testeo y pruebas de rendimiento (MON)
 
 | **Subproyecto**                                                                           | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                        |
 | ----------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------------- |
-| MON1 — Mantenimiento periódico del almacenamiento de los centros                          | INSUFICIENTE            | PM                         | NO                          | supervisión ampliada sin criterios técnicos. |
+| MON1 — Mantenimiento periódico del almacenamiento de los centros | INSUFICIENTE            | PM                         | NO                          | supervisión ampliada sin criterios técnicos. |
 | MON2 — Realización periódica de pruebas de estrés en diferentes entornos de la plataforma | INSUFICIENTE            | PM                         | NO                          | más pruebas sin metodología definida.        |
-| MON3 — Mantenimiento del sistema de monitorización y estadísticas de uso                  | INSUFICIENTE            | PM                         | NO                          | monitorización ampliada sin métricas.        |
-| MON4 — Monitorización y estadísticas de servicios basados en IA                           | INSUFICIENTE            | PM                         | NO                          | extensión genérica a IA sin especialización. |
+| MON3 — Mantener actualizado el sistema de monitorización y estadísticas de uso | INSUFICIENTE            | PM                         | NO                          | monitorización ampliada sin métricas.        |
+| MON4 — Mantener actualizado el sistema de monitorización y estadísticas de servicios basados en IA | INSUFICIENTE            | PM                         | NO                          | extensión genérica a IA sin especialización. |
 
-#### UPD — Actualización de servicios existentes
+#### UPD — Actualización de servicios existentes (UPD)
 
 | **Subproyecto**                                                                                   | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                        |
 | ------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------------- |
-| UPD1 — Mantenimiento y mejora de los sistemas de videoconferencias de EducaMadrid                 | INSUFICIENTE            | PM                         | NO                          | validaciones adicionales sin arquitectura.   |
-| UPD2 — Mantenimiento y mejora del sistema secundario de videoconferencias con opción de grabación | INSUFICIENTE            | PM                         | NO                          | repetición del modelo anterior.              |
-| UPD3 — Mantenimiento y mejora de Mattermost                                                       | INSUFICIENTE            | PM                         | NO                          | tareas ampliadas sin integración técnica.    |
-| UPD4 — Mantenimiento y mejora de la solución Kanban                                               | INSUFICIENTE            | PM                         | NO                          | gestión genérica sin herramienta definida.   |
-| UPD5 — Mantenimiento y mejora de GitLab                                                           | SUFICIENTE              | PM                         | NO                          | mantenimiento convencional sin pipelines.    |
-| UPD6 — Mantenimiento y mejora de LimeSurvey                                                       | INSUFICIENTE            | PM                         | NO                          | ajustes básicos sin optimización técnica.    |
-| UPD7 — Mantenimiento y mejora de SonarQube                                                        | INSUFICIENTE            | PM                         | SÍ                          | contenido incorrecto sin valor.              |
-| UPD8 — Mantenimiento y mejora de Redmine                                                          | SUFICIENTE              | VA                         | NO                          | uso API y automatización básica.             |
-| UPD9 — Mantenimiento y configuración de Wowza Streaming Engine                                    | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| UPD10 — Mantenimiento y gestión de contenidos AbiesWeb                                            | INSUFICIENTE            | PM                         | NO                          | gestión básica sin integración.              |
-| UPD11 — Actualización, mantenimiento y gestión de contenidos de Abies+                            | INSUFICIENTE            | PM                         | NO                          | incidencias sin evolución funcional.         |
-| UPD12 — Implementación, mantenimiento y mejora de Empieza                                         | INSUFICIENTE            | PM                         | NO                          | HA conceptual sin implementación.            |
-| UPD13 — Mantenimiento y mejora del sistema de gestión de la configuración                         | INSUFICIENTE            | PM                         | NO                          | sin uso herramientas exigidas.               |
-| UPD14 — Mantenimiento, actualización y mejora de la solución de contenedores                      | INSUFICIENTE            | PM                         | NO                          | contenedores sin tecnología definida.        |
-| UPD15 — Mantenimiento, gestión y decomisionado de servidores                                      | INSUFICIENTE            | PM                         | NO                          | decomisionado incompleto.                    |
+| UPD1 — Mantenimiento y mejora de los sistemas de videoconferencias de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | validaciones adicionales sin arquitectura.   |
+| UPD2 — Mantenimiento y mejora del sistema secundario de Videoconferencias con opción de grabación | INSUFICIENTE            | PM                         | NO                          | repetición del modelo anterior.              |
+| UPD3 — Mantenimiento y mejora de la herramienta Mattermost | INSUFICIENTE            | PM                         | NO                          | tareas ampliadas sin integración técnica.    |
+| UPD4 — Mantenimiento y mejora de la solución Kanban | INSUFICIENTE            | PM                         | NO                          | gestión genérica sin herramienta definida.   |
+| UPD5 — Mantenimiento y mejora de la solución GitLab | SUFICIENTE              | PM                         | NO                          | mantenimiento convencional sin pipelines.    |
+| UPD6 — Mantenimiento y mejora de la solución LimeSurvey | INSUFICIENTE            | PM                         | NO                          | ajustes básicos sin optimización técnica.    |
+| UPD7 — Mantenimiento y mejora de SonarQube | INSUFICIENTE            | PM                         | SÍ                          | contenido incorrecto sin valor.              |
+| UPD8 — Mantenimiento y mejora de Redmine | SUFICIENTE              | VA                         | NO                          | uso API y automatización básica.             |
+| UPD9 — Mantenimiento y configuración de Wowza Streaming Engine. | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| UPD10 — Mantenimiento y gestión de contenidos AbiesWeb | INSUFICIENTE            | PM                         | NO                          | gestión básica sin integración.              |
+| UPD11 — Actualización, Mantenimiento y gestión de contenidos de Abies+ | INSUFICIENTE            | PM                         | NO                          | incidencias sin evolución funcional.         |
+| UPD12 — Implementación, mantenimiento y mejora de Empieza | INSUFICIENTE            | PM                         | NO                          | HA conceptual sin implementación.            |
+| UPD13 — mantenimiento y mejora del sistema de gestión de la configuración | INSUFICIENTE            | PM                         | NO                          | sin uso herramientas exigidas.               |
+| UPD14 — Mantenimiento, Actualización y mejora de la solución de contenedores | INSUFICIENTE            | PM                         | NO                          | contenedores sin tecnología definida.        |
+| UPD15 — Mantenimiento de gestión y decomisionado de servidores | INSUFICIENTE            | PM                         | NO                          | decomisionado incompleto.                    |
 
-#### CLO — Cloud
+#### CLO — Cloud (CLO)
 
 | **Subproyecto**                                                                              | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                        |
 | -------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------------- |
-| CLO1 — Mantenimiento del servicio de la nube de EducaMadrid                                  | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| CLO1 — Mantenimiento del servicio de la nube de EducaMadrid | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
 | CLO2 — Mantenimiento y adaptación del sistema de almacenamiento temporal de datos de la nube | INSUFICIENTE            | PM                         | NO                          | ajustes progresivos sin escalabilidad.       |
-| CLO3 — Mantenimiento del sistema de edición en línea de EducaMadrid                          | INSUFICIENTE            | PM                         | NO                          | uso concurrente sin arquitectura.            |
+| CLO3 — Mantenimiento del sistema de edición en línea de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | uso concurrente sin arquitectura.            |
 
-#### OTR — Otros desarrollos
+#### OTR — Otros desarrollos (OTR)
 
 | **Subproyecto**                                                                              | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                  |
 | -------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------- |
-| OTR1 — Mantenimiento y mejora del sistema de autenticación centralizada Single Sign-On (SSO) | INSUFICIENTE            | PM                         | NO                          | SSO genérico sin federación técnica.   |
-| OTR2 — Mantenimiento, configuración y gestión de 2FA en el servicio de Single Sign-On        | INSUFICIENTE            | PM                         | NO                          | 2FA genérico con inconsistencias.      |
-| OTR3 — Mantenimiento y mejora de herramientas de automatización de tareas                    | INSUFICIENTE            | PM                         | NO                          | scripts sin orquestación.              |
-| OTR4 — Mantenimiento y mejora del sistema de gestión y análisis de datos mediante Elastic    | INSUFICIENTE            | PM                         | NO                          | analítica genérica sin stack definido. |
-| OTR5 — Mantenimiento y mejora de la herramienta de flujos de trabajo                         | INSUFICIENTE            | PM                         | NO                          | workflow sin herramienta identificada. |
-| OTR6 — Mantenimiento y mejora del Portal CAU                                                 | INSUFICIENTE            | PM                         | NO                          | portal sin evolución funcional.        |
-| OTR7 — Mantenimiento y evolución de servicios de Inteligencia Artificial                     | INSUFICIENTE            | PM                         | NO                          | IA conceptual sin implementación.      |
+| OTR1 — Mantenimiento y mejora del sistema de autentificación centralizada Single Sign On (SSO) | SUFICIENTE | PM | NO | Keycloak con LDAP, HA y 2FA; faltan dimensionamiento y métricas. |
+| OTR2 — Mantenimiento, configuración y gestión 2FA en el servicio de Single Sign On (SSO) | INSUFICIENTE            | PM                         | NO                          | 2FA genérico con inconsistencias.      |
+| OTR3 — Mantenimiento y mejora de herramientas de automatización de tareas | INSUFICIENTE            | PM                         | NO                          | scripts sin orquestación.              |
+| OTR4 — Mantenimiento y mejora de un sistema de gestión y análisis de datos mediante el stack de Elastic | INSUFICIENTE            | PM                         | NO                          | analítica genérica sin stack definido. |
+| OTR5 — Mantenimiento y mejora de la herramienta de flujos de trabajo | INSUFICIENTE            | PM                         | NO                          | workflow sin herramienta identificada. |
+| OTR6 — Mantenimiento y mejora del Portal CAU | INSUFICIENTE            | PM                         | NO                          | portal sin evolución funcional.        |
+| OTR7 — Mantenimiento y evolución de servicios de Inteligencia Artificial para la plataforma EducaMadrid | INSUFICIENTE            | PM                         | NO                          | IA conceptual sin implementación.      |
 
-#### COR — Correo electrónico
+#### COR — Correo electrónico (COR)
 
 | **Subproyecto**                                                                       | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                   |
 | ------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | --------------------------------------- |
-| COR1 — Mantenimiento y mejora de los sistemas de control de envíos de correo          | INSUFICIENTE            | PM                         | NO                          | supervisión sin control de tráfico.     |
-| COR2 — Mantenimiento automatizado de listas de distribución de EducaMadrid            | INSUFICIENTE            | PM                         | NO                          | gestión manual sin automatización.      |
+| COR1 — Mantenimiento y mejora de los sistemas de control de envíos de correo | INSUFICIENTE            | PM                         | NO                          | supervisión sin control de tráfico.     |
+| COR2 — Mantenimiento automatizado de listas de distribución de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | gestión manual sin automatización.      |
 | COR3 — Mantenimiento y mejora del sistema de activación y gestión de cuotas de correo | INSUFICIENTE            | PM                         | NO                          | revisión sin política de cuotas.        |
-| COR4 — Mantenimiento y mejora de las herramientas de control del spam                 | INSUFICIENTE            | PM                         | NO                          | control básico sin estrategia antispam. |
-| COR5 — Mantenimiento de buzones de correo                                             | INSUFICIENTE            | PM                         | NO                          | gestión manual de buzones.              |
-| COR6 — Mantenimiento y mejora de la seguridad del sistema de correo                   | INSUFICIENTE            | PM                         | NO                          | seguridad genérica sin técnicas.        |
-| COR7 — Actualización y mejora continua de la infraestructura de correo                | INSUFICIENTE            | PM                         | NO                          | infraestructura sin modularidad.        |
-| COR8 — Ampliación del número de servidores Mailbox Server                             | INSUFICIENTE            | PM                         | NO                          | sin criterios de escalado.              |
-| COR9 — Implementación de un módulo receptor de inyección directa de correo            | INSUFICIENTE            | PM                         | NO                          | inyección sin arquitectura definida.    |
-| COR10 — Mantenimiento y soporte del módulo de inyección directa de correo             | INSUFICIENTE            | PM                         | NO                          | soporte básico sin optimización.        |
+| COR4 — Mantenimiento y mejora de las herramientas relacionadas con el control del spam | INSUFICIENTE            | PM                         | NO                          | control básico sin estrategia antispam. |
+| COR5 — Mantenimiento de buzones de correo | INSUFICIENTE            | PM                         | NO                          | gestión manual de buzones.              |
+| COR6 — Mantenimiento y mejora continua de la seguridad del sistema de correo | INSUFICIENTE            | PM                         | NO                          | seguridad genérica sin técnicas.        |
+| COR7 — Actualización y mejora continua de la infraestructura en la que se basa el sistema de correo | INSUFICIENTE            | PM                         | NO                          | infraestructura sin modularidad.        |
+| COR8 — Ampliación del número de servidores Mailbox Server | INSUFICIENTE            | PM                         | NO                          | sin criterios de escalado.              |
+| COR9 — Implementación y mejora de un módulo receptor de inyección directa para la infraestructura de transporte de correo | INSUFICIENTE            | PM                         | NO                          | inyección sin arquitectura definida.    |
+| COR10 — Mantenimiento y soporte del módulo de inyección directa de correo | INSUFICIENTE            | PM                         | NO                          | soporte básico sin optimización.        |
 
-#### MAX — Sistema Operativo MAX
+#### MAX — Sistema Operativo MAX (MAX)
 
 | **Subproyecto**                                                                                | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                        |
 | ---------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------------- |
-| MAX1 — Mantenimiento y actualización de MAX de forma presencial en centros de forma regular    | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX2 — Mantenimiento y actualización del servidor MAX para el desarrollo de distribuciones     | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX3 — Mantenimiento de aplicaciones basadas en MAX                                            | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX4 — Lanzamiento anual de distribuciones de MAX «Full Equip»                                 | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX5 — Lanzamiento anual de distribuciones «MAX lite» y/o «MAX gestión»                        | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX6 — Integración de aplicaciones externas en los repositorios oficiales                      | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX7 — Mantenimiento y mejora del servidor de gestión de accesos remotos                       | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX8 — Soporte de asistencia telefónica y remota para incidencias de entornos MAX              | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX9 — Asistencia presencial en los diferentes eventos MAX                                     | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX10 — Soporte presencial en eventos especiales MAX Install Party                             | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX11 — Gestión, mantenimiento y actualización de equipos MAX en remoto                        | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX12 — Instalación y configuración de dispositivos solicitados por los centros educativos     | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX1 — Mantenimiento y actualización de MAX de forma presencial en centros de forma regular | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX2 — Mantenimiento y actualización del servidor MAX para el desarrollo de distribuciones | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX3 — Mantenimiento de aplicaciones basadas en MAX | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX4 — Lanzamiento de distribuciones de MAX “Full Equip” anualmente | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX5 — Lanzamiento de distribuciones de “MAX lite” y/o “max gestión” anualmente | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX6 — Integración de aplicaciones externas a los repositorios oficiales | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX7 — Mantenimiento y mejora del servidor de gestión accesos remotos | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX8 — Soporte de asistencia telefónica y remota para incidencias de entornos MAX | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX9 — Asistencia presencial en los diferentes eventos MAX | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX10 — Soporte presencial en eventos especiales (MAX Install Party) | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX11 — Gestión, mantenimiento y actualización de equipos MAX en remoto | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX12 — Instalación y configuración de dispositivos solicitadas por los centros educativos | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
 | MAX13 — Mantenimiento y soporte del servidor de repositorio individual para centros educativos | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX14 — Herramienta de gestión centralizada de maquetas de MAX                                 | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| MAX14 — Herramienta de gestión centralizada de maquetas de MAX | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
 
-#### AV — Aulas Virtuales
+#### AV — Aulas Virtuales (AV)
 
 | **Subproyecto**                                                                                  | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**          |
 | ------------------------------------------------------------------------------------------------ | ----------------------- | -------------------------- | --------------------------- | ------------------------------ |
-| AV1 — Actualización y comprobación periódicas de servidores de bases de datos de aulas virtuales | INSUFICIENTE            | PM                         | NO                          | revisión sin herramientas.     |
-| AV2 — Mantenimiento de los servidores FrontEnd de aulas virtuales                                | INSUFICIENTE            | PM                         | NO                          | supervisión sin balanceo.      |
-| AV3 — Despliegue de nuevos grupos de aulas virtuales                                             | INSUFICIENTE            | PM                         | NO                          | despliegue sin automatización. |
-| AV4 — Redistribución periódica de NFS de aulas virtuales                                         | INSUFICIENTE            | PM                         | NO                          | redistribución sin criterios.  |
+| AV1 — Actualización y comprobación periódicas de servidores físicos y virtuales de BBDD de los entornos de aulas virtuales | INSUFICIENTE            | PM                         | NO                          | revisión sin herramientas.     |
+| AV2 — Mantenimiento de los servidores virtuales FrontEnd de los entornos de aulas virtuales | INSUFICIENTE            | PM                         | NO                          | supervisión sin balanceo.      |
+| AV3 — Despliegue periódico de nuevos grupos de aulas virtuales y ampliación de los actuales | INSUFICIENTE            | PM                         | NO                          | despliegue sin automatización. |
+| AV4 — Redistribución periódica de los NFS de datos de las aulas virtuales | INSUFICIENTE            | PM                         | NO                          | redistribución sin criterios.  |
 
-#### POR — Servicio de LDAP y Portal Educativo
+#### POR — Servicio de LDAP y Portal Educativo (POR)
 
 | **Subproyecto**                                                         | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**               |
 | ----------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ----------------------------------- |
 | POR1 — Ampliación periódica del sistema de esclavos LDAP de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | ampliación sin replicación técnica. |
-| POR2 — Migración del sistema LDAP máster de EducaMadrid                 | INSUFICIENTE            | PM                         | NO                          | migración sin procedimientos.       |
+| POR2 — Migración del sistema LDAP máster de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | migración sin procedimientos.       |
 
-#### SEG — Seguridad
+#### SEG — Seguridad (SEG)
 
 | **Subproyecto**                                                        | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**              |
 | ---------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ---------------------------------- |
 | SEG1 — Mantenimiento y mejora del sistema de control de cambios en DNS | INSUFICIENTE            | PM                         | NO                          | control básico sin auditoría.      |
-| SEG2 — LDAP Máster independiente para usuarios privilegiados           | INSUFICIENTE            | PM                         | NO                          | segregación sin arquitectura.      |
-| SEG3 — Gestión, mantenimiento e implantación de certificados           | INSUFICIENTE            | PM                         | NO                          | gestión sin ciclo de vida.         |
-| SEG4 — Gestión y mantenimiento de dominios DNS                         | INSUFICIENTE            | PM                         | NO                          | gestión DNS sin automatización.    |
-| SEG5 — Análisis y corrección de vulnerabilidades                       | INSUFICIENTE            | PM                         | NO                          | vulnerabilidades sin herramientas. |
-| SEG6 — Detección de intrusiones y análisis de logs                     | INSUFICIENTE            | PM                         | NO                          | logs sin correlación SIEM.         |
-| SEG7 — Auditorías internas de aplicaciones                             | INSUFICIENTE            | PM                         | NO                          | auditorías sin metodología.        |
-| SEG8 — Auditorías internas continuas de sistemas                       | INSUFICIENTE            | PM                         | NO                          | control continuo sin métricas.     |
-| SEG9 — Mantenimiento y uso de logs centralizados                       | INSUFICIENTE            | PM                         | NO                          | logs sin explotación técnica.      |
-| SEG10 — Implementación y mantenimiento de claves RSA unificadas        | INSUFICIENTE            | PM                         | NO                          | claves sin gestión avanzada.       |
-| SEG11 — Asistencia en eventos de ciberseguridad                        | INSUFICIENTE            | PM                         | NO                          | soporte sin procedimientos.        |
+| SEG2 — Mantenimiento y mejora de un LDAP Máster independiente para usuarios privilegiados | INSUFICIENTE            | PM                         | NO                          | segregación sin arquitectura.      |
+| SEG3 — Gestión, mantenimiento e implantación anual de los certificados de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | gestión sin ciclo de vida.         |
+| SEG4 — Gestión y mantenimiento periódico de dominios DNS | INSUFICIENTE            | PM                         | NO                          | gestión DNS sin automatización.    |
+| SEG5 — Análisis y corrección de vulnerabilidades | INSUFICIENTE            | PM                         | NO                          | vulnerabilidades sin herramientas. |
+| SEG6 — Gestión, mantenimiento y ajuste de la herramienta para la detección de intrusiones, monitorización de la integridad, análisis de logs y respuesta ante incidentes. | INSUFICIENTE            | PM                         | NO                          | logs sin correlación SIEM.         |
+| SEG7 — Realización de auditorías internas de aplicaciones | INSUFICIENTE            | PM                         | NO                          | auditorías sin metodología.        |
+| SEG8 — Realización de auditorías internas continuas de los sistemas | INSUFICIENTE            | PM                         | NO                          | control continuo sin métricas.     |
+| SEG9 — Mantenimiento y uso de logs centralizados | INSUFICIENTE            | PM                         | NO                          | logs sin explotación técnica.      |
+| SEG10 — Implementación y mantenimiento de claves RSA unificadas | INSUFICIENTE            | PM                         | NO                          | claves sin gestión avanzada.       |
+| SEG11 — Asistencia y soporte presencial en los diferentes eventos de Ciberseguridad de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | soporte sin procedimientos.        |
 
-#### CON — Automatización y contenedores
+#### CON — Automatización y contenedores (CON)
 
 | **Subproyecto**                                                      | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**            |
 | -------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------- |
 | CON1 — Mantenimiento y mejora del sistema de gestión de contenedores | INSUFICIENTE            | PM                         | NO                          | scripts sin orquestación.        |
-| CON2 — Mantenimiento y mejora de scripts y automatización de tareas  | INSUFICIENTE            | PM                         | NO                          | automatización sin herramientas. |
-| CON3 — Mantenimiento del sistema auxiliar de automatización          | INSUFICIENTE            | PM                         | NO                          | sistema auxiliar sin definición. |
+| CON2 — Mantenimiento y mejora de los scripts y sistemas de automatización de tareas | INSUFICIENTE            | PM                         | NO                          | automatización sin herramientas. |
+| CON3 — Mantenimiento y mejora del sistema auxiliar de automatización | INSUFICIENTE            | PM                         | NO                          | sistema auxiliar sin definición. |
 
-#### MIG — Gestión de la migración de servidores entre CPDs
+#### MIG — Gestión de la migración de servidores entre CPDs (MIG)
 
 | **Subproyecto**                                                             | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**              |
 | --------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ---------------------------------- |
 | MIG1 — Coordinación y planificación de la revisión de los entornos migrados | INSUFICIENTE            | PM                         | NO                          | coordinación sin metodología.      |
-| MIG2 — Fases preparatorias y planificación técnica de la migración          | INSUFICIENTE            | PM                         | NO                          | planificación sin fases definidas. |
-| MIG3 — Preparación de servidores y documentación de sistemas                | INSUFICIENTE            | PM                         | NO                          | preparación sin automatización.    |
-| MIG4 — Verificación de la migración                                         | INSUFICIENTE            | PM                         | NO                          | verificación sin criterios claros. |
-| MIG5 — Mantenimiento y soporte tras la migración                            | INSUFICIENTE            | PM                         | NO                          | soporte sin indicadores.           |
+| MIG2 — Fases preparatorias y planificación técnica de la migración | INSUFICIENTE            | PM                         | NO                          | planificación sin fases definidas. |
+| MIG3 — Preparación de servidores y documentación de sistemas | INSUFICIENTE            | PM                         | NO                          | preparación sin automatización.    |
+| MIG4 — verificación de la migración | INSUFICIENTE            | PM                         | NO                          | verificación sin criterios claros. |
+| MIG5 — Mantenimiento y soporte tras la migración | INSUFICIENTE            | PM                         | NO                          | soporte sin indicadores.           |
 
-#### IA — Inteligencia Artificial
+#### IA — Inteligencia Artificial (IA)
 
 | **Subproyecto**                                                           | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                        |
 | ------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------------- |
-| IA1 — Evaluación del rendimiento de los modelos seleccionados             | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| IA2 — Ingeniería de prompts adaptados para cada servicio                  | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| IA3 — Testeo de los guardarraíles para el entorno educativo               | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| IA4 — Evaluación de posibilidades de integración en distintos aplicativos | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| IA5 — Evaluación de capacidades de respuesta y límites por usuario        | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| IA1 — EVALUAR el rendimiento de los modelos seleccionados | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| IA2 — Ingeniería de Prompts adaptados para cada servicio | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| IA3 — Testeo de los guardarraíles para el entorno educativo | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| IA4 — Evaluar Posibilidades de Integración en Distintos Aplicativos | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| IA5 — Evaluación de Capacidades de Respuesta y Límites por Usuario | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
 
 ### Resumen cuantitativo del anexo
 
@@ -2855,8 +2857,8 @@ De forma separada se indican los errores técnicos relevantes, las propuestas de
 | **Clasificación**                    | **Número de proyectos** | **Porcentaje** |
 | ------------------------------------ | ----------------------: | -------------: |
 | No incluidos                         |                      21 |        23,60 % |
-| Desarrollo insuficiente o deficiente |                      66 |        74,16 % |
-| Desarrollo suficiente                |                       2 |         2,25 % |
+| Desarrollo insuficiente o deficiente |                      65 |        73,03 % |
+| Desarrollo suficiente                |                       3 |         3,37 % |
 | **TOTAL DE PROYECTOS**               |                  **89** |   **100,00 %** |
 
 #### Indicadores adicionales
@@ -2871,4 +2873,4 @@ Los indicadores no son excluyentes entre sí ni respecto del grado de desarrollo
 
 ### Conclusión del anexo
 
-El patrón dominante es el desarrollo insuficiente: 66 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. Solo UPD5 y UPD8 alcanzan desarrollo suficiente y el valor añadido real es residual.
+El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual.

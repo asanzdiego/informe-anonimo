@@ -290,25 +290,25 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 #### [CÓDIGO] — [DENOMINACIÓN]
 
-##### Requisito y alcance
+- **Requisito y alcance**
 
 *Resumir las funcionalidades, integraciones, condicionantes técnicos y entregables exigidos por el Anexo II.*
 
-##### Análisis de la propuesta
+- **Análisis de la propuesta**
 
 *Contrastar la solución del licitador con el requisito e identificar las evidencias concretas incluidas en la memoria.*
 
-##### Fortalezas y valor añadido
+- **Fortalezas y valor añadido**
 
 *Recoger los aspectos positivos acreditados y distinguir el cumplimiento del requisito de las mejoras reales.*
 
-##### Carencias, omisiones, errores o riesgos
+- **Carencias, omisiones, errores o riesgos**
 
 *Identificar limitaciones de cobertura, concreción, coherencia, viabilidad o verificabilidad y explicar su relevancia.*
 
-##### Valoración cualitativa
+- **Valoración cualitativa**
 
-**[EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
+- **[EXCELENTE / ALTA / MEDIA / BAJA / MUY BAJA]**
 
 *Justificar brevemente el nivel asignado y mantenerlo alineado con las evidencias expuestas.*
 

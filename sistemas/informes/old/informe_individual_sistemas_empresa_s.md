@@ -46,7 +46,7 @@ La propuesta presentada por empresa_s desarrolla este subproyecto con un nivel s
 
 En términos generales, la propuesta responde de forma sólida al requisito, desarrollando una solución técnicamente coherente, aunque con un margen de mejora en la definición de indicadores cuantificables y procedimientos detallados.
 
-**Alta**
+- **ALTA**
 
 ## BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma
 
@@ -60,7 +60,7 @@ Sin embargo, se detectan ciertas limitaciones en la identificación de herramien
 
 En conjunto, la propuesta presenta una cobertura amplia y técnicamente consistente, demostrando una capacidad adecuada para abordar la optimización proactiva del entorno.
 
-**Alta**
+- **ALTA**
 
 ## BD3 — Mantenimiento de las bases de datos de gestión de la configuración de EducaMadrid
 
@@ -74,7 +74,7 @@ El subproyecto BD3 exige el desarrollo y evolución de un sistema de gestión de
 
 En conjunto, la solución es coherente y demuestra un nivel adecuado de madurez técnica, aunque con ciertas carencias en la especificación de herramientas y métricas.
 
-**Alta**
+- **ALTA**
 
 ## BD4 — Mantenimiento de las bases de datos de las Aulas Virtuales
 
@@ -88,7 +88,7 @@ Las carencias detectadas se centran en la falta de identificación de herramient
 
 En términos globales, la cobertura del requisito es amplia y técnicamente consistente.
 
-**Alta**
+- **ALTA**
 
 ## BD5 — Mantenimiento de disparadores y Foreign Data Wrappers
 
@@ -102,7 +102,7 @@ No obstante, la propuesta presenta un nivel limitado de detalle en lo relativo a
 
 En conjunto, la solución es adecuada y demuestra una comprensión clara del requisito, aunque con margen de mejora en la definición técnica detallada.
 
-**Alta**
+- **ALTA**
 
 ## BD6 — Implementación y mantenimiento de bases de datos en entornos de microservicios
 
@@ -116,7 +116,7 @@ Sin embargo, se detecta la ausencia de herramientas específicas de orquestació
 
 En términos globales, la solución es consistente y alineada con el requisito, aunque con margen de mejora en la definición arquitectónica.
 
-**Alta**
+- **ALTA**
 
 ## Conclusión del bloque BD
 
@@ -138,7 +138,7 @@ El análisis del bloque de bases de datos pone de manifiesto que la propuesta de
 
 En conjunto, la propuesta responde adecuadamente al requisito, desarrollando un modelo operativo coherente orientado a la automatización y la optimización de capacidad.
 
-**Alta**
+- **ALTA**
 
 ## MON2 — Realización periódica de pruebas de estrés en diferentes entornos de la plataforma
 
@@ -170,7 +170,7 @@ Sin embargo, la propuesta presenta una cierta falta de definición en lo relativ
 
 En términos generales, la solución es consistente, bien estructurada y técnicamente adecuada para entornos de gran escala.
 
-**Alta**
+- **ALTA**
 
 ## MON4 — Monitorización y estadísticas de servicios basados en IA
 
@@ -184,7 +184,7 @@ No obstante, se detecta una menor profundidad en la definición de herramientas 
 
 En conjunto, la propuesta cubre el requisito de manera adecuada, incorporando elementos diferenciales propios de la operación de sistemas de IA, aunque con margen de mejora en la definición detallada de indicadores y herramientas.
 
-**Alta**
+- **ALTA**
 
 ## Conclusión del bloque MON
 
@@ -206,7 +206,7 @@ Sin embargo, la propuesta no desarrolla en profundidad los mecanismos de escalab
 
 En términos generales, la solución es técnicamente adecuada y bien orientada, aunque con margen de mejora en la definición operativa.
 
-**Alta**
+- **ALTA**
 
 ## UPD2 — Sistema secundario de videoconferencias con grabación
 
@@ -220,7 +220,7 @@ No obstante, la propuesta presenta un nivel de desarrollo limitado en lo relativ
 
 En conjunto, la solución cubre el requisito, aunque con un desarrollo técnico menos profundo que el observado en otros apartados.
 
-**Media**
+- **MEDIA**
 
 ## UPD3 — Mantenimiento y mejora de Mattermost
 
@@ -258,7 +258,7 @@ No obstante, el nivel de detalle sobre la configuración específica de pipeline
 
 En términos generales, la solución es coherente y alineada con el requisito, aunque con margen de mejora en la concreción técnica.
 
-**Alta**
+- **ALTA**
 
 ### BLOQUE UPD — ACTUALIZACIÓN DE SERVICIOS EXISTENTES
 
@@ -272,7 +272,7 @@ El subproyecto UPD6 requiere la gestión de la herramienta LimeSurvey incluyendo
 
 En consecuencia, aunque el planteamiento resulta coherente desde un punto de vista estructural, carece de profundidad técnica suficiente para evaluar su aplicabilidad en un entorno de gran escala.
 
-**Media**
+- **MEDIA**
 
 ## UPD7 — Mantenimiento y mejora de SonarQube
 
@@ -298,7 +298,7 @@ No obstante, la propuesta no profundiza en aspectos como la configuración de fl
 
 En términos generales, la solución es coherente y funcional, aunque con un desarrollo técnico moderado.
 
-**Alta**
+- **ALTA**
 
 ## UPD9 — Mantenimiento y configuración de Wowza Streaming Engine
 
@@ -312,7 +312,7 @@ Sin embargo, la propuesta no detalla aspectos operativos relevantes como la gest
 
 En conjunto, la solución presenta un nivel técnico adecuado y una alineación correcta con el requisito, aunque con margen de mejora en la definición operativa.
 
-**Alta**
+- **ALTA**
 
 ## UPD10 — Mantenimiento y gestión de contenidos AbiesWeb
 
@@ -324,7 +324,7 @@ El subproyecto UPD10 está orientado a la gestión de contenidos bibliográficos
 
 En conjunto, la cobertura del requisito es parcial y se mantiene en un nivel descriptivo general.
 
-**Media**
+- **MEDIA**
 
 ## UPD11 — Abies+
 
@@ -374,7 +374,7 @@ La propuesta de empresa_s incluye la utilización de Docker y la integración en
 
 Esta falta de definición limita significativamente la capacidad de evaluar la viabilidad de la solución en entornos distribuidos.
 
-**Media**
+- **MEDIA**
 
 ## UPD15 — Gestión y decomisionado de servidores
 
@@ -386,7 +386,7 @@ Sin embargo, no se describen procedimientos completos de decomisionado ni mecani
 
 En consecuencia, la propuesta presenta una cobertura parcial del requisito, con un nivel de detalle insuficiente para su evaluación completa.
 
-**Media**
+- **MEDIA**
 
 ## Conclusión del bloque UPD
 
@@ -424,7 +424,7 @@ El enfoque planteado permite identificar una comprensión adecuada del papel de 
 
 En consecuencia, la solución resulta funcional desde un punto de vista conceptual, pero presenta un desarrollo técnico limitado para abordar escenarios exigentes.
 
-**Media**
+- **MEDIA**
 
 ## CLO3 — Sistema de edición en línea de EducaMadrid
 
@@ -472,7 +472,7 @@ El subproyecto OTR2 se centra en la implementación de mecanismos de autenticaci
 
 En consecuencia, la solución resulta adecuada desde un punto de vista conceptual, pero carece de desarrollo técnico suficiente.
 
-**Media**
+- **MEDIA**
 
 ## OTR3 — Automatización de tareas
 
@@ -496,7 +496,7 @@ No obstante, el nivel de desarrollo técnico específico es limitado, ya que no 
 
 En consecuencia, la cobertura del requisito es parcial.
 
-**Media**
+- **MEDIA**
 
 ## OTR5 — Herramienta de flujos de trabajo
 
@@ -506,7 +506,7 @@ La propuesta de empresa_s no desarrolla de forma específica este subproyecto, l
 
 Esta ausencia de desarrollo impide evaluar la capacidad real de ejecución del requisito.
 
-**Baja**
+- **BAJA**
 
 ## OTR6 — Portal CAU
 
@@ -516,7 +516,7 @@ La propuesta de empresa_s aborda este ámbito de forma general, integrando la ge
 
 La falta de detalle técnico limita la valoración del subproyecto.
 
-**Media**
+- **MEDIA**
 
 ## OTR7 — Servicios de Inteligencia Artificial
 
@@ -546,7 +546,7 @@ La propuesta de empresa_s integra el sistema de correo dentro de una arquitectur
 
 En consecuencia, la cobertura del requisito resulta parcial, al centrarse en la infraestructura básica y omitir aspectos clave de control operativo.
 
-**Media**
+- **MEDIA**
 
 ## COR2 — Mantenimiento automatizado de listas de distribución
 
@@ -562,7 +562,7 @@ Esta falta de concreción reduce la capacidad de evaluar la viabilidad real de l
 
 En conjunto, la propuesta presenta una base conceptual adecuada pero carece del desarrollo técnico necesario para garantizar una implementación operativa completa del requisito.
 
-**Media**
+- **MEDIA**
 
 ## COR3 — Gestión de cuotas de correo
 
@@ -576,7 +576,7 @@ Asimismo, no se identifican herramientas específicas para la gestión de cuotas
 
 En consecuencia, la cobertura del requisito resulta parcial, al centrarse en la infraestructura base sin abordar los mecanismos funcionales asociados a la gestión de cuotas.
 
-**Media**
+- **MEDIA**
 
 ## COR4 — Control del spam
 
@@ -590,7 +590,7 @@ Asimismo, no se definen métricas asociadas al rendimiento del sistema de filtra
 
 La ausencia de estos elementos limita la capacidad de evaluar la eficacia real de la solución.
 
-**Media**
+- **MEDIA**
 
 ## COR5 — Mantenimiento de buzones de correo
 
@@ -630,7 +630,7 @@ La ausencia de herramientas específicas asociadas a la gestión del ciclo de vi
 
 En consecuencia, la propuesta presenta una base técnica adecuada, pero con un desarrollo insuficiente en lo relativo a la evolución estructurada del sistema.
 
-**Media**
+- **MEDIA**
 
 ## COR8 — Ampliación de servidores Mailbox
 
@@ -646,7 +646,7 @@ La falta de planificación de capacidad a medio y largo plazo introduce incertid
 
 En consecuencia, la solución resulta adecuada a nivel conceptual, pero con un desarrollo técnico limitado para su aplicación operativa.
 
-**Media**
+- **MEDIA**
 
 ## COR9 — Módulo receptor de inyección directa
 
@@ -660,7 +660,7 @@ Esta ausencia de desarrollo impide evaluar la capacidad real del licitador para 
 
 En consecuencia, la cobertura del requisito resulta claramente insuficiente.
 
-**Baja**
+- **BAJA**
 
 ## COR10 — Soporte del módulo de inyección directa
 
@@ -674,7 +674,7 @@ Asimismo, no se definen métricas de funcionamiento, ni acuerdos de nivel de ser
 
 En consecuencia, la propuesta no proporciona información suficiente para valorar la viabilidad operativa del mantenimiento del módulo, lo que supone una cobertura claramente insuficiente del requisito.
 
-**Baja**
+- **BAJA**
 
 ## Conclusión del bloque COR
 
@@ -728,7 +728,7 @@ El subproyecto AV2 exige la gestión de los servidores de aplicación que soport
 
 La ausencia de este nivel de detalle limita la evaluación del grado real de cumplimiento del requisito.
 
-**Media**
+- **MEDIA**
 
 ## AV3 — Despliegue de nuevos grupos de aulas virtuales
 
@@ -740,7 +740,7 @@ La propuesta de empresa_s incorpora conceptos de automatización y despliegue me
 
 En consecuencia, la cobertura del subproyecto resulta parcialmente insuficiente.
 
-**Media**
+- **MEDIA**
 
 ## AV4 — Redistribución de NFS de datos
 
@@ -772,7 +772,7 @@ La propuesta de empresa_s incluye LDAP como uno de los pilares de su arquitectur
 
 En consecuencia, la cobertura del requisito resulta parcial.
 
-**Media**
+- **MEDIA**
 
 ## POR2 — Migración del sistema LDAP máster
 
@@ -784,7 +784,7 @@ No se describen fases de migración, ni entornos de pruebas, ni mecanismos de va
 
 En consecuencia, la propuesta presenta una carencia significativa en este subproyecto.
 
-**Baja**
+- **BAJA**
 
 ## Conclusión del bloque POR
 
@@ -808,7 +808,7 @@ Esta falta de desarrollo reduce el nivel de concreción técnica y limita la eva
 
 En consecuencia, la propuesta cubre el requisito desde una perspectiva general de control del sistema, pero no alcanza el grado de detalle necesario en el ámbito específico de DNS.
 
-**Media**
+- **MEDIA**
 
 ## SEG2 — LDAP Máster para usuarios privilegiados
 
@@ -838,7 +838,7 @@ Se aprecia que el modelo de operación incorpora la actualización de componente
 
 La ausencia de estos elementos introduce incertidumbre en la ejecución del proceso y limita la verificabilidad del cumplimiento del requisito.
 
-**Media**
+- **MEDIA**
 
 ## SEG4 — Gestión de dominios DNS
 
@@ -852,7 +852,7 @@ Asimismo, no se incluyen métricas operativas ni indicadores de rendimiento que 
 
 En consecuencia, la cobertura del requisito se mantiene en un nivel general, sin un desarrollo técnico específico.
 
-**Media**
+- **MEDIA**
 
 ## SEG5 — Análisis de vulnerabilidades
 
@@ -882,7 +882,7 @@ Asimismo, no se incluyen métricas cuantificadas relacionadas con tiempos de det
 
 En consecuencia, la propuesta presenta una base conceptual adecuada en materia de observabilidad y monitorización, pero con un desarrollo insuficiente en lo relativo a la operación estructurada de la detección y respuesta ante incidentes.
 
-**Media**
+- **MEDIA**
 
 ## SEG7 — Auditorías internas de aplicaciones
 
@@ -896,7 +896,7 @@ La ausencia de estos elementos limita la capacidad de evaluar la madurez del pro
 
 En consecuencia, la cobertura del requisito es adecuada a nivel conceptual, pero insuficiente en su desarrollo operativo.
 
-**Media**
+- **MEDIA**
 
 ## SEG8 — Auditorías internas continuas de sistemas
 
@@ -910,7 +910,7 @@ Asimismo, no se identifican indicadores de control ni métricas que permitan med
 
 En consecuencia, la propuesta presenta un enfoque coherente desde la perspectiva de monitorización continua, pero no alcanza el nivel de formalización requerido para auditorías continuas estructuradas.
 
-**Media**
+- **MEDIA**
 
 ## SEG9 — Logs centralizados
 
@@ -924,7 +924,7 @@ Se valora positivamente la integración de logs, métricas y trazas dentro de un
 
 A pesar de estas carencias, la claridad del enfoque y su integración dentro del modelo global de observabilidad permiten valorar positivamente este subproyecto.
 
-**Alta**
+- **ALTA**
 
 ## SEG10 — Claves RSA unificadas
 
@@ -938,7 +938,7 @@ La ausencia de este desarrollo limita la alineación con el requisito, especialm
 
 En consecuencia, la cobertura del subproyecto resulta parcial.
 
-**Media**
+- **MEDIA**
 
 ## SEG11 — Soporte en eventos de Ciberseguridad
 
@@ -952,7 +952,7 @@ La falta de concreción impide evaluar con precisión el nivel de preparación p
 
 En consecuencia, la propuesta cubre el requisito de forma genérica, pero sin un desarrollo específico suficiente.
 
-**Media**
+- **MEDIA**
 
 ## Conclusión del bloque SEG
 
@@ -974,7 +974,7 @@ Asimismo, el propio planteamiento indica en algunos casos que el uso de determin
 
 En consecuencia, la solución resulta conceptualmente adecuada pero insuficientemente desarrollada para garantizar su aplicabilidad en un entorno de gran escala.
 
-**Media**
+- **MEDIA**
 
 ## CON2 — Automatización de tareas
 
@@ -988,7 +988,7 @@ Sin embargo, no se identifican sistemas centralizados de orquestación ni plataf
 
 A pesar de esta limitación, el subproyecto presenta una cobertura adecuada y consistente con el planteamiento general de la propuesta.
 
-**Alta**
+- **ALTA**
 
 ## CON3 — Sistema auxiliar de automatización
 
@@ -1020,7 +1020,7 @@ Asimismo, el modelo de gobierno multinivel (estratégico, táctico y operativo) 
 
 En consecuencia, la propuesta ofrece una base funcional adecuada desde el punto de vista de monitorización y control, pero carece de un desarrollo operativo detallado en lo relativo a la coordinación y revisión de entornos migrados.
 
-**Media**
+- **MEDIA**
 
 ## MIG2 — Fases preparatorias y planificación técnica
 

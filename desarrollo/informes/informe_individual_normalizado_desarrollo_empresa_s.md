@@ -196,10 +196,10 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente, salvo el 0 %, que se clasifica como **MUY BAJA**.
 - **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
 
 ### Valoración de la planificación del servicio
@@ -232,10 +232,10 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente, salvo el 0 %, que se clasifica como **MUY BAJA**.
 - **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
 
 ### Fases del proceso de valoración individual
@@ -286,7 +286,7 @@ La propuesta desarrolla de forma completa y mayoritariamente individualizada los
 
 #### Cobertura del Anexo II
 
-De los 85 proyectos, 81 presentan desarrollo suficiente, 4 desarrollo insuficiente y 0 no incluyen una solución concreta. La cobertura es completa y homogénea en TRA, AV, MED, COR, CLO, WPM, VID, servicios unitarios y sistemas complementarios. Las soluciones se adaptan al entorno EducaMadrid y mantienen criterios comunes de seguridad, integración y operación. WEK constituye la principal excepción: recibe un tratamiento agregado y menos individualizado, aunque incorpora una mejora global basada en despliegue reproducible, copia de seguridad y rollback.
+De los 85 proyectos, 81 presentan desarrollo suficiente, 4 desarrollo insuficiente y 0 no incluyen una solución concreta. La cobertura nominal es completa: los 85 proyectos están presentes y aportan una solución, aunque la cobertura efectiva individualizada no es uniforme. Las soluciones se adaptan al entorno EducaMadrid y mantienen criterios comunes de seguridad, integración y operación. WEK constituye la principal excepción: sus cuatro proyectos reciben un tratamiento agregado y se clasifican individualmente como insuficientes, aunque el bloque incorpora una mejora global basada en despliegue reproducible, copia de seguridad y rollback.
 
 #### Fortalezas y aportaciones de valor añadido
 

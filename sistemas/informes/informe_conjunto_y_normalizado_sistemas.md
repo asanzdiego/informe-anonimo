@@ -1,12 +1,12 @@
 # INFORME DE VALORACIÓN TÉCNICA
 
-[DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])
+DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y OTROS SISTEMAS DE EDUCAMADRID (BAC06_2026)
 
 ## INTRODUCCIÓN
 
 ### Objeto del informe
 
-El presente informe tiene por objeto realizar la **valoración técnica comparativa de las propuestas presentadas por empresa_s, empresa_n y empresa_u** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los servicios de **[DENOMINACIÓN DEL CONTRATO O SERVICIO] ([NÚMERO DE EXPEDIENTE])**.
+El presente informe tiene por objeto realizar la **valoración técnica comparativa de las propuestas presentadas por empresa_s y empresa_n** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los servicios de **DESARROLLO EVOLUTIVO Y CORRECTIVO DEL PORTAL EDUCATIVO, EL LDAP, EL CLOUD, MAX Y OTROS SISTEMAS DE EDUCAMADRID (BAC06_2026)**.
 
 El informe determina la puntuación correspondiente a los criterios sujetos a juicio de valor, comprueba el cumplimiento del **umbral mínimo de 15 puntos sobre 30** y formula la propuesta de admisión o exclusión que procede para cada oferta.
 
@@ -143,11 +143,11 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
-- **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente.
+- **MUY BAJA:** exactamente el 0 % de la puntuación de la sección correspondiente; en el 0 % prevalece esta categoría específica.
 
 ### Valoración de la planificación del servicio
 
@@ -179,11 +179,11 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
 
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
-- **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
+- **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
+- **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
+- **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
+- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente.
+- **MUY BAJA:** exactamente el 0 % de la puntuación de la sección correspondiente; en el 0 % prevalece esta categoría específica.
 
 ### Fases del proceso de valoración
 
@@ -194,6 +194,10 @@ El proceso se desarrolla en dos fases:
 2. **Valoración comparativa:** traslado homogéneo de los resultados individuales al esquema de subcriterios, asignación de niveles y puntuaciones, y comparación global de todas las ofertas.
 
 Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y garantiza la aplicación uniforme de los criterios a todos los licitadores.
+
+### Escala de datos derivados
+
+Cuando el nivel cualitativo de cada subproyecto se traslada al CSV de tareas, se aplica una conversión única y reproducible: **MUY BAJA=0, BAJA=2, MEDIA=5, ALTA=8 y EXCELENTE=10**. El valor numérico deriva del nivel cualitativo y no del grado de desarrollo del anexo, que constituye una dimensión separada.
 
 ## ANÁLISIS INDIVIDUAL DE LAS PROPUESTAS TÉCNICAS
 
@@ -207,21 +211,11 @@ Uno de los aspectos más destacables de la propuesta es su desarrollo en los blo
 
 Asimismo, se aprecia una **diferenciación explícita de soluciones en función de la tipología tecnológica** (MariaDB, PostgreSQL, microservicios, sistemas de streaming, etc.), lo que constituye un indicador de adaptación al contexto técnico concreto del pliego y evita planteamientos genéricos.
 
-No obstante, la propuesta presenta una serie de debilidades relevantes que afectan a su valoración global. De forma recurrente a lo largo de múltiples subproyectos se detecta una **insuficiente definición de métricas cuantificables**, umbrales operativos o indicadores de rendimiento, lo que limita la verificabilidad de la solución y dificulta la evaluación objetiva de su comportamiento en explotación real.
+No obstante, la propuesta presenta una limitación transversal que afecta a su valoración global: en múltiples subproyectos resulta **incompleta la cuantificación de métricas, umbrales operativos, valores objetivo y criterios de aceptación**, lo que reduce la verificabilidad de los resultados en explotación real.
 
-Asimismo, en determinados bloques se observa una **falta de desarrollo específico por herramienta o sistema**, especialmente en el ámbito de actualización de servicios (UPD), cloud, correo electrónico o gestión de identidades. En estos casos, la propuesta adopta un enfoque más generalista, sin alcanzar el nivel de detalle técnico requerido para entornos de alta complejidad.
+La revisión de la oferta original confirma, en cambio, desarrollo específico para los trece bloques del Anexo II. En particular, MAX contiene procedimientos diferenciados de mantenimiento presencial y remoto, construcción y validación de distribuciones, repositorios, maquetas y soporte; los módulos de inyección directa de correo se desarrollan mediante QMQP y qmqpd; y MIG3 y MIG4 separan la preparación documental de la verificación de la migración.
 
-Esta heterogeneidad en el nivel de desarrollo alcanza su máxima expresión en algunos bloques críticos, destacando especialmente:
-
-- el **bloque MAX**, en el que no existe desarrollo técnico específico
-
-- determinados subproyectos del bloque de correo electrónico, con cobertura parcial
-
-- algunos sistemas concretos en los que no se identifican herramientas ni procedimientos detallados
-
-Estas carencias evidencian una **falta de adaptación completa al alcance total del pliego**, lo que introduce incertidumbre en la capacidad de ejecución global del servicio en todos sus ámbitos.
-
-En términos globales, la propuesta de empresa_s puede considerarse **técnicamente sólida en los bloques principales**, especialmente aquellos relacionados con infraestructuras críticas y operación de sistemas complejos. No obstante, presenta **debilidades significativas en términos de uniformidad, profundidad técnica en determinados ámbitos y definición operativa detallada**, lo que condiciona su valoración global dentro del marco del Documento de Invitación.
+En términos globales, la propuesta de empresa_s puede considerarse **técnicamente sólida y adaptada al alcance del pliego**. La distancia respecto del nivel excelente deriva principalmente de la cuantificación y formalización incompletas de determinados compromisos, no de la ausencia de solución en MAX, correo o migración.
 
 ### Propuesta técnica de empresa_n
 
@@ -299,35 +293,35 @@ Esta diferencia **condiciona de forma determinante la valoración en los criteri
 
 ### Valoración comparativa de la solución técnica ofertada
 
-| **Subcriterio** | **Máximo** | **empresa_s: nivel** | **Puntos** | **empresa_n: nivel** | **Puntos** |
-| --- | ---: | --- | ---: | --- | ---: |
-| Arquitectura | 2 | Alta | 1,50 | Media | 0,90 |
-| Comprensión de requisitos | 2 | Alta | 1,50 | Media | 1,00 |
-| Viabilidad | 1 | Media-Alta | 0,65 | Media-Baja | 0,40 |
-| Metodología | 1 | Media-Alta | 0,65 | Media | 0,50 |
-| Rendimiento | 1 | Alta | 0,75 | Baja | 0,25 |
-| Satisfacción de requisitos | 8 | Alta | 6,00 | Muy baja | 2,00 |
-| **Total** | **15** |  | **11,05** |  | **5,05** |
+| **Subcriterio**            | **Máximo** | **empresa_s: nivel** | **Puntos** | **empresa_n: nivel** | **Puntos** |
+| -------------------------- | ---------: | -------------------- | ---------: | -------------------- | ---------: |
+| Arquitectura               |          2 | ALTA                 |       1,50 | MEDIA                |       0,90 |
+| Comprensión de requisitos  |          2 | ALTA                 |       1,50 | MEDIA                |       1,00 |
+| Viabilidad                 |          1 | ALTA                 |       0,65 | MEDIA                |       0,40 |
+| Metodología                |          1 | ALTA                 |       0,65 | MEDIA                |       0,50 |
+| Rendimiento                |          1 | ALTA                 |       0,75 | BAJA                 |       0,25 |
+| Satisfacción de requisitos |          8 | ALTA                 |       6,00 | BAJA                 |       2,00 |
+| **Total**                  |     **15** |                      |  **11,05** |                      |   **5,05** |
 
 ### Valoración comparativa de la planificación del servicio
 
-| **Subcriterio** | **Máximo** | **empresa_s: nivel** | **Puntos** | **empresa_n: nivel** | **Puntos** |
-| --- | ---: | --- | ---: | --- | ---: |
-| Calendario y planificación | 11 | Media-Alta | 7,50 | Media | 5,00 |
-| Análisis de riesgos | 1 | Media | 0,50 | Baja | 0,25 |
-| Plan de contingencias | 1 | Media | 0,50 | Baja | 0,25 |
-| Plan de calidad | 1 | Media-Alta | 0,65 | Media | 0,50 |
-| Trazabilidad | 1 | Media-Alta | 0,65 | Media-Baja | 0,40 |
-| **Total** | **15** |  | **9,80** |  | **6,40** |
+| **Subcriterio**            | **Máximo** | **empresa_s: nivel** | **Puntos** | **empresa_n: nivel** | **Puntos** |
+| -------------------------- | ---------: | -------------------- | ---------: | -------------------- | ---------: |
+| Calendario y planificación |         11 | ALTA                 |       7,50 | MEDIA                |       5,00 |
+| Análisis de riesgos        |          1 | MEDIA                |       0,50 | BAJA                 |       0,25 |
+| Plan de contingencias      |          1 | MEDIA                |       0,50 | BAJA                 |       0,25 |
+| Plan de calidad            |          1 | ALTA                 |       0,65 | MEDIA                |       0,50 |
+| Trazabilidad               |          1 | ALTA                 |       0,65 | MEDIA                |       0,40 |
+| **Total**                  |     **15** |                      |   **9,80** |                      |   **6,40** |
 
 ### Resultado global de los criterios sujetos a juicio de valor
 
 La suma de los dos bloques y la comprobación del umbral mínimo arrojan el siguiente resultado:
 
 | **Licitador** | **Solución técnica** | **Planificación** | **Total sobre 30** | **Umbral de 15 puntos** |
-| --- | ---: | ---: | ---: | --- |
-| empresa_s | 11,05 | 9,80 | **20,85** | SUPERA |
-| empresa_n | 5,05 | 6,40 | **11,45** | NO SUPERA |
+| ------------- | -------------------: | ----------------: | -----------------: | ----------------------- |
+| empresa_s     |                11,05 |              9,80 |          **20,85** | SUPERA                  |
+| empresa_n     |                 5,05 |              6,40 |          **11,45** | NO SUPERA               |
 
 ### Justificación de la valoración comparativa
 
@@ -418,4 +412,3 @@ Asimismo, debe señalarse que la exclusión se basa en una **evaluación objetiv
 En relación con la continuación del procedimiento, y dado que **únicamente la oferta de empresa_s supera el umbral mínimo de calidad técnica**, se propone que dicha empresa **continúe en el proceso de adjudicación**, procediéndose a la valoración de los criterios evaluables mediante fórmulas conforme a lo establecido en el pliego.
 
 La presente propuesta se formula en cumplimiento de los **principios de igualdad, objetividad y transparencia** que rigen la contratación pública, garantizando que la decisión adoptada responde exclusivamente a la aplicación de los criterios técnicos establecidos en la documentación contractual.
-
