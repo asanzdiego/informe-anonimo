@@ -1,13 +1,13 @@
 # INFORME DE VALORACIÓN TÉCNICA INDIVIDUAL
 
-- **Contrato:** DESARROLLO EVOLUTIVO Y CORRECTIVO DE LAS AULAS VIRTUALES, LA MEDIATECA, LAS WEBS DE CENTRO, EL CORREO WEB, EMPIEZA Y OTRAS APLICACIONES DE EDUCAMADRID (BAC07_2026)
+- **Contrato:** Desarrollo evolutivo y correctivo de las Aulas Virtuales, la Mediateca, las webs de centro, el correo web, EMPieza y otras aplicaciones de EducaMadrid (BAC07_2026)
 - **Licitador:** empresa_s
 
 ## RESUMEN EJECUTIVO
 
 ### Objeto del informe
 
-El presente informe tiene por objeto realizar la **valoración técnica de la propuesta presentada por empresa_s** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los servicios de **DESARROLLO EVOLUTIVO Y CORRECTIVO DE LAS AULAS VIRTUALES, LA MEDIATECA, LAS WEBS DE CENTRO, EL CORREO WEB, EMPIEZA Y OTRAS APLICACIONES DE EDUCAMADRID (BAC07_2026)**.
+El presente informe tiene por objeto realizar la **valoración técnica de la propuesta presentada por empresa_s** en el procedimiento basado en el **Sistema Dinámico de Adquisición SDA 26/2021**, relativo a los servicios de **Desarrollo evolutivo y correctivo de las Aulas Virtuales, la Mediateca, las webs de centro, el correo web, EMPieza y otras aplicaciones de EducaMadrid (BAC07_2026)**.
 
 El informe determina la puntuación correspondiente a los criterios sujetos a juicio de valor, comprueba el cumplimiento del **umbral mínimo de 15 puntos sobre 30** y formula la propuesta de continuación o exclusión que procede para la oferta.
 

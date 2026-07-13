@@ -1,6 +1,6 @@
 # INFORME DE VALORACIÓN TÉCNICA INDIVIDUAL
 
-- **Contrato:** DESARROLLO EVOLUTIVO Y CORRECTIVO DE LAS AULAS VIRTUALES, LA MEDIATECA, LAS WEBS DE CENTRO, EL CORREO WEB, EMPIEZA Y OTRAS APLICACIONES DE EDUCAMADRID (BAC07_2026)
+- **Contrato:** Desarrollo evolutivo y correctivo de las Aulas Virtuales, la Mediateca, las webs de centro, el correo web, EMPieza y otras aplicaciones de EducaMadrid (BAC07_2026)
 - **Licitador:** empresa_u
 
 ## RESUMEN EJECUTIVO
