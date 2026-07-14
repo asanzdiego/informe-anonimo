@@ -199,7 +199,7 @@ Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia
 - **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
 - **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
 - **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente, salvo el 0 %, que se clasifica como **MUY BAJA**.
+- **BAJA:** del 1 % al 25 % de la puntuación de la sección correspondiente.
 - **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
 
 ### Valoración de la planificación del servicio
@@ -235,7 +235,7 @@ Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia
 - **EXCELENTE:** del 76 % al 100 % de la puntuación de la sección correspondiente.
 - **ALTA:** del 51 % al 75 % de la puntuación de la sección correspondiente.
 - **MEDIA:** del 26 % al 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** del 0 % al 25 % de la puntuación de la sección correspondiente, salvo el 0 %, que se clasifica como **MUY BAJA**.
+- **BAJA:** del 1 % al 25 % de la puntuación de la sección correspondiente.
 - **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
 
 ### Fases del proceso de valoración individual

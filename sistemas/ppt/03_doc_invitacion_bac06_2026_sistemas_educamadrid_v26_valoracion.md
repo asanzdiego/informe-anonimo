@@ -51,14 +51,6 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
 
 - **MUY BAJA**: La solución técnica aportada no describe o lo hace de forma muy incorrecta la arquitectura de los distintos subproyectos. La comprensión de los requisitos planteados es muy mala. La viabilidad del proyecto genera muchas dudas. La metodología de trabajo elegida no es utilizada dentro del ámbito tecnológico y no concuerda con las tareas del proyecto. Se justifica de forma convincente un rendimiento muy malo de las distintas soluciones aportadas. La solución técnica no cumple, o cumple muy justo los requisitos del pliego sin aportar mejoras o mejoras nada coherentes.
 
-Para cada criterio/subcriterio los porcentajes de las puntuaciones en referencia al árbol de puntuaciones es el siguiente:
-
-- **EXCELENTE:** hasta el 100 % de la puntuación de la sección correspondiente.
-- **ALTA:** hasta el 75 % de la puntuación de la sección correspondiente.
-- **MEDIA:** hasta el 50 % de la puntuación de la sección correspondiente.
-- **BAJA:** hasta el 25 % de la puntuación de la sección correspondiente.
-- **MUY BAJA:** 0 % de la puntuación de la sección correspondiente.
-
 **Planificación del servicio (15 puntos):** Los licitadores presentarán una memoria técnica descriptiva de la prestación del servicio. En dicha memoria se debe de incluir un diagrama de Gantt o similar con un calendario de los trabajos a desarrollar. Así mismo, la memoria deberá de incluir un análisis de riesgos del proyecto, un plan de gestión de contingencias, un plan de gestión de la calidad del servicio, y una descripción de cómo se va a fiscalizar la trazabilidad del servicio. En este apartado en concreto se valorarán los siguientes subcriterios:
 
 - Calendario de los trabajos a desarrollar (**11 puntos**),
