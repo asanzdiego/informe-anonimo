@@ -2800,7 +2800,7 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 #### BD — Mantenimiento y mejora de entornos de Bases de Datos (BD)
 
-| **Subproyecto**                                                                                 | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                       |
+| **Subproyecto**                                                                                 | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                       |
 | ----------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ------------------------------------------- |
 | BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y Proxy SQL avanzado | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para BD1. |
 | BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para BD2. |
@@ -2811,7 +2811,7 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 #### MON — Monitorización, testeo y pruebas de rendimiento (MON)
 
-| **Subproyecto**                                                                           | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                     |
+| **Subproyecto**                                                                           | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                     |
 | ----------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ----------------------------------------- |
 | MON1 — Mantenimiento periódico del almacenamiento de los centros | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para MON1. |
 | MON2 — Realización periódica de pruebas de estrés en diferentes entornos de la plataforma | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para MON2. |
@@ -2820,7 +2820,7 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 #### UPD — Actualización de servicios existentes (UPD)
 
-| **Subproyecto**                                                                                   | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                    |
+| **Subproyecto**                                                                                   | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                    |
 | ------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ---------------------------------------- |
 | UPD1 — Mantenimiento y mejora de los sistemas de videoconferencias de EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD1. |
 | UPD2 — Mantenimiento y mejora del sistema secundario de Videoconferencias con opción de grabación | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para UPD2. |
@@ -2840,7 +2840,7 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 #### CLO — Cloud (CLO)
 
-| **Subproyecto**                                                                              | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**               |
+| **Subproyecto**                                                                              | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**               |
 | -------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ----------------------------------- |
 | CLO1 — Mantenimiento del servicio de la nube de EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para CLO1. |
 | CLO2 — Mantenimiento y adaptación del sistema de almacenamiento temporal de datos de la nube | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para CLO2. |
@@ -2848,7 +2848,7 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 #### OTR — Otros desarrollos (OTR)
 
-| **Subproyecto**                                                                              | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                 |
+| **Subproyecto**                                                                              | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                 |
 | -------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ------------------------------------- |
 | OTR1 — Mantenimiento y mejora del sistema de autentificación centralizada Single Sign On (SSO) | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para OTR1. |
 | OTR2 — Mantenimiento, configuración y gestión 2FA en el servicio de Single Sign On (SSO) | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para OTR2. |
@@ -2860,7 +2860,7 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 #### COR — Correo electrónico (COR)
 
-| **Subproyecto**                                                                       | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**            |
+| **Subproyecto**                                                                       | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**            |
 | ------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------- |
 | COR1 — Mantenimiento y mejora de los sistemas de control de envíos de correo | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para COR1. |
 | COR2 — Mantenimiento automatizado de listas de distribución de EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para COR2. |
@@ -2875,7 +2875,7 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 #### MAX — Sistema Operativo MAX (MAX)
 
-| **Subproyecto**                                                                                | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                  |
+| **Subproyecto**                                                                                | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                  |
 | ---------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------- |
 | MAX1 — Mantenimiento y actualización de MAX de forma presencial en centros de forma regular | SUFICIENTE              | VA                         | NO                          | Intervención planificada, imágenes certificadas y diagnóstico remoto. |
 | MAX2 — Mantenimiento y actualización del servidor MAX para el desarrollo de distribuciones | SUFICIENTE              | VA                         | NO                          | Construcción CI/CD reproducible y trazable. |
@@ -2894,7 +2894,7 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 #### AV — Aulas Virtuales (AV)
 
-| **Subproyecto**                                                                                  | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**          |
+| **Subproyecto**                                                                                  | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**          |
 | ------------------------------------------------------------------------------------------------ | ----------------------- | -------------------------- | --------------------------- | ------------------------------ |
 | AV1 — Actualización y comprobación periódicas de servidores físicos y virtuales de BBDD de los entornos de aulas virtuales | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para AV1. |
 | AV2 — Mantenimiento de los servidores virtuales FrontEnd de los entornos de aulas virtuales | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para AV2. |
@@ -2903,14 +2903,14 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 #### POR — Servicio de LDAP y Portal Educativo (POR)
 
-| **Subproyecto**                                                         | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**          |
+| **Subproyecto**                                                         | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**          |
 | ----------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ------------------------------ |
 | POR1 — Ampliación periódica del sistema de esclavos LDAP de EducaMadrid | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para POR1. |
 | POR2 — Migración del sistema LDAP máster de EducaMadrid | SUFICIENTE              | VA                         | NO                          | LDAP con LDAPS, replicación, HA, preproducción y copias. |
 
 #### SEG — Seguridad (SEG)
 
-| **Subproyecto**                                                        | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**               |
+| **Subproyecto**                                                        | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**               |
 | ---------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ----------------------------------- |
 | SEG1 — Mantenimiento y mejora del sistema de control de cambios en DNS | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG1. |
 | SEG2 — Mantenimiento y mejora de un LDAP Máster independiente para usuarios privilegiados | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para SEG2. |
@@ -2926,7 +2926,7 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 #### CON — Automatización y contenedores (CON)
 
-| **Subproyecto**                                                      | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**             |
+| **Subproyecto**                                                      | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**             |
 | -------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | --------------------------------- |
 | CON1 — Mantenimiento y mejora del sistema de gestión de contenedores | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para CON1. |
 | CON2 — Mantenimiento y mejora de los scripts y sistemas de automatización de tareas | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para CON2. |
@@ -2934,7 +2934,7 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 #### MIG — Gestión de la migración de servidores entre CPDs (MIG)
 
-| **Subproyecto**                                                             | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**            |
+| **Subproyecto**                                                             | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**            |
 | --------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------- |
 | MIG1 — Coordinación y planificación de la revisión de los entornos migrados | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para MIG1. |
 | MIG2 — Fases preparatorias y planificación técnica de la migración | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para MIG2. |
@@ -2944,7 +2944,7 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 #### IA — Inteligencia Artificial (IA)
 
-| **Subproyecto**                                                           | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**         |
+| **Subproyecto**                                                           | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**         |
 | ------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ----------------------------- |
 | IA1 — EVALUAR el rendimiento de los modelos seleccionados | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para IA1. |
 | IA2 — Ingeniería de Prompts adaptados para cada servicio | SUFICIENTE              | VA                         | NO                          | Mejora específica trazada en la oferta para IA2. |

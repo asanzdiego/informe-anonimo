@@ -970,7 +970,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### BD — Bases de Datos
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y ProxySQL avanzado | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -981,7 +981,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### MON — Monitorización, testeo y pruebas de rendimiento
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | MON1 — Mantenimiento periódico del almacenamiento de los centros | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | MON2 — Realización periódica de pruebas de estrés en diferentes entornos de la plataforma | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -990,7 +990,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### UPD — Actualización de servicios existentes
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | UPD1 — Mantenimiento y mejora de los sistemas de videoconferencias de EducaMadrid | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | UPD2 — Mantenimiento y mejora del sistema secundario de videoconferencias con opción de grabación | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -1010,7 +1010,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### CLO — Cloud
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | CLO1 — Mantenimiento del servicio de la nube de EducaMadrid | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | CLO2 — Mantenimiento y adaptación del sistema de almacenamiento temporal de datos de la nube | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -1018,7 +1018,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### OTR — Otros desarrollos
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | OTR1 — Mantenimiento y mejora del sistema de autenticación centralizada Single Sign-On (SSO) | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | OTR2 — Mantenimiento, configuración y gestión de 2FA en el servicio de Single Sign-On | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -1030,7 +1030,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### COR — Correo electrónico
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | COR1 — Mantenimiento y mejora de los sistemas de control de envíos de correo | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | COR2 — Mantenimiento automatizado de listas de distribución de EducaMadrid | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -1045,7 +1045,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### MAX — Sistema Operativo MAX
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | MAX1 — Mantenimiento y actualización de MAX de forma presencial en centros de forma regular | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | MAX2 — Mantenimiento y actualización del servidor MAX para el desarrollo de distribuciones | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -1064,7 +1064,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### AV — Aulas Virtuales
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | AV1 — Actualización y comprobación periódicas de servidores de bases de datos de aulas virtuales | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | AV2 — Mantenimiento de los servidores FrontEnd de aulas virtuales | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -1073,14 +1073,14 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### POR — Servicio de LDAP y Portal Educativo
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | POR1 — Ampliación periódica del sistema de esclavos LDAP de EducaMadrid | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | POR2 — Migración del sistema LDAP máster de EducaMadrid | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 
 #### SEG — Seguridad
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | SEG1 — Mantenimiento y mejora del sistema de control de cambios en DNS | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | SEG2 — LDAP Máster independiente para usuarios privilegiados | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -1096,7 +1096,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### CON — Automatización y contenedores
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | CON1 — Mantenimiento y mejora del sistema de gestión de contenedores | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | CON2 — Mantenimiento y mejora de scripts y automatización de tareas | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -1104,7 +1104,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### MIG — Gestión de la migración de servidores entre CPDs
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | MIG1 — Coordinación y planificación de la revisión de los entornos migrados | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | MIG2 — Fases preparatorias y planificación técnica de la migración | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -1114,7 +1114,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### IA — Inteligencia Artificial
 
-| **Subproyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Subproyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | IA1 — Evaluación del rendimiento de los modelos seleccionados | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | IA2 — Ingeniería de prompts adaptados para cada servicio | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |

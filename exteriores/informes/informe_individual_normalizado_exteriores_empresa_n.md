@@ -2437,7 +2437,7 @@ De forma separada se indican las propuestas de mejora sin valor añadido real (P
 
 #### Proyectos Web Liferay (ELIF)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | ELIF1 | SUFICIENTE | VA | NO | virtual hosts y despliegues controlados |
 | ELIF2 | SUFICIENTE | VA | NO | design system corporativo reutilizable |
@@ -2446,13 +2446,13 @@ De forma separada se indican las propuestas de mejora sin valor añadido real (P
 
 #### Innovación y Formación del Profesorado (IFP)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | IFP1 | SUFICIENTE | NO | NO | Desarrollo técnico evaluable. |
 
 #### Proyectos MoodleMisc (EMOM)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | EMOM1 | SUFICIENTE | VA | NO | CI/CD y auditoría automatizada |
 | EMOM2 | SUFICIENTE | PM | NO | evolucionar el modelo actual |
@@ -2464,21 +2464,21 @@ De forma separada se indican las propuestas de mejora sin valor añadido real (P
 
 #### Proyectos de Dinámicas (EDIN)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | EDIN1 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
 | EDIN2 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
 
 #### Integración con la plataforma EducaMadrid (EIPE)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | EIPE1 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
 | EIPE2 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
 
 #### Proyectos de Sistemas Externos (ESIS)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | ESIS1 | SUFICIENTE | VA | NO | actualización con validaciones previas |
 | ESIS2 | SUFICIENTE | VA | NO | optimización continua BBDD |
@@ -2514,7 +2514,7 @@ De forma separada se indican las propuestas de mejora sin valor añadido real (P
 
 #### Seguridad de Aplicaciones Web (ESEG)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | ESEG1 | SUFICIENTE | VA | NO | pentesting y seguimiento vulnerabilidades |
 | ESEG2 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
@@ -2522,14 +2522,14 @@ De forma separada se indican las propuestas de mejora sin valor añadido real (P
 
 #### Desarrollo Seguro de Aplicaciones Web (EDSA)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | EDSA1 | SUFICIENTE | VA | NO | análisis automatizado código |
 | EDSA2 | SUFICIENTE | PM | NO | apoyo metodológico desarrollo seguro |
 
 #### Gestión del programa de Bug Bounty (EBBO)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | EBBO1 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
 

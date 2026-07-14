@@ -814,7 +814,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Proyectos Web Liferay (ELIF)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | ELIF1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | ELIF2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -823,13 +823,13 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Innovación y Formación del Profesorado (IFP)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | IFP1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 
 #### Proyectos MoodleMisc (EMOM)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | EMOM1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | EMOM2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -841,21 +841,21 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Proyectos de Dinámicas (EDIN)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | EDIN1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | EDIN2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 
 #### Integración con la plataforma EducaMadrid (EIPE)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | EIPE1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | EIPE2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 
 #### Proyectos de Sistemas Externos (ESIS)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | ESIS1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | ESIS2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -891,7 +891,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Seguridad de Aplicaciones Web (ESEG)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | ESEG1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | ESEG2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -899,14 +899,14 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Desarrollo Seguro de Aplicaciones Web (EDSA)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | EDSA1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | EDSA2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 
 #### Gestión del programa de Bug Bounty (EBBO)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | EBBO1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 

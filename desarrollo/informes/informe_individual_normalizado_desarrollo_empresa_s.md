@@ -29,9 +29,9 @@ La cobertura es completa y homogénea en TRA, AV, MED, COR, CLO, WPM, VID, servi
 
 | **Bloque**                 | **Puntuación máxima** | **Puntuación obtenida** |
 | -------------------------- | --------------------: | ----------------------: |
-| Solución técnica ofertada  |                 15,00 |                  13,60 |
-| Planificación del servicio |                 15,00 |                  13,10 |
-| **TOTAL** |             **30,00** |              **26,70** |
+| Solución técnica ofertada  |                 15,00 |                   13,60 |
+| Planificación del servicio |                 15,00 |                   13,10 |
+| **TOTAL**                  |             **30,00** |               **26,70** |
 
 ### Conclusión del resumen ejecutivo
 
@@ -614,13 +614,13 @@ Los 85 proyectos están cubiertos; 81 presentan desarrollo suficiente y solo WEK
 
 | **Subcriterio**                | **Máximo** | **Nivel** | **Puntuación** |
 | ------------------------------ | ---------: | --------- | -------------: |
-| Arquitectura | 2,00 | EXCELENTE | 1,80 |
-| Comprensión de los requisitos | 2,00 | EXCELENTE | 1,90 |
-| Viabilidad | 1,00 | EXCELENTE | 0,90 |
-| Metodología | 1,00 | EXCELENTE | 0,90 |
-| Rendimiento | 1,00 | EXCELENTE | 0,90 |
-| Satisfacción de los requisitos | 8,00 | EXCELENTE | 7,20 |
-| **TOTAL SOLUCIÓN TÉCNICA**     |  **15,00** |           |     **13,60** |
+| Arquitectura                   |       2,00 | EXCELENTE |           1,80 |
+| Comprensión de los requisitos  |       2,00 | EXCELENTE |           1,90 |
+| Viabilidad                     |       1,00 | EXCELENTE |           0,90 |
+| Metodología                    |       1,00 | EXCELENTE |           0,90 |
+| Rendimiento                    |       1,00 | EXCELENTE |           0,90 |
+| Satisfacción de los requisitos |       8,00 | EXCELENTE |           7,20 |
+| **TOTAL SOLUCIÓN TÉCNICA**     |  **15,00** |           |      **13,60** |
 
 ## EVALUACIÓN DE LA PLANIFICACIÓN DEL SERVICIO
 
@@ -667,20 +667,20 @@ La propuesta relaciona requisitos, actuaciones y entregables, registra la ejecuc
 
 | **Subcriterio**                     | **Máximo** | **Nivel** | **Puntuación** |
 | ----------------------------------- | ---------: | --------- | -------------: |
-| Calendario y planificación temporal | 11,00 | EXCELENTE | 9,60 |
-| Análisis de riesgos | 1,00 | EXCELENTE | 0,85 |
-| Plan de contingencias | 1,00 | EXCELENTE | 0,90 |
-| Plan de calidad | 1,00 | EXCELENTE | 0,90 |
-| Trazabilidad | 1,00 | EXCELENTE | 0,85 |
-| **TOTAL PLANIFICACIÓN**             |  **15,00** |           |     **13,10** |
+| Calendario y planificación temporal |      11,00 | EXCELENTE |           9,60 |
+| Análisis de riesgos                 |       1,00 | EXCELENTE |           0,85 |
+| Plan de contingencias               |       1,00 | EXCELENTE |           0,90 |
+| Plan de calidad                     |       1,00 | EXCELENTE |           0,90 |
+| Trazabilidad                        |       1,00 | EXCELENTE |           0,85 |
+| **TOTAL PLANIFICACIÓN**             |  **15,00** |           |      **13,10** |
 
 ## RESULTADO FINAL CONSOLIDADO
 
 | **Bloque**                 | **Puntuación máxima** | **Puntuación obtenida** |
 | -------------------------- | --------------------: | ----------------------: |
-| Solución técnica ofertada  |                 15,00 |                  13,60 |
-| Planificación del servicio |                 15,00 |                  13,10 |
-| **PUNTUACIÓN FINAL** |             **30,00** |              **26,70** |
+| Solución técnica ofertada  |                 15,00 |                   13,60 |
+| Planificación del servicio |                 15,00 |                   13,10 |
+| **PUNTUACIÓN FINAL**       |             **30,00** |               **26,70** |
 
 ### Interpretación de la puntuación
 
@@ -743,138 +743,138 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Bloque transversal (TRA)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| TRA1 | SUFICIENTE | VA | NO | modo “simulación” |
-| TRA2 | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
-| TRA3 | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
-| TRA4 | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
-| TRA5 | SUFICIENTE | VA | NO | mejora de seguridad y soporte |
-| TRA6 | SUFICIENTE | VA | NO | generación automática de una especificación OpenAPI |
-| TRA7 | SUFICIENTE | VA | NO | verificador automático de secretos expuestos |
-| TRA8 | SUFICIENTE | VA | NO | modo identificativo único para eventos de centro o de calendario escolar |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                                    |
+|--------------|-------------------------|--------|-----------|--------------------------------------------------------------------------|
+| TRA1         | SUFICIENTE              | VA     | NO        | modo “simulación”                                                        |
+| TRA2         | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable.                                           |
+| TRA3         | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable.                                           |
+| TRA4         | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable.                                           |
+| TRA5         | SUFICIENTE              | VA     | NO        | mejora de seguridad y soporte                                            |
+| TRA6         | SUFICIENTE              | VA     | NO        | generación automática de una especificación OpenAPI                      |
+| TRA7         | SUFICIENTE              | VA     | NO        | verificador automático de secretos expuestos                             |
+| TRA8         | SUFICIENTE              | VA     | NO        | modo identificativo único para eventos de centro o de calendario escolar |
 
 #### Aulas Virtuales (AV)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| AV1 | SUFICIENTE | VA | NO | “informe de salud post-upgrade” por isla |
-| AV2 | SUFICIENTE | VA | NO | perfiles para tráfico web y tareas internas |
-| AV3 | SUFICIENTE | VA | NO | ficha técnica por plugin con “decisión de ciclo de vida” |
-| AV4 | SUFICIENTE | VA | NO | cuadro de mando técnico de salud Moodle |
-| AV5 | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
-| AV6 | SUFICIENTE | VA | NO | modo compacto |
-| AV7 | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
-| AV8 | SUFICIENTE | VA | NO | calendario técnico de “campaña de inicio de curso” |
-| AV9 | SUFICIENTE | VA | NO | modo “dry-run” |
-| AV10 | SUFICIENTE | VA | NO | prueba automática de conectividad |
-| AV11 | SUFICIENTE | VA | NO | notificación por correo al docente |
-| AV12 | SUFICIENTE | VA | NO | opción de generar textos en distintos idiomas con IA |
-| AV13 | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
-| AV14 | SUFICIENTE | VA | NO | mostrar NIA enmascarado cuando no sea imprescindible verlo completo |
-| AV15 | SUFICIENTE | VA | NO | SSO funcional desde el aplicativo móvil |
-| AV16 | SUFICIENTE | VA | NO | prueba de carga específica para Kuet |
-| AV17 | SUFICIENTE | VA | NO | modo de previsualización |
-| AV18 | SUFICIENTE | VA | NO | simulación previa “validar sin enviar” |
-| AV19 | SUFICIENTE | VA | NO | añadir estimación previa de impacto |
-| AV20 | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
-| AV21 | SUFICIENTE | VA | NO | añadir scopes de API por tipo de operación |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                               |
+| ------------ | ----------------------- | ------ | --------- | ------------------------------------------------------------------- |
+| AV1          | SUFICIENTE              | VA     | NO        | “informe de salud post-upgrade” por isla                            |
+| AV2          | SUFICIENTE              | VA     | NO        | perfiles para tráfico web y tareas internas                         |
+| AV3          | SUFICIENTE              | VA     | NO        | ficha técnica por plugin con “decisión de ciclo de vida”            |
+| AV4          | SUFICIENTE              | VA     | NO        | cuadro de mando técnico de salud Moodle                             |
+| AV5          | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable.                                      |
+| AV6          | SUFICIENTE              | VA     | NO        | modo compacto                                                       |
+| AV7          | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable.                                      |
+| AV8          | SUFICIENTE              | VA     | NO        | calendario técnico de “campaña de inicio de curso”                  |
+| AV9          | SUFICIENTE              | VA     | NO        | modo “dry-run”                                                      |
+| AV10         | SUFICIENTE              | VA     | NO        | prueba automática de conectividad                                   |
+| AV11         | SUFICIENTE              | VA     | NO        | notificación por correo al docente                                  |
+| AV12         | SUFICIENTE              | VA     | NO        | opción de generar textos en distintos idiomas con IA                |
+| AV13         | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable.                                      |
+| AV14         | SUFICIENTE              | VA     | NO        | mostrar NIA enmascarado cuando no sea imprescindible verlo completo |
+| AV15         | SUFICIENTE              | VA     | NO        | SSO funcional desde el aplicativo móvil                             |
+| AV16         | SUFICIENTE              | VA     | NO        | prueba de carga específica para Kuet                                |
+| AV17         | SUFICIENTE              | VA     | NO        | modo de previsualización                                            |
+| AV18         | SUFICIENTE              | VA     | NO        | simulación previa “validar sin enviar”                              |
+| AV19         | SUFICIENTE              | VA     | NO        | añadir estimación previa de impacto                                 |
+| AV20         | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable.                                      |
+| AV21         | SUFICIENTE              | VA     | NO        | añadir scopes de API por tipo de operación                          |
 
 #### Mediateca (MED)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| MED1 | SUFICIENTE | VA | NO | incorporar todos los subtítulos multiidioma en las búsquedas por Elastic |
-| MED2 | SUFICIENTE | VA | NO | “modo explicación” |
-| MED3 | SUFICIENTE | VA | NO | limitar la comprobación de sesión activa en ciertos casos |
-| MED4 | SUFICIENTE | VA | NO | guardado de versiones anteriores del proyecto |
-| MED5 | SUFICIENTE | VA | NO | comprobación previa del ZIP e informe al usuario |
-| MED6 | SUFICIENTE | VA | NO | modo “simulación” |
-| MED7 | SUFICIENTE | VA | NO | mostrar antes de enviar validación ligera en cliente para extensiones admitidas |
-| MED8 | SUFICIENTE | VA | NO | bloque “qué puedo hacer ahora” |
-| MED9 | SUFICIENTE | VA | NO | transcripción multiidioma |
-| MED10 | SUFICIENTE | VA | NO | indicador interno de confianza |
-| MED11 | SUFICIENTE | VA | NO | mapa vivo de deuda técnica |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                                           |
+| ------------ | ----------------------- | ------ | --------- | ------------------------------------------------------------------------------- |
+| MED1         | SUFICIENTE              | VA     | NO        | incorporar todos los subtítulos multiidioma en las búsquedas por Elastic        |
+| MED2         | SUFICIENTE              | VA     | NO        | “modo explicación”                                                              |
+| MED3         | SUFICIENTE              | VA     | NO        | limitar la comprobación de sesión activa en ciertos casos                       |
+| MED4         | SUFICIENTE              | VA     | NO        | guardado de versiones anteriores del proyecto                                   |
+| MED5         | SUFICIENTE              | VA     | NO        | comprobación previa del ZIP e informe al usuario                                |
+| MED6         | SUFICIENTE              | VA     | NO        | modo “simulación”                                                               |
+| MED7         | SUFICIENTE              | VA     | NO        | mostrar antes de enviar validación ligera en cliente para extensiones admitidas |
+| MED8         | SUFICIENTE              | VA     | NO        | bloque “qué puedo hacer ahora”                                                  |
+| MED9         | SUFICIENTE              | VA     | NO        | transcripción multiidioma                                                       |
+| MED10        | SUFICIENTE              | VA     | NO        | indicador interno de confianza                                                  |
+| MED11        | SUFICIENTE              | VA     | NO        | mapa vivo de deuda técnica                                                      |
 
 #### Correo Web (COR)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| COR1 | SUFICIENTE | VA | NO | pantalla de diagnóstico |
-| COR2 | SUFICIENTE | VA | NO | botón “el resumen no es correcto” |
-| COR3 | SUFICIENTE | VA | NO | opción “mantener tono institucional” |
-| COR4 | SUFICIENTE | VA | NO | opción “no cambiar información factual” |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                   |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------------- |
+| COR1         | SUFICIENTE              | VA     | NO        | pantalla de diagnóstico                 |
+| COR2         | SUFICIENTE              | VA     | NO        | botón “el resumen no es correcto”       |
+| COR3         | SUFICIENTE              | VA     | NO        | opción “mantener tono institucional”    |
+| COR4         | SUFICIENTE              | VA     | NO        | opción “no cambiar información factual” |
 
 #### Cloud (CLO)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| CLO1 | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
-| CLO2 | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**          |
+| ------------ | ----------------------- | ------ | --------- | ------------------------------ |
+| CLO1         | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable. |
+| CLO2         | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable. |
 
 #### WordPress Multisite (WPM)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| WPM1 | SUFICIENTE | VA | NO | panel técnico interno de versiones por componente |
-| WPM2 | SUFICIENTE | VA | NO | aviso de licencias a punto de caducar o pendientes de activar |
-| WPM3 | SUFICIENTE | VA | NO | procedimiento de correlación entre eventos del WAF y logs de WordPress |
-| WPM4 | SUFICIENTE | VA | NO | mejoras en captcha |
-| WPM5 | SUFICIENTE | VA | NO | política individualizada de 2FA |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                                  |
+| ------------ | ----------------------- | ------ | --------- | ---------------------------------------------------------------------- |
+| WPM1         | SUFICIENTE              | VA     | NO        | panel técnico interno de versiones por componente                      |
+| WPM2         | SUFICIENTE              | VA     | NO        | aviso de licencias a punto de caducar o pendientes de activar          |
+| WPM3         | SUFICIENTE              | VA     | NO        | procedimiento de correlación entre eventos del WAF y logs de WordPress |
+| WPM4         | SUFICIENTE              | VA     | NO        | mejoras en captcha                                                     |
+| WPM5         | SUFICIENTE              | VA     | NO        | política individualizada de 2FA                                        |
 
 #### Vídeo y Videoconferencia (VID)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| VID1 | SUFICIENTE | VA | NO | recolector de métricas por emisión |
-| VID2 | SUFICIENTE | VA | NO | regla de admisión progresiva para salas de invitados |
-| VID3 | SUFICIENTE | VA | NO | aviso de caducidad de grabaciones para responsables de centro |
-| VID4 | SUFICIENTE | VA | NO | plantilla de “evento de alta audiencia” |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                         |
+| ------------ | ----------------------- | ------ | --------- | ------------------------------------------------------------- |
+| VID1         | SUFICIENTE              | VA     | NO        | recolector de métricas por emisión                            |
+| VID2         | SUFICIENTE              | VA     | NO        | regla de admisión progresiva para salas de invitados          |
+| VID3         | SUFICIENTE              | VA     | NO        | aviso de caducidad de grabaciones para responsables de centro |
+| VID4         | SUFICIENTE              | VA     | NO        | plantilla de “evento de alta audiencia”                       |
 
 #### Servicios unitarios
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| EMP1 | SUFICIENTE | VA | NO | dashboard de salud de diferentes componentes |
-| LDAP | SUFICIENTE | VA | NO | panel de “contraseñas temporales activas” |
-| EXE | SUFICIENTE | VA | NO | plantilla “DUA ligero” y reproductor en la nube Nextcloud de EM |
-| FOR1 | SUFICIENTE | VA | NO | informe de salud de Formularios |
-| BUS1 | SUFICIENTE | VA | NO | modo de “búsquedas frecuentes sin resultados” |
-| ANI1 | SUFICIENTE | VA | NO | crear un “mapa de deuda técnica” |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                           |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------------------------------------- |
+| EMP1         | SUFICIENTE              | VA     | NO        | dashboard de salud de diferentes componentes                    |
+| LDAP         | SUFICIENTE              | VA     | NO        | panel de “contraseñas temporales activas”                       |
+| EXE          | SUFICIENTE              | VA     | NO        | plantilla “DUA ligero” y reproductor en la nube Nextcloud de EM |
+| FOR1         | SUFICIENTE              | VA     | NO        | informe de salud de Formularios                                 |
+| BUS1         | SUFICIENTE              | VA     | NO        | modo de “búsquedas frecuentes sin resultados”                   |
+| ANI1         | SUFICIENTE              | VA     | NO        | crear un “mapa de deuda técnica”                                |
 
 #### Sistemas y servicios complementarios
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| SYN | SUFICIENTE | VA | NO | evolución hacia API de Raíces |
-| CAU | SUFICIENTE | VA | NO | panel de verificación postactualización |
-| EDU | SUFICIENTE | VA | NO | Biblioteca interna ligera de seguridad para EducaSAAC, |
-| BAN | SUFICIENTE | VA | NO | panel de comprobación previa |
-| DTIC | SUFICIENTE | VA | NO | informe previo en HTML y CSV |
-| SEG | SUFICIENTE | VA | NO | panel de salud de edición |
-| ALB | SUFICIENTE | VA | NO | consola de revisión de respuestas sin datos personales |
-| AVI | SUFICIENTE | VA | NO | validación de seguridad previa |
-| FOR | SUFICIENTE | VA | NO | autencitación contra SSO |
-| BOL | SUFICIENTE | VA | NO | validación previa al envío |
-| AYU | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
-| POR | SUFICIENTE | VA | NO | endpoint de validación previa |
-| WES | SUFICIENTE | VA | NO | matriz de páginas críticas |
-| IFZ | SUFICIENTE | VA | NO | catálogo vivo de componentes |
-| MAX | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
-| GES | SUFICIENTE | VA | NO | validador previo de ficheros |
-| USO | SUFICIENTE | VA | NO | instalación de rybbit contra el SSO y script de generación de entorno para los centros solicitados |
-| MAM | SUFICIENTE | VA | NO | orquestador ligero de scripts accesible por VPN |
-| EML | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
-| ABI | SUFICIENTE | NO | NO | Solución concreta y evaluable. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                        |
+|--------------|-------------------------|--------|-----------|--------------------------------------------------------------|
+| SYN          | SUFICIENTE              | VA     | NO        | evolución hacia API de Raíces                                |
+| CAU          | SUFICIENTE              | VA     | NO        | panel de verificación postactualización                      |
+| EDU          | SUFICIENTE              | VA     | NO        | Biblioteca interna ligera de seguridad para EducaSAAC,       |
+| BAN          | SUFICIENTE              | VA     | NO        | panel de comprobación previa                                 |
+| DTIC         | SUFICIENTE              | VA     | NO        | informe previo en HTML y CSV                                 |
+| SEG          | SUFICIENTE              | VA     | NO        | panel de salud de edición                                    |
+| ALB          | SUFICIENTE              | VA     | NO        | consola de revisión de respuestas sin datos personales       |
+| AVI          | SUFICIENTE              | VA     | NO        | validación de seguridad previa                               |
+| FOR          | SUFICIENTE              | VA     | NO        | autencitación contra SSO                                     |
+| BOL          | SUFICIENTE              | VA     | NO        | validación previa al envío                                   |
+| AYU          | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable.                               |
+| POR          | SUFICIENTE              | VA     | NO        | endpoint de validación previa                                |
+| WES          | SUFICIENTE              | VA     | NO        | matriz de páginas críticas                                   |
+| IFZ          | SUFICIENTE              | VA     | NO        | catálogo vivo de componentes                                 |
+| MAX          | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable.                               |
+| GES          | SUFICIENTE              | VA     | NO        | validador previo de ficheros                                 |
+| USO          | SUFICIENTE              | VA     | NO        | script de generación de entorno para los centros solicitados |
+| MAM          | SUFICIENTE              | VA     | NO        | orquestador ligero de scripts accesible por VPN              |
+| EML          | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable.                               |
+| ABI          | SUFICIENTE              | NO     | NO        | Solución concreta y evaluable.                               |
 
 #### Wekan (WEK)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| WEK1 | INSUFICIENTE | VA | NO | Tratamiento agregado; Docker Compose con backup y rollback probado. |
-| WEK2 | INSUFICIENTE | VA | NO | Tratamiento agregado; Docker Compose con backup y rollback probado. |
-| WEK3 | INSUFICIENTE | VA | NO | Tratamiento agregado; Docker Compose con backup y rollback probado. |
-| WEK4 | INSUFICIENTE | VA | NO | Tratamiento agregado; Docker Compose con backup y rollback probado. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                               |
+| ------------ | ----------------------- | ------ | --------- | ------------------------------------------------------------------- |
+| WEK1         | INSUFICIENTE            | VA     | NO        | Tratamiento agregado; Docker Compose con backup y rollback probado. |
+| WEK2         | INSUFICIENTE            | VA     | NO        | Tratamiento agregado; Docker Compose con backup y rollback probado. |
+| WEK3         | INSUFICIENTE            | VA     | NO        | Tratamiento agregado; Docker Compose con backup y rollback probado. |
+| WEK4         | INSUFICIENTE            | VA     | NO        | Tratamiento agregado; Docker Compose con backup y rollback probado. |
 
 ### Resumen cuantitativo del anexo
 
@@ -882,10 +882,10 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 | **Clasificación**                    | **Número de proyectos** | **Porcentaje** |
 | ------------------------------------ | ----------------------: | -------------: |
-| No incluidos                         |                      0 |         0,00 % |
-| Desarrollo insuficiente o deficiente |                      4 |         4,71 % |
-| Desarrollo suficiente                |                     81 |        95,29 % |
-| **TOTAL DE PROYECTOS**               |               **85** |   **100,00 %** |
+| No incluidos                         |                       0 |         0,00 % |
+| Desarrollo insuficiente o deficiente |                       4 |         4,71 % |
+| Desarrollo suficiente                |                      81 |        95,29 % |
+| **TOTAL DE PROYECTOS**               |                  **85** |   **100,00 %** |
 
 #### Indicadores adicionales
 
@@ -893,9 +893,9 @@ Los indicadores adicionales no son excluyentes entre sí ni respecto del grado d
 
 | **Indicador**                                  | **Número de proyectos** | **Porcentaje sobre el total** |
 | ---------------------------------------------- | ----------------------: | ----------------------------: |
-| Con errores técnicos relevantes                |                      0 |                         0,00 % |
-| Con propuesta de mejora sin valor añadido real |                      0 |                       0,00 % |
-| Con propuesta de mejora con valor añadido real |                     72 |                        84,71 % |
+| Con errores técnicos relevantes                |                       0 |                        0,00 % |
+| Con propuesta de mejora sin valor añadido real |                       0 |                        0,00 % |
+| Con propuesta de mejora con valor añadido real |                      72 |                       84,71 % |
 
 ### Conclusión del anexo
 

@@ -698,7 +698,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Bloque transversal (TRA)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | TRA1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | TRA2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -711,7 +711,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Aulas Virtuales (AV)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | AV1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | AV2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -737,7 +737,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Mediateca (MED)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | MED1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | MED2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -753,7 +753,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Correo Web (COR)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | COR1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | COR2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -762,14 +762,14 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Cloud (CLO)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | CLO1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | CLO2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 
 #### WordPress Multisite (WPM)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | WPM1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | WPM2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -779,7 +779,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Vídeo y Videoconferencia (VID)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | VID1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | VID2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -788,7 +788,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Servicios unitarios
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | EMP1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | LDAP | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -799,7 +799,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Sistemas y servicios complementarios
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | SYN | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | CAU | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
@@ -824,7 +824,7 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Wekan (WEK)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
 | --- | --- | --- | --- | --- |
 | WEK1 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |
 | WEK2 | [NO INCLUIDA / INSUFICIENTE / SUFICIENTE] | [NO / PM / VA] | [NO / SÍ] | [JUSTIFICACIÓN] |

@@ -29,9 +29,9 @@ TRA recibe un tratamiento general; AV y MED contienen numerosos apartados pendie
 
 | **Bloque**                 | **Puntuación máxima** | **Puntuación obtenida** |
 | -------------------------- | --------------------: | ----------------------: |
-| Solución técnica ofertada  |                 15,00 |                  2,20 |
-| Planificación del servicio |                 15,00 |                  1,50 |
-| **TOTAL** |             **30,00** |              **3,70** |
+| Solución técnica ofertada  |                 15,00 |                    2,20 |
+| Planificación del servicio |                 15,00 |                    1,50 |
+| **TOTAL**                  |             **30,00** |                **3,70** |
 
 ### Conclusión del resumen ejecutivo
 
@@ -614,13 +614,13 @@ Solo 22 de 85 proyectos presentan desarrollo general, 37 se limitan a menciones 
 
 | **Subcriterio**                | **Máximo** | **Nivel** | **Puntuación** |
 | ------------------------------ | ---------: | --------- | -------------: |
-| Arquitectura | 2,00 | BAJA | 0,30 |
-| Comprensión de los requisitos | 2,00 | BAJA | 0,30 |
-| Viabilidad | 1,00 | BAJA | 0,20 |
-| Metodología | 1,00 | MEDIA | 0,40 |
-| Rendimiento | 1,00 | BAJA | 0,20 |
-| Satisfacción de los requisitos | 8,00 | BAJA | 0,80 |
-| **TOTAL SOLUCIÓN TÉCNICA**     |  **15,00** |           |     **2,20** |
+| Arquitectura                   |       2,00 | BAJA      |           0,30 |
+| Comprensión de los requisitos  |       2,00 | BAJA      |           0,30 |
+| Viabilidad                     |       1,00 | BAJA      |           0,20 |
+| Metodología                    |       1,00 | MEDIA     |           0,40 |
+| Rendimiento                    |       1,00 | BAJA      |           0,20 |
+| Satisfacción de los requisitos |       8,00 | BAJA      |           0,80 |
+| **TOTAL SOLUCIÓN TÉCNICA**     |  **15,00** |           |       **2,20** |
 
 ## EVALUACIÓN DE LA PLANIFICACIÓN DEL SERVICIO
 
@@ -667,20 +667,20 @@ Las referencias conceptuales no constituyen un modelo verificable que conecte re
 
 | **Subcriterio**                     | **Máximo** | **Nivel** | **Puntuación** |
 | ----------------------------------- | ---------: | --------- | -------------: |
-| Calendario y planificación temporal | 11,00 | BAJA | 0,50 |
-| Análisis de riesgos | 1,00 | MEDIA | 0,30 |
-| Plan de contingencias | 1,00 | BAJA | 0,20 |
-| Plan de calidad | 1,00 | MEDIA | 0,30 |
-| Trazabilidad | 1,00 | BAJA | 0,20 |
-| **TOTAL PLANIFICACIÓN**             |  **15,00** |           |     **1,50** |
+| Calendario y planificación temporal |      11,00 | BAJA      |           0,50 |
+| Análisis de riesgos                 |       1,00 | MEDIA     |           0,30 |
+| Plan de contingencias               |       1,00 | BAJA      |           0,20 |
+| Plan de calidad                     |       1,00 | MEDIA     |           0,30 |
+| Trazabilidad                        |       1,00 | BAJA      |           0,20 |
+| **TOTAL PLANIFICACIÓN**             |  **15,00** |           |       **1,50** |
 
 ## RESULTADO FINAL CONSOLIDADO
 
 | **Bloque**                 | **Puntuación máxima** | **Puntuación obtenida** |
 | -------------------------- | --------------------: | ----------------------: |
-| Solución técnica ofertada  |                 15,00 |                  2,20 |
-| Planificación del servicio |                 15,00 |                  1,50 |
-| **PUNTUACIÓN FINAL** |             **30,00** |              **3,70** |
+| Solución técnica ofertada  |                 15,00 |                    2,20 |
+| Planificación del servicio |                 15,00 |                    1,50 |
+| **PUNTUACIÓN FINAL**       |             **30,00** |                **3,70** |
 
 ### Interpretación de la puntuación
 
@@ -743,138 +743,138 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Bloque transversal (TRA)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| TRA1 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| TRA2 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| TRA3 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| TRA4 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| TRA5 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| TRA6 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| TRA7 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| TRA8 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                 |
+| ------------ | ----------------------- | ------ | --------- | ------------------------------------- |
+| TRA1         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable. |
+| TRA2         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable. |
+| TRA3         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable. |
+| TRA4         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable. |
+| TRA5         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable. |
+| TRA6         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable. |
+| TRA7         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable. |
+| TRA8         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable. |
 
 #### Aulas Virtuales (AV)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| AV1 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| AV2 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| AV3 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV4 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV5 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV6 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV7 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV8 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV9 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV10 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| AV11 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| AV12 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| AV13 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| AV14 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV15 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV16 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV17 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV18 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV19 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV20 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| AV21 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                           |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------------------------------------- |
+| AV1          | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable.                           |
+| AV2          | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable.                           |
+| AV3          | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV4          | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV5          | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV6          | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV7          | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV8          | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV9          | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV10         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable.                           |
+| AV11         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable.                           |
+| AV12         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo.                        |
+| AV13         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable.                           |
+| AV14         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV15         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV16         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV17         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV18         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV19         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV20         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| AV21         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
 
 #### Mediateca (MED)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| MED1 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| MED2 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| MED3 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| MED4 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| MED5 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| MED6 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| MED7 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| MED8 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| MED9 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| MED10 | SUFICIENTE | NO | NO | Desarrollo técnico general evaluable. |
-| MED11 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                           |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------------------------------------- |
+| MED1         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable.                           |
+| MED2         | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable.                           |
+| MED3         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| MED4         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| MED5         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| MED6         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| MED7         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| MED8         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| MED9         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| MED10        | SUFICIENTE              | NO     | NO        | Desarrollo técnico general evaluable.                           |
+| MED11        | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo.                        |
 
 #### Correo Web (COR)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| COR1 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| COR2 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| COR3 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| COR4 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                    |
+| ------------ | ----------------------- | ------ | --------- | ---------------------------------------- |
+| COR1         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| COR2         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| COR3         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| COR4         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
 
 #### Cloud (CLO)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| CLO1 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| CLO2 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                    |
+| ------------ | ----------------------- | ------ | --------- | ---------------------------------------- |
+| CLO1         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| CLO2         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
 
 #### WordPress Multisite (WPM)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| WPM1 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| WPM2 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| WPM3 | SUFICIENTE | NO | NO | Desarrollo general: WAF y seguridad. |
-| WPM4 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| WPM5 | SUFICIENTE | NO | NO | Desarrollo general: caso de uso operativo. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                      |
+| ------------ | ----------------------- | ------ | --------- | ------------------------------------------ |
+| WPM1         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo.   |
+| WPM2         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo.   |
+| WPM3         | SUFICIENTE              | NO     | NO        | Desarrollo general: WAF y seguridad.       |
+| WPM4         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo.   |
+| WPM5         | SUFICIENTE              | NO     | NO        | Desarrollo general: caso de uso operativo. |
 
 #### Vídeo y Videoconferencia (VID)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| VID1 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| VID2 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| VID3 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| VID4 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                    |
+| ------------ | ----------------------- | ------ | --------- | ---------------------------------------- |
+| VID1         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| VID2         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| VID3         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| VID4         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
 
 #### Servicios unitarios
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| EMP1 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| LDAP | SUFICIENTE | NO | NO | Desarrollo general: seguridad e integración. |
-| EXE | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| FOR1 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| BUS1 | SUFICIENTE | NO | NO | Desarrollo general: optimización búsquedas. |
-| ANI1 | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                        |
+| ------------ | ----------------------- | ------ | --------- | -------------------------------------------- |
+| EMP1         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo.     |
+| LDAP         | SUFICIENTE              | NO     | NO        | Desarrollo general: seguridad e integración. |
+| EXE          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo.     |
+| FOR1         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo.     |
+| BUS1         | SUFICIENTE              | NO     | NO        | Desarrollo general: optimización búsquedas.  |
+| ANI1         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo.     |
 
 #### Sistemas y servicios complementarios
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| SYN | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| CAU | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| EDU | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| BAN | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| DTIC | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| SEG | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| ALB | SUFICIENTE | NO | NO | Desarrollo general: caso IA detallado. |
-| AVI | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| FOR | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| BOL | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| AYU | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| POR | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| WES | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| IFZ | SUFICIENTE | NO | NO | Desarrollo general: framework UI. |
-| MAX | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| GES | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| USO | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| MAM | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| EML | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
-| ABI | INSUFICIENTE | NO | NO | Mención sin desarrollo técnico completo. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                    |
+| ------------ | ----------------------- | ------ | --------- | ---------------------------------------- |
+| SYN          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| CAU          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| EDU          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| BAN          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| DTIC         | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| SEG          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| ALB          | SUFICIENTE              | NO     | NO        | Desarrollo general: caso IA detallado.   |
+| AVI          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| FOR          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| BOL          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| AYU          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| POR          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| WES          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| IFZ          | SUFICIENTE              | NO     | NO        | Desarrollo general: framework UI.        |
+| MAX          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| GES          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| USO          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| MAM          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| EML          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
+| ABI          | INSUFICIENTE            | NO     | NO        | Mención sin desarrollo técnico completo. |
 
 #### Wekan (WEK)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| WEK1 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| WEK2 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| WEK3 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
-| WEK4 | NO INCLUIDA | NO | NO | La solución concreta queda pendiente o no aparece desarrollada. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                           |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------------------------------------- |
+| WEK1         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| WEK2         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| WEK3         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
+| WEK4         | NO INCLUIDA             | NO     | NO        | La solución concreta queda pendiente o no aparece desarrollada. |
 
 ### Resumen cuantitativo del anexo
 
@@ -882,10 +882,10 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 | **Clasificación**                    | **Número de proyectos** | **Porcentaje** |
 | ------------------------------------ | ----------------------: | -------------: |
-| No incluidos                         |                     26 |        30,59 % |
-| Desarrollo insuficiente o deficiente |                     37 |        43,53 % |
-| Desarrollo suficiente                |                     22 |        25,88 % |
-| **TOTAL DE PROYECTOS**               |               **85** |   **100,00 %** |
+| No incluidos                         |                      26 |        30,59 % |
+| Desarrollo insuficiente o deficiente |                      37 |        43,53 % |
+| Desarrollo suficiente                |                      22 |        25,88 % |
+| **TOTAL DE PROYECTOS**               |                  **85** |   **100,00 %** |
 
 #### Indicadores adicionales
 
@@ -893,9 +893,9 @@ Los indicadores adicionales no son excluyentes entre sí ni respecto del grado d
 
 | **Indicador**                                  | **Número de proyectos** | **Porcentaje sobre el total** |
 | ---------------------------------------------- | ----------------------: | ----------------------------: |
-| Con errores técnicos relevantes                |                      0 |                         0,00 % |
-| Con propuesta de mejora sin valor añadido real |                      0 |                       0,00 % |
-| Con propuesta de mejora con valor añadido real |                      0 |                         0,00 % |
+| Con errores técnicos relevantes                |                       0 |                        0,00 % |
+| Con propuesta de mejora sin valor añadido real |                       0 |                        0,00 % |
+| Con propuesta de mejora con valor añadido real |                       0 |                        0,00 % |
 
 ### Conclusión del anexo
 

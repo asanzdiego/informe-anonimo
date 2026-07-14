@@ -743,138 +743,138 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 #### Bloque transversal (TRA)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**             |
-| ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------- |
-| TRA1         | INSUFICIENTE            | NO                         | SÍ                          | LDAP mal interpretado             |
-| TRA2         | INSUFICIENTE            | NO                         | SÍ                          | uso incorrecto CalDAV vs ICS      |
-| TRA3         | SUFICIENTE              | NO                         | NO                          | Desarrollo evaluable.             |
-| TRA4         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| TRA5         | SUFICIENTE              | NO                         | NO                          | Desarrollo evaluable.             |
-| TRA6         | SUFICIENTE              | NO                         | NO                          | Desarrollo evaluable.             |
-| TRA7         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| TRA8         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**             |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------- |
+| TRA1         | INSUFICIENTE            | NO     | SÍ        | LDAP mal interpretado             |
+| TRA2         | INSUFICIENTE            | NO     | SÍ        | uso incorrecto CalDAV vs ICS      |
+| TRA3         | SUFICIENTE              | NO     | NO        | Desarrollo evaluable.             |
+| TRA4         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| TRA5         | SUFICIENTE              | NO     | NO        | Desarrollo evaluable.             |
+| TRA6         | SUFICIENTE              | NO     | NO        | Desarrollo evaluable.             |
+| TRA7         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| TRA8         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
 
 #### Aulas Virtuales (AV)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**             |
-| ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------- |
-| AV1          | SUFICIENTE              | NO                         | NO                          | Desarrollo evaluable.             |
-| AV2          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV3          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV4          | INSUFICIENTE            | NO                         | SÍ                          | MySQL vs PostgreSQL               |
-| AV5          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV6          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV7          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV8          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV9          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV10         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV11         | INSUFICIENTE            | NO                         | SÍ                          | procesos IA síncronos incorrectos |
-| AV12         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV13         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV14         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV15         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV16         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV17         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV18         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV19         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV20         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AV21         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**             |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------- |
+| AV1          | SUFICIENTE              | NO     | NO        | Desarrollo evaluable.             |
+| AV2          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV3          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV4          | INSUFICIENTE            | NO     | SÍ        | MySQL vs PostgreSQL               |
+| AV5          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV6          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV7          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV8          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV9          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV10         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV11         | INSUFICIENTE            | NO     | SÍ        | procesos IA síncronos incorrectos |
+| AV12         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV13         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV14         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV15         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV16         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV17         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV18         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV19         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV20         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AV21         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
 
 #### Mediateca (MED)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**             |
-| ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------- |
-| MED1         | INSUFICIENTE            | NO                         | SÍ                          | error BBDD                        |
-| MED2         | INSUFICIENTE            | NO                         | SÍ                          | omisión funcional crítica         |
-| MED3         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| MED4         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| MED5         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| MED6         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| MED7         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| MED8         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| MED9         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| MED10        | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| MED11        | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**             |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------- |
+| MED1         | INSUFICIENTE            | NO     | SÍ        | error BBDD                        |
+| MED2         | INSUFICIENTE            | NO     | SÍ        | omisión funcional crítica         |
+| MED3         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| MED4         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| MED5         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| MED6         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| MED7         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| MED8         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| MED9         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| MED10        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| MED11        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
 
 #### Correo Web (COR)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                                                                                                      |
-| ------------ | ----------------------- | -------------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| COR1         | SUFICIENTE              | NO                         | NO                          | Desarrollo evaluable.                                                                                                      |
-| COR2         | INSUFICIENTE            | NO                         | SÍ                          | falta de conocimiento del entorno de EducaMadrid, que usa xAI modificado, y propuesta de desarrollo desde cero innecesario |
-| COR3         | INSUFICIENTE            | NO                         | SÍ                          | falta de conocimiento del entorno de EducaMadrid, que usa xAI modificado, y propuesta de desarrollo desde cero innecesario |
-| COR4         | INSUFICIENTE            | NO                         | SÍ                          | falta de conocimiento del entorno de EducaMadrid, que usa xAI modificado, y propuesta de desarrollo desde cero innecesario |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                          |
+|--------------|-------------------------|--------|-----------|------------------------------------------------|
+| COR1         | SUFICIENTE              | NO     | NO        | Desarrollo evaluable.                          |
+| COR2         | INSUFICIENTE            | NO     | SÍ        | propuesta de desarrollo desde cero innecesario |
+| COR3         | INSUFICIENTE            | NO     | SÍ        | propuesta de desarrollo desde cero innecesario |
+| COR4         | INSUFICIENTE            | NO     | SÍ        | propuesta de desarrollo desde cero innecesario |
 
 #### Cloud (CLO)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve** |
-| ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------- |
-| CLO1         | SUFICIENTE              | NO                         | NO                          | Desarrollo evaluable. |
-| CLO2         | SUFICIENTE              | NO                         | NO                          | Desarrollo evaluable. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
+| ------------ | ----------------------- | ------ | --------- | --------------------- |
+| CLO1         | SUFICIENTE              | NO     | NO        | Desarrollo evaluable. |
+| CLO2         | SUFICIENTE              | NO     | NO        | Desarrollo evaluable. |
 
 #### WordPress Multisite (WPM)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**             |
-| ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------- |
-| WPM1         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| WPM2         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| WPM3         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| WPM4         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| WPM5         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**             |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------- |
+| WPM1         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| WPM2         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| WPM3         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| WPM4         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| WPM5         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
 
 #### Vídeo y Videoconferencia (VID)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**             |
-| ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------- |
-| VID1         | SUFICIENTE              | NO                         | NO                          | Desarrollo evaluable.             |
-| VID2         | SUFICIENTE              | NO                         | NO                          | Desarrollo evaluable.             |
-| VID3         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| VID4         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**             |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------- |
+| VID1         | SUFICIENTE              | NO     | NO        | Desarrollo evaluable.             |
+| VID2         | SUFICIENTE              | NO     | NO        | Desarrollo evaluable.             |
+| VID3         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| VID4         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
 
 #### Servicios unitarios
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**             |
-| ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------- |
-| EMP1         | SUFICIENTE              | NO                         | NO                          | Desarrollo evaluable.             |
-| LDAP         | INSUFICIENTE            | NO                         | SÍ                          | LDAP plano mal interpretado       |
-| EXE          | SUFICIENTE              | NO                         | NO                          | Desarrollo evaluable.             |
-| FOR1         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| BUS1         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| ANI1         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**             |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------- |
+| EMP1         | SUFICIENTE              | NO     | NO        | Desarrollo evaluable.             |
+| LDAP         | INSUFICIENTE            | NO     | SÍ        | LDAP plano mal interpretado       |
+| EXE          | SUFICIENTE              | NO     | NO        | Desarrollo evaluable.             |
+| FOR1         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| BUS1         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| ANI1         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
 
 #### Sistemas y servicios complementarios
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**             |
-| ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------- |
-| SYN          | INSUFICIENTE            | NO                         | SÍ                          | modelo de datos incorrecto        |
-| CAU          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| EDU          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| BAN          | INSUFICIENTE            | NO                         | SÍ                          | tecnología Java incorrecta        |
-| DTIC         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| SEG          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| ALB          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AVI          | INSUFICIENTE            | NO                         | SÍ                          | tecnología incorrecta             |
-| FOR          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| BOL          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| AYU          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| POR          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| WES          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| IFZ          | SUFICIENTE              | NO                         | NO                          | Desarrollo evaluable.             |
-| MAX          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| GES          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| USO          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| MAM          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| EML          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| ABI          | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**             |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------- |
+| SYN          | INSUFICIENTE            | NO     | SÍ        | modelo de datos incorrecto        |
+| CAU          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| EDU          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| BAN          | INSUFICIENTE            | NO     | SÍ        | tecnología Java incorrecta        |
+| DTIC         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| SEG          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| ALB          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AVI          | INSUFICIENTE            | NO     | SÍ        | tecnología incorrecta             |
+| FOR          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| BOL          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| AYU          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| POR          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| WES          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| IFZ          | SUFICIENTE              | NO     | NO        | Desarrollo evaluable.             |
+| MAX          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| GES          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| USO          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| MAM          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| EML          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| ABI          | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
 
 #### Wekan (WEK)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**             |
-| ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------- |
-| WEK1         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| WEK2         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| WEK3         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
-| WEK4         | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o incompleto. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**             |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------- |
+| WEK1         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| WEK2         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| WEK3         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
+| WEK4         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
 
 ### Resumen cuantitativo del anexo
 

@@ -2265,7 +2265,7 @@ De forma separada se indican las propuestas de mejora sin valor añadido real (P
 
 #### Proyectos Web Liferay (ELIF)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                                                       |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                                       |
 | ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------------------------------------------------- |
 | ELIF1        | SUFICIENTE              | PM                         | NO                          | reutilización componentes y mantenibilidad                                  |
 | ELIF2        | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o insuficientemente concretado.                         |
@@ -2274,13 +2274,13 @@ De forma separada se indican las propuestas de mejora sin valor añadido real (P
 
 #### Innovación y Formación del Profesorado (IFP)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**         |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**         |
 | ------------ | ----------------------- | -------------------------- | --------------------------- | ----------------------------- |
 | IFP1         | SUFICIENTE              | NO                         | NO                          | Desarrollo técnico evaluable. |
 
 #### Proyectos MoodleMisc (EMOM)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                               |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                               |
 | ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------------------------- |
 | EMOM1        | SUFICIENTE              | NO                         | NO                          | Desarrollo técnico evaluable.                       |
 | EMOM2        | SUFICIENTE              | NO                         | NO                          | Desarrollo técnico evaluable.                       |
@@ -2292,21 +2292,21 @@ De forma separada se indican las propuestas de mejora sin valor añadido real (P
 
 #### Proyectos de Dinámicas (EDIN)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                               |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                               |
 | ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------------------------- |
 | EDIN1        | SUFICIENTE              | VA                         | NO                          | inventario y matriz de riesgo                       |
 | EDIN2        | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o insuficientemente concretado. |
 
 #### Integración con la plataforma EducaMadrid (EIPE)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**         |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**         |
 | ------------ | ----------------------- | -------------------------- | --------------------------- | ----------------------------- |
 | EIPE1        | SUFICIENTE              | NO                         | NO                          | Desarrollo técnico evaluable. |
 | EIPE2        | SUFICIENTE              | NO                         | NO                          | Desarrollo técnico evaluable. |
 
 #### Proyectos de Sistemas Externos (ESIS)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                                                      |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                                      |
 | ------------ | ----------------------- | -------------------------- | --------------------------- | -------------------------------------------------------------------------- |
 | ESIS1        | SUFICIENTE              | PM                         | NO                          | automatización y gobierno del ciclo de vida software                       |
 | ESIS2        | SUFICIENTE              | PM                         | NO                          | automatización y gobierno de plataformas de datos                          |
@@ -2342,7 +2342,7 @@ De forma separada se indican las propuestas de mejora sin valor añadido real (P
 
 #### Seguridad de Aplicaciones Web (ESEG)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                   |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                   |
 | ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------------- |
 | ESEG1        | SUFICIENTE              | PM                         | NO                          | sistema continuo de validación ofensiva |
 | ESEG2        | INSUFICIENTE            | PM                         | NO                          | evolución a SIEM                        |
@@ -2350,14 +2350,14 @@ De forma separada se indican las propuestas de mejora sin valor añadido real (P
 
 #### Desarrollo Seguro de Aplicaciones Web (EDSA)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**             |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**             |
 | ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------- |
 | EDSA1        | SUFICIENTE              | VA                         | NO                          | Implantar DevSecOps               |
 | EDSA2        | SUFICIENTE              | VA                         | NO                          | Seguridad integrada en desarrollo |
 
 #### Gestión del programa de Bug Bounty (EBBO)
 
-| **Proyecto** | **Grado de desarrollo** | **Mejora o valor añadido** | **Error técnico relevante** | **Observación breve**                               |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                               |
 | ------------ | ----------------------- | -------------------------- | --------------------------- | --------------------------------------------------- |
 | EBBO1        | INSUFICIENTE            | NO                         | NO                          | Desarrollo genérico o insuficientemente concretado. |
 
