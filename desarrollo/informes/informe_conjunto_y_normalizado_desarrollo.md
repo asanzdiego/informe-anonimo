@@ -277,13 +277,13 @@ Desde una perspectiva comparada, puede afirmarse que mientras **empresa_s presen
 
 | **Subcriterio**            | **Máx** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** | **empresa_u** | **Puntos** |
 | -------------------------- | ------: | ------------- | ---------: | ------------- | ---------: | ------------- | ---------: |
-| Arquitectura               |       2 | EXCELENTE     |       1,80 | MEDIA         |       1,00 | BAJA          |       0,30 |
+| Arquitectura               |       2 | EXCELENTE     |       1,80 | BAJA          |       0,50 | BAJA          |       0,30 |
 | Comprensión de requisitos  |       2 | EXCELENTE     |       1,90 | MEDIA         |       1,00 | BAJA          |       0,30 |
 | Viabilidad                 |       1 | EXCELENTE     |       0,90 | MEDIA         |       0,40 | BAJA          |       0,20 |
 | Metodología                |       1 | EXCELENTE     |       0,90 | MEDIA         |       0,40 | MEDIA         |       0,40 |
 | Rendimiento                |       1 | EXCELENTE     |       0,90 | MEDIA         |       0,40 | BAJA          |       0,20 |
-| Satisfacción de requisitos |       8 | EXCELENTE     |       7,20 | MEDIA         |       2,50 | BAJA          |       0,80 |
-| **Total**                  |  **15** |               |  **13,60** |               |   **5,70** |               |   **2,20** |
+| Satisfacción de requisitos |       8 | EXCELENTE     |       7,20 | MEDIA         |       2,40 | BAJA          |       0,80 |
+| **Total**                  |  **15** |               |  **13,60** |               |   **5,10** |               |   **2,20** |
 
 ### Valoración comparativa de la planificación del servicio
 
@@ -303,20 +303,60 @@ La suma de los dos bloques y la comprobación del umbral mínimo arrojan el sigu
 | **Licitador** | **Solución técnica** | **Planificación** | **Total sobre 30** | **Umbral de 15 puntos** |
 | ------------- | -------------------: | ----------------: | -----------------: | ----------------------- |
 | empresa_s     |                13,60 |             13,10 |          **26,70** | SUPERA                  |
-| empresa_n     |                 5,70 |              5,60 |          **11,30** | NO SUPERA               |
+| empresa_n     |                 5,10 |              5,60 |          **10,70** | NO SUPERA               |
 | empresa_u     |                 2,20 |              1,50 |           **3,70** | NO SUPERA               |
 
 ### Justificación de la valoración comparativa
 
-La valoración reflejada en las tablas anteriores responde a un **análisis técnico homogéneo, basado exclusivamente en el contenido de las propuestas** y en su capacidad para dar respuesta a los requisitos establecidos en el pliego.
+La valoración reflejada en las tablas anteriores responde a un **análisis técnico homogéneo, basado exclusivamente en el contenido de las propuestas**. Las síntesis siguientes motivan de forma individual cada nivel y puntuación; el desarrollo completo y la trazabilidad por proyecto se conservan en los respectivos informes individuales.
 
-En el caso de empresa_s, la puntuación elevada se justifica por la **existencia de soluciones técnicas concretas, la cobertura nominal completa del Anexo II y la incorporación de mecanismos de control, integración y validación** que permiten verificar la viabilidad de la solución, así como propuestas de mejora en la mayoría de los subproyectos. La propuesta contiene 81 desarrollos suficientes y cuatro desarrollos agregados insuficientes en WEK, pero **no presenta carencias estructurales ni errores conceptuales**, lo que permite situarla en niveles altos o excelentes en la mayoría de los subcriterios.
+#### empresa_s
 
-Por el contrario, la propuesta de empresa_n presenta un **nivel de desarrollo técnico insuficiente**, caracterizado por un **enfoque descriptivo, la ausencia de mecanismos concretos de implementación y la existencia de errores técnicos** que afectan a la correcta comprensión del entorno. Estas deficiencias se trasladan de manera homogénea a los distintos subcriterios, dando lugar a una **valoración media-baja en ambos bloques**.
+| **Subcriterio** | **Nivel y puntos**     | **Motivación breve**                                                                                                                                      |
+| --------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Arquitectura    | EXCELENTE — 1,80/2,00  | Arquitectura modular y específica, con capas, APIs, seguridad, despliegue controlado e integraciones verificables.                                        |
+| Comprensión     | EXCELENTE — 1,90/2,00  | Interpreta el entorno y convierte los requisitos funcionales y no funcionales en soluciones concretas, sin errores conceptuales relevantes.               |
+| Viabilidad      | EXCELENTE — 0,90/1,00  | Los despliegues controlados, validaciones, rollback y coordinación acreditan la ejecución; solo falta cuantificar algunos dimensionamientos.              |
+| Metodología     | EXCELENTE — 0,90/1,00  | Integra Métrica v3 con ciclo de vida, automatización de pruebas e integración continua aplicables al contrato.                                            |
+| Rendimiento     | EXCELENTE — 0,90/1,00  | Define optimización, caché, procesamiento asíncrono, control de concurrencia, monitorización y pruebas de carga adaptadas.                                |
+| Satisfacción    | EXCELENTE — 7,20/8,00  | Cubre los 85 proyectos; 81 tienen desarrollo suficiente, WEK conserva cuatro desarrollos agregados insuficientes y se acreditan 72 aportaciones de valor. |
+| Calendario      | EXCELENTE — 9,60/11,00 | Incluye fases, hitos, dependencias, Gantt con leyenda y adaptación al calendario educativo; la gestión iterativa puede concretarse más.                   |
+| Riesgos         | EXCELENTE — 0,85/1,00  | Identifica y clasifica riesgos por impacto y probabilidad y aporta mitigaciones, aunque parte del tratamiento es genérico.                                |
+| Contingencias   | EXCELENTE — 0,90/1,00  | Define recuperación ante fallos, despliegues controlados y continuidad coherente con servicios críticos.                                                  |
+| Calidad         | EXCELENTE — 0,90/1,00  | Incorpora indicadores, mejora continua, auditorías, control de incidencias y validación durante la ejecución.                                             |
+| Trazabilidad    | EXCELENTE — 0,85/1,00  | Relaciona requisitos, actuaciones y entregables, registra la ejecución y facilita seguimiento y auditoría.                                                |
 
-En el caso de la empresa_u, la **puntuación muy reducida** se explica por la **imposibilidad de evaluar una parte sustancial de la propuesta**, debido a la falta de desarrollo técnico, la presencia de contenido no finalizado y la ausencia de planificación verificable. Estas carencias **afectan a la totalidad de los subcriterios** y justifican la asignación de niveles muy bajos en la mayoría de ellos.
+#### empresa_n
 
-En conjunto, la valoración comparada refleja de forma **proporcional y coherente las diferencias reales entre las propuestas**, garantizando la **homogeneidad en la aplicación de los criterios y la trazabilidad entre el análisis técnico realizado y la puntuación final asignada**.
+| **Subcriterio** | **Nivel y puntos** | **Motivación breve**                                                                                                                    |
+| --------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Arquitectura    | BAJA — 0,50/2,00   | La memoria identifica componentes, pero no completa relaciones, flujos, despliegues ni resiliencia y contiene errores de adaptación.    |
+| Comprensión     | MEDIA — 1,00/2,00  | Reconoce el alcance general, pero interpreta incorrectamente identidad, calendarios, bases de datos, correo y sistemas complementarios. |
+| Viabilidad      | MEDIA — 0,40/1,00  | La falta de procedimientos, dependencias y validación, unida a errores conceptuales, genera dudas relevantes de ejecución.              |
+| Metodología     | MEDIA — 0,40/1,00  | Métrica v3 aporta base teórica, pero no se concreta mediante roles, herramientas, entregables y validaciones suficientes.               |
+| Rendimiento     | MEDIA — 0,40/1,00  | El tratamiento es genérico y carece de métricas, escenarios de carga y criterios de aceptación específicos.                             |
+| Satisfacción    | MEDIA — 2,40/8,00   | Aunque cubre nominalmente 85 proyectos, 73 son insuficientes o contienen errores y solo 12 alcanzan desarrollo suficiente.              |
+| Calendario      | MEDIA — 3,75/11,00 | Ofrece fases generales, pero carece de desglose suficiente por proyecto, dependencias, hitos, recursos y adaptación operativa.          |
+| Riesgos         | ALTA — 0,55/1,00   | Existe identificación de riesgos, pero falta mayor vinculación a proyectos, responsables, indicadores y seguimiento.                    |
+| Contingencias   | MEDIA — 0,40/1,00  | El planteamiento es reconocible, aunque no concreta activadores, secuencias, recursos, tiempos, pruebas y retorno a la normalidad.      |
+| Calidad         | ALTA — 0,60/1,00   | Cita estándares y mejora continua, pero faltan métricas, niveles de servicio y relación verificable con entregables.                    |
+| Trazabilidad    | MEDIA — 0,30/1,00  | No establece una matriz operativa completa entre requisitos, tareas, responsables, entregables, evidencias y validaciones.              |
+
+#### empresa_u
+
+| **Subcriterio** | **Nivel y puntos** | **Motivación breve**                                                                                                               |
+|-----------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Arquitectura    | BAJA — 0,30/2,00   | Mantiene un plano conceptual y no define componentes, relaciones, integraciones, despliegues, seguridad ni resiliencia evaluables. |
+| Comprensión     | BAJA — 0,30/2,00   | Los apartados pendientes y las menciones genéricas impiden acreditar una interpretación completa del Anexo II.                     |
+| Viabilidad      | BAJA — 0,20/1,00   | No detalla recursos, dependencias, implantación ni continuidad suficientes y la viabilidad no queda demostrada.                    |
+| Metodología     | MEDIA — 0,40/1,00  | La exposición recoge conceptos aplicables, pero no los vincula operativamente con proyectos, tareas y entregables.                 |
+| Rendimiento     | BAJA — 0,20/1,00   | No aporta métricas, pruebas de carga, escenarios, monitorización ni criterios de aceptación.                                       |
+| Satisfacción    | BAJA — 0,80/8,00   | Solo 22 de 85 proyectos tienen desarrollo general, 37 son menciones insuficientes y 26 carecen de solución concreta.               |
+| Calendario      | BAJA — 0,50/11,00  | La memoria anuncia un calendario, pero no incorpora Gantt o equivalente ni planificación operativa completa.                       |
+| Riesgos         | MEDIA — 0,30/1,00  | Incluye referencias conceptuales, sin vinculación sistemática a proyectos, responsables, indicadores y seguimiento.                |
+| Contingencias   | BAJA — 0,20/1,00   | No define escenarios, activadores, tiempos, pruebas ni retorno a la normalidad en términos evaluables.                             |
+| Calidad         | MEDIA — 0,30/1,00  | Reconoce principios de calidad, pero no los traduce en indicadores, aceptación, auditorías y controles aplicables.                 |
+| Trazabilidad    | BAJA — 0,20/1,00   | Las referencias conceptuales no conectan de forma verificable requisitos, tareas, entregables y evidencias.                        |
 
 ## CONCLUSIONES DE LA VALORACIÓN COMPARADA
 
@@ -352,7 +392,7 @@ El Documento de Invitación establece la obligación de que las ofertas sometida
 
 En aplicación de este criterio, y a la vista de las puntuaciones obtenidas, se constata que **únicamente la propuesta presentada por empresa_s supera el umbral mínimo exigido**, al haber obtenido una **puntuación de 26,70 puntos sobre un máximo de 30**.
 
-Por el contrario, la propuesta presentada por empresa_n obtiene una **puntuación total de 11,30 puntos, situándose por debajo del umbral mínimo fijado en 15 puntos**. Esta circunstancia determina, de forma automática y sin margen de discrecionalidad, su **exclusión del procedimiento**, al no acreditar un nivel técnico suficiente para garantizar la correcta ejecución del contrato.
+Por el contrario, la propuesta presentada por empresa_n obtiene una **puntuación total de 10,70 puntos, situándose por debajo del umbral mínimo fijado en 15 puntos**. Esta circunstancia determina, de forma automática y sin margen de discrecionalidad, su **exclusión del procedimiento**, al no acreditar un nivel técnico suficiente para garantizar la correcta ejecución del contrato.
 
 De igual manera, la propuesta de la empresa_u obtiene una **puntuación de 3,70 puntos**, lo que confirma de forma aún más clara el **incumplimiento del umbral mínimo exigido**. Las deficiencias estructurales identificadas, unidas a la falta de evaluabilidad del contenido, refuerzan la **necesidad de su exclusión del procedimiento**.
 

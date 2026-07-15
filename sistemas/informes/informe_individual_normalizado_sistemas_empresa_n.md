@@ -2442,10 +2442,8 @@ La propuesta presentada por empresa_n incluye una descripción amplia del ecosis
 
 **Como consecuencia de todo lo anterior, no resulta posible evaluar adecuadamente aspectos esenciales exigidos por el Documento de Invitación, tales como la capacidad de escalado del sistema, su comportamiento ante situaciones de alta carga, la distribución eficiente de los servicios o la resiliencia frente a fallos.** En consecuencia, la arquitectura presentada debe considerarse identificada a nivel conceptual, pero no definida ni desarrollada a nivel técnico, lo que limita de forma significativa su verificabilidad.
 
-De acuerdo con la escala de valoración establecida en el Documento de Invitación, esta situación se corresponde con un nivel de evaluación medio, en tanto existe una comprensión general del entorno, pero no una propuesta arquitectónica definida y verificable.
+El contraste con la memoria confirma que existe una comprensión general del entorno, pero no una propuesta arquitectónica completa, definida y verificable: faltan diagramas propios, relaciones, modelos de distribución y arquitecturas por subproyecto. Estos rasgos corresponden al descriptor MEDIA.
 
-**Nivel cualitativo:** MEDIA
-**Puntuación:** 0,90 sobre 2,00
 
 ### Grado de comprensión de los requisitos planteados — máximo 2,00 puntos
 
@@ -2523,10 +2521,10 @@ Asimismo, se identifican bloques completos en los que no existe contenido técni
 
 **A estas carencias se añaden determinadas inconsistencias, derivadas de la reutilización de contenidos no adaptados o de la inclusión de referencias incorrectas, que reducen la adecuación de la propuesta a los requisitos planteados.** Del mismo modo, las denominadas propuestas de mejora no introducen elementos técnicos adicionales, sino que se limitan a reforzar las tareas ya descritas, sin aportar metodologías ni herramientas que permitan considerarlas como un valor diferencial.
 
-**En consecuencia, la propuesta presenta una cobertura formal de los requisitos, pero una satisfacción técnica limitada, caracterizada por un reducido nivel de desarrollo, una baja verificabilidad y una ausencia de elementos críticos en ámbitos relevantes del servicio.** Conforme a la escala del Documento de Invitación, esta situación se corresponde con un nivel de valoración bajo, al situarse claramente por debajo de los niveles exigidos para considerar la solución como adecuada desde un punto de vista técnico.
+**En consecuencia, el contraste con la memoria confirma una cobertura formal que no se traduce en satisfacción técnica efectiva: 65 de 89 subproyectos presentan desarrollo insuficiente y 21 carecen de solución concreta, incluidos bloques completos como MAX e inteligencia artificial.** La cobertura parcial acreditada permite situar el subcriterio en el nivel BAJA, sin que las carencias señaladas permitan una valoración superior.
 
 **Nivel cualitativo:** BAJA
-**Puntuación:** 2,00 sobre 8,00
+**Puntuación:** 2,40 sobre 8,00
 
 ### Resultado global de la solución técnica
 
@@ -2568,7 +2566,7 @@ El diagrama tampoco incluye hitos o puntos de control que permitan realizar un s
 
 Finalmente, el cronograma no contempla mecanismos de adaptación a riesgos ni incluye márgenes o buffers que permitan absorber desviaciones, lo que evidencia una planificación rígida y poco resiliente.
 
-En conjunto, el diagrama de Gantt presentado cumple con el requisito formal de incluir un cronograma, pero no constituye una planificación operativa completa ni verificable. **De acuerdo con la escala establecida en el Documento de Invitación, estas deficiencias sitúan la valoración de este subcriterio en un nivel medio, dentro de la banda del 26 % al 50 %, al no permitir acreditar de forma suficiente la capacidad de planificación del servicio.**
+El contraste directo del diagrama confirma que existe un cronograma mensual, Sin embargo, la matriz carece de leyenda para sus números y colores, no define duraciones continuas, dependencias, recursos, hitos ni una secuencia operativa verificable. En conjunto, el cronograma aporta una cobertura básica de la planificación, por lo que corresponde el descriptor MEDIA.
 
 **Nivel cualitativo:** MEDIA
 **Puntuación:** 5,00 sobre 11,00

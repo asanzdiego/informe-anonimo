@@ -75,7 +75,7 @@ Cada uno de estos subcriterios se evaluará siguiendo el siguiente árbol de pun
   - **BAJA**: Se justifica de forma convincente un mal rendimiento de las distintas soluciones aportadas.
   - **MUY BAJA**: Se justifica de forma convincente un rendimiento muy malo de las distintas soluciones aportadas.
 
-- **Satisfacción de los requisitos - 2 puntos**:
+- **Satisfacción de los requisitos - 8 puntos**:
 
   - **EXCELENTE**: La solución técnica cumple ampliamente los requisitos del pliego aportando mejoras coherentes y sustanciales de los mismos.
   - **ALTA**: La solución técnica cumple los requisitos del pliego aportando pocas mejoras de los mismos.

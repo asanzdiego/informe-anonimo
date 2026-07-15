@@ -712,7 +712,6 @@ El umbral mínimo exigido para continuar en el procedimiento es de **15 puntos s
 
 En consecuencia, procede proponer la **continuación de la oferta en el procedimiento de adjudicación**.
 
-
 ### Garantía de igualdad de trato y objetividad
 
 La valoración aplica los mismos criterios, niveles de exigencia y reglas de puntuación utilizados para el resto de licitadores. Las conclusiones se fundamentan exclusivamente en la memoria presentada y en la documentación reguladora, sin incorporar capacidades presumidas ni elementos externos.

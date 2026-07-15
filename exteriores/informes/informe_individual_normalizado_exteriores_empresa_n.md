@@ -29,13 +29,13 @@ La clasificación más frecuente sigue siendo el desarrollo insuficiente o gené
 
 | **Bloque**                 | **Puntuación máxima** | **Puntuación obtenida** |
 | -------------------------- | --------------------: | ----------------------: |
-| Solución técnica ofertada  |                 15,00 |                  7,25 |
-| Planificación del servicio |                 15,00 |                  2,80 |
-| **TOTAL**                  |             **30,00** |             **10,05** |
+| Solución técnica ofertada  |                 15,00 |                    6,65 |
+| Planificación del servicio |                 15,00 |                    3,05 |
+| **TOTAL**                  |             **30,00** |                **9,70** |
 
 ### Conclusión del resumen ejecutivo
 
-La oferta presenta una comprensión general aceptable y una cobertura documental extensa, pero no acredita de forma homogénea cómo se ejecutarán, validarán y controlarán numerosas actuaciones. Las deficiencias de concreción técnica se acumulan con una planificación incompleta para el periodo contractual, por lo que la calidad global resulta insuficiente. La oferta obtiene **10,05 puntos sobre 30** y no alcanza el umbral mínimo de 15 puntos.
+La oferta presenta una comprensión general aceptable y una cobertura documental extensa, pero no acredita de forma homogénea cómo se ejecutarán, validarán y controlarán numerosas actuaciones. Las deficiencias de concreción técnica se acumulan con una planificación incompleta para el periodo contractual, por lo que la calidad global resulta insuficiente. La oferta obtiene **9,70 puntos sobre 30** y no alcanza el umbral mínimo de 15 puntos.
 
 ## INTRODUCCIÓN
 
@@ -2144,11 +2144,11 @@ La arquitectura constituye uno de los criterios fundamentales de evaluación al 
 
 **Especial relevancia adquiere igualmente la ausencia de arquitecturas específicas en ámbitos donde el propio pliego solicita actuaciones de elevada complejidad técnica, como las integraciones entre aplicaciones, la evolución de plataformas educativas o determinados servicios de sistemas externos.** En estos casos, la falta de detalle técnico dificulta significativamente la valoración del diseño propuesto y reduce la capacidad de verificar su idoneidad para el entorno EducaMadrid.
 
-En consecuencia, aunque la propuesta demuestra comprender el contexto general de los sistemas sobre los que deberá actuar, el desarrollo arquitectónico presentado resulta insuficiente para acreditar un grado elevado de definición técnica, situándose en una franja media-baja dentro del baremo de valoración.
+En consecuencia, aunque la propuesta demuestra comprender el contexto general de los sistemas sobre los que deberá actuar, el contraste con la memoria confirma que el desarrollo arquitectónico es incompleto: faltan arquitecturas específicas, relaciones, diagramas y mecanismos de integración en la mayor parte de los bloques. Estos rasgos corresponden al descriptor BAJA.
 
-**Nivel cualitativo:** MEDIA
+**Nivel cualitativo:** BAJA
 
-**Puntuación:** 0,90 sobre 2,00
+**Puntuación:** 0,50 sobre 2,00
 
 ### Grado de comprensión de los requisitos planteados — máximo 2 puntos
 
@@ -2252,23 +2252,23 @@ A esta circunstancia se añade la existencia de requisitos para los que no ha si
 
 **Asimismo, en otros apartados donde sí existe respuesta, ésta se limita frecuentemente a describir actividades genéricas de revisión, análisis, seguimiento o validación, sin incorporar elementos técnicos que permitan valorar la profundidad real de la solución propuesta.** Esta situación afecta especialmente a proyectos relacionados con ENS, ciberseguridad, monitorización, desarrollo seguro o gestión del programa de Bug Bounty, ámbitos que en la memoria reciben un tratamiento claramente inferior al nivel de detalle técnico que cabría esperar para alcanzar valoraciones elevadas.
 
-En consecuencia, aunque la propuesta acredita una cobertura parcial significativa del alcance contractual y mantiene carencias técnicas y dos requisitos sin respuesta evaluable, la puntuación consolidada aprobada para este subcriterio es de 4,20 puntos sobre 8,00. Ese 52,5 % corresponde al nivel ALTA conforme a la escala cerrada aplicada de forma homogénea.
+En consecuencia, el contraste con la memoria confirma una cobertura parcial significativa, pero también una respuesta frecuentemente genérica, carencias técnicas relevantes y dos requisitos sin solución evaluable. Los 26 desarrollos insuficientes y la ausencia de solución evaluable para ESIS11 y ESIS14 sitúan el subcriterio en el nivel MEDIA.
 
-**Nivel cualitativo:** ALTA
+**Nivel cualitativo:** MEDIA
 
-**Puntuación:** 4,20 sobre 8,00
+**Puntuación:** 4,00 sobre 8,00
 
 ### Resultado global de la solución técnica
 
-| **Subcriterio** | **Máximo** | **Nivel** | **Puntuación** |
-| --- | ---: | --- | ---: |
-| Arquitectura | 2,00 | MEDIA | 0,90 |
-| Comprensión de los requisitos | 2,00 | MEDIA | 1,00 |
-| Viabilidad | 1,00 | MEDIA | 0,40 |
-| Metodología | 1,00 | MEDIA | 0,50 |
-| Rendimiento | 1,00 | BAJA | 0,25 |
-| Satisfacción de los requisitos | 8,00 | ALTA | 4,20 |
-| **TOTAL SOLUCIÓN TÉCNICA** | **15,00** |  | **7,25** |
+| **Subcriterio**                | **Máximo** | **Nivel** | **Puntuación** |
+| ------------------------------ | ---------: | --------- | -------------: |
+| Arquitectura                   |       2,00 | BAJA      |           0,50 |
+| Comprensión de los requisitos  |       2,00 | MEDIA     |           1,00 |
+| Viabilidad                     |       1,00 | MEDIA     |           0,40 |
+| Metodología                    |       1,00 | MEDIA     |           0,50 |
+| Rendimiento                    |       1,00 | BAJA      |           0,25 |
+| Satisfacción de los requisitos |       8,00 | MEDIA     |           4,00 |
+| **TOTAL SOLUCIÓN TÉCNICA**     |  **15,00** |           |       **6,65** |
 
 ## EVALUACIÓN DE LA PLANIFICACIÓN DEL SERVICIO
 
@@ -2312,11 +2312,11 @@ También se aprecia una preocupación por aspectos relacionados con la continuid
 
 Asimismo, no se observa una vinculación clara entre los riesgos identificados y los distintos bloques funcionales del servicio, lo que dificulta valorar el grado de cobertura alcanzado frente a riesgos específicos asociados a subproyectos particularmente complejos.
 
-Pese a estas limitaciones, puede concluirse que existe un análisis de riesgos identificable y razonablemente alineado con la naturaleza del contrato, lo que permite otorgar una valoración superior a la obtenida en otros apartados de la planificación.
+El contraste con la memoria confirma que existe un análisis de riesgos identificable y razonablemente alineado con la naturaleza del contrato: se reconocen escenarios de continuidad, seguridad, infraestructura y despliegue y se describen prevención, detección y respuesta. La ausencia de una matriz formal, cuantificación y vinculación completa a los subproyectos impide calificarlo como bueno, pero el desarrollo sí alcanza el descriptor de análisis correcto.
 
-**Nivel cualitativo:** BAJA
+**Nivel cualitativo:** MEDIA
 
-**Puntuación:** 0,25 sobre 1,00
+**Puntuación:** 0,50 sobre 1,00
 
 ### Plan de gestión de contingencias — máximo 1 punto
 
@@ -2368,22 +2368,22 @@ Como consecuencia, la capacidad de control y seguimiento que ofrece la planifica
 
 ### Resultado global de la planificación
 
-| **Subcriterio** | **Máximo** | **Nivel** | **Puntuación** |
-| --- | ---: | --- | ---: |
-| Calendario y planificación temporal | 11,00 | BAJA | 1,80 |
-| Análisis de riesgos | 1,00 | BAJA | 0,25 |
-| Plan de contingencias | 1,00 | BAJA | 0,25 |
-| Plan de calidad | 1,00 | BAJA | 0,25 |
-| Trazabilidad | 1,00 | BAJA | 0,25 |
-| **TOTAL PLANIFICACIÓN** | **15,00** |  | **2,80** |
+| **Subcriterio**                     | **Máximo** | **Nivel** | **Puntuación** |
+| ----------------------------------- | ---------: | --------- | -------------: |
+| Calendario y planificación temporal |      11,00 | BAJA      |           1,80 |
+| Análisis de riesgos                 |       1,00 | MEDIA     |           0,50 |
+| Plan de contingencias               |       1,00 | BAJA      |           0,25 |
+| Plan de calidad                     |       1,00 | BAJA      |           0,25 |
+| Trazabilidad                        |       1,00 | BAJA      |           0,25 |
+| **TOTAL PLANIFICACIÓN**             |  **15,00** |           |       **3,05** |
 
 ## RESULTADO FINAL CONSOLIDADO
 
 | **Bloque**                 | **Puntuación máxima** | **Puntuación obtenida** |
 | -------------------------- | --------------------: | ----------------------: |
-| Solución técnica ofertada  |                 15,00 |                  7,25 |
-| Planificación del servicio |                 15,00 |                  2,80 |
-| **PUNTUACIÓN FINAL**       |             **30,00** |             **10,05** |
+| Solución técnica ofertada  |                 15,00 |                    6,65 |
+| Planificación del servicio |                 15,00 |                    3,05 |
+| **PUNTUACIÓN FINAL**       |             **30,00** |                **9,70** |
 
 ### Interpretación de la puntuación
 
@@ -2397,11 +2397,11 @@ La oferta presenta una comprensión general aceptable y una cobertura documental
 
 ### Conclusiones sobre la solución técnica
 
-La oferta acredita una comprensión funcional del servicio y cubre formalmente la mayoría de los códigos, pero el desarrollo efectivo permanece con frecuencia en un plano declarativo. La falta de arquitecturas específicas, herramientas, métricas, criterios de aceptación y procedimientos verificables limita la viabilidad demostrada y la satisfacción de los requisitos. La solución técnica obtiene **7,25 puntos sobre 15**.
+La oferta acredita una comprensión funcional del servicio y cubre formalmente la mayoría de los códigos, pero el desarrollo efectivo permanece con frecuencia en un plano declarativo. La falta de arquitecturas específicas, herramientas, métricas, criterios de aceptación y procedimientos verificables limita la viabilidad demostrada y la satisfacción de los requisitos. La solución técnica obtiene **6,65 puntos sobre 15**.
 
 ### Conclusiones sobre la planificación del servicio
 
-La planificación obtiene **2,80 puntos sobre 15**. Su resultado refleja el grado de detalle temporal, la relación con los subproyectos y la formalización de riesgos, contingencias, calidad y trazabilidad descritos en el análisis.
+La planificación obtiene **3,05 puntos sobre 15**. Su resultado refleja el grado de detalle temporal, la relación con los subproyectos y la formalización de riesgos, contingencias, calidad y trazabilidad descritos en el análisis.
 
 ### Justificación de la valoración
 
@@ -2409,7 +2409,7 @@ Las puntuaciones parciales responden a las evidencias identificadas en cada subp
 
 ### Aplicación del umbral mínimo y propuesta final
 
-La propuesta de **empresa_n** obtiene una puntuación de **10,05 puntos sobre 30** en los criterios sujetos a juicio de valor.
+La propuesta de **empresa_n** obtiene una puntuación de **9,70 puntos sobre 30** en los criterios sujetos a juicio de valor.
 
 El umbral mínimo exigido para continuar en el procedimiento es de **15 puntos sobre 30**. Por tanto, la oferta **NO ALCANZA** el nivel mínimo de calidad técnica establecido.
 
@@ -2437,122 +2437,122 @@ De forma separada se indican las propuestas de mejora sin valor añadido real (P
 
 #### Proyectos Web Liferay (ELIF)
 
-| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| ELIF1 | SUFICIENTE | VA | NO | virtual hosts y despliegues controlados |
-| ELIF2 | SUFICIENTE | VA | NO | design system corporativo reutilizable |
-| ELIF3 | SUFICIENTE | VA | NO | arquitectura frontend desacoplada |
-| ELIF4 | SUFICIENTE | PM | NO | mejora continua accesibilidad |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                   |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------------- |
+| ELIF1        | SUFICIENTE              | VA     | NO        | virtual hosts y despliegues controlados |
+| ELIF2        | SUFICIENTE              | VA     | NO        | design system corporativo reutilizable  |
+| ELIF3        | SUFICIENTE              | VA     | NO        | arquitectura frontend desacoplada       |
+| ELIF4        | SUFICIENTE              | PM     | NO        | mejora continua accesibilidad           |
 
 #### Innovación y Formación del Profesorado (IFP)
 
-| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| IFP1 | SUFICIENTE | NO | NO | Desarrollo técnico evaluable. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**         |
+| ------------ | ----------------------- | ------ | --------- | ----------------------------- |
+| IFP1         | SUFICIENTE              | NO     | NO        | Desarrollo técnico evaluable. |
 
 #### Proyectos MoodleMisc (EMOM)
 
-| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| EMOM1 | SUFICIENTE | VA | NO | CI/CD y auditoría automatizada |
-| EMOM2 | SUFICIENTE | PM | NO | evolucionar el modelo actual |
-| EMOM3 | SUFICIENTE | PM | NO | evolucionar el modelo descrito |
-| EMOM4 | SUFICIENTE | PM | NO | reforzar el enfoque descrito |
-| EMOM5 | SUFICIENTE | NO | NO | Desarrollo técnico evaluable. |
-| EMOM6 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| EMOM7 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                               |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------------------------- |
+| EMOM1        | SUFICIENTE              | VA     | NO        | CI/CD y auditoría automatizada                      |
+| EMOM2        | SUFICIENTE              | PM     | NO        | evolucionar el modelo actual                        |
+| EMOM3        | SUFICIENTE              | PM     | NO        | evolucionar el modelo descrito                      |
+| EMOM4        | SUFICIENTE              | PM     | NO        | reforzar el enfoque descrito                        |
+| EMOM5        | SUFICIENTE              | NO     | NO        | Desarrollo técnico evaluable.                       |
+| EMOM6        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado. |
+| EMOM7        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado. |
 
 #### Proyectos de Dinámicas (EDIN)
 
-| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| EDIN1 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| EDIN2 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                               |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------------------------- |
+| EDIN1        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado. |
+| EDIN2        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado. |
 
 #### Integración con la plataforma EducaMadrid (EIPE)
 
-| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| EIPE1 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| EIPE2 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                               |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------------------------- |
+| EIPE1        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado. |
+| EIPE2        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado. |
 
 #### Proyectos de Sistemas Externos (ESIS)
 
-| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| ESIS1 | SUFICIENTE | VA | NO | actualización con validaciones previas |
-| ESIS2 | SUFICIENTE | VA | NO | optimización continua BBDD |
-| ESIS3 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS4 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS5 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS6 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS7 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS8 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS9 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS10 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS11 | NO INCLUIDA | NO | NO | No se incluye una solución técnica concreta. |
-| ESIS12 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS13 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS14 | NO INCLUIDA | NO | NO | No se incluye una solución técnica concreta. |
-| ESIS15 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS16 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS17 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS18 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS19 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS20 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS21 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS22 | SUFICIENTE | PM | NO | Metodología Magerit |
-| ESIS23 | SUFICIENTE | NO | NO | Desarrollo técnico evaluable. |
-| ESIS24 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESIS25 | SUFICIENTE | VA | NO | OpenNMS, Cacti, alertas avanzadas y scripts personalizados |
-| ESIS26 | SUFICIENTE | PM | NO | 2FA, certificados, TLS y revisión de vulnerabilidades |
-| ESIS27 | SUFICIENTE | VA | NO | SIEM OpenSource |
-| ESIS28 | SUFICIENTE | NO | NO | Desarrollo técnico evaluable. |
-| ESIS29 | SUFICIENTE | PM | NO | gobernanza y seguimiento |
-| ESIS30 | SUFICIENTE | VA | NO | Zero Trust y MFA |
-| ESIS31 | SUFICIENTE | PM | NO | optimización de capacidad, rendimiento y alta disponibilidad |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                        |
+| ------------ | ----------------------- | ------ | --------- | ------------------------------------------------------------ |
+| ESIS1        | SUFICIENTE              | VA     | NO        | actualización con validaciones previas                       |
+| ESIS2        | SUFICIENTE              | VA     | NO        | optimización continua BBDD                                   |
+| ESIS3        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS4        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS5        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS6        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS7        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS8        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS9        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS10       | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS11       | NO INCLUIDA             | NO     | NO        | No se incluye una solución técnica concreta.                 |
+| ESIS12       | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS13       | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS14       | NO INCLUIDA             | NO     | NO        | No se incluye una solución técnica concreta.                 |
+| ESIS15       | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS16       | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS17       | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS18       | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS19       | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS20       | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS21       | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS22       | SUFICIENTE              | PM     | NO        | Metodología Magerit                                          |
+| ESIS23       | SUFICIENTE              | NO     | NO        | Desarrollo técnico evaluable.                                |
+| ESIS24       | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado.          |
+| ESIS25       | SUFICIENTE              | VA     | NO        | OpenNMS, Cacti, alertas avanzadas y scripts personalizados   |
+| ESIS26       | SUFICIENTE              | PM     | NO        | 2FA, certificados, TLS y revisión de vulnerabilidades        |
+| ESIS27       | SUFICIENTE              | VA     | NO        | SIEM OpenSource                                              |
+| ESIS28       | SUFICIENTE              | NO     | NO        | Desarrollo técnico evaluable.                                |
+| ESIS29       | SUFICIENTE              | PM     | NO        | gobernanza y seguimiento                                     |
+| ESIS30       | SUFICIENTE              | VA     | NO        | Zero Trust y MFA                                             |
+| ESIS31       | SUFICIENTE              | PM     | NO        | optimización de capacidad, rendimiento y alta disponibilidad |
 
 #### Seguridad de Aplicaciones Web (ESEG)
 
-| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| ESEG1 | SUFICIENTE | VA | NO | pentesting y seguimiento vulnerabilidades |
-| ESEG2 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
-| ESEG3 | SUFICIENTE | VA | NO | supervisión superficie exposición |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                               |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------------------------- |
+| ESEG1        | SUFICIENTE              | VA     | NO        | pentesting y seguimiento vulnerabilidades           |
+| ESEG2        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado. |
+| ESEG3        | SUFICIENTE              | VA     | NO        | supervisión superficie exposición                   |
 
 #### Desarrollo Seguro de Aplicaciones Web (EDSA)
 
-| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| EDSA1 | SUFICIENTE | VA | NO | análisis automatizado código |
-| EDSA2 | SUFICIENTE | PM | NO | apoyo metodológico desarrollo seguro |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                |
+| ------------ | ----------------------- | ------ | --------- | ------------------------------------ |
+| EDSA1        | SUFICIENTE              | VA     | NO        | análisis automatizado código         |
+| EDSA2        | SUFICIENTE              | PM     | NO        | apoyo metodológico desarrollo seguro |
 
 #### Gestión del programa de Bug Bounty (EBBO)
 
-| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve** |
-| --- | --- | --- | --- | --- |
-| EBBO1 | INSUFICIENTE | NO | NO | Desarrollo genérico o insuficientemente concretado. |
+| **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                               |
+| ------------ | ----------------------- | ------ | --------- | --------------------------------------------------- |
+| EBBO1        | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o insuficientemente concretado. |
 
 ### Resumen cuantitativo del anexo
 
 #### Grado de desarrollo
 
-| **Clasificación** | **Número de proyectos** | **Porcentaje** |
-| --- | ---: | ---: |
-| No incluidos | 2 | 3,77 % |
-| Desarrollo insuficiente o deficiente | 26 | 49,06 % |
-| Desarrollo suficiente | 25 | 47,17 % |
-| **TOTAL DE PROYECTOS** | **53** | **100,00 %** |
+| **Clasificación**                    | **Número de proyectos** | **Porcentaje** |
+| ------------------------------------ | ----------------------: | -------------: |
+| No incluidos                         |                       2 |         3,77 % |
+| Desarrollo insuficiente o deficiente |                      26 |        49,06 % |
+| Desarrollo suficiente                |                      25 |        47,17 % |
+| **TOTAL DE PROYECTOS**               |                  **53** |   **100,00 %** |
 
 #### Indicadores adicionales
 
 Los siguientes indicadores no son excluyentes entre sí ni respecto del grado de desarrollo.
 
-| **Indicador** | **Número de proyectos** | **Porcentaje sobre el total** |
-| --- | ---: | ---: |
-| Con errores técnicos relevantes | 0 | 0,00 % |
-| Con propuesta de mejora sin valor añadido real | 9 | 16,98 % |
-| Con propuesta de mejora con valor añadido real | 12 | 22,64 % |
+| **Indicador**                                  | **Número de proyectos** | **Porcentaje sobre el total** |
+| ---------------------------------------------- | ----------------------: | ----------------------------: |
+| Con errores técnicos relevantes                |                       0 |                        0,00 % |
+| Con propuesta de mejora sin valor añadido real |                       9 |                       16,98 % |
+| Con propuesta de mejora con valor añadido real |                      12 |                       22,64 % |
 
 ### Conclusión del anexo
 

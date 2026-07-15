@@ -29,13 +29,13 @@ El patrón dominante es la inclusión formal de los proyectos con desarrollo ins
 
 | **Bloque**                 | **Puntuación máxima** | **Puntuación obtenida** |
 | -------------------------- | --------------------: | ----------------------: |
-| Solución técnica ofertada  |                 15,00 |                    5,70 |
+| Solución técnica ofertada  |                 15,00 |                    5,10 |
 | Planificación del servicio |                 15,00 |                    5,60 |
-| **TOTAL**                  |             **30,00** |               **11,30** |
+| **TOTAL**                  |             **30,00** |               **10,70** |
 
 ### Conclusión del resumen ejecutivo
 
-La calidad global es insuficiente. La oferta obtiene 11,30 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos; procede proponer su exclusión.
+La calidad global es insuficiente. La oferta obtiene 10,70 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos; procede proponer su exclusión.
 
 ## INTRODUCCIÓN
 
@@ -570,10 +570,10 @@ La valoración de la solución técnica se basa en el análisis pormenorizado de
 
 ### Arquitectura planteada en los distintos subproyectos — máximo 2 puntos
 
-La propuesta identifica componentes y sistemas, pero no define de manera completa sus relaciones, flujos, despliegues ni mecanismos de resiliencia. La cobertura arquitectónica es parcial y presenta errores de adaptación al entorno.
+La propuesta identifica componentes y sistemas, pero no define de manera completa sus relaciones, flujos, despliegues ni mecanismos de resiliencia. El contraste con la memoria confirma una cobertura arquitectónica incompleta y con errores de adaptación al entorno, rasgos que corresponden al descriptor BAJA.
 
-**Nivel cualitativo:** MEDIA
-**Puntuación:** 1,00 sobre 2,00
+**Nivel cualitativo:** BAJA
+**Puntuación:** 0,50 sobre 2,00
 
 ### Grado de comprensión de los requisitos planteados — máximo 2 puntos
 
@@ -605,22 +605,22 @@ El rendimiento se trata de forma genérica y sin métricas cuantificables, escen
 
 ### Satisfacción de los requisitos del Anexo II — máximo 8 puntos
 
-La oferta cubre nominalmente todos los proyectos, pero 73 de 85 presentan desarrollo insuficiente o errores relevantes. La falta de concreción afecta de forma especial al bloque complementario y limita la verificación del cumplimiento.
+Aunque la oferta cubre nominalmente los 85 proyectos, 73 presentan desarrollo insuficiente o errores relevantes y solo 12 alcanzan un desarrollo suficiente.
 
 **Nivel cualitativo:** MEDIA
-**Puntuación:** 2,50 sobre 8,00
+**Puntuación:** 2,40 sobre 8,00
 
 ### Resultado global de la solución técnica
 
 | **Subcriterio**                | **Máximo** | **Nivel** | **Puntuación** |
 | ------------------------------ | ---------: | --------- | -------------: |
-| Arquitectura                   |       2,00 | MEDIA     |           1,00 |
+| Arquitectura                   |       2,00 | BAJA      |           0,50 |
 | Comprensión de los requisitos  |       2,00 | MEDIA     |           1,00 |
 | Viabilidad                     |       1,00 | MEDIA     |           0,40 |
 | Metodología                    |       1,00 | MEDIA     |           0,40 |
 | Rendimiento                    |       1,00 | MEDIA     |           0,40 |
-| Satisfacción de los requisitos |       8,00 | MEDIA     |           2,50 |
-| **TOTAL SOLUCIÓN TÉCNICA**     |  **15,00** |           |       **5,70** |
+| Satisfacción de los requisitos |       8,00 | MEDIA     |           2,40 |
+| **TOTAL SOLUCIÓN TÉCNICA**     |  **15,00** |           |       **5,10** |
 
 ## EVALUACIÓN DE LA PLANIFICACIÓN DEL SERVICIO
 
@@ -678,19 +678,19 @@ No se establece una matriz operativa completa entre requisitos, tareas, responsa
 
 | **Bloque**                 | **Puntuación máxima** | **Puntuación obtenida** |
 | -------------------------- | --------------------: | ----------------------: |
-| Solución técnica ofertada  |                 15,00 |                    5,70 |
+| Solución técnica ofertada  |                 15,00 |                    5,10 |
 | Planificación del servicio |                 15,00 |                    5,60 |
-| **PUNTUACIÓN FINAL**       |             **30,00** |               **11,30** |
+| **PUNTUACIÓN FINAL**       |             **30,00** |               **10,70** |
 
 ### Interpretación de la puntuación
 
-La puntuación consolidada de 11,30 puntos refleja de forma proporcionada la cobertura, profundidad, viabilidad y planificación acreditadas. La calidad global es insuficiente. La oferta obtiene 11,30 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos; procede proponer su exclusión.
+La puntuación consolidada de 10,70 puntos refleja de forma proporcionada la cobertura, profundidad, viabilidad y planificación acreditadas. La calidad global es insuficiente. La oferta obtiene 10,70 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos; procede proponer su exclusión.
 
 ## CONCLUSIONES FINALES Y PROPUESTA
 
 ### Conclusiones globales de la evaluación técnica
 
-La propuesta presenta una estructura formal correcta y una cobertura nominal amplia del ecosistema EducaMadrid, pero el desarrollo efectivo es mayoritariamente descriptivo. Faltan arquitecturas específicas, flujos de integración, métricas, criterios de aceptación y mecanismos de validación suficientes. Se reconocen contenidos evaluables en algunos proyectos y una base metodológica apoyada en Métrica v3, aunque su aplicación práctica es limitada. Los errores de interpretación tecnológica y la baja concreción reducen la viabilidad y la trazabilidad del conjunto. La calidad global es insuficiente. La oferta obtiene 11,30 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos; procede proponer su exclusión.
+La propuesta presenta una estructura formal correcta y una cobertura nominal amplia del ecosistema EducaMadrid, pero el desarrollo efectivo es mayoritariamente descriptivo. Faltan arquitecturas específicas, flujos de integración, métricas, criterios de aceptación y mecanismos de validación suficientes. Se reconocen contenidos evaluables en algunos proyectos y una base metodológica apoyada en Métrica v3, aunque su aplicación práctica es limitada. Los errores de interpretación tecnológica y la baja concreción reducen la viabilidad y la trazabilidad del conjunto. La calidad global es insuficiente. La oferta obtiene 10,70 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos; procede proponer su exclusión.
 
 ### Conclusiones sobre la solución técnica
 
@@ -702,11 +702,11 @@ El cronograma ofrece una visión general de fases, pero carece de desglose sufic
 
 ### Justificación de la valoración
 
-Las puntuaciones parciales trasladan el nivel efectivamente acreditado en cada subcriterio, sin compensar omisiones estructurales con fortalezas puntuales. El resultado de 5,70 puntos en solución y 5,60 en planificación es coherente con el análisis y con el total de 11,30 puntos.
+Las puntuaciones parciales trasladan el nivel efectivamente acreditado en cada subcriterio, sin compensar omisiones estructurales con fortalezas puntuales. El resultado de 5,10 puntos en solución y 5,60 en planificación es coherente con el análisis y con el total de 10,70 puntos.
 
 ### Aplicación del umbral mínimo y propuesta final
 
-La propuesta de **empresa_n** obtiene una puntuación de **11,30 puntos sobre 30** en los criterios sujetos a juicio de valor.
+La propuesta de **empresa_n** obtiene una puntuación de **10,70 puntos sobre 30** en los criterios sujetos a juicio de valor.
 
 El umbral mínimo exigido para continuar en el procedimiento es de **15 puntos sobre 30**. Por tanto, la oferta **NO ALCANZA** el nivel mínimo de calidad técnica establecido.
 

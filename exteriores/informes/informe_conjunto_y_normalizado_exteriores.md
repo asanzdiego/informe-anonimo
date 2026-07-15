@@ -249,24 +249,24 @@ Como consecuencia de todo ello, el análisis comparativo realizado pone de manif
 
 | **Subcriterio**            | **Máximo** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** |
 | -------------------------- | ---------: | ------------- | ---------: | ------------- | ---------: |
-| Arquitectura               |          2 | ALTA          |       1,50 | MEDIA         |       0,90 |
+| Arquitectura               |          2 | ALTA          |       1,50 | BAJA          |       0,50 |
 | Comprensión de requisitos  |          2 | EXCELENTE     |       1,75 | MEDIA         |       1,00 |
 | Viabilidad                 |          1 | ALTA          |       0,75 | MEDIA         |       0,40 |
 | Metodología                |          1 | ALTA          |       0,60 | MEDIA         |       0,50 |
 | Rendimiento                |          1 | MEDIA         |       0,50 | BAJA          |       0,25 |
-| Satisfacción de requisitos |          8 | ALTA          |       5,75 | ALTA          |       4,20 |
-| **Total**                  |     **15** |               |  **10,85** |               |   **7,25** |
+| Satisfacción de requisitos |          8 | ALTA          |       5,75 | MEDIA         |       4,00 |
+| **Total**                  |     **15** |               |  **10,85** |               |   **6,65** |
 
 ### Valoración comparativa de la planificación del servicio
 
 | **Subcriterio**            | **Máximo** | **empresa_s** | **Puntos** | **empresa_n** | **Puntos** |
 | -------------------------- | ---------: | ------------- | ---------: | ------------- | ---------: |
 | Calendario y planificación |         11 | MEDIA         |       5,50 | BAJA          |       1,80 |
-| Análisis de riesgos        |          1 | ALTA          |       0,60 | BAJA          |       0,25 |
+| Análisis de riesgos        |          1 | ALTA          |       0,60 | MEDIA         |       0,50 |
 | Plan de contingencias      |          1 | ALTA          |       0,60 | BAJA          |       0,25 |
 | Plan de calidad            |          1 | ALTA          |       0,65 | BAJA          |       0,25 |
 | Trazabilidad               |          1 | MEDIA         |       0,50 | BAJA          |       0,25 |
-| **Total**                  |     **15** |               |   **7,85** |               |   **2,80** |
+| **Total**                  |     **15** |               |   **7,85** |               |   **3,05** |
 
 ### Resultado global de los criterios sujetos a juicio de valor
 
@@ -275,11 +275,45 @@ La suma de los dos bloques y la comprobación del umbral mínimo arrojan el sigu
 | **Licitador** | **Solución técnica** | **Planificación** | **Total** | **Umbral de 15 puntos** |
 | ------------- | -------------------: | ----------------: | --------: | ----------------------- |
 | empresa_s     |                10,85 |              7,85 | **18,70** | SUPERA                  |
-| empresa_n     |                 7,25 |              2,80 | **10,05** | NO SUPERA               |
+| empresa_n     |                 6,65 |              3,05 |  **9,70** | NO SUPERA               |
 
 ### Justificación de la valoración comparativa
 
 Las puntuaciones reflejadas en las tablas anteriores constituyen la **traducción cuantitativa de diferencias técnicas observadas de forma reiterada** a lo largo de toda la documentación analizada. No responden, por tanto, a elementos aislados o a apreciaciones subjetivas, sino a patrones consistentes identificados en los distintos bloques funcionales evaluados.
+
+Para que el informe conjunto sea autosuficiente, se incorpora a continuación una motivación breve de cada nivel y nota. El desarrollo completo y la trazabilidad por subproyecto se conservan en los informes individuales.
+
+#### empresa_s
+
+| **Subcriterio** | **Nivel y puntos** | **Motivación breve** |
+| --- | --- | --- |
+| Arquitectura | ALTA — 1,50/2,00 | Desarrolla integraciones, migraciones y modelos desacoplados coherentes con el entorno, aunque con abstracción y cuantificación incompletas. |
+| Comprensión | EXCELENTE — 1,75/2,00 | Interpreta correctamente los sistemas y adapta las respuestas a sus particularidades, con cobertura completa y sin errores relevantes. |
+| Viabilidad | ALTA — 0,75/1,00 | Los procedimientos de migración, despliegue, seguridad y operación hacen ejecutable la solución, pese a cierta falta de concreción. |
+| Metodología | ALTA — 0,60/1,00 | Aplica buenas prácticas y secuencias de actuación reconocibles, pero no formaliza por completo herramientas, entregables y controles. |
+| Rendimiento | MEDIA — 0,50/1,00 | Existe intención de optimización, pero faltan métricas, objetivos cuantificados y pruebas que acrediten el rendimiento previsible. |
+| Satisfacción | ALTA — 5,75/8,00 | Cubre los 53 subproyectos; 45 tienen desarrollo suficiente y existen mejoras relevantes, aunque persisten ocho desarrollos insuficientes. |
+| Calendario | MEDIA — 5,50/11,00 | Incluye un Gantt y fases coherentes, pero el detalle de duraciones, secuencia, dependencias y control operativo es limitado. |
+| Riesgos | ALTA — 0,60/1,00 | Reconoce riesgos y medidas de gestión, aunque falta una formalización completa mediante matriz, responsables e indicadores. |
+| Contingencias | ALTA — 0,60/1,00 | Aporta prácticas de resiliencia y recuperación, pero no configura un plan plenamente estructurado y verificable. |
+| Calidad | ALTA — 0,65/1,00 | Incorpora prácticas de calidad y mejora, con formalización incompleta de métricas, control y seguimiento sistemático. |
+| Trazabilidad | MEDIA — 0,50/1,00 | Presenta registros y mecanismos parciales, pero no un modelo extremo a extremo entre requisitos, tareas, entregables y evidencias. |
+
+#### empresa_n
+
+| **Subcriterio** | **Nivel y puntos** | **Motivación breve** |
+| --- | --- | --- |
+| Arquitectura | BAJA — 0,50/2,00 | Faltan arquitecturas específicas, relaciones, diagramas y mecanismos de integración en la mayor parte de los bloques. |
+| Comprensión | MEDIA — 1,00/2,00 | Comprende el objeto general, pero agrupa y simplifica requisitos y deja apartados sin respuesta evaluable. |
+| Viabilidad | MEDIA — 0,40/1,00 | No plantea actuaciones inviables, aunque la escasa profundidad técnica limita la confianza en su ejecución. |
+| Metodología | MEDIA — 0,50/1,00 | Existe una secuencia organizativa básica, pero no una metodología técnica suficientemente formalizada y verificable. |
+| Rendimiento | BAJA — 0,25/1,00 | La ausencia casi total de métricas, indicadores, objetivos y medición impide acreditar un rendimiento normal. |
+| Satisfacción | MEDIA — 4,00/8,00 | La cobertura es parcial y frecuentemente genérica; 26 desarrollos son insuficientes y ESIS11 y ESIS14 carecen de solución evaluable. |
+| Calendario | BAJA — 1,80/11,00 | El cronograma cubre solo un año, carece de leyenda, desglose, trazabilidad y recursos, y tiene utilidad operativa muy limitada. |
+| Riesgos | MEDIA — 0,50/1,00 | Identifica escenarios de continuidad, seguridad, infraestructura y despliegue y describe prevención y respuesta, sin matriz ni cuantificación. |
+| Contingencias | BAJA — 0,25/1,00 | Existe un planteamiento básico, pero faltan escenarios diferenciados, tiempos, escalado, responsables y validación. |
+| Calidad | BAJA — 0,25/1,00 | La calidad está presente de forma conceptual, sin indicadores, herramientas y control sistemático suficientes. |
+| Trazabilidad | BAJA — 0,25/1,00 | Los mecanismos de seguimiento no relacionan de forma completa requisitos, tareas, planificación y evidencias. |
 
 En relación con la arquitectura de la solución, la propuesta de empresa_s presenta un **nivel de madurez superior** al de empresa_n. La memoria desarrolla modelos de integración, procedimientos de migración, arquitecturas desacopladas mediante APIs, mecanismos de gobierno de plataformas y estrategias específicas para múltiples entornos tecnológicos, configurando una **base arquitectónica reconocible y coherente**. Aunque dichas arquitecturas adolecen en muchos casos de una insuficiente definición de herramientas concretas y de métricas cuantificables, mantienen un grado de desarrollo suficiente para acreditar la forma general en la que se articularían las soluciones propuestas. Por el contrario, la arquitectura descrita por empresa_n se caracteriza por un **nivel de abstracción significativamente mayor**, con abundantes referencias conceptuales pero con una menor capacidad para concretar mecanismos efectivos de implantación.
 
@@ -318,7 +352,7 @@ Como resultado de todo lo anterior, las puntuaciones finales obtenidas por los l
 | **Empresa** | **Solución técnica** | **Planificación** | **Total** |
 | ----------- | -------------------- | ----------------- | --------- |
 | empresa_s   | 10,85                | 7,85              | **18,70** |
-| empresa_n   | 7,25                 | 2,80              | **10,05** |
+| empresa_n   | 6,65                 | 3,05              |  **9,70** |
 
 En consecuencia, la valoración realizada permite afirmar que **ambas ofertas no se sitúan en un nivel técnico equiparable** y que la diferencia observada entre las puntuaciones finales constituye una consecuencia directa del **distinto grado de desarrollo, concreción y madurez** alcanzado por las soluciones propuestas. Desde esta perspectiva, las valoraciones asignadas resultan coherentes con la metodología de evaluación aplicada, con los criterios definidos en el Documento de Invitación y con las evidencias objetivamente identificadas en la documentación analizada.
 
@@ -333,9 +367,9 @@ Una vez finalizada la evaluación técnica comparada de las ofertas y consolidad
 | **Empresa** | **Puntuación total juicio de valor** | **Supera umbral** |
 | ----------- | ------------------------------------ | ----------------- |
 | empresa_s   | 18,70 / 30                           | Sí                |
-| empresa_n   | 10,05 / 30                           | No                |
+| empresa_n   | 9,70 / 30                            | No                |
 
-A la vista de los resultados anteriores, se constata que la oferta presentada por empresa_s **supera el umbral mínimo de calidad exigido por el Documento de Invitación**, obteniendo una puntuación total de **18,70 puntos sobre 30**. Por el contrario, la oferta presentada por empresa_n alcanza únicamente una puntuación total de **10,05 puntos sobre 30**, situándose por debajo del umbral mínimo establecido por el pliego para continuar en el procedimiento.
+A la vista de los resultados anteriores, se constata que la oferta presentada por empresa_s **supera el umbral mínimo de calidad exigido por el Documento de Invitación**, obteniendo una puntuación total de **18,72 puntos sobre 30**. Por el contrario, la oferta presentada por empresa_n alcanza únicamente una puntuación total de **9,70 puntos sobre 30**, situándose por debajo del umbral mínimo establecido por el pliego para continuar en el procedimiento.
 
 Debe señalarse que esta circunstancia **no constituye una valoración discrecional adicional realizada por el órgano evaluador**, sino la aplicación directa de una condición objetiva previamente establecida en la documentación contractual y conocida por todos los licitadores desde el inicio del procedimiento. La exclusión derivada de no alcanzar el umbral mínimo de calidad técnica responde, por tanto, a la **aplicación automática de una regla expresamente prevista** en el Documento de Invitación y vinculada a la necesidad de garantizar unos niveles mínimos de solvencia técnica en contratos de elevada complejidad tecnológica.
 

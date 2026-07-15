@@ -327,6 +327,40 @@ La suma de los dos bloques y la comprobación del umbral mínimo arrojan el sigu
 
 La puntuación asignada en los cuadros anteriores se fundamenta en el análisis detallado de las propuestas, garantizando en todo momento la **correspondencia entre las evidencias técnicas identificadas y la valoración final**.
 
+Para que el informe conjunto sea autosuficiente, se incorpora a continuación una motivación breve de cada nivel y nota. El desarrollo completo y la trazabilidad por subproyecto se conservan en los informes individuales.
+
+#### empresa_s
+
+| **Subcriterio** | **Nivel y puntos** | **Motivación breve** |
+| --- | --- | --- |
+| Arquitectura | ALTA — 1,50/2,00 | Presenta arquitecturas sólidas y coherentes para los bloques principales, con heterogeneidad en algunos ámbitos que impide la excelencia. |
+| Comprensión | ALTA — 1,50/2,00 | Demuestra conocimiento elevado del entorno y de los trece bloques, aunque con carencias puntuales de adaptación y detalle. |
+| Viabilidad | ALTA — 0,65/1,00 | Las herramientas, procedimientos y soluciones concretas acreditan ejecución viable, con aspectos todavía susceptibles de precisión. |
+| Metodología | ALTA — 0,65/1,00 | Integra marcos y prácticas operativas aplicables, pero no formaliza por completo todos los entregables, roles y controles. |
+| Rendimiento | ALTA — 0,75/1,00 | Aporta monitorización, observabilidad y pruebas, aunque faltan objetivos cuantificados y umbrales en varios subproyectos. |
+| Satisfacción | ALTA — 6,00/8,00 | Desarrolla los 89 subproyectos y aporta soluciones específicas y valor añadido, con cuantificación desigual entre bloques. |
+| Calendario | ALTA — 7,50/11,00 | La planificación es utilizable, coherente y vinculada al servicio, aunque necesita más detalle para alcanzar excelencia. |
+| Riesgos | MEDIA — 0,50/1,00 | Reconoce riesgos y tratamiento conceptual, pero la formalización como herramienta de gobierno es limitada. |
+| Contingencias | MEDIA — 0,50/1,00 | El modelo es coherente en lo conceptual, aunque insuficientemente formalizado en escenarios, activadores y pruebas. |
+| Calidad | ALTA — 0,65/1,00 | El enfoque es adecuado y estructurado, pero carece de cuantificación completa para ser plenamente verificable. |
+| Trazabilidad | ALTA — 0,65/1,00 | Relaciona actuaciones y seguimiento de forma adecuada, con margen de mejora metodológica y de control extremo a extremo. |
+
+#### empresa_n
+
+| **Subcriterio** | **Nivel y puntos** | **Motivación breve** |
+| --- | --- | --- |
+| Arquitectura | MEDIA — 0,90/2,00 | Faltan diagramas propios, relaciones, modelos de distribución y arquitecturas por subproyecto; la propuesta queda incompleta. |
+| Comprensión | MEDIA — 1,00/2,00 | Comprende conceptualmente el documento, pero no materializa esa comprensión en soluciones suficientes. |
+| Viabilidad | MEDIA — 0,40/1,00 | La coherencia formal no compensa la falta de concreción técnica y de elementos verificables de ejecución. |
+| Metodología | MEDIA — 0,50/1,00 | Cita metodologías reconocidas, sin desarrollo operativo concreto y adaptado al servicio. |
+| Rendimiento | BAJA — 0,25/1,00 | Las afirmaciones son declarativas y carecen de métricas, umbrales, monitorización y pruebas suficientes. |
+| Satisfacción | BAJA — 2,00/8,00 | De 89 subproyectos, 65 son insuficientes y 21 carecen de solución concreta, incluidos MAX e inteligencia artificial. |
+| Calendario | MEDIA — 5,00/11,00 | Existe una matriz mensual, pero no tiene leyenda, duraciones, dependencias, recursos, hitos ni secuencia operativa verificable. |
+| Riesgos | BAJA — 0,25/1,00 | El análisis es conceptual y no aporta cuantificación, priorización, vinculación a subproyectos ni seguimiento operativo suficiente. |
+| Contingencias | BAJA — 0,25/1,00 | El plan es generalista y no concreta escenarios, responsables, tiempos, recursos y pruebas para su implantación. |
+| Calidad | MEDIA — 0,50/1,00 | Presenta un marco general de calidad, sin métricas y herramientas suficientes para una aplicación plenamente efectiva. |
+| Trazabilidad | MEDIA — 0,40/1,00 | Los registros aportan cobertura básica, pero falta vinculación extremo a extremo entre requisitos, tareas y evidencias. |
+
 En el caso de empresa_s, la valoración obtenida en la solución técnica se justifica por la existencia de un **desarrollo técnico significativo en múltiples bloques relevantes**, incluyendo la definición de arquitecturas funcionales, el uso de herramientas específicas y la incorporación de metodologías operativas estructuradas. Estos elementos permiten acreditar una **capacidad real de ejecución en un entorno complejo**, si bien se han aplicado penalizaciones en aquellos ámbitos en los que la propuesta presenta carencias de detalle, ausencia de métricas o falta de desarrollo específico.
 
 Especialmente relevante resulta la valoración del **subcriterio de satisfacción de requisitos**, en el que, si bien la propuesta de empresa_s cubre una parte significativa del alcance del pliego, **no alcanza un nivel excelente** debido a la heterogeneidad detectada en el desarrollo de los distintos subproyectos.

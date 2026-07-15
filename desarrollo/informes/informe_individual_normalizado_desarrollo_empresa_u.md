@@ -630,7 +630,7 @@ La planificación debe constituir una **herramienta real de gestión del servici
 
 ### Calendario de los trabajos a desarrollar — máximo 11 puntos
 
-No existe diagrama de Gantt ni una planificación operativa con fechas, duraciones, dependencias, hitos, recursos o correspondencia completa con los subproyectos.
+La memoria anuncia que se presentará un calendario, pero no incorpora un diagrama de Gantt o equivalente ni una planificación operativa completa con fechas, duraciones, dependencias, hitos, recursos y correspondencia con los subproyectos.
 
 **Nivel cualitativo:** BAJA
 **Puntuación:** 0,50 sobre 11,00
@@ -709,7 +709,6 @@ Las puntuaciones parciales trasladan el nivel efectivamente acreditado en cada s
 La propuesta de **empresa_u** obtiene una puntuación de **3,70 puntos sobre 30** en los criterios sujetos a juicio de valor.
 
 El umbral mínimo exigido para continuar en el procedimiento es de **15 puntos sobre 30**. Por tanto, la oferta **NO ALCANZA** el nivel mínimo de calidad técnica establecido.
-
 
 En consecuencia, procede proponer la **exclusión de la oferta del procedimiento**, por no acreditar el nivel mínimo de calidad técnica exigido.
 
