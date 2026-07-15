@@ -55,7 +55,7 @@ De conformidad con el **artículo 145 de la LCSP**, los criterios de adjudicaci�
 
 Asimismo, el **artículo 146.3 de la LCSP** permite establecer umbrales mínimos en los criterios cualitativos sujetos a juicio de valor. Conforme al Documento de Invitación, las ofertas deben alcanzar un **nivel mínimo de calidad técnica equivalente al cincuenta por ciento de la puntuación máxima asignable a estos criterios** para continuar en el procedimiento.
 
-La aplicación de este umbral no constituye una decisión discrecional: una vez constatado su incumplimiento, la oferta afectada no puede continuar en las fases posteriores del procedimiento. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**.
+La puntuación se determina mediante juicio técnico motivado. Una vez obtenido el total, la aplicación aritmética del umbral no añade una valoración discrecional adicional. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**, sin confundir el resultado con la solvencia del licitador ni con un incumplimiento técnico autónomo.
 
 La evaluación se ajusta igualmente al **principio de evaluabilidad**, conforme al cual únicamente pueden valorarse los elementos de la oferta que estén suficientemente desarrollados y que permitan su comprobación objetiva. Las declaraciones genéricas, las capacidades presumidas, las referencias no desarrolladas o las soluciones futuras no descritas en la memoria no pueden suplirse mediante inferencias del órgano evaluador.
 
@@ -2794,7 +2794,7 @@ Se aplican tres grados de desarrollo: **NO INCLUIDA**, cuando no existe una solu
 
 De forma separada se indican los errores técnicos relevantes, las propuestas de mejora sin valor añadido real (**PM**) y las propuestas con valor añadido verificable (**VA**).
 
-El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionadas pero no equivalentes: el primero comprueba si existe una solución concreta y evaluable; el segundo pondera su calidad, completitud y mejoras. Por ello, un desarrollo puede ser **SUFICIENTE** y recibir nivel **BAJA** si apenas alcanza el requisito. El valor numérico del CSV se deriva únicamente del nivel cualitativo mediante la escala **MUY BAJA=0, BAJA=2, MEDIA=5, ALTA=8 y EXCELENTE=10**.
+El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionadas pero no equivalentes: el primero comprueba si existe una solución concreta y evaluable; el segundo pondera su calidad, completitud y mejoras. Por ello, un desarrollo puede ser **SUFICIENTE** y recibir nivel **BAJA** si apenas alcanza el requisito.
 
 ### Tablas de subproyectos
 

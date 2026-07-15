@@ -23,7 +23,7 @@ La propuesta presenta una estructura formal correcta y una cobertura nominal amp
 
 ### Principales conclusiones del análisis
 
-El patrón dominante es la inclusión formal de los proyectos con desarrollo insuficiente. Las carencias se repiten en TRA, AV, MED, COR, WPM, los servicios unitarios, los sistemas complementarios y WEK; CLO y parte de VID presentan un tratamiento relativamente más consistente. Se identifican errores relevantes en identidad, calendarios, bases de datos, procesamiento asíncrono, correo y varios sistemas complementarios. Por su reiteración, no son incidencias aisladas, sino deficiencias estructurales.
+El patrón dominante es la inclusión formal de los proyectos con desarrollo insuficiente. Las carencias se repiten en TRA, AV, MED, COR, WPM, los servicios unitarios, los sistemas complementarios y WEK; CLO y parte de VID presentan un tratamiento relativamente más consistente. Entre los errores acreditados figura la contradicción síncrono/asíncrono de AV11.
 
 ### Resultado de la valoración
 
@@ -35,7 +35,7 @@ El patrón dominante es la inclusión formal de los proyectos con desarrollo ins
 
 ### Conclusión del resumen ejecutivo
 
-La calidad global es insuficiente. La oferta obtiene 10,70 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos; procede proponer su exclusión.
+La oferta obtiene 10,70 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos; procede proponer su exclusión por aplicación aritmética del umbral tras la valoración motivada.
 
 ## INTRODUCCIÓN
 
@@ -55,7 +55,7 @@ De conformidad con el **artículo 145 de la LCSP**, los criterios de adjudicaci�
 
 Asimismo, el **artículo 146.3 de la LCSP** permite establecer umbrales mínimos en los criterios cualitativos sujetos a juicio de valor. Conforme al Documento de Invitación, las ofertas deben alcanzar un **nivel mínimo de calidad técnica equivalente al cincuenta por ciento de la puntuación máxima asignable a estos criterios** para continuar en el procedimiento.
 
-La aplicación de este umbral no constituye una decisión discrecional: una vez constatado su incumplimiento, la oferta afectada no puede continuar en las fases posteriores del procedimiento. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**.
+La puntuación se determina mediante juicio técnico motivado. Una vez obtenido el total, la aplicación aritmética del umbral no añade una valoración discrecional adicional. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**, sin confundir el resultado con la solvencia del licitador ni con un incumplimiento técnico autónomo.
 
 La evaluación se ajusta igualmente al **principio de evaluabilidad**, conforme al cual únicamente pueden valorarse los elementos de la oferta que estén suficientemente desarrollados y que permitan su comprobación objetiva. Las declaraciones genéricas, las capacidades presumidas, las referencias no desarrolladas o las soluciones futuras no descritas en la memoria no pueden suplirse mediante inferencias del órgano evaluador.
 
@@ -286,7 +286,7 @@ La propuesta presenta una estructura formal correcta y una cobertura nominal amp
 
 #### Cobertura del Anexo II
 
-De los 85 proyectos, **12 presentan desarrollo suficiente, 73 desarrollo insuficiente** y 0 no incluyen una solución concreta. La cobertura nominal es completa porque los 85 proyectos están presentes; la cobertura efectiva es reducida porque solo 12 alcanzan un desarrollo suficiente. Las carencias se repiten en Servicios Transversales, Aulas Virtuales, Mediateca, COR, WordPress Multisite, los servicios unitarios, los sistemas complementarios y Wekan; Cloud y parte de Videoconferencia presentan un tratamiento relativamente más consistente. Se identifican errores relevantes en identidad, calendarios, bases de datos, procesamiento asíncrono, correo y varios sistemas complementarios. Por su reiteración, no son incidencias aisladas, sino deficiencias estructurales.
+De los 85 proyectos, **12 presentan desarrollo suficiente, 73 desarrollo insuficiente** y 0 no incluyen una solución concreta. La cobertura nominal es completa porque los 85 proyectos están presentes; la cobertura efectiva es reducida porque solo 12 alcanzan un desarrollo suficiente. Las carencias se repiten en Servicios Transversales, Aulas Virtuales, Mediateca, COR, WordPress Multisite, los servicios unitarios, los sistemas complementarios y Wekan; Cloud y parte de Videoconferencia presentan un tratamiento relativamente más consistente. El recuento sirve para localizar el contraste y no determina por sí solo el nivel.
 
 #### Fortalezas y aportaciones de valor añadido
 
@@ -294,7 +294,7 @@ Como elementos positivos se reconocen la cobertura formal del alcance, la identi
 
 #### Carencias, errores y riesgos recurrentes
 
-Se repiten la falta de detalle técnico, la ausencia de arquitecturas específicas y de trazabilidad, la escasez de métricas y pruebas, y errores como la interpretación de LDAP, CalDAV frente a ICS, MySQL frente a PostgreSQL, procesos de IA síncronos y tecnologías incorrectas en distintos sistemas. El efecto acumulado compromete la viabilidad y la satisfacción de requisitos.
+Se repiten la falta de detalle técnico, la ausencia de arquitecturas específicas y de trazabilidad, la escasez de métricas y pruebas, y errores acreditados como la oposición entre la ejecución síncrona propuesta y la generación asíncrona exigida en AV11.
 
 ### Análisis por bloques funcionales del Anexo II
 
@@ -306,7 +306,7 @@ La exposición se agrupa por bloques cuando la memoria aplica un enfoque común,
 
 - **Consideración general del bloque**
 
-El bloque exige resolver identidad, sincronización, interoperabilidad, seguridad y servicios comunes. Se detectan una interpretación incorrecta de LDAP y una confusión entre CalDAV e ICS; solo TRA3, TRA5 y TRA6 alcanzan desarrollo suficiente.
+El bloque exige resolver identidad, sincronización, interoperabilidad, seguridad y servicios comunes. TRA3, TRA5 y TRA6 alcanzan desarrollo suficiente; los restantes códigos presentan un desarrollo incompleto.
 
 ##### TRA1 a TRA8 — Servicios transversales
 
@@ -316,7 +316,7 @@ El alcance comprende identidad, sincronización, interoperabilidad, seguridad y 
 
 - **Análisis de la propuesta**
 
-El contraste individual recogido en el anexo identifica 3 proyectos con desarrollo suficiente, 5 con desarrollo insuficiente y 0 sin solución concreta. Se detectan una interpretación incorrecta de LDAP y una confusión entre CalDAV e ICS; solo TRA3, TRA5 y TRA6 alcanzan desarrollo suficiente.
+El contraste individual recogido en el anexo identifica 3 proyectos con desarrollo suficiente, 5 con desarrollo insuficiente y 0 sin solución concreta. TRA3, TRA5 y TRA6 aportan contenido evaluable; las carencias de los restantes códigos se refieren a su grado de desarrollo y verificabilidad.
 
 - **Fortalezas y valor añadido**
 
@@ -332,7 +332,7 @@ Se reconoce contenido evaluable en 3 proyectos, que permite asignar valor parcia
 
 ##### Conclusión del bloque TRA
 
-La clasificación del anexo y las evidencias anteriores sitúan el bloque en un nivel **BAJA**. Se detectan una interpretación incorrecta de LDAP y una confusión entre CalDAV e ICS; solo TRA3, TRA5 y TRA6 alcanzan desarrollo suficiente.
+La clasificación del anexo y las evidencias anteriores sitúan el bloque en un nivel **BAJA**. El contenido evaluable de TRA3, TRA5 y TRA6 aporta valor parcial, pero el desarrollo incompleto de cinco códigos impide alcanzar el nivel siguiente. El recuento solo apoya esta conclusión cualitativa.
 
 #### Bloque de Aulas Virtuales (AV — Moodle)
 
@@ -560,7 +560,7 @@ La clasificación del anexo y las evidencias anteriores sitúan el bloque en un 
 
 ### Conclusión del análisis detallado
 
-El patrón dominante es la inclusión formal de los proyectos con desarrollo insuficiente. Las carencias se repiten en TRA, AV, MED, COR, WPM, los servicios unitarios, los sistemas complementarios y WEK; CLO y parte de VID presentan un tratamiento relativamente más consistente. Se identifican errores relevantes en identidad, calendarios, bases de datos, procesamiento asíncrono, correo y varios sistemas complementarios. Por su reiteración, no son incidencias aisladas, sino deficiencias estructurales. Se repiten la falta de detalle técnico, la ausencia de arquitecturas específicas y de trazabilidad, la escasez de métricas y pruebas, y errores como la interpretación de LDAP, CalDAV frente a ICS, MySQL frente a PostgreSQL, procesos de IA síncronos y tecnologías incorrectas en distintos sistemas. El efecto acumulado compromete la viabilidad y la satisfacción de requisitos.
+El patrón dominante es la inclusión formal de los proyectos con desarrollo insuficiente. Las carencias se repiten en TRA, AV, MED, COR, WPM, los servicios unitarios, los sistemas complementarios y WEK; CLO y parte de VID presentan un tratamiento relativamente más consistente. Se identifican errores relevantes en identidad, calendarios, bases de datos, procesamiento asíncrono, correo y varios sistemas complementarios. Por su reiteración, no son incidencias aisladas, sino deficiencias estructurales. Se repiten la falta de detalle técnico, la ausencia de arquitecturas específicas y de trazabilidad, la escasez de métricas y pruebas, y errores como la contradicción de AV11: el Anexo II exige generación asíncrona y el apartado II.1.2.11 de la oferta afirma que se ejecutará de forma síncrona.
 
 ## EVALUACIÓN DE LA SOLUCIÓN TÉCNICA OFERTADA
 
@@ -577,7 +577,7 @@ La propuesta identifica componentes y sistemas, pero no define de manera complet
 
 ### Grado de comprensión de los requisitos planteados — máximo 2 puntos
 
-La comprensión es parcial: se reconoce el alcance general, pero aparecen interpretaciones incorrectas en identidad, calendarios, bases de datos, correo y varios sistemas complementarios.
+La comprensión es parcial: se reconoce el alcance general y existe contenido valorable, pero se mantienen errores acreditados como la contradicción síncrono/asíncrono de AV11 y desarrollos insuficientes en identidad, bases de datos, correo y varios sistemas complementarios. Estos rasgos permiten MEDIA, pero impiden alcanzar ALTA.
 
 **Nivel cualitativo:** MEDIA
 **Puntuación:** 1,00 sobre 2,00
@@ -605,7 +605,7 @@ El rendimiento se trata de forma genérica y sin métricas cuantificables, escen
 
 ### Satisfacción de los requisitos del Anexo II — máximo 8 puntos
 
-Aunque la oferta cubre nominalmente los 85 proyectos, 73 presentan desarrollo insuficiente o errores relevantes y solo 12 alcanzan un desarrollo suficiente.
+La oferta aporta contenido suficientemente desarrollado en 12 proyectos distribuidos entre los bloques TRA, AV, COR, CLO, VID y varios servicios unitarios o complementarios. Esta evidencia positiva permite superar la parte inferior de MEDIA. No alcanza el nivel siguiente porque las carencias acreditadas afectan de forma extensa a integraciones, procesamiento, correo, sistemas complementarios y mecanismos de validación relevantes. El recuento de 12 proyectos suficientes y 73 insuficientes es solo un dato auxiliar y no una fórmula de puntuación.
 
 **Nivel cualitativo:** MEDIA
 **Puntuación:** 2,40 sobre 8,00
@@ -626,11 +626,11 @@ Aunque la oferta cubre nominalmente los 85 proyectos, 73 presentan desarrollo in
 
 ### Consideraciones generales sobre la planificación
 
-La planificación debe constituir una **herramienta real de gestión del servicio**. Su valoración atiende a la correspondencia con los proyectos y entregables del Anexo II, la secuencia y duración de las tareas, sus dependencias, los hitos, la asignación de recursos, la adaptación al calendario del servicio y la integración de los mecanismos de riesgo, contingencia, calidad y trazabilidad.
+La planificación debe constituir una **herramienta real de gestión del servicio**. Su valoración atiende a los rasgos publicados: correspondencia con los proyectos y entregables del Anexo II, secuencia y duración de las tareas, dependencias, hitos, objetivos y adaptación al calendario del servicio, junto con los mecanismos de riesgo, contingencia, calidad y trazabilidad.
 
 ### Calendario de los trabajos a desarrollar — máximo 11 puntos
 
-El cronograma ofrece una visión general de fases, pero carece de desglose suficiente por proyecto, dependencias, hitos, recursos y adaptación operativa detallada. Su utilidad como instrumento de control es limitada.
+El cronograma permite identificar bloques de tareas y su distribución mensual entre septiembre de 2026 y agosto de 2027; por ello existe una planificación básica evaluable y corresponde el nivel MEDIA. No alcanza ALTA porque la representación no permite reconstruir de forma inequívoca la duración de cada tarea, sus relaciones ni su conexión con hitos y objetivos. Se sitúa en la parte baja de MEDIA por esa combinación de cobertura temporal legible y limitada verificabilidad.
 
 **Nivel cualitativo:** MEDIA
 **Puntuación:** 3,75 sobre 11,00
@@ -684,21 +684,21 @@ No se establece una matriz operativa completa entre requisitos, tareas, responsa
 
 ### Interpretación de la puntuación
 
-La puntuación consolidada de 10,70 puntos refleja de forma proporcionada la cobertura, profundidad, viabilidad y planificación acreditadas. La calidad global es insuficiente. La oferta obtiene 10,70 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos; procede proponer su exclusión.
+La puntuación consolidada de 10,70 puntos refleja de forma proporcionada la cobertura, profundidad, viabilidad y planificación acreditadas. La oferta obtiene 10,70 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos; procede proponer su exclusión por aplicación aritmética del umbral tras la valoración motivada.
 
 ## CONCLUSIONES FINALES Y PROPUESTA
 
 ### Conclusiones globales de la evaluación técnica
 
-La propuesta presenta una estructura formal correcta y una cobertura nominal amplia del ecosistema EducaMadrid, pero el desarrollo efectivo es mayoritariamente descriptivo. Faltan arquitecturas específicas, flujos de integración, métricas, criterios de aceptación y mecanismos de validación suficientes. Se reconocen contenidos evaluables en algunos proyectos y una base metodológica apoyada en Métrica v3, aunque su aplicación práctica es limitada. Los errores de interpretación tecnológica y la baja concreción reducen la viabilidad y la trazabilidad del conjunto. La calidad global es insuficiente. La oferta obtiene 10,70 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos; procede proponer su exclusión.
+La propuesta presenta una estructura formal correcta y una cobertura nominal amplia del ecosistema EducaMadrid, pero el desarrollo efectivo es mayoritariamente descriptivo. Faltan arquitecturas específicas, flujos de integración, métricas, criterios de aceptación y mecanismos de validación suficientes. Se reconocen contenidos evaluables en algunos proyectos y una base metodológica apoyada en Métrica v3, aunque su aplicación práctica es limitada. Los errores acreditados y la baja concreción reducen la viabilidad y la trazabilidad del conjunto. La oferta obtiene 10,70 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos.
 
 ### Conclusiones sobre la solución técnica
 
-El patrón dominante es la inclusión formal de los proyectos con desarrollo insuficiente. Las carencias se repiten en TRA, AV, MED, COR, WPM, los servicios unitarios, los sistemas complementarios y WEK; CLO y parte de VID presentan un tratamiento relativamente más consistente. Se identifican errores relevantes en identidad, calendarios, bases de datos, procesamiento asíncrono, correo y varios sistemas complementarios. Por su reiteración, no son incidencias aisladas, sino deficiencias estructurales. Se repiten la falta de detalle técnico, la ausencia de arquitecturas específicas y de trazabilidad, la escasez de métricas y pruebas, y errores como la interpretación de LDAP, CalDAV frente a ICS, MySQL frente a PostgreSQL, procesos de IA síncronos y tecnologías incorrectas en distintos sistemas. El efecto acumulado compromete la viabilidad y la satisfacción de requisitos.
+El patrón dominante es la inclusión formal de los proyectos con desarrollo insuficiente. Las carencias se repiten en TRA, AV, MED, COR, WPM, los servicios unitarios, los sistemas complementarios y WEK; CLO y parte de VID presentan un tratamiento relativamente más consistente. Se identifican errores relevantes en identidad, calendarios, bases de datos, procesamiento asíncrono, correo y varios sistemas complementarios. Por su reiteración, no son incidencias aisladas, sino deficiencias estructurales. Se repiten la falta de detalle técnico, la ausencia de arquitecturas específicas y de trazabilidad, la escasez de métricas y pruebas, y errores como la contradicción concreta de AV11 entre la generación asíncrona exigida y la ejecución síncrona propuesta.
 
 ### Conclusiones sobre la planificación del servicio
 
-El cronograma ofrece una visión general de fases, pero carece de desglose suficiente por proyecto, dependencias, hitos, recursos y adaptación operativa detallada. Su utilidad como instrumento de control es limitada. Existe una base conceptual con identificación de riesgos, pero faltan mayor vinculación a proyectos, responsables, indicadores y seguimiento operativo. El planteamiento es reconocible, aunque no concreta de forma suficiente activadores, secuencias, recursos, tiempos objetivo, pruebas y retorno a la normalidad. Se citan estándares y mejora continua, pero faltan métricas, niveles de servicio y una relación verificable con los entregables y criterios de aceptación. No se establece una matriz operativa completa entre requisitos, tareas, responsables, entregables, evidencias y validaciones.
+El cronograma ofrece una visión mensual básica, pero no permite verificar de forma suficiente las duraciones, relaciones entre tareas e hitos. Existe una base conceptual con identificación de riesgos, pero faltan mayor vinculación a proyectos, responsables, indicadores y seguimiento operativo. El planteamiento de contingencias es reconocible, aunque no concreta de forma suficiente activadores, secuencias, tiempos objetivo, pruebas y retorno a la normalidad. Se citan estándares y mejora continua, pero faltan métricas, niveles de servicio y una relación verificable con los entregables y criterios de aceptación. No se establece una matriz operativa completa entre requisitos, tareas, responsables, entregables, evidencias y validaciones.
 
 ### Justificación de la valoración
 
@@ -708,10 +708,10 @@ Las puntuaciones parciales trasladan el nivel efectivamente acreditado en cada s
 
 La propuesta de **empresa_n** obtiene una puntuación de **10,70 puntos sobre 30** en los criterios sujetos a juicio de valor.
 
-El umbral mínimo exigido para continuar en el procedimiento es de **15 puntos sobre 30**. Por tanto, la oferta **NO ALCANZA** el nivel mínimo de calidad técnica establecido.
+El umbral mínimo exigido para continuar en el procedimiento es de **15 puntos sobre 30**. Por tanto, la oferta **NO ALCANZA** el umbral.
 
 
-En consecuencia, procede proponer la **exclusión de la oferta del procedimiento**, por no acreditar el nivel mínimo de calidad técnica exigido.
+En consecuencia, una vez motivada la puntuación mediante juicio técnico, procede proponer la **exclusión de la oferta del procedimiento** por aplicación del umbral. Esta conclusión no constituye una apreciación sobre la solvencia del licitador ni añade un incumplimiento técnico distinto de los expresamente identificados.
 
 ### Garantía de igualdad de trato y objetividad
 
@@ -745,8 +745,8 @@ De forma separada, se marcarán los siguientes indicadores, que pueden coexistir
 
 | **Proyecto** | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**             |
 | ------------ | ----------------------- | ------ | --------- | --------------------------------- |
-| TRA1         | INSUFICIENTE            | NO     | SÍ        | LDAP mal interpretado             |
-| TRA2         | INSUFICIENTE            | NO     | SÍ        | uso incorrecto CalDAV vs ICS      |
+| TRA1         | INSUFICIENTE            | NO     | SÍ        | LDAP mal interpretado.            |
+| TRA2         | INSUFICIENTE            | NO     | NO        | desarrollo incompleto.            |
 | TRA3         | SUFICIENTE              | NO     | NO        | Desarrollo evaluable.             |
 | TRA4         | INSUFICIENTE            | NO     | NO        | Desarrollo genérico o incompleto. |
 | TRA5         | SUFICIENTE              | NO     | NO        | Desarrollo evaluable.             |
@@ -893,10 +893,10 @@ Los indicadores adicionales no son excluyentes entre sí ni respecto del grado d
 
 | **Indicador**                                  | **Número de proyectos** | **Porcentaje sobre el total** |
 | ---------------------------------------------- | ----------------------: | ----------------------------: |
-| Con errores técnicos relevantes                |                      13 |                       15,29 % |
+| Con errores técnicos relevantes                |                      12 |                       14,12 % |
 | Con propuesta de mejora sin valor añadido real |                       0 |                        0,00 % |
 | Con propuesta de mejora con valor añadido real |                       0 |                        0,00 % |
 
 ### Conclusión del anexo
 
-La clasificación muestra 12 proyectos con desarrollo suficiente, 73 insuficientes y 0 sin solución concreta. Se identifican 13 proyectos con errores relevantes y 0 con valor añadido verificable. El patrón dominante es la inclusión formal de los proyectos con desarrollo insuficiente. Las carencias se repiten en TRA, AV, MED, COR, WPM, los servicios unitarios, los sistemas complementarios y WEK; CLO y parte de VID presentan un tratamiento relativamente más consistente. Se identifican errores relevantes en identidad, calendarios, bases de datos, procesamiento asíncrono, correo y varios sistemas complementarios. Por su reiteración, no son incidencias aisladas, sino deficiencias estructurales. El anexo aporta trazabilidad, mientras que la puntuación deriva de la valoración conjunta de todos los subcriterios.
+La clasificación muestra 12 proyectos con desarrollo suficiente, 73 insuficientes y 0 sin solución concreta. Se identifican 12 proyectos con errores relevantes y 0 con valor añadido verificable. El patrón dominante es la inclusión formal de los proyectos con desarrollo insuficiente. Las carencias se repiten en TRA, AV, MED, COR, WPM, los servicios unitarios, los sistemas complementarios y WEK; CLO y parte de VID presentan un tratamiento relativamente más consistente. Se identifican errores relevantes en identidad, calendarios, bases de datos, procesamiento asíncrono, correo y varios sistemas complementarios.El anexo aporta trazabilidad, mientras que la puntuación deriva de la valoración cualitativa de la relevancia y profundidad del contenido en todos los subcriterios, no de estos recuentos.

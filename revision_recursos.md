@@ -34,26 +34,26 @@ Las recomendaciones se apoyan en estas reglas generales:
 
 ## 3. Resumen ejecutivo
 
-| Código | Informe | Posible motivo de recurso | Prioridad | Recomendación resumida |
-| --- | --- | --- | --- | --- |
-| C-01 | Los tres | Apariencia de normalización o cambio metodológico posterior | Crítica | Acreditar la regla ex ante; si no existía, revalorar con la regla publicada |
-| C-02 | Los tres | Falta de motivación del porcentaje exacto dentro de cada nivel | Alta | Explicar por qué se elige ese punto de la banda sin crear una fórmula nueva |
-| C-03 | Los tres | Conversión no publicada de recuentos de subproyectos en notas | Alta | Usar el recuento solo como apoyo y motivar cualitativamente el criterio |
-| C-04 | Los tres | Trazabilidad insuficiente hasta páginas concretas de la oferta | Alta | Incorporar una matriz de evidencia accesible en el expediente |
-| C-05 | Los tres | Uso de elementos no exigidos como requisitos autónomos | Alta | Vincular cada carencia al descriptor publicado o eliminarla como penalización |
-| C-06 | Los tres | Doble penalización por una misma carencia | Media-Alta | Identificar el efecto distinto en cada subcriterio o imputarla solo una vez |
-| C-07 | Los tres | Confusión entre calidad, cumplimiento, solvencia y umbral | Media-Alta | Separar esas cuatro categorías y moderar afirmaciones absolutas |
-| D-01 | Desarrollo | Error aparente en la acusación «CalDAV frente a ICS» | Crítica | Eliminarla y revisar si influyó en niveles o puntos |
-| D-02 | Desarrollo | Cero en satisfacción pese a 12 desarrollos suficientes | Alta | Revalorar o justificar de forma reforzada por qué el descriptor es MUY BAJA |
-| D-03 | Desarrollo | Tensión entre cronograma interpretable y nota MEDIA de 3,74 | Media-Alta | Mantener solo lo que realmente puede verificarse y explicar el 34 % |
-| E-01 | Exteriores | Premisas técnicas discutibles sobre LDAP Plano y Drupal | Crítica | Verificar en fuentes contractuales; retirar y recalcular si no se acreditan |
-| E-02 | Exteriores | Caída de satisfacción a 2,00/8,00 con cobertura parcial relevante | Alta | Motivar por importancia de requisitos, no por simple conteo |
-| E-03 | Exteriores | Calendario 1,76/11 por cubrir solo un año de dos | Media | Mantener la nota si se acredita el periodo; reforzar cita y descriptor |
-| S-01 | Sistemas | Ambigüedad entre versiones de la metodología y error «2 puntos» en `_bis` | Crítica | Identificar y citar exclusivamente la versión contractual vigente |
-| S-02 | Sistemas | Cero en satisfacción pese a tres subproyectos suficientes | Alta | Revalorar o explicar por qué esos contenidos no apartan el conjunto de MUY BAJA |
-| S-03 | Sistemas | «Ausencia» de MAX e IA cuando existen epígrafes que reproducen requisitos | Alta | Distinguir ausencia formal de falta de propuesta propia evaluable |
-| S-04 | Sistemas | Escala auxiliar del CSV dentro del informe de valoración | Media-Alta | Retirarla del cuerpo del informe o declarar y demostrar que no puntúa |
-| S-05 | Sistemas | Penalización del Gantt por recursos y búferes no expresos | Alta | Basar la nota en detalle, duración, relaciones e hitos publicados |
+| Código | Informe    | Posible motivo de recurso                                                 | Prioridad  | Recomendación resumida                                                          |
+|--------|------------|---------------------------------------------------------------------------|------------|---------------------------------------------------------------------------------|
+| C-01   | Los tres   | Apariencia de normalización o cambio metodológico posterior               | Crítica    | Acreditar la regla ex ante; si no existía, revalorar con la regla publicada     |
+| C-02   | Los tres   | Falta de motivación del porcentaje exacto dentro de cada nivel            | Alta       | Explicar por qué se elige ese punto de la banda sin crear una fórmula nueva     |
+| C-03   | Los tres   | Conversión no publicada de recuentos de subproyectos en notas             | Alta       | Usar el recuento solo como apoyo y motivar cualitativamente el criterio         |
+| C-04   | Los tres   | Trazabilidad insuficiente hasta páginas concretas de la oferta            | Alta       | Incorporar una matriz de evidencia accesible en el expediente                   |
+| C-05   | Los tres   | Uso de elementos no exigidos como requisitos autónomos                    | Alta       | Vincular cada carencia al descriptor publicado o eliminarla como penalización   |
+| C-06   | Los tres   | Doble penalización por una misma carencia                                 | Media-Alta | Identificar el efecto distinto en cada subcriterio o imputarla solo una vez     |
+| C-07   | Los tres   | Confusión entre calidad, cumplimiento, solvencia y umbral                 | Media-Alta | Separar esas cuatro categorías y moderar afirmaciones absolutas                 |
+| D-01   | Desarrollo | Error aparente en la acusación «CalDAV frente a ICS»                      | Crítica    | Eliminarla y revisar si influyó en niveles o puntos                             |
+| D-02   | Desarrollo | Cero en satisfacción pese a 12 desarrollos suficientes                    | Alta       | Revalorar o justificar de forma reforzada por qué el descriptor es MUY BAJA     |
+| D-03   | Desarrollo | Tensión entre cronograma interpretable y nota MEDIA de 3,74               | Media-Alta | Mantener solo lo que realmente puede verificarse y explicar el 34 %             |
+| E-01   | Exteriores | Premisas técnicas discutibles sobre LDAP Plano y Drupal                   | Crítica    | Verificar en fuentes contractuales; retirar y recalcular si no se acreditan     |
+| E-02   | Exteriores | Caída de satisfacción a 2,00/8,00 con cobertura parcial relevante         | Alta       | Motivar por importancia de requisitos, no por simple conteo                     |
+| E-03   | Exteriores | Calendario 1,76/11 por cubrir solo un año de dos                          | Media      | Mantener la nota si se acredita el periodo; reforzar cita y descriptor          |
+| S-01   | Sistemas   | Ambigüedad entre versiones de la metodología y error «2 puntos» en `_bis` | Crítica    | Identificar y citar exclusivamente la versión contractual vigente               |
+| S-02   | Sistemas   | Cero en satisfacción pese a tres subproyectos suficientes                 | Alta       | Revalorar o explicar por qué esos contenidos no apartan el conjunto de MUY BAJA |
+| S-03   | Sistemas   | «Ausencia» de MAX e IA cuando existen epígrafes que reproducen requisitos | Alta       | Distinguir ausencia formal de falta de propuesta propia evaluable               |
+| S-04   | Sistemas   | Escala auxiliar del CSV dentro del informe de valoración                  | Media-Alta | Retirarla del cuerpo del informe o declarar y demostrar que no puntúa           |
+| S-05   | Sistemas   | Penalización del Gantt por recursos y búferes no expresos                 | Alta       | Basar la nota en detalle, duración, relaciones e hitos publicados               |
 
 ## 4. Puntos comunes a los tres informes
 
@@ -69,7 +69,8 @@ Las recomendaciones se apoyan en estas reglas generales:
 
 - [ ] **Opción A — No cambiar el informe.** Solo sería aconsejable si existe un documento anterior a las ofertas, aprobado y accesible, que contenga exactamente esta regla y si se incorpora su referencia, fecha y versión al expediente.
 - [ ] **Opción B — Eliminar únicamente «para normalizar puntuaciones previas».** Reduce la apariencia de revisión retrospectiva, pero no soluciona una eventual falta de regla previa ni explica los cambios de puntuación.
-- [x] **Opción C — Verificar el historial y rehacer la explicación metodológica.** Si la regla era previa, citar literalmente el documento, su fecha y su ubicación en el expediente, y describir los cambios como correcciones motivadas de borradores no aprobados. Si no era previa, no aplicarla: revalorar conforme a los descriptores y porcentajes publicados, dejando acta del motivo y de la incidencia en cada puntuación.
+- [ ] **Opción C — Verificar el historial y rehacer la explicación metodológica.** Si la regla era previa, citar literalmente el documento, su fecha y su ubicación en el expediente, y describir los cambios como correcciones motivadas de borradores no aprobados. Si no era previa, no aplicarla: revalorar conforme a los descriptores y porcentajes publicados, dejando acta del motivo y de la incidencia en cada puntuación.
+- [x] **Opción D - Verificar que ya se ha corregido.** No hacer nada si ya se ha corregido después de realizar este informe.
 
 **Redacción recomendada si la regla sí era previa:**
 
@@ -201,7 +202,8 @@ No todos los ejemplos técnicos son erróneos: en **AV11**, la invitación exige
 
 - [ ] **Opción A — Mantener 0,00 sin más cambios.** Presenta un riesgo alto de falta de proporcionalidad y de motivación.
 - [ ] **Opción B — Asignar automáticamente una nota proporcional a 12/85.** Introduciría una fórmula no publicada y tampoco ponderaría la importancia de los requisitos.
-- [x] **Opción C — Revalorar cualitativamente y motivar el resultado.** Determinar qué peso funcional tienen los 12 proyectos suficientes y si permiten apartar el conjunto de MUY BAJA. Si se mantiene cero, explicar por qué esos contenidos no alteran el descriptor global; si no puede explicarse sin una fórmula nueva, asignar el nivel que resulte de los descriptores publicados.
+- [ ] **Opción C — Revalorar cualitativamente y motivar el resultado.** Determinar qué peso funcional tienen los 12 proyectos suficientes y si permiten apartar el conjunto de MUY BAJA. Si se mantiene cero, explicar por qué esos contenidos no alteran el descriptor global; si no puede explicarse sin una fórmula nueva, asignar el nivel que resulte de los descriptores publicados.
+- [x] **Opción D - Verificar que ya se ha corregido.** No hacer nada si ya se ha corregido después de realizar este informe.
 
 **Redacción recomendada si, tras revisar, se mantiene cero:**
 
@@ -237,7 +239,7 @@ Resultado actual de empresa_n: **7,66/30**, por debajo del umbral de 15 puntos.
 
 - [ ] **Opción A — Mantener las dos afirmaciones sin nuevas referencias.** Presenta riesgo de error material manifiesto.
 - [ ] **Opción B — Sustituirlas por una crítica genérica de falta de detalle.** Evita el dato discutible, pero no permite conservar una penalización basada en ese supuesto error.
-- [x] **Opción C — Verificar las premisas en fuentes contractuales, retirar las no acreditadas y recalcular.** Si existe una fuente del expediente que prueba la arquitectura real y era cognoscible para los licitadores, citarla y confrontarla con la página exacta de la oferta. Si no, eliminar la acusación. Revisar Arquitectura, Comprensión, Viabilidad y Satisfacción si recibieron el impacto del mismo hecho.
+- [x] **Opción C — Verificar las premisas en fuentes contractuales, retirar las no acreditadas** Si existe una fuente del expediente que prueba la arquitectura real y era cognoscible para los licitadores, citarla y confrontarla con la página exacta de la oferta. Si no, eliminar la acusación.
 
 **Redacción recomendada si solo se acredita falta de concreción:**
 
@@ -273,7 +275,7 @@ Resultado actual de empresa_n: **7,66/30**, por debajo del umbral de 15 puntos.
 
 **Redacción recomendada:**
 
-> El cronograma de la página [x] abarca de [fecha] a [fecha], mientras que el plazo contractual indicado en [documento y página] comprende [periodo]. La omisión de [periodo] impide verificar la secuencia completa del servicio. El contenido existente permite superar la parte inferior de BAJA, pero la cobertura parcial, junto con [relaciones/hitos no verificables], justifica el 16 % y no el límite superior del nivel.
+> El cronograma de la página [x] abarca un año de [fecha] a [fecha], mientras que el plazo contractual indicado en el Documento de Invitación comprende dos años. La omisión de todo un año en la planificaación impide verificar la secuencia completa del servicio. El contenido existente permite superar la parte inferior de BAJA, pero la cobertura parcial, junto con [relaciones/hitos no verificables], justifica el 16 % y no el límite superior del nivel.
 
 ## 7. Informe de Sistemas
 
@@ -289,7 +291,8 @@ Resultado actual de empresa_n: **6,80/30**, por debajo del umbral de 15 puntos.
 
 - [ ] **Opción A — Citar el archivo `_bis.md` como metodología.** No se recomienda mientras contenga la contradicción 2/8 y no se pruebe que fue la versión publicada antes de las ofertas.
 - [ ] **Opción B — Corregir ahora `_bis.md` y usarlo.** Una corrección posterior no puede convertir por sí sola un borrador en regla ex ante ni sanar una ambigüedad conocida después de las ofertas.
-- [x] **Opción C — Determinar la versión contractual y aplicar solo esa.** Citar documento firmado, fecha, apartado y huella/versionado. Si el documento vigente es el normal con 8 puntos, explicar la aplicación de sus descriptores sin importar reglas nuevas del `_bis`. Si la versión vigente fuera `_bis`, solicitar análisis jurídico específico sobre la contradicción antes de cerrar la valoración.
+- [ ] **Opción C — Determinar la versión contractual y aplicar solo esa.** Citar documento firmado, fecha, apartado y huella/versionado. Si el documento vigente es el normal con 8 puntos, explicar la aplicación de sus descriptores sin importar reglas nuevas del `_bis`. Si la versión vigente fuera `_bis`, solicitar análisis jurídico específico sobre la contradicción antes de cerrar la valoración.
+- [x] **Opción D - Verificar que ya se ha corregido.** No hacer nada pues _bis no son documentos contractuales.
 
 **Redacción recomendada si rige la versión normal:**
 
@@ -305,7 +308,8 @@ Resultado actual de empresa_n: **6,80/30**, por debajo del umbral de 15 puntos.
 
 - [ ] **Opción A — Mantener cero apoyándose solo en 65+21.** Insuficiente: el recuento no es la regla publicada.
 - [ ] **Opción B — Asignar un porcentaje por los tres proyectos.** Introduciría una fórmula nueva.
-- [x] **Opción C — Revalorar el contenido material de los tres proyectos y de las carencias esenciales.** Si se mantiene cero, razonar su escasa relevancia o profundidad frente a los requisitos determinantes; si esa conclusión no resulta del descriptor publicado, corregir el nivel y recalcular el total.
+- [ ] **Opción C — Revalorar el contenido material de los tres proyectos y de las carencias esenciales.** Si se mantiene cero, razonar su escasa relevancia o profundidad frente a los requisitos determinantes; si esa conclusión no resulta del descriptor publicado, corregir el nivel y recalcular el total.
+- [x] **Opción D - Verificar que ya se ha corregido.** No hacer nada si ya se ha corregido después de realizar este informe.
 
 ### S-03. MAX e inteligencia artificial: no confundir ausencia formal con falta de propuesta propia
 
@@ -321,7 +325,7 @@ Resultado actual de empresa_n: **6,80/30**, por debajo del umbral de 15 puntos.
 
 **Redacción recomendada:**
 
-> La oferta incluye los epígrafes MAX e inteligencia artificial en las páginas [x-y]. No se afirma, por tanto, su ausencia formal. No obstante, el contenido identificado como propio del licitador [descripción precisa] no desarrolla [aspecto vinculado al descriptor], mientras que [fragmentos] reproducen los antecedentes o requisitos. Por ello, el contenido no permite asignar una valoración superior en [subcriterio], con el efecto concreto reflejado en la matriz.
+> La oferta incluye los epígrafes MAX e inteligencia artificial, no obstante, el contenido identificado como propio del licitador [descripción precisa] no desarrolla [aspecto vinculado al descriptor], mientras que [fragmentos] reproducen los antecedentes o requisitos. Por ello, el contenido no permite asignar una valoración superior en [subcriterio], con el efecto concreto reflejado en la matriz.
 
 ### S-04. Escala auxiliar de «datos derivados» del CSV
 
@@ -348,8 +352,9 @@ Resultado actual de empresa_n: **6,80/30**, por debajo del umbral de 15 puntos.
 **Opciones:**
 
 - [ ] **Opción A — Mantener todos los motivos con igual peso.** Presenta riesgo de introducir exigencias no publicadas.
-- [x] **Opción B — Revalorar con los rasgos expresos del descriptor y motivar el 25 %.** Basar BAJA en el carácter genérico, el detalle, la duración, las relaciones, los hitos y los objetivos. Mencionar recursos o búferes solo como contexto no decisivo. Explicar por qué se alcanza el límite superior de BAJA y no MEDIA.
+- [ ] **Opción B — Revalorar con los rasgos expresos del descriptor y motivar el 25 %.** Basar BAJA en el carácter genérico, el detalle, la duración, las relaciones, los hitos y los objetivos. Mencionar recursos o búferes solo como contexto no decisivo. Explicar por qué se alcanza el límite superior de BAJA y no MEDIA.
 - [ ] **Opción C — Volver automáticamente a 5,00/11,00.** La nota anterior no es fuente jurídica y no debe restaurarse sin análisis técnico.
+- [x] **Opción D — Revalorar y poner una nota acorde.**
 
 **Redacción recomendada si se mantiene 2,75:**
 

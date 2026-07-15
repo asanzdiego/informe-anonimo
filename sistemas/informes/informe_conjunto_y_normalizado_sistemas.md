@@ -20,7 +20,7 @@ De conformidad con el **artículo 145 de la LCSP**, los criterios de adjudicaci�
 
 Asimismo, el **artículo 146.3 de la LCSP** permite establecer umbrales mínimos en los criterios cualitativos sujetos a juicio de valor. Conforme al Documento de Invitación, las ofertas deben alcanzar un **nivel mínimo de calidad técnica equivalente al cincuenta por ciento de la puntuación máxima asignable a estos criterios** para continuar en el procedimiento.
 
-La aplicación de este umbral no constituye una decisión discrecional: una vez constatado su incumplimiento, la oferta afectada no puede continuar en las fases posteriores del procedimiento. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**.
+La puntuación se determina mediante juicio técnico motivado. Una vez obtenido el total, la aplicación aritmética del umbral no añade una valoración discrecional adicional. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**, sin confundir el resultado con la solvencia del licitador ni con un incumplimiento técnico autónomo.
 
 La evaluación se ajusta igualmente al **principio de evaluabilidad**, conforme al cual únicamente pueden valorarse los elementos de la oferta que estén suficientemente desarrollados y que permitan su comprobación objetiva. Las declaraciones genéricas, las capacidades presumidas, las referencias no desarrolladas o las soluciones futuras no descritas en la memoria no pueden suplirse mediante inferencias del órgano evaluador.
 
@@ -195,17 +195,13 @@ El proceso se desarrolla en dos fases:
 
 Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y garantiza la aplicación uniforme de los criterios a todos los licitadores.
 
-### Escala de datos derivados
-
-Cuando el nivel cualitativo de cada subproyecto se traslada al CSV de tareas, se aplica una conversión única y reproducible: **MUY BAJA=0, BAJA=2, MEDIA=5, ALTA=8 y EXCELENTE=10**. El valor numérico deriva del nivel cualitativo y no del grado de desarrollo del anexo, que constituye una dimensión separada.
-
 ## ANÁLISIS INDIVIDUAL DE LAS PROPUESTAS TÉCNICAS
 
 ### Propuesta técnica de empresa_s
 
 La propuesta técnica presentada por empresa_s se caracteriza por un **enfoque estructurado**, con un **grado de desarrollo técnico notable** en una parte significativa de los subproyectos analizados, así como por una clara orientación hacia la operación en entornos complejos y de gran escala.
 
-En términos generales, la solución presentada pone de manifiesto una **comprensión sólida del ecosistema EducaMadrid**, identificando correctamente la diversidad de sistemas implicados, sus interdependencias y los requisitos asociados a su gestión. Esta comprensión se traduce en una **arquitectura conceptual coherente**, basada en modelos multinivel, integración de servicios y adopción de principios de automatización y observabilidad, lo que constituye un elemento claramente positivo desde el punto de vista de la solvencia técnica.
+En términos generales, la solución presentada pone de manifiesto una **comprensión sólida del ecosistema EducaMadrid**, identificando correctamente la diversidad de sistemas implicados, sus interdependencias y los requisitos asociados a su gestión. Esta comprensión se traduce en una **arquitectura conceptual coherente**, basada en modelos multinivel, integración de servicios y adopción de principios de automatización y observabilidad, lo que constituye un elemento positivo para la valoración de la calidad técnica de la oferta.
 
 Uno de los aspectos más destacables de la propuesta es su desarrollo en los bloques relacionados con **bases de datos, monitorización y pruebas de rendimiento**. En estos ámbitos, empresa_s presenta **soluciones técnicamente consistentes**, con incorporación de herramientas concretas de mercado, metodologías estructuradas y una orientación clara a la operación real. La utilización de tecnologías como Prometheus, Grafana, JMeter o Gatling, así como la introducción de mecanismos de automatización y análisis de rendimiento, evidencian un **nivel de madurez técnica elevado** en estos bloques.
 
@@ -249,13 +245,13 @@ Especialmente relevantes son las deficiencias detectadas en los bloques técnico
 
 En todos estos ámbitos, la solución se mantiene en un **plano conceptual o descriptivo**, sin aportar elementos técnicos que permitan verificar su aplicabilidad en un entorno real.
 
-A estas carencias se añade la **ausencia de contenido técnico evaluable en bloques completos**, entre los que destacan:
+A estas carencias se añade la falta de **propuesta propia diferenciada y evaluable** en bloques que sí cuentan con epígrafes formales, entre los que destacan:
 
 - el sistema operativo **MAX**
 
 - el ámbito de **inteligencia artificial**
 
-En estos casos, la propuesta se limita a **reproducir los requisitos del pliego sin aportar ningún desarrollo adicional**, lo que constituye una deficiencia crítica desde el punto de vista de la evaluación.
+En estos casos, los epígrafes existen, pero el texto propio identificado reproduce antecedentes o requisitos y no desarrolla arquitectura, procedimientos, herramientas ni validaciones diferenciadas. Por ello no permite una valoración positiva superior, sin afirmar una ausencia formal de contenido.
 
 Asimismo, se han identificado **inconsistencias técnicas relevantes**, tales como:
 
@@ -281,7 +277,7 @@ De forma general, ambas propuestas parten de una comprensión conceptual del ent
 
 Por una parte, la propuesta de empresa_s presenta un **enfoque técnico desarrollado**, con un nivel de detalle adecuado en múltiples bloques críticos y una clara orientación a la operación real del servicio. En este sentido, destaca la **utilización de herramientas específicas**, la incorporación de metodologías estructuradas y la diferenciación de soluciones en función de las tecnologías implicadas. No obstante, dicha propuesta presenta un nivel de heterogeneidad relevante, con carencias significativas en determinados ámbitos del servicio, así como una **insuficiente definición de métricas e indicadores operativos** que permitan evaluar de forma objetiva su comportamiento en explotación.
 
-Por otra parte, la propuesta de empresa_n presenta un **enfoque predominantemente descriptivo**, caracterizado por una cobertura formal de los requisitos, pero sin traducción efectiva en soluciones técnicas concretas. La **ausencia de arquitecturas definidas, herramientas específicas, metodologías operativas y contenido técnico evaluable** en bloques completos del servicio limita de forma significativa su viabilidad real en un entorno de alta complejidad como el de EducaMadrid.
+Por otra parte, la propuesta de empresa_n presenta un **enfoque predominantemente descriptivo**, caracterizado por una cobertura formal de los requisitos, pero sin traducción efectiva en soluciones técnicas concretas. La falta de arquitecturas definidas, herramientas específicas y metodologías operativas, junto con epígrafes de MAX e IA que no contienen una propuesta propia diferenciada, limita la verificabilidad de la solución.
 
 En consecuencia, desde una perspectiva comparada, se observa que:
 
@@ -307,12 +303,12 @@ Esta diferencia **condiciona de forma determinante la valoración en los criteri
 
 | **Subcriterio**            | **Máximo** | **empresa_s: nivel** | **Puntos** | **empresa_n: nivel** | **Puntos** |
 | -------------------------- | ---------: | -------------------- | ---------: | -------------------- | ---------: |
-| Calendario y planificación |         11 | ALTA                 |       7,50 | MEDIA                |       5,00 |
+| Calendario y planificación |         11 | ALTA                 |       7,50 | BAJA                 |       2,75 |
 | Análisis de riesgos        |          1 | MEDIA                |       0,50 | BAJA                 |       0,25 |
 | Plan de contingencias      |          1 | MEDIA                |       0,50 | BAJA                 |       0,25 |
 | Plan de calidad            |          1 | ALTA                 |       0,65 | MEDIA                |       0,50 |
 | Trazabilidad               |          1 | ALTA                 |       0,65 | MEDIA                |       0,40 |
-| **Total**                  |     **15** |                      |   **9,80** |                      |   **6,40** |
+| **Total**                  |     **15** |                      |   **9,80** |                      |   **4,15** |
 
 ### Resultado global de los criterios sujetos a juicio de valor
 
@@ -321,7 +317,7 @@ La suma de los dos bloques y la comprobación del umbral mínimo arrojan el sigu
 | **Licitador** | **Solución técnica** | **Planificación** | **Total sobre 30** | **Umbral de 15 puntos** |
 | ------------- | -------------------: | ----------------: | -----------------: | ----------------------- |
 | empresa_s     |                11,05 |              9,80 |          **20,85** | SUPERA                  |
-| empresa_n     |                 5,05 |              6,40 |          **11,45** | NO SUPERA               |
+| empresa_n     |                 5,05 |              4,15 |           **9,20** | NO SUPERA               |
 
 ### Justificación de la valoración comparativa
 
@@ -354,8 +350,8 @@ Para que el informe conjunto sea autosuficiente, se incorpora a continuación un
 | Viabilidad | MEDIA — 0,40/1,00 | La coherencia formal no compensa la falta de concreción técnica y de elementos verificables de ejecución. |
 | Metodología | MEDIA — 0,50/1,00 | Cita metodologías reconocidas, sin desarrollo operativo concreto y adaptado al servicio. |
 | Rendimiento | BAJA — 0,25/1,00 | Las afirmaciones son declarativas y carecen de métricas, umbrales, monitorización y pruebas suficientes. |
-| Satisfacción | BAJA — 2,00/8,00 | De 89 subproyectos, 65 son insuficientes y 21 carecen de solución concreta, incluidos MAX e inteligencia artificial. |
-| Calendario | MEDIA — 5,00/11,00 | Existe una matriz mensual, pero no tiene leyenda, duraciones, dependencias, recursos, hitos ni secuencia operativa verificable. |
+| Satisfacción | BAJA — 2,00/8,00 | UPD5, UPD8 y OTR1 y otros contenidos parciales permiten el límite superior de BAJA. No se alcanza MEDIA porque 65 subproyectos son insuficientes y 21 no aportan solución propia evaluable; MAX e IA tienen epígrafes, pero no una propuesta diferenciada. El recuento es auxiliar. |
+| Calendario | BAJA — 2,75/11,00 | Las páginas 181 y 182 contienen una matriz mensual con tareas reconocibles, lo que permite el límite superior de BAJA. No alcanza MEDIA porque no se verifican duraciones, relaciones, hitos y objetivos suficientes. Recursos y búferes no se utilizan como requisitos autónomos. |
 | Riesgos | BAJA — 0,25/1,00 | El análisis es conceptual y no aporta cuantificación, priorización, vinculación a subproyectos ni seguimiento operativo suficiente. |
 | Contingencias | BAJA — 0,25/1,00 | El plan es generalista y no concreta escenarios, responsables, tiempos, recursos y pruebas para su implantación. |
 | Calidad | MEDIA — 0,50/1,00 | Presenta un marco general de calidad, sin métricas y herramientas suficientes para una aplicación plenamente efectiva. |
@@ -365,7 +361,7 @@ En el caso de empresa_s, la valoración obtenida en la solución técnica se jus
 
 Especialmente relevante resulta la valoración del **subcriterio de satisfacción de requisitos**, en el que, si bien la propuesta de empresa_s cubre una parte significativa del alcance del pliego, **no alcanza un nivel excelente** debido a la heterogeneidad detectada en el desarrollo de los distintos subproyectos.
 
-En relación con empresa_n, la valoración de la solución técnica refleja las **deficiencias estructurales identificadas** a lo largo del análisis. La **ausencia de desarrollo técnico, la falta de herramientas y metodologías, así como la existencia de bloques completos sin contenido evaluable**, justifican la asignación de valoraciones bajas o muy bajas en la mayoría de los subcriterios, especialmente en el ámbito de satisfacción de requisitos.
+En relación con empresa_n, la valoración de la solución técnica refleja las **deficiencias estructurales identificadas** a lo largo del análisis. La falta de desarrollo técnico, herramientas y metodologías, así como los epígrafes formales de MAX e IA sin propuesta propia diferenciada, justifican las valoraciones inferiores, especialmente en Satisfacción.
 
 En cuanto a la planificación, la valoración sigue el mismo patrón comparativo. La propuesta de empresa_s presenta una **planificación estructurada pero con margen de mejora** en términos de detalle y operatividad, lo que justifica valoraciones medias y medias-altas. Por su parte, la propuesta de empresa_n, coherente con su enfoque descriptivo general, presenta una **planificación genérica**, con escasa definición de mecanismos de control, riesgos o trazabilidad, lo que se traduce en valoraciones inferiores.
 
@@ -409,7 +405,7 @@ Por su parte, la propuesta presentada por empresa_n presenta una **situación su
 
 - carencia de métricas e indicadores de control
 
-- y ausencia de contenido evaluable en bloques completos del servicio
+- y epígrafes formales en MAX e IA sin una propuesta propia diferenciada y verificable
 
 A esta situación se añaden **inconsistencias técnicas relevantes y desviaciones respecto al contenido exigido en los subproyectos**, lo que pone de manifiesto una falta de adaptación efectiva al entorno específico del contrato.
 
@@ -435,13 +431,13 @@ A la vista de los resultados obtenidos en la evaluación realizada, se constata 
 
 - La oferta presentada por **empresa_s** obtiene una puntuación total en los criterios de juicio de valor de **20,85 puntos**, superando el umbral mínimo exigido.
 
-- La oferta presentada por **empresa_n** obtiene una puntuación total de **11,45 puntos**, no alcanzando el umbral mínimo requerido.
+- La oferta presentada por **empresa_n** obtiene una puntuación total de **9,20 puntos**, no alcanzando el umbral mínimo requerido.
 
-En consecuencia, la oferta de empresa_n **no cumple con las condiciones mínimas de calidad técnica exigidas en el Documento de Invitación**, lo que determina su **exclusión del procedimiento** en esta fase.
+En consecuencia, la oferta de empresa_n **no alcanza el umbral de 15 puntos previsto en el Documento de Invitación**, por lo que procede proponer su **exclusión del procedimiento** en esta fase.
 
-Esta decisión se fundamenta en la **aplicación directa de las reglas establecidas en los pliegos y en la normativa de contratación pública**, en particular en lo dispuesto en la Ley 9/2017, de Contratos del Sector Público, que permite la exclusión de aquellas ofertas que no alcancen los niveles mínimos de calidad establecidos en los criterios de adjudicación.
+La puntuación deriva de un juicio técnico motivado. Una vez obtenido el total, la aplicación aritmética del umbral no añade una nueva valoración discrecional. Esta consecuencia no constituye una apreciación sobre la solvencia del licitador ni un incumplimiento técnico autónomo.
 
-Asimismo, debe señalarse que la exclusión se basa en una **evaluación objetiva, motivada y plenamente trazable**, sustentada en deficiencias técnicas concretas identificadas en la propuesta, y no en consideraciones subjetivas o discrecionales.
+La propuesta de exclusión se apoya en un **juicio técnico motivado, homogéneo y trazable** y en la posterior aplicación del umbral al total obtenido.
 
 En relación con la continuación del procedimiento, y dado que **únicamente la oferta de empresa_s supera el umbral mínimo de calidad técnica**, se propone que dicha empresa **continúe en el proceso de adjudicación**, procediéndose a la valoración de los criterios evaluables mediante fórmulas conforme a lo establecido en el pliego.
 

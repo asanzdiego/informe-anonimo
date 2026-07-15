@@ -20,7 +20,7 @@ De conformidad con el **artículo 145 de la LCSP**, los criterios de adjudicaci�
 
 Asimismo, el **artículo 146.3 de la LCSP** permite establecer umbrales mínimos en los criterios cualitativos sujetos a juicio de valor. Conforme al Documento de Invitación, las ofertas deben alcanzar un **nivel mínimo de calidad técnica equivalente al cincuenta por ciento de la puntuación máxima asignable a estos criterios** para continuar en el procedimiento.
 
-La aplicación de este umbral no constituye una decisión discrecional: una vez constatado su incumplimiento, la oferta afectada no puede continuar en las fases posteriores del procedimiento. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**.
+La puntuación se determina mediante juicio técnico motivado. Una vez obtenido el total, la aplicación aritmética del umbral no añade una valoración discrecional adicional. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**, sin confundir el resultado con la solvencia del licitador ni con un incumplimiento técnico autónomo.
 
 La evaluación se ajusta igualmente al **principio de evaluabilidad**, conforme al cual únicamente pueden valorarse los elementos de la oferta que estén suficientemente desarrollados y que permitan su comprobación objetiva. Las declaraciones genéricas, las capacidades presumidas, las referencias no desarrolladas o las soluciones futuras no descritas en la memoria no pueden suplirse mediante inferencias del órgano evaluador.
 
@@ -331,12 +331,12 @@ La valoración reflejada en las tablas anteriores responde a un **análisis téc
 | **Subcriterio** | **Nivel y puntos** | **Motivación breve**                                                                                                                    |
 | --------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Arquitectura    | BAJA — 0,50/2,00   | La memoria identifica componentes, pero no completa relaciones, flujos, despliegues ni resiliencia y contiene errores de adaptación.    |
-| Comprensión     | MEDIA — 1,00/2,00  | Reconoce el alcance general, pero interpreta incorrectamente identidad, calendarios, bases de datos, correo y sistemas complementarios. |
+| Comprensión     | MEDIA — 1,00/2,00  | Reconoce el alcance general y aporta contenido evaluable, pero mantiene errores acreditados como la contradicción síncrono/asíncrono de AV11 y un desarrollo desigual que impide alcanzar ALTA. |
 | Viabilidad      | MEDIA — 0,40/1,00  | La falta de procedimientos, dependencias y validación, unida a errores conceptuales, genera dudas relevantes de ejecución.              |
 | Metodología     | MEDIA — 0,40/1,00  | Métrica v3 aporta base teórica, pero no se concreta mediante roles, herramientas, entregables y validaciones suficientes.               |
 | Rendimiento     | MEDIA — 0,40/1,00  | El tratamiento es genérico y carece de métricas, escenarios de carga y criterios de aceptación específicos.                             |
-| Satisfacción    | MEDIA — 2,40/8,00   | Aunque cubre nominalmente 85 proyectos, 73 son insuficientes o contienen errores y solo 12 alcanzan desarrollo suficiente.              |
-| Calendario      | MEDIA — 3,75/11,00 | Ofrece fases generales, pero carece de desglose suficiente por proyecto, dependencias, hitos, recursos y adaptación operativa.          |
+| Satisfacción    | MEDIA — 2,40/8,00   | Aporta contenido suficiente en 12 proyectos de varios bloques, lo que permite superar la parte inferior de MEDIA; no alcanza el nivel siguiente por carencias extensas en integraciones, procesamiento, correo y validación. El recuento es auxiliar. |
+| Calendario      | MEDIA — 3,75/11,00 | La propuesta permite identificar tareas y meses, por lo que existe planificación básica; la falta de duraciones, relaciones e hitos verificables impide alcanzar ALTA. |
 | Riesgos         | ALTA — 0,55/1,00   | Existe identificación de riesgos, pero falta mayor vinculación a proyectos, responsables, indicadores y seguimiento.                    |
 | Contingencias   | MEDIA — 0,40/1,00  | El planteamiento es reconocible, aunque no concreta activadores, secuencias, recursos, tiempos, pruebas y retorno a la normalidad.      |
 | Calidad         | ALTA — 0,60/1,00   | Cita estándares y mejora continua, pero faltan métricas, niveles de servicio y relación verificable con entregables.                    |
@@ -360,7 +360,7 @@ La valoración reflejada en las tablas anteriores responde a un **análisis téc
 
 ## CONCLUSIONES DE LA VALORACIÓN COMPARADA
 
-El análisis técnico desarrollado a lo largo del presente informe permite establecer de forma **clara, objetiva y plenamente trazable las diferencias existentes entre las tres propuestas evaluadas**, tanto en términos de calidad técnica como de capacidad real de ejecución del contrato.
+El análisis técnico desarrollado a lo largo del presente informe permite establecer mediante un **juicio técnico motivado, homogéneo y trazable las diferencias existentes entre las tres propuestas evaluadas**, tanto en términos de calidad técnica como de evaluabilidad de su ejecución.
 
 En primer lugar, la propuesta presentada por empresa_s se configura como la **única que acredita de manera suficiente el cumplimiento de los requisitos establecidos en el Documento de Invitación**. Su **elevado grado de desarrollo técnico, la coherencia interna de la solución, la cobertura completa del Anexo II y la adecuada definición de los mecanismos de planificación** permiten considerar que la oferta reúne las condiciones necesarias para garantizar la ejecución del contrato en condiciones de calidad.
 
@@ -368,7 +368,7 @@ Desde una perspectiva técnica, la propuesta destaca por su **carácter plenamen
 
 En segundo lugar, la propuesta de empresa_n, aun presentando una cobertura funcional amplia, **no alcanza el nivel de desarrollo técnico exigible para este tipo de contrato**. Las carencias detectadas, consistentes en la **ausencia de definición de soluciones técnicas, la falta de trazabilidad entre requisitos y actuaciones, y la existencia de errores conceptuales**, afectan de manera directa a la viabilidad de la propuesta.
 
-Estas deficiencias **no son puntuales, sino que se reproducen de forma sistemática** en la mayoría de los bloques analizados, lo que determina una **limitación estructural en la evaluabilidad de la oferta**. En consecuencia, la propuesta no permite garantizar con suficiente certeza la correcta ejecución del contrato, lo que se refleja en una **puntuación significativamente inferior al umbral mínimo exigido**.
+Estas deficiencias **no son puntuales, sino que se reproducen de forma sistemática** en la mayoría de los bloques analizados, lo que determina una **limitación estructural en la evaluabilidad de la oferta**. En consecuencia, la propuesta no aporta evidencia suficiente para considerar acreditadas varias dimensiones evaluadas, lo que se refleja en una **puntuación significativamente inferior al umbral mínimo**.
 
 Por último, la propuesta presentada por la empresa_u se sitúa en un **nivel claramente insuficiente**, debido a la existencia de **carencias estructurales que afectan a la práctica totalidad de su contenido**. La falta de desarrollo técnico, la imposibilidad de evaluar una parte sustancial de la propuesta y la ausencia de planificación verificable determinan que la oferta **no cumpla los requisitos mínimos exigidos por el pliego**.
 
@@ -376,7 +376,7 @@ Debe destacarse que, en este caso, la insuficiencia no deriva de una menor calid
 
 Desde una perspectiva comparada, las tres propuestas se distribuyen en tres niveles claramente diferenciados:
 
-- Un nivel alto, representado por empresa_s, que acredita solvencia técnica, viabilidad y adecuación al contrato.
+- Un nivel alto, representado por empresa_s, que acredita calidad, viabilidad y adecuación técnica de la oferta.
 
 - Un nivel intermedio-bajo, representado por empresa_n, que presenta una aproximación incompleta con deficiencias relevantes.
 
@@ -392,11 +392,11 @@ El Documento de Invitación establece la obligación de que las ofertas sometida
 
 En aplicación de este criterio, y a la vista de las puntuaciones obtenidas, se constata que **únicamente la propuesta presentada por empresa_s supera el umbral mínimo exigido**, al haber obtenido una **puntuación de 26,70 puntos sobre un máximo de 30**.
 
-Por el contrario, la propuesta presentada por empresa_n obtiene una **puntuación total de 10,70 puntos, situándose por debajo del umbral mínimo fijado en 15 puntos**. Esta circunstancia determina, de forma automática y sin margen de discrecionalidad, su **exclusión del procedimiento**, al no acreditar un nivel técnico suficiente para garantizar la correcta ejecución del contrato.
+Por el contrario, la propuesta presentada por empresa_n obtiene una **puntuación total de 10,70 puntos, situándose por debajo del umbral mínimo fijado en 15 puntos**. Una vez motivada esa puntuación mediante juicio técnico, la aplicación aritmética del umbral determina la propuesta de **exclusión del procedimiento**. Esta conclusión no constituye una apreciación sobre la solvencia del licitador ni añade un incumplimiento técnico distinto de los expresamente identificados.
 
-De igual manera, la propuesta de la empresa_u obtiene una **puntuación de 3,70 puntos**, lo que confirma de forma aún más clara el **incumplimiento del umbral mínimo exigido**. Las deficiencias estructurales identificadas, unidas a la falta de evaluabilidad del contenido, refuerzan la **necesidad de su exclusión del procedimiento**.
+De igual manera, la propuesta de la empresa_u obtiene una **puntuación de 3,70 puntos** y **no alcanza el umbral mínimo de 15 puntos**. Las deficiencias estructurales identificadas y la limitada evaluabilidad motivan la puntuación; la propuesta de exclusión deriva de aplicar el umbral al total.
 
-Debe señalarse que la exclusión de estas ofertas **no constituye una decisión discrecional del órgano de contratación**, sino la **consecuencia directa de la aplicación de los criterios establecidos en el pliego**, una vez constatado el incumplimiento del requisito mínimo de calidad técnica. Este planteamiento garantiza el respeto a los principios de objetividad e igualdad de trato, evitando cualquier tipo de arbitrariedad en la toma de decisiones.
+Las puntuaciones derivan de un juicio técnico motivado. Una vez obtenidos los totales, la aplicación aritmética del umbral no añade una valoración discrecional adicional. La conclusión no constituye una apreciación sobre la solvencia de los licitadores ni un incumplimiento técnico autónomo.
 
 En consecuencia, a la vista del **análisis técnico realizado y de la valoración efectuada**, se formula la siguiente propuesta:
 

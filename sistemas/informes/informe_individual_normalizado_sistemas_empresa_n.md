@@ -19,23 +19,23 @@ Este enfoque garantiza la trazabilidad entre **los requisitos definidos, las evi
 
 ### Síntesis técnica de la propuesta
 
-La propuesta presenta una cobertura formal amplia y una identificación correcta del entorno de EducaMadrid, pero su desarrollo es mayoritariamente descriptivo. Faltan arquitecturas específicas, procedimientos operativos, herramientas, métricas, criterios de aceptación y mecanismos de validación. La referencia a Métrica V3 y algunos contenidos evaluables en GitLab y Redmine aportan valor parcial, sin compensar la baja concreción ni la ausencia de solución en bloques completos.
+La propuesta presenta una cobertura formal amplia y una identificación correcta del entorno de EducaMadrid, pero su desarrollo es mayoritariamente descriptivo. Faltan arquitecturas específicas, procedimientos operativos, herramientas, métricas, criterios de aceptación y mecanismos de validación. La referencia a Métrica V3 y algunos contenidos evaluables en GitLab y Redmine aportan valor parcial, sin compensar la baja concreción ni la falta de propuesta propia evaluable en bloques con epígrafes formales.
 
 ### Principales conclusiones del análisis
 
-El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual.
+El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no aportan una solución propia evaluable. MAX e IA incluyen epígrafes formales, pero el texto propio identificado no desarrolla una solución técnica evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual.
 
 ### Resultado de la valoración
 
 | **Bloque**                 | **Puntuación máxima** | **Puntuación obtenida** |
 | -------------------------- | --------------------: | ----------------------: |
 | Solución técnica ofertada  |                 15,00 |                    5,05 |
-| Planificación del servicio |                 15,00 |                    6,40 |
-| **TOTAL**                  |             **30,00** |               **11,45** |
+| Planificación del servicio |                 15,00 |                    4,15 |
+| **TOTAL**                  |             **30,00** |                **9,20** |
 
 ### Conclusión del resumen ejecutivo
 
-La propuesta obtiene 11,45 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos. Procede proponer su exclusión en coherencia con las fortalezas y carencias desarrolladas en el informe.
+La propuesta obtiene 9,20 puntos sobre 30 y no alcanza el umbral mínimo de 15 puntos. Una vez motivada la puntuación mediante juicio técnico, procede proponer su exclusión por aplicación aritmética del umbral.
 
 ## INTRODUCCIÓN
 
@@ -55,7 +55,7 @@ De conformidad con el **artículo 145 de la LCSP**, los criterios de adjudicaci�
 
 Asimismo, el **artículo 146.3 de la LCSP** permite establecer umbrales mínimos en los criterios cualitativos sujetos a juicio de valor. Conforme al Documento de Invitación, las ofertas deben alcanzar un **nivel mínimo de calidad técnica equivalente al cincuenta por ciento de la puntuación máxima asignable a estos criterios** para continuar en el procedimiento.
 
-La aplicación de este umbral no constituye una decisión discrecional: una vez constatado su incumplimiento, la oferta afectada no puede continuar en las fases posteriores del procedimiento. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**.
+La puntuación se determina mediante juicio técnico motivado. Una vez obtenido el total, la aplicación aritmética del umbral no añade una valoración discrecional adicional. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**, sin confundir el resultado con la solvencia del licitador ni con un incumplimiento técnico autónomo.
 
 La evaluación se ajusta igualmente al **principio de evaluabilidad**, conforme al cual únicamente pueden valorarse los elementos de la oferta que estén suficientemente desarrollados y que permitan su comprobación objetiva. Las declaraciones genéricas, las capacidades presumidas, las referencias no desarrolladas o las soluciones futuras no descritas en la memoria no pueden suplirse mediante inferencias del órgano evaluador.
 
@@ -244,25 +244,7 @@ Este enfoque permite reconstruir el razonamiento que sustenta cada puntuación y
 
 ### Consideraciones preliminares sobre la propuesta
 
-#### Estructura, coherencia interna y grado de finalización
-
-La memoria está formalmente estructurada y reconoce el alcance del contrato, pero no mantiene una relación verificable entre requisitos, arquitectura, soluciones, metodología y planificación. Predominan formulaciones generales; no se definen de forma sistemática componentes, interfaces, métricas, entregables ni criterios de aceptación, y MAX e IA quedan sin contenido técnico evaluable.
-
-#### Nivel de desarrollo técnico y grado de concreción
-
-La memoria está formalmente estructurada y reconoce el alcance del contrato, pero no mantiene una relación verificable entre requisitos, arquitectura, soluciones, metodología y planificación. Predominan formulaciones generales; no se definen de forma sistemática componentes, interfaces, métricas, entregables ni criterios de aceptación, y MAX e IA quedan sin contenido técnico evaluable.
-
-#### Comprensión y adaptación al entorno EducaMadrid
-
-La memoria está formalmente estructurada y reconoce el alcance del contrato, pero no mantiene una relación verificable entre requisitos, arquitectura, soluciones, metodología y planificación. Predominan formulaciones generales; no se definen de forma sistemática componentes, interfaces, métricas, entregables ni criterios de aceptación, y MAX e IA quedan sin contenido técnico evaluable.
-
-#### Arquitectura, integración y requisitos no funcionales
-
-La memoria está formalmente estructurada y reconoce el alcance del contrato, pero no mantiene una relación verificable entre requisitos, arquitectura, soluciones, metodología y planificación. Predominan formulaciones generales; no se definen de forma sistemática componentes, interfaces, métricas, entregables ni criterios de aceptación, y MAX e IA quedan sin contenido técnico evaluable.
-
-#### Trazabilidad y evaluabilidad
-
-La memoria está formalmente estructurada y reconoce el alcance del contrato, pero no mantiene una relación verificable entre requisitos, arquitectura, soluciones, metodología y planificación. Predominan formulaciones generales; no se definen de forma sistemática componentes, interfaces, métricas, entregables ni criterios de aceptación, y MAX e IA quedan sin contenido técnico evaluable.
+La memoria está formalmente estructurada y reconoce el alcance del contrato, pero no mantiene una relación verificable entre requisitos, arquitectura, soluciones, metodología y planificación. Predominan formulaciones generales; no se definen de forma sistemática componentes, interfaces, métricas, entregables ni criterios de aceptación, y MAX e IA incluyen epígrafes formales, pero el texto propio identificado no desarrolla arquitectura, procedimientos ni validaciones evaluables.
 
 ## ANÁLISIS DETALLADO DE LA SOLUCIÓN TÉCNICA
 
@@ -270,11 +252,11 @@ La memoria está formalmente estructurada y reconoce el alcance del contrato, pe
 
 #### Enfoque global de evaluación
 
-La propuesta presenta una cobertura formal amplia y una identificación correcta del entorno de EducaMadrid, pero su desarrollo es mayoritariamente descriptivo. Faltan arquitecturas específicas, procedimientos operativos, herramientas, métricas, criterios de aceptación y mecanismos de validación. La referencia a Métrica V3 y algunos contenidos evaluables en GitLab y Redmine aportan valor parcial, sin compensar la baja concreción ni la ausencia de solución en bloques completos.
+La propuesta presenta una cobertura formal amplia y una identificación correcta del entorno de EducaMadrid, pero su desarrollo es mayoritariamente descriptivo. Faltan arquitecturas específicas, procedimientos operativos, herramientas, métricas, criterios de aceptación y mecanismos de validación. La referencia a Métrica V3 y algunos contenidos evaluables en GitLab y Redmine aportan valor parcial, sin compensar la baja concreción ni la falta de propuesta propia evaluable en bloques con epígrafes formales.
 
 #### Cobertura del Anexo II
 
-El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual.
+El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no aportan una solución propia evaluable. MAX e IA incluyen epígrafes formales, pero el texto propio identificado no desarrolla una solución técnica evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual.
 
 #### Fortalezas y aportaciones de valor añadido
 
@@ -282,7 +264,7 @@ Se reconocen la comprensión general del entorno y la cobertura formal del alcan
 
 #### Carencias, errores y riesgos recurrentes
 
-Se repiten la falta de arquitecturas específicas, procedimientos, herramientas, métricas y criterios de aceptación; MAX e IA carecen de solución evaluable y las mejoras son mayoritariamente incrementales. El efecto acumulado reduce la viabilidad y la satisfacción de requisitos.
+Se repiten la falta de arquitecturas específicas, procedimientos, herramientas, métricas y criterios de aceptación. La oferta contiene epígrafes de MAX e IA, pero el texto propio identificado reproduce antecedentes o trata el bloque de forma agregada sin una solución diferenciada y verificable. Las mejoras son mayoritariamente incrementales. Este hallazgo se imputa de forma primaria a Satisfacción y solo afecta a otros subcriterios cuando impide verificar la dimensión correspondiente.
 
 ### Análisis por bloques funcionales del Anexo II
 
@@ -294,7 +276,7 @@ El análisis utiliza la misma estructura para los 89 subproyectos: requisito, co
 
 El bloque comprende la operación a gran escala de MariaDB, PostgreSQL, MongoDB y ProxySQL; clústeres, replicación, balanceo, optimización, CMDB, sincronización, seguridad, observabilidad y persistencia en microservicios.
 
-El contraste identifica 0 subproyectos con desarrollo suficiente, 6 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 0 subproyectos con desarrollo suficiente, 6 con desarrollo insuficiente y 0 sin solución propia evaluable; 0 incorporan valor añadido según la clasificación del anexo.
 
 ##### BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y Proxy SQL avanzado
 
@@ -434,7 +416,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 ##### Conclusión del bloque BD
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 6 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 6 insuficientes y 0 sin solución propia evaluable, con 0 aportaciones de valor añadido.
 
 #### Bloque MON — Monitorización, testeo y pruebas de rendimiento (MON)
 
@@ -442,7 +424,7 @@ La valoración conjunta del bloque es **BAJA**. La clasificación individual mue
 
 El bloque comprende la gestión de capacidad y almacenamiento NFS, las pruebas de carga y estrés, las métricas y umbrales, la observabilidad, el alertado proactivo y la monitorización específica de servicios de IA.
 
-El contraste identifica 0 subproyectos con desarrollo suficiente, 4 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 0 subproyectos con desarrollo suficiente, 4 con desarrollo insuficiente y 0 sin solución propia evaluable; 0 incorporan valor añadido según la clasificación del anexo.
 
 ##### MON1 — Mantenimiento periódico del almacenamiento de los centros
 
@@ -534,7 +516,7 @@ La propuesta de empresa_n describe actividades como el alta de modelos, la revis
 
 ##### Conclusión del bloque MON
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 4 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 4 insuficientes y 0 sin solución propia evaluable, con 0 aportaciones de valor añadido.
 
 #### Bloque UPD — Actualización de servicios existentes (UPD)
 
@@ -542,7 +524,7 @@ La valoración conjunta del bloque es **BAJA**. La clasificación individual mue
 
 El bloque comprende arquitecturas y procedimientos para videoconferencia, grabación, colaboración, gestión de proyectos, encuestas, calidad de código, streaming, bibliotecas, configuración, contenedores y decomisionado.
 
-El contraste identifica 2 subproyectos con desarrollo suficiente, 12 con desarrollo insuficiente y 1 no incluidos; 1 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 2 subproyectos con desarrollo suficiente, 12 con desarrollo insuficiente y 1 sin solución propia evaluable; 1 incorporan valor añadido según la clasificación del anexo.
 
 ##### UPD1 — Mantenimiento y mejora de los sistemas de videoconferencias de EducaMadrid
 
@@ -880,7 +862,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 ##### Conclusión del bloque UPD
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 2 desarrollos suficientes, 12 insuficientes y 1 no incluidos, con 1 aportaciones de valor añadido.
+La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 2 desarrollos suficientes, 12 insuficientes y 1 sin solución propia evaluable, con 1 aportaciones de valor añadido.
 
 #### Bloque CLO — Cloud (CLO)
 
@@ -888,7 +870,7 @@ La valoración conjunta del bloque es **BAJA**. La clasificación individual mue
 
 El bloque comprende disponibilidad, escalabilidad, almacenamiento temporal, edición en línea, integración, seguridad, rendimiento, actualización y continuidad de los servicios cloud de EducaMadrid.
 
-El contraste identifica 0 subproyectos con desarrollo suficiente, 2 con desarrollo insuficiente y 1 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 0 subproyectos con desarrollo suficiente, 2 con desarrollo insuficiente y 1 sin solución propia evaluable; 0 incorporan valor añadido según la clasificación del anexo.
 
 ##### CLO1 — Mantenimiento del servicio de la nube de EducaMadrid
 
@@ -958,7 +940,7 @@ La propuesta de empresa_n describe tareas de mantenimiento, actualización y com
 
 ##### Conclusión del bloque CLO
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 2 insuficientes y 1 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 2 insuficientes y 1 sin solución propia evaluable, con 0 aportaciones de valor añadido.
 
 #### Bloque OTR — Otros desarrollos (OTR)
 
@@ -966,7 +948,7 @@ La valoración conjunta del bloque es **BAJA**. La clasificación individual mue
 
 El bloque comprende SSO y 2FA, automatización, Elastic, flujos de trabajo, Portal CAU e inteligencia artificial, con especial atención a integraciones, seguridad, trazabilidad, herramientas y operativa real.
 
-El contraste identifica 1 subproyecto con desarrollo suficiente, 6 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 1 subproyecto con desarrollo suficiente, 6 con desarrollo insuficiente y 0 sin solución propia evaluable; 0 incorporan valor añadido según la clasificación del anexo.
 
 ##### OTR1 — Mantenimiento y mejora del sistema de autentificación centralizada Single Sign On (SSO)
 
@@ -1128,7 +1110,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 ##### Conclusión del bloque OTR
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 1 desarrollo suficiente, 6 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 1 desarrollo suficiente, 6 insuficientes y 0 sin solución propia evaluable, con 0 aportaciones de valor añadido.
 
 #### Bloque COR — Correo electrónico (COR)
 
@@ -1136,7 +1118,7 @@ La valoración conjunta del bloque es **BAJA**. La clasificación individual mue
 
 El bloque comprende control de envíos, listas, cuotas, spam, buzones, seguridad, infraestructura, escalado de Mailbox Server e inyección directa, incluyendo colas, spool, rendimiento, resiliencia y coexistencia.
 
-El contraste identifica 0 subproyectos con desarrollo suficiente, 10 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 0 subproyectos con desarrollo suficiente, 10 con desarrollo insuficiente y 0 sin solución propia evaluable; 0 incorporan valor añadido según la clasificación del anexo.
 
 ##### COR1 — Mantenimiento y mejora de los sistemas de control de envíos de correo
 
@@ -1362,7 +1344,7 @@ En la propuesta de empresa_n referente al bloque COR se detecta una **desviació
 
 ##### Conclusión del bloque COR
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 10 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 10 insuficientes y 0 sin solución propia evaluable, con 0 aportaciones de valor añadido.
 
 #### Bloque MAX — Sistema Operativo MAX (MAX)
 
@@ -1370,7 +1352,7 @@ La valoración conjunta del bloque es **BAJA**. La clasificación individual mue
 
 El bloque comprende soporte presencial y remoto, servidores de construcción y repositorios, mantenimiento de aplicaciones y distribuciones, integraciones, eventos, dispositivos y gestión centralizada de equipos y maquetas.
 
-El contraste identifica 0 subproyectos con desarrollo suficiente, 0 con desarrollo insuficiente y 14 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 0 subproyectos con desarrollo suficiente, 0 con desarrollo insuficiente y 14 sin solución propia evaluable; 0 incorporan valor añadido según la clasificación del anexo.
 
 ##### MAX1 — Mantenimiento y actualización de MAX de forma presencial en centros de forma regular
 
@@ -1388,7 +1370,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1410,7 +1392,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1432,7 +1414,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1454,7 +1436,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1476,7 +1458,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1498,7 +1480,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1520,7 +1502,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1542,7 +1524,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1564,7 +1546,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1586,7 +1568,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1608,7 +1590,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1630,7 +1612,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1652,7 +1634,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1674,7 +1656,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -1682,7 +1664,7 @@ La ausencia de una solución concreta impide valorar arquitectura, procedimiento
 
 ##### Conclusión del bloque MAX
 
-La valoración conjunta del bloque es **MUY BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 0 insuficientes y 14 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **MUY BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 0 insuficientes y 14 sin solución propia evaluable, con 0 aportaciones de valor añadido.
 
 #### Bloque AV — Aulas Virtuales (AV)
 
@@ -1690,7 +1672,7 @@ La valoración conjunta del bloque es **MUY BAJA**. La clasificación individual
 
 El bloque comprende actualización y estabilidad de bases de datos y FrontEnd, despliegue de nuevos grupos, redistribución de NFS, automatización, balanceo y adaptación a picos de carga.
 
-El contraste identifica 0 subproyectos con desarrollo suficiente, 4 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 0 subproyectos con desarrollo suficiente, 4 con desarrollo insuficiente y 0 sin solución propia evaluable; 0 incorporan valor añadido según la clasificación del anexo.
 
 ##### AV1 — Actualización y comprobación periódicas de servidores físicos y virtuales de BBDD de los entornos de aulas virtuales
 
@@ -1782,7 +1764,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 ##### Conclusión del bloque AV
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 4 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 4 insuficientes y 0 sin solución propia evaluable, con 0 aportaciones de valor añadido.
 
 #### Bloque POR — Servicio de LDAP y Portal Educativo (POR)
 
@@ -1790,7 +1772,7 @@ La valoración conjunta del bloque es **BAJA**. La clasificación individual mue
 
 El bloque comprende escalado de esclavos LDAP, replicación, disponibilidad y rendimiento, así como planificación, reversibilidad, integridad y validación de la migración del LDAP máster.
 
-El contraste identifica 0 subproyectos con desarrollo suficiente, 2 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 0 subproyectos con desarrollo suficiente, 2 con desarrollo insuficiente y 0 sin solución propia evaluable; 0 incorporan valor añadido según la clasificación del anexo.
 
 ##### POR1 — Ampliación periódica del sistema de esclavos LDAP de EducaMadrid
 
@@ -1822,7 +1804,7 @@ El subproyecto POR2 implica la migración del nodo maestro LDAP, operación crí
 
 - **Análisis de la propuesta**
 
-Las propuestas de mejora mantienen el mismo enfoque, reforzando la revisión del proceso sin incorporar metodologías adicionales que permitan garantizar la correcta ejecución de la migración en un entorno crítico.
+Las propuestas de mejora mantienen el mismo enfoque, reforzando la revisión del proceso sin incorporar metodologías adicionales que permitan verificar la ejecución de la migración en un entorno crítico.
 
 - **Fortalezas y valor añadido**
 
@@ -1838,7 +1820,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 ##### Conclusión del bloque POR
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 2 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 2 insuficientes y 0 sin solución propia evaluable, con 0 aportaciones de valor añadido.
 
 #### Bloque SEG — Seguridad (SEG)
 
@@ -1846,7 +1828,7 @@ La valoración conjunta del bloque es **BAJA**. La clasificación individual mue
 
 El bloque comprende control de cambios y dominios DNS, segregación de identidades privilegiadas, certificados, vulnerabilidades, detección de intrusiones, auditoría continua, centralización de logs, claves RSA y respuesta ante incidentes.
 
-El contraste identifica 0 subproyectos con desarrollo suficiente, 11 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 0 subproyectos con desarrollo suficiente, 11 con desarrollo insuficiente y 0 sin solución propia evaluable; 0 incorporan valor añadido según la clasificación del anexo.
 
 ##### SEG1 — Mantenimiento y mejora del sistema de control de cambios en DNS
 
@@ -2094,7 +2076,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 ##### Conclusión del bloque SEG
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 11 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 11 insuficientes y 0 sin solución propia evaluable, con 0 aportaciones de valor añadido.
 
 #### Bloque CON — Automatización y contenedores (CON)
 
@@ -2102,7 +2084,7 @@ La valoración conjunta del bloque es **BAJA**. La clasificación individual mue
 
 El bloque comprende orquestación, ciclo de vida de contenedores, infraestructura como código, scripts, herramientas auxiliares, control de versiones, pruebas y observabilidad.
 
-El contraste identifica 0 subproyectos con desarrollo suficiente, 3 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 0 subproyectos con desarrollo suficiente, 3 con desarrollo insuficiente y 0 sin solución propia evaluable; 0 incorporan valor añadido según la clasificación del anexo.
 
 ##### CON1 — Mantenimiento y mejora del sistema de gestión de contenedores
 
@@ -2172,7 +2154,7 @@ Se reconoce cobertura formal del subproyecto y una propuesta de mejora, pero no 
 
 ##### Conclusión del bloque CON
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 3 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 3 insuficientes y 0 sin solución propia evaluable, con 0 aportaciones de valor añadido.
 
 #### Bloque MIG — Gestión de la migración de servidores entre CPDs (MIG)
 
@@ -2180,7 +2162,7 @@ La valoración conjunta del bloque es **BAJA**. La clasificación individual mue
 
 El bloque comprende coordinación, inventario, dependencias, fases preparatorias, documentación, criterios de aceptación, pruebas, reversibilidad, verificación y soporte posterior a la migración.
 
-El contraste identifica 0 subproyectos con desarrollo suficiente, 5 con desarrollo insuficiente y 0 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 0 subproyectos con desarrollo suficiente, 5 con desarrollo insuficiente y 0 sin solución propia evaluable; 0 incorporan valor añadido según la clasificación del anexo.
 
 ##### MIG1 — Coordinación y planificación de la revisión de los entornos migrados
 
@@ -2294,7 +2276,7 @@ La propuesta de empresa_n describe el soporte de forma general, haciendo referen
 
 ##### Conclusión del bloque MIG
 
-La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 5 insuficientes y 0 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 5 insuficientes y 0 sin solución propia evaluable, con 0 aportaciones de valor añadido.
 
 #### Bloque IA — Inteligencia Artificial (IA)
 
@@ -2302,7 +2284,7 @@ La valoración conjunta del bloque es **BAJA**. La clasificación individual mue
 
 El bloque comprende evaluación de modelos, ingeniería de prompts, guardarraíles, integración en aplicaciones, capacidad, límites por usuario, métricas, seguridad, trazabilidad y operación de los servicios de IA.
 
-El contraste identifica 0 subproyectos con desarrollo suficiente, 0 con desarrollo insuficiente y 5 no incluidos; 0 incorporan valor añadido según la clasificación del anexo.
+El contraste identifica 0 subproyectos con desarrollo suficiente, 0 con desarrollo insuficiente y 5 sin solución propia evaluable; 0 incorporan valor añadido según la clasificación del anexo.
 
 ##### IA1 — EVALUAR el rendimiento de los modelos seleccionados
 
@@ -2320,7 +2302,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -2342,7 +2324,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -2364,7 +2346,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -2386,7 +2368,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -2408,7 +2390,7 @@ No se acreditan fortalezas técnicas ni mejoras evaluables para este subproyecto
 
 - **Carencias, omisiones, errores o riesgos**
 
-La ausencia de una solución concreta impide valorar arquitectura, procedimientos, herramientas, rendimiento y viabilidad del subproyecto.
+El epígrafe existe formalmente, pero el texto identificado como propio del licitador reproduce el requisito o lo trata de forma agregada sin desarrollar arquitectura, procedimientos, herramientas, rendimiento ni mecanismos de validación evaluables para este subproyecto.
 
 - **Valoración cualitativa**
 
@@ -2416,11 +2398,11 @@ La ausencia de una solución concreta impide valorar arquitectura, procedimiento
 
 ##### Conclusión del bloque IA
 
-La valoración conjunta del bloque es **MUY BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 0 insuficientes y 5 no incluidos, con 0 aportaciones de valor añadido.
+La valoración conjunta del bloque es **MUY BAJA**. La clasificación individual muestra 0 desarrollos suficientes, 0 insuficientes y 5 sin solución propia evaluable, con 0 aportaciones de valor añadido.
 
 ### Conclusión del análisis detallado
 
-El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual. La propuesta presenta una cobertura formal amplia y una identificación correcta del entorno de EducaMadrid, pero su desarrollo es mayoritariamente descriptivo. Faltan arquitecturas específicas, procedimientos operativos, herramientas, métricas, criterios de aceptación y mecanismos de validación. La referencia a Métrica V3 y algunos contenidos evaluables en GitLab y Redmine aportan valor parcial, sin compensar la baja concreción ni la ausencia de solución en bloques completos.
+El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no aportan una solución propia evaluable. MAX e IA incluyen epígrafes formales, pero el texto propio identificado no desarrolla una solución técnica evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual. La propuesta presenta una cobertura formal amplia y una identificación correcta del entorno de EducaMadrid, pero su desarrollo es mayoritariamente descriptivo. Faltan arquitecturas específicas, procedimientos operativos, herramientas, métricas, criterios de aceptación y mecanismos de validación. La referencia a Métrica V3 y algunos contenidos evaluables en GitLab y Redmine aportan valor parcial, sin compensar la baja concreción ni la falta de propuesta propia evaluable en bloques con epígrafes formales.
 
 ## EVALUACIÓN DE LA SOLUCIÓN TÉCNICA OFERTADA
 
@@ -2442,8 +2424,10 @@ La propuesta presentada por empresa_n incluye una descripción amplia del ecosis
 
 **Como consecuencia de todo lo anterior, no resulta posible evaluar adecuadamente aspectos esenciales exigidos por el Documento de Invitación, tales como la capacidad de escalado del sistema, su comportamiento ante situaciones de alta carga, la distribución eficiente de los servicios o la resiliencia frente a fallos.** En consecuencia, la arquitectura presentada debe considerarse identificada a nivel conceptual, pero no definida ni desarrollada a nivel técnico, lo que limita de forma significativa su verificabilidad.
 
-El contraste con la memoria confirma que existe una comprensión general del entorno, pero no una propuesta arquitectónica completa, definida y verificable: faltan diagramas propios, relaciones, modelos de distribución y arquitecturas por subproyecto. Estos rasgos corresponden al descriptor MEDIA.
+El contraste con la memoria confirma que existe una comprensión general del entorno, lo que permite situar la nota por encima de la parte inferior de MEDIA. No alcanza ALTA porque no existe una propuesta arquitectónica completa, definida y verificable: faltan diagramas propios, relaciones, modelos de distribución y arquitecturas por subproyecto. El 45 % refleja esa combinación.
 
+**Nivel cualitativo:** MEDIA
+**Puntuación:** 0,90 sobre 2,00
 
 ### Grado de comprensión de los requisitos planteados — máximo 2,00 puntos
 
@@ -2453,7 +2437,7 @@ El contraste con la memoria confirma que existe una comprensión general del ent
 
 **En particular, se observa que la identificación de requisitos no se acompaña de una definición de procedimientos específicos que permitan su cumplimiento, ni de la selección de herramientas técnicas que soporten su ejecución.** Del mismo modo, en numerosos subproyectos no se desarrollan mecanismos operativos que permitan materializar las necesidades identificadas, lo que evidencia una limitación en la capacidad de trasladar la comprensión conceptual a una solución técnica efectiva.
 
-**Esta situación resulta especialmente visible en ámbitos como la monitorización, donde se identifica la necesidad de disponer de sistemas avanzados pero no se definen métricas ni herramientas; en el ámbito de bases de datos, donde se reconoce la importancia de la optimización sin desarrollar metodologías concretas; o en el caso de las migraciones, donde no se establecen fases ni procedimientos detallados.** Asimismo, en bloques completos como inteligencia artificial o sistema MAX, la comprensión teórica no se traduce en ningún contenido técnico evaluable.
+**Esta situación resulta especialmente visible en ámbitos como la monitorización, donde se identifica la necesidad de disponer de sistemas avanzados pero no se definen métricas ni herramientas; en el ámbito de bases de datos, donde se reconoce la importancia de la optimización sin desarrollar metodologías concretas; o en el caso de las migraciones, donde no se establecen fases ni procedimientos detallados.** En MAX e inteligencia artificial sí existen epígrafes formales, pero el contenido propio identificado reproduce antecedentes o agrupa requisitos sin desarrollar una propuesta diferenciada que permita verificar su comprensión práctica.
 
 **A estas limitaciones se añaden determinadas inconsistencias técnicas detectadas en la propuesta, tales como la inclusión de referencias a tecnologías no alineadas con el entorno del Documento de Invitación o la reutilización de contenidos no adaptados a los subproyectos correspondientes.** Estas circunstancian afectan de forma directa a la valoración de la comprensión real del servicio, al evidenciar una falta de ajuste en determinados aspectos técnicos.
 
@@ -2468,7 +2452,7 @@ El contraste con la memoria confirma que existe una comprensión general del ent
 
 **No obstante, el análisis técnico detallado evidencia que la viabilidad real del proyecto se encuentra condicionada por la falta de desarrollo de los elementos necesarios para su ejecución efectiva.** En particular, se constata que la propuesta no define procedimientos operativos concretos que permitan determinar cómo se llevarán a cabo las actuaciones descritas, ni identifica herramientas específicas que sirvan de base tecnológica para la prestación del servicio. Asimismo, no se desarrollan arquitecturas que permitan comprender cómo se integran los distintos componentes del sistema ni cómo se gestionarán aspectos críticos como la disponibilidad, la escalabilidad o la distribución de cargas.
 
-**Estas carencias se refuerzan al analizar determinados bloques en los que la propuesta no presenta contenido técnico evaluable, como ocurre en el caso del sistema operativo MAX o en el ámbito de inteligencia artificial, donde se limita a reproducir los requisitos del Documento de Invitación sin aportar soluciones.** Esta ausencia de desarrollo técnico en ámbitos completos introduce una incertidumbre relevante respecto a la capacidad global de ejecución del servicio.
+**Estas carencias se refuerzan al analizar MAX e inteligencia artificial.** La oferta contiene sus epígrafes, pero los fragmentos identificados como propios del licitador reproducen requisitos o presentan un tratamiento agregado sin arquitectura, procedimientos ni mecanismos de validación diferenciados. Por ello no permiten verificar la ejecución de esos subproyectos, sin afirmar una ausencia formal de contenido.
 
 **Adicionalmente, la presencia de determinadas inconsistencias técnicas, derivadas de la reutilización de contenidos no adaptados o de la inclusión de referencias tecnológicas incorrectas, reduce la confianza en la adecuación real de la propuesta al entorno específico de EducaMadrid.** Estas circunstancias, en conjunto, impiden evaluar con precisión la capacidad operativa del licitador, así como la viabilidad efectiva de la solución planteada.
 
@@ -2517,14 +2501,14 @@ El análisis realizado en el capítulo 2 permite concluir que la propuesta de em
 
 De forma generalizada, las soluciones planteadas no incorporan procedimientos operativos concretos, ni identifican herramientas específicas que permitan su ejecución. **Tampoco se desarrollan arquitecturas, metodologías o mecanismos de automatización que aporten valor añadido al cumplimiento de los requisitos.** Esta situación impide considerar que la propuesta satisface los requisitos desde un punto de vista técnico, al no demostrar cómo se llevarán a cabo las actuaciones en un entorno real.
 
-Asimismo, se identifican bloques completos en los que no existe contenido técnico evaluable, como ocurre en el caso del sistema operativo MAX o en el ámbito de inteligencia artificial. **En estos casos, la propuesta se limita a reproducir los requisitos del Documento de Invitación sin aportar soluciones, lo que supone una deficiencia estructural que afecta de manera directa a la valoración del conjunto.**
+Asimismo, la oferta incluye epígrafes relativos al sistema operativo MAX y a inteligencia artificial. **No obstante, el texto propio identificado reproduce antecedentes o requisitos y no desarrolla arquitectura, procedimientos, herramientas ni mecanismos de validación diferenciados.** Por ello esos epígrafes no permiten asignar una valoración positiva superior, sin confundir esta falta de propuesta propia evaluable con una ausencia formal.
 
 **A estas carencias se añaden determinadas inconsistencias, derivadas de la reutilización de contenidos no adaptados o de la inclusión de referencias incorrectas, que reducen la adecuación de la propuesta a los requisitos planteados.** Del mismo modo, las denominadas propuestas de mejora no introducen elementos técnicos adicionales, sino que se limitan a reforzar las tareas ya descritas, sin aportar metodologías ni herramientas que permitan considerarlas como un valor diferencial.
 
-**En consecuencia, el contraste con la memoria confirma una cobertura formal que no se traduce en satisfacción técnica efectiva: 65 de 89 subproyectos presentan desarrollo insuficiente y 21 carecen de solución concreta, incluidos bloques completos como MAX e inteligencia artificial.** La cobertura parcial acreditada permite situar el subcriterio en el nivel BAJA, sin que las carencias señaladas permitan una valoración superior.
+**En consecuencia, el contraste con la memoria confirma una cobertura formal que no se traduce de modo homogéneo en satisfacción técnica efectiva: 65 de 89 subproyectos presentan desarrollo insuficiente y 21 no aportan una solución propia evaluable.** Los contenidos suficientes de UPD5, UPD8 y OTR1, junto con otros elementos parciales, permiten alcanzar el límite superior de BAJA. No se alcanza MEDIA porque las carencias afectan de forma extensa a bloques relevantes y los epígrafes MAX e IA no contienen una propuesta diferenciada verificable. El recuento es auxiliar y no opera como fórmula.
 
 **Nivel cualitativo:** BAJA
-**Puntuación:** 2,40 sobre 8,00
+**Puntuación:** 2,00 sobre 8,00
 
 ### Resultado global de la solución técnica
 
@@ -2542,7 +2526,7 @@ Asimismo, se identifican bloques completos en los que no existe contenido técni
 
 ### Consideraciones generales sobre la planificación
 
-La planificación se valora como herramienta real de gestión: correspondencia con los subproyectos y entregables, secuencia, duración, dependencias, hitos, recursos y mecanismos de riesgo, contingencia, calidad y trazabilidad.
+La planificación se valora como herramienta real de gestión conforme a los rasgos publicados: correspondencia con los subproyectos y entregables, secuencia, duración, relaciones entre tareas, hitos, objetivos y mecanismos de riesgo, contingencia, calidad y trazabilidad.
 
 ### Calendario de los trabajos a desarrollar — máximo 11,00 puntos
 
@@ -2558,18 +2542,18 @@ No obstante, el análisis técnico detallado del diagrama de Gantt revela que di
 
 Asimismo, el diagrama no incorpora relaciones de dependencia entre tareas, ni establece secuencias lógicas de ejecución que permitan identificar precedencias técnicas o caminos críticos. En particular, no se observa ninguna vinculación entre actividades que, por su naturaleza, deberían estar relacionadas, como ocurre en los procesos de migración, donde no se diferencian fases preparatorias, ejecuciones y validaciones. **Esta ausencia de dependencias impide evaluar la coherencia temporal del proyecto y limita la capacidad de analizar el impacto de posibles retrasos.**
 
-Otro aspecto relevante es la falta de asignación explícita de recursos a las distintas actividades. **El cronograma no identifica los perfiles técnicos asociados a cada tarea ni el volumen de dedicación requerido, lo que impide evaluar si la planificación es compatible con los medios propuestos por el licitador.** Aunque se incluyen valores numéricos en las celdas, la ausencia de definición de estos impide utilizarlos como referencia válida para el análisis de cargas de trabajo.
+Los valores numéricos de las celdas no disponen de una definición que permita utilizarlos para reconstruir la duración o relación de las tareas. La eventual falta de asignación explícita de recursos se menciona solo como contexto y no se utiliza como criterio autónomo ni como fundamento de la puntuación.
 
 Por otra parte, no se observa una vinculación clara entre el cronograma y los subproyectos definidos en el Anexo II del Documento de Invitación. Si bien se incluyen denominaciones similares a las del Documento de Invitación, no se establece una correspondencia trazable que permita verificar qué actuaciones se ejecutan en cada momento para cada requisito. **Esta carencia limita de forma directa la trazabilidad de la planificación y su alineación con el alcance real del contrato.**
 
 El diagrama tampoco incluye hitos o puntos de control que permitan realizar un seguimiento estructurado del servicio, tales como entregables, revisiones o validaciones intermedias. **La ausencia de estos elementos impide definir mecanismos de control del avance del proyecto y dificulta la evaluación de su ejecución a lo largo del tiempo.**
 
-Finalmente, el cronograma no contempla mecanismos de adaptación a riesgos ni incluye márgenes o buffers que permitan absorber desviaciones, lo que evidencia una planificación rígida y poco resiliente.
+La eventual ausencia de márgenes o búferes tampoco se utiliza como exigencia autónoma. La valoración se limita al detalle, la duración, las relaciones, los hitos y los objetivos expresamente contemplados en el descriptor.
 
-El contraste directo del diagrama confirma que existe un cronograma mensual, Sin embargo, la matriz carece de leyenda para sus números y colores, no define duraciones continuas, dependencias, recursos, hitos ni una secuencia operativa verificable. En conjunto, el cronograma aporta una cobertura básica de la planificación, por lo que corresponde el descriptor MEDIA.
+El contraste directo de la oferta confirma que existe una matriz mensual con tareas reconocibles a lo largo del periodo anual, lo que permite alcanzar el límite superior de BAJA. No llega a MEDIA porque no pueden verificarse la duración individual y continuidad de numerosas tareas, sus relaciones ni su conexión con hitos y objetivos. La nota del 25 % refleja la existencia de una secuencia temporal básica y esas carencias expresamente vinculadas al descriptor.
 
-**Nivel cualitativo:** MEDIA
-**Puntuación:** 5,00 sobre 11,00
+**Nivel cualitativo:** BAJA
+**Puntuación:** 2,75 sobre 11,00
 
 ### Análisis de riesgos del proyecto — máximo 1,00 puntos
 
@@ -2631,50 +2615,50 @@ En consecuencia, la trazabilidad propuesta es parcial y presenta un carácter fu
 
 | **Subcriterio**                     | **Máximo** | **Nivel** | **Puntuación** |
 | ----------------------------------- | ---------: | --------- | -------------: |
-| Calendario y planificación temporal |      11,00 | MEDIA     |           5,00 |
+| Calendario y planificación temporal |      11,00 | BAJA      |           2,75 |
 | Análisis de riesgos                 |       1,00 | BAJA      |           0,25 |
 | Plan de contingencias               |       1,00 | BAJA      |           0,25 |
 | Plan de calidad                     |       1,00 | MEDIA     |           0,50 |
 | Trazabilidad                        |       1,00 | MEDIA     |           0,40 |
-| **TOTAL PLANIFICACIÓN**             |  **15,00** |           |       **6,40** |
+| **TOTAL PLANIFICACIÓN**             |  **15,00** |           |       **4,15** |
 
 ## RESULTADO FINAL CONSOLIDADO
 
 | **Bloque**                 | **Puntuación máxima** | **Puntuación obtenida** |
 | -------------------------- | --------------------: | ----------------------: |
 | Solución técnica ofertada  |                 15,00 |                    5,05 |
-| Planificación del servicio |                 15,00 |                    6,40 |
-| **PUNTUACIÓN FINAL**       |             **30,00** |               **11,45** |
+| Planificación del servicio |                 15,00 |                    4,15 |
+| **PUNTUACIÓN FINAL**       |             **30,00** |                **9,20** |
 
 ### Interpretación de la puntuación
 
-La puntuación refleja una oferta formalmente estructurada, pero con desarrollo técnico insuficiente y baja verificabilidad. Las carencias de arquitectura, procedimientos, métricas y contenido en bloques completos justifican que el resultado quede por debajo del umbral.
+La puntuación refleja una oferta formalmente estructurada, pero con desarrollo técnico insuficiente y baja verificabilidad. Los epígrafes formales de MAX e IA no incorporan una propuesta propia diferenciada, y el calendario mensual no permite verificar duraciones, relaciones e hitos suficientes. El resultado queda por debajo del umbral.
 
 ## CONCLUSIONES FINALES Y PROPUESTA
 
 ### Conclusiones globales de la evaluación técnica
 
-La propuesta presenta una cobertura formal amplia y una identificación correcta del entorno de EducaMadrid, pero su desarrollo es mayoritariamente descriptivo. Faltan arquitecturas específicas, procedimientos operativos, herramientas, métricas, criterios de aceptación y mecanismos de validación. La referencia a Métrica V3 y algunos contenidos evaluables en GitLab y Redmine aportan valor parcial, sin compensar la baja concreción ni la ausencia de solución en bloques completos.
+La propuesta presenta una cobertura formal amplia y una identificación correcta del entorno de EducaMadrid, pero su desarrollo es mayoritariamente descriptivo. Faltan arquitecturas específicas, procedimientos operativos, herramientas, métricas, criterios de aceptación y mecanismos de validación. La referencia a Métrica V3 y algunos contenidos evaluables en GitLab y Redmine aportan valor parcial, sin compensar la baja concreción ni la falta de propuesta propia evaluable en bloques con epígrafes formales.
 
 ### Conclusiones sobre la solución técnica
 
-El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual.
+El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no aportan una solución propia evaluable. MAX e IA incluyen epígrafes formales, pero el texto propio identificado no desarrolla una solución técnica evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual.
 
 ### Conclusiones sobre la planificación del servicio
 
-El cronograma cumple formalmente, pero su desglose, dependencias, hitos, entregables y adaptación operativa son limitados. Los planes de riesgos, contingencias, calidad y trazabilidad se mantienen en gran medida en un nivel conceptual.
+El cronograma mensual de las páginas 181 y 182 aporta una secuencia temporal básica, pero su desglose, duración, relaciones, hitos, entregables y adaptación operativa son limitados. Los planes de riesgos, contingencias, calidad y trazabilidad se mantienen en gran medida en un nivel conceptual.
 
 ### Justificación de la valoración
 
-La solución técnica obtiene 5,05 puntos y la planificación 6,40 puntos. La suma de 11,45 puntos mantiene la correspondencia con los niveles cualitativos asignados y con las fortalezas, carencias y evidencias desarrolladas en el informe.
+La solución técnica obtiene 5,05 puntos y la planificación 4,15 puntos. La suma de 9,20 puntos mantiene la correspondencia con los niveles cualitativos asignados y con las fortalezas, carencias y evidencias desarrolladas en el informe.
 
 ### Aplicación del umbral mínimo y propuesta final
 
-La propuesta obtiene una puntuación de **11,45 puntos sobre 30** en los criterios sujetos a juicio de valor.
+La propuesta obtiene una puntuación de **9,20 puntos sobre 30** en los criterios sujetos a juicio de valor.
 
-El umbral mínimo exigido es de **15 puntos sobre 30**. Por tanto, la oferta **NO ALCANZA** el nivel mínimo de calidad técnica establecido.
+El umbral mínimo exigido es de **15 puntos sobre 30**. Por tanto, la oferta **NO ALCANZA** el umbral.
 
-En consecuencia, procede proponer la **exclusión de la oferta del procedimiento**, por no acreditar el nivel mínimo de calidad técnica exigido.
+En consecuencia, una vez motivada la puntuación mediante juicio técnico, procede proponer la **exclusión de la oferta del procedimiento** por aplicación aritmética del umbral. Esta conclusión no constituye una apreciación sobre la solvencia del licitador ni añade un incumplimiento técnico distinto de los expresamente identificados.
 
 ### Garantía de igualdad de trato y objetividad
 
@@ -2686,167 +2670,167 @@ La evaluación aplica los mismos criterios, niveles de exigencia y reglas de pun
 
 El presente anexo resume, de manera sistemática, el grado de desarrollo de la propuesta técnica para cada proyecto o subproyecto del Anexo II. Su finalidad es aportar trazabilidad documental al análisis, sin sustituir la motivación cualitativa del informe ni producir por sí solo una traslación automática a la puntuación final.
 
-Se aplican tres grados de desarrollo: **NO INCLUIDA**, cuando no existe una solución concreta; **INSUFICIENTE**, cuando el contenido es genérico o carece de arquitectura, procesos, herramientas o mecanismos de implementación suficientes; y **SUFICIENTE**, cuando existe una solución concreta y evaluable.
+Se aplican tres grados de desarrollo: **SIN SOLUCIÓN PROPIA EVALUABLE**, cuando no existe una solución concreta o el epígrafe se limita a reproducir antecedentes o requisitos sin una propuesta propia diferenciada; **INSUFICIENTE**, cuando existe propuesta propia, pero es genérica o carece de arquitectura, procesos, herramientas o mecanismos de implementación suficientes; y **SUFICIENTE**, cuando existe una solución concreta y evaluable.
 
 De forma separada se indican los errores técnicos relevantes, las propuestas de mejora sin valor añadido real (**PM**) y las propuestas con valor añadido verificable (**VA**).
 
-El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionadas pero no equivalentes: el primero comprueba si existe una solución concreta y evaluable; el segundo pondera su calidad, completitud y mejoras. Por ello, **UPD5** puede mantener grado **SUFICIENTE** y nivel **BAJA**: enumera actuaciones concretas de mantenimiento, pero no desarrolla pipelines, runners ni una arquitectura DevOps verificable. El valor numérico del CSV se deriva únicamente del nivel cualitativo mediante la escala **MUY BAJA=0, BAJA=2, MEDIA=5, ALTA=8 y EXCELENTE=10**.
+El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionadas pero no equivalentes: el primero comprueba si existe una solución concreta y evaluable; el segundo pondera su calidad, completitud y mejoras. Por ello, **UPD5** puede mantener grado **SUFICIENTE** y nivel **BAJA**: enumera actuaciones concretas de mantenimiento, pero no desarrolla pipelines, runners ni una arquitectura DevOps verificable.
 
 ### Tablas de subproyectos
 
 #### BD — Mantenimiento y mejora de entornos de Bases de Datos (BD)
 
-| **Subproyecto**                                                                                 | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                       |
-| ----------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ------------------------------------------- |
-| BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y Proxy SQL avanzado | INSUFICIENTE            | PM                         | NO                          | refuerzo de revisiones sin técnicas nuevas. |
-| BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma | INSUFICIENTE            | PM                         | NO                          | ampliación mantenimiento sin herramientas.  |
-| BD3 — Mantenimiento de las diferentes Bases de Datos de gestión de la configuración de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | actualización CMDB sin automatización.      |
-| BD4 — Mantenimiento de las bases de datos de las Aulas Virtuales | INSUFICIENTE            | PM                         | NO                          | seguimiento carga sin metodología.          |
-| BD5 — Mantenimiento de disparadores y Foreign Data Wrappers en los entornos “Portal” y “LDAP Plano” | INSUFICIENTE            | PM                         | NO                          | verificación sin sincronización avanzada.   |
-| BD6 — Implementación y Mantenimiento de las Bases de Datos necesarias en entornos de Microservicios | INSUFICIENTE            | PM                         | NO                          | mantenimiento sin enfoque microservicios.   |
+| **Subproyecto**                                                                                     | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                       |
+| --------------------------------------------------------------------------------------------------- | ----------------------- | ------ | --------- | ------------------------------------------- |
+| BD1 — Mantenimiento y mejora de entornos de Bases de Datos MariaDB y Proxy SQL avanzado             | INSUFICIENTE            | PM     | NO        | refuerzo de revisiones sin técnicas nuevas. |
+| BD2 — Mantenimiento y optimización proactiva de las bases de datos de toda la plataforma            | INSUFICIENTE            | PM     | NO        | ampliación mantenimiento sin herramientas.  |
+| BD3 — Mantenimiento de las diferentes Bases de Datos de gestión de la configuración de EducaMadrid  | INSUFICIENTE            | PM     | NO        | actualización CMDB sin automatización.      |
+| BD4 — Mantenimiento de las bases de datos de las Aulas Virtuales                                    | INSUFICIENTE            | PM     | NO        | seguimiento carga sin metodología.          |
+| BD5 — Mantenimiento de disparadores y Foreign Data Wrappers en los entornos “Portal” y “LDAP Plano” | INSUFICIENTE            | PM     | NO        | verificación sin sincronización avanzada.   |
+| BD6 — Implementación y Mantenimiento de las Bases de Datos necesarias en entornos de Microservicios | INSUFICIENTE            | PM     | NO        | mantenimiento sin enfoque microservicios.   |
 
 #### MON — Monitorización, testeo y pruebas de rendimiento (MON)
 
-| **Subproyecto**                                                                           | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                        |
-| ----------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------------- |
-| MON1 — Mantenimiento periódico del almacenamiento de los centros | INSUFICIENTE            | PM                         | NO                          | supervisión ampliada sin criterios técnicos. |
-| MON2 — Realización periódica de pruebas de estrés en diferentes entornos de la plataforma | INSUFICIENTE            | PM                         | NO                          | más pruebas sin metodología definida.        |
-| MON3 — Mantener actualizado el sistema de monitorización y estadísticas de uso | INSUFICIENTE            | PM                         | NO                          | monitorización ampliada sin métricas.        |
-| MON4 — Mantener actualizado el sistema de monitorización y estadísticas de servicios basados en IA | INSUFICIENTE            | PM                         | NO                          | extensión genérica a IA sin especialización. |
+| **Subproyecto**                                                                                    | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                        |
+| -------------------------------------------------------------------------------------------------- | ----------------------- | ------ | --------- | -------------------------------------------- |
+| MON1 — Mantenimiento periódico del almacenamiento de los centros                                   | INSUFICIENTE            | PM     | NO        | supervisión ampliada sin criterios técnicos. |
+| MON2 — Realización periódica de pruebas de estrés en diferentes entornos de la plataforma          | INSUFICIENTE            | PM     | NO        | más pruebas sin metodología definida.        |
+| MON3 — Mantener actualizado el sistema de monitorización y estadísticas de uso                     | INSUFICIENTE            | PM     | NO        | monitorización ampliada sin métricas.        |
+| MON4 — Mantener actualizado el sistema de monitorización y estadísticas de servicios basados en IA | INSUFICIENTE            | PM     | NO        | extensión genérica a IA sin especialización. |
 
 #### UPD — Actualización de servicios existentes (UPD)
 
-| **Subproyecto**                                                                                   | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                        |
-| ------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------------- |
-| UPD1 — Mantenimiento y mejora de los sistemas de videoconferencias de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | validaciones adicionales sin arquitectura.   |
-| UPD2 — Mantenimiento y mejora del sistema secundario de Videoconferencias con opción de grabación | INSUFICIENTE            | PM                         | NO                          | repetición del modelo anterior.              |
-| UPD3 — Mantenimiento y mejora de la herramienta Mattermost | INSUFICIENTE            | PM                         | NO                          | tareas ampliadas sin integración técnica.    |
-| UPD4 — Mantenimiento y mejora de la solución Kanban | INSUFICIENTE            | PM                         | NO                          | gestión genérica sin herramienta definida.   |
-| UPD5 — Mantenimiento y mejora de la solución GitLab | SUFICIENTE              | PM                         | NO                          | mantenimiento convencional sin pipelines.    |
-| UPD6 — Mantenimiento y mejora de la solución LimeSurvey | INSUFICIENTE            | PM                         | NO                          | ajustes básicos sin optimización técnica.    |
-| UPD7 — Mantenimiento y mejora de SonarQube | INSUFICIENTE            | PM                         | SÍ                          | contenido incorrecto sin valor.              |
-| UPD8 — Mantenimiento y mejora de Redmine | SUFICIENTE              | VA                         | NO                          | uso API y automatización básica.             |
-| UPD9 — Mantenimiento y configuración de Wowza Streaming Engine. | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| UPD10 — Mantenimiento y gestión de contenidos AbiesWeb | INSUFICIENTE            | PM                         | NO                          | gestión básica sin integración.              |
-| UPD11 — Actualización, Mantenimiento y gestión de contenidos de Abies+ | INSUFICIENTE            | PM                         | NO                          | incidencias sin evolución funcional.         |
-| UPD12 — Implementación, mantenimiento y mejora de Empieza | INSUFICIENTE            | PM                         | NO                          | HA conceptual sin implementación.            |
-| UPD13 — mantenimiento y mejora del sistema de gestión de la configuración | INSUFICIENTE            | PM                         | NO                          | sin uso herramientas exigidas.               |
-| UPD14 — Mantenimiento, Actualización y mejora de la solución de contenedores | INSUFICIENTE            | PM                         | NO                          | contenedores sin tecnología definida.        |
-| UPD15 — Mantenimiento de gestión y decomisionado de servidores | INSUFICIENTE            | PM                         | NO                          | decomisionado incompleto.                    |
+| **Subproyecto**                                                                                   | **Grado de desarrollo**       | **VA** | **Error** | **Observación breve**                            |
+| ------------------------------------------------------------------------------------------------- | ----------------------------- | ------ | --------- | ------------------------------------------------ |
+| UPD1 — Mantenimiento y mejora de los sistemas de videoconferencias de EducaMadrid                 | INSUFICIENTE                  | PM     | NO        | validaciones adicionales sin arquitectura.       |
+| UPD2 — Mantenimiento y mejora del sistema secundario de Videoconferencias con opción de grabación | INSUFICIENTE                  | PM     | NO        | repetición del modelo anterior.                  |
+| UPD3 — Mantenimiento y mejora de la herramienta Mattermost                                        | INSUFICIENTE                  | PM     | NO        | tareas ampliadas sin integración técnica.        |
+| UPD4 — Mantenimiento y mejora de la solución Kanban                                               | INSUFICIENTE                  | PM     | NO        | gestión genérica sin herramienta definida.       |
+| UPD5 — Mantenimiento y mejora de la solución GitLab                                               | SUFICIENTE                    | PM     | NO        | mantenimiento convencional sin pipelines.        |
+| UPD6 — Mantenimiento y mejora de la solución LimeSurvey                                           | INSUFICIENTE                  | PM     | NO        | ajustes básicos sin optimización técnica.        |
+| UPD7 — Mantenimiento y mejora de SonarQube                                                        | INSUFICIENTE                  | PM     | SÍ        | contenido incorrecto sin valor.                  |
+| UPD8 — Mantenimiento y mejora de Redmine                                                          | SUFICIENTE                    | VA     | NO        | uso API y automatización básica.                 |
+| UPD9 — Mantenimiento y configuración de Wowza Streaming Engine.                                   | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| UPD10 — Mantenimiento y gestión de contenidos AbiesWeb                                            | INSUFICIENTE                  | PM     | NO        | gestión básica sin integración.                  |
+| UPD11 — Actualización, Mantenimiento y gestión de contenidos de Abies+                            | INSUFICIENTE                  | PM     | NO        | incidencias sin evolución funcional.             |
+| UPD12 — Implementación, mantenimiento y mejora de Empieza                                         | INSUFICIENTE                  | PM     | NO        | HA conceptual sin implementación.                |
+| UPD13 — mantenimiento y mejora del sistema de gestión de la configuración                         | INSUFICIENTE                  | PM     | NO        | sin uso herramientas exigidas.                   |
+| UPD14 — Mantenimiento, Actualización y mejora de la solución de contenedores                      | INSUFICIENTE                  | PM     | NO        | contenedores sin tecnología definida.            |
+| UPD15 — Mantenimiento de gestión y decomisionado de servidores                                    | INSUFICIENTE                  | PM     | NO        | decomisionado incompleto.                        |
 
 #### CLO — Cloud (CLO)
 
-| **Subproyecto**                                                                              | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                        |
-| -------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------------- |
-| CLO1 — Mantenimiento del servicio de la nube de EducaMadrid | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| CLO2 — Mantenimiento y adaptación del sistema de almacenamiento temporal de datos de la nube | INSUFICIENTE            | PM                         | NO                          | ajustes progresivos sin escalabilidad.       |
-| CLO3 — Mantenimiento del sistema de edición en línea de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | uso concurrente sin arquitectura.            |
+| **Subproyecto**                                                                              | **Grado de desarrollo**       | **VA** | **Error** | **Observación breve**                            |
+| -------------------------------------------------------------------------------------------- | ----------------------------- | ------ | --------- | ------------------------------------------------ |
+| CLO1 — Mantenimiento del servicio de la nube de EducaMadrid                                  | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| CLO2 — Mantenimiento y adaptación del sistema de almacenamiento temporal de datos de la nube | INSUFICIENTE                  | PM     | NO        | ajustes progresivos sin escalabilidad.           |
+| CLO3 — Mantenimiento del sistema de edición en línea de EducaMadrid                          | INSUFICIENTE                  | PM     | NO        | uso concurrente sin arquitectura.                |
 
 #### OTR — Otros desarrollos (OTR)
 
-| **Subproyecto**                                                                              | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                  |
-| -------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------- |
-| OTR1 — Mantenimiento y mejora del sistema de autentificación centralizada Single Sign On (SSO) | SUFICIENTE | PM | NO | Keycloak con LDAP, HA y 2FA; faltan dimensionamiento y métricas. |
-| OTR2 — Mantenimiento, configuración y gestión 2FA en el servicio de Single Sign On (SSO) | INSUFICIENTE            | PM                         | NO                          | 2FA genérico con inconsistencias.      |
-| OTR3 — Mantenimiento y mejora de herramientas de automatización de tareas | INSUFICIENTE            | PM                         | NO                          | scripts sin orquestación.              |
-| OTR4 — Mantenimiento y mejora de un sistema de gestión y análisis de datos mediante el stack de Elastic | INSUFICIENTE            | PM                         | NO                          | analítica genérica sin stack definido. |
-| OTR5 — Mantenimiento y mejora de la herramienta de flujos de trabajo | INSUFICIENTE            | PM                         | NO                          | workflow sin herramienta identificada. |
-| OTR6 — Mantenimiento y mejora del Portal CAU | INSUFICIENTE            | PM                         | NO                          | portal sin evolución funcional.        |
-| OTR7 — Mantenimiento y evolución de servicios de Inteligencia Artificial para la plataforma EducaMadrid | INSUFICIENTE            | PM                         | NO                          | IA conceptual sin implementación.      |
+| **Subproyecto**                                                                                         | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                                            |
+| ------------------------------------------------------------------------------------------------------- | ----------------------- | ------ | --------- | ---------------------------------------------------------------- |
+| OTR1 — Mantenimiento y mejora del sistema de autentificación centralizada Single Sign On (SSO)          | SUFICIENTE              | PM     | NO        | Keycloak con LDAP, HA y 2FA; faltan dimensionamiento y métricas. |
+| OTR2 — Mantenimiento, configuración y gestión 2FA en el servicio de Single Sign On (SSO)                | INSUFICIENTE            | PM     | NO        | 2FA genérico con inconsistencias.                                |
+| OTR3 — Mantenimiento y mejora de herramientas de automatización de tareas                               | INSUFICIENTE            | PM     | NO        | scripts sin orquestación.                                        |
+| OTR4 — Mantenimiento y mejora de un sistema de gestión y análisis de datos mediante el stack de Elastic | INSUFICIENTE            | PM     | NO        | analítica genérica sin stack definido.                           |
+| OTR5 — Mantenimiento y mejora de la herramienta de flujos de trabajo                                    | INSUFICIENTE            | PM     | NO        | workflow sin herramienta identificada.                           |
+| OTR6 — Mantenimiento y mejora del Portal CAU                                                            | INSUFICIENTE            | PM     | NO        | portal sin evolución funcional.                                  |
+| OTR7 — Mantenimiento y evolución de servicios de Inteligencia Artificial para la plataforma EducaMadrid | INSUFICIENTE            | PM     | NO        | IA conceptual sin implementación.                                |
 
 #### COR — Correo electrónico (COR)
 
-| **Subproyecto**                                                                       | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                   |
-| ------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | --------------------------------------- |
-| COR1 — Mantenimiento y mejora de los sistemas de control de envíos de correo | INSUFICIENTE            | PM                         | NO                          | supervisión sin control de tráfico.     |
-| COR2 — Mantenimiento automatizado de listas de distribución de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | gestión manual sin automatización.      |
-| COR3 — Mantenimiento y mejora del sistema de activación y gestión de cuotas de correo | INSUFICIENTE            | PM                         | NO                          | revisión sin política de cuotas.        |
-| COR4 — Mantenimiento y mejora de las herramientas relacionadas con el control del spam | INSUFICIENTE            | PM                         | NO                          | control básico sin estrategia antispam. |
-| COR5 — Mantenimiento de buzones de correo | INSUFICIENTE            | PM                         | NO                          | gestión manual de buzones.              |
-| COR6 — Mantenimiento y mejora continua de la seguridad del sistema de correo | INSUFICIENTE            | PM                         | NO                          | seguridad genérica sin técnicas.        |
-| COR7 — Actualización y mejora continua de la infraestructura en la que se basa el sistema de correo | INSUFICIENTE            | PM                         | NO                          | infraestructura sin modularidad.        |
-| COR8 — Ampliación del número de servidores Mailbox Server | INSUFICIENTE            | PM                         | NO                          | sin criterios de escalado.              |
-| COR9 — Implementación y mejora de un módulo receptor de inyección directa para la infraestructura de transporte de correo | INSUFICIENTE            | PM                         | NO                          | inyección sin arquitectura definida.    |
-| COR10 — Mantenimiento y soporte del módulo de inyección directa de correo | INSUFICIENTE            | PM                         | NO                          | soporte básico sin optimización.        |
+| **Subproyecto**                                                                                                           | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                   |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------ | --------- | --------------------------------------- |
+| COR1 — Mantenimiento y mejora de los sistemas de control de envíos de correo                                              | INSUFICIENTE            | PM     | NO        | supervisión sin control de tráfico.     |
+| COR2 — Mantenimiento automatizado de listas de distribución de EducaMadrid                                                | INSUFICIENTE            | PM     | NO        | gestión manual sin automatización.      |
+| COR3 — Mantenimiento y mejora del sistema de activación y gestión de cuotas de correo                                     | INSUFICIENTE            | PM     | NO        | revisión sin política de cuotas.        |
+| COR4 — Mantenimiento y mejora de las herramientas relacionadas con el control del spam                                    | INSUFICIENTE            | PM     | NO        | control básico sin estrategia antispam. |
+| COR5 — Mantenimiento de buzones de correo                                                                                 | INSUFICIENTE            | PM     | NO        | gestión manual de buzones.              |
+| COR6 — Mantenimiento y mejora continua de la seguridad del sistema de correo                                              | INSUFICIENTE            | PM     | NO        | seguridad genérica sin técnicas.        |
+| COR7 — Actualización y mejora continua de la infraestructura en la que se basa el sistema de correo                       | INSUFICIENTE            | PM     | NO        | infraestructura sin modularidad.        |
+| COR8 — Ampliación del número de servidores Mailbox Server                                                                 | INSUFICIENTE            | PM     | NO        | sin criterios de escalado.              |
+| COR9 — Implementación y mejora de un módulo receptor de inyección directa para la infraestructura de transporte de correo | INSUFICIENTE            | PM     | NO        | inyección sin arquitectura definida.    |
+| COR10 — Mantenimiento y soporte del módulo de inyección directa de correo                                                 | INSUFICIENTE            | PM     | NO        | soporte básico sin optimización.        |
 
 #### MAX — Sistema Operativo MAX (MAX)
 
-| **Subproyecto**                                                                                | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                        |
-| ---------------------------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------------- |
-| MAX1 — Mantenimiento y actualización de MAX de forma presencial en centros de forma regular | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX2 — Mantenimiento y actualización del servidor MAX para el desarrollo de distribuciones | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX3 — Mantenimiento de aplicaciones basadas en MAX | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX4 — Lanzamiento de distribuciones de MAX “Full Equip” anualmente | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX5 — Lanzamiento de distribuciones de “MAX lite” y/o “max gestión” anualmente | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX6 — Integración de aplicaciones externas a los repositorios oficiales | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX7 — Mantenimiento y mejora del servidor de gestión accesos remotos | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX8 — Soporte de asistencia telefónica y remota para incidencias de entornos MAX | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX9 — Asistencia presencial en los diferentes eventos MAX | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX10 — Soporte presencial en eventos especiales (MAX Install Party) | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX11 — Gestión, mantenimiento y actualización de equipos MAX en remoto | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX12 — Instalación y configuración de dispositivos solicitadas por los centros educativos | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX13 — Mantenimiento y soporte del servidor de repositorio individual para centros educativos | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| MAX14 — Herramienta de gestión centralizada de maquetas de MAX | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| **Subproyecto**                                                                                | **Grado de desarrollo**       | **VA** | **Error** | **Observación breve**                            |
+| ---------------------------------------------------------------------------------------------- | ----------------------------- | ------ | --------- | ------------------------------------------------ |
+| MAX1 — Mantenimiento y actualización de MAX de forma presencial en centros de forma regular    | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX2 — Mantenimiento y actualización del servidor MAX para el desarrollo de distribuciones     | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX3 — Mantenimiento de aplicaciones basadas en MAX                                            | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX4 — Lanzamiento de distribuciones de MAX “Full Equip” anualmente                            | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX5 — Lanzamiento de distribuciones de “MAX lite” y/o “max gestión” anualmente                | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX6 — Integración de aplicaciones externas a los repositorios oficiales                       | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX7 — Mantenimiento y mejora del servidor de gestión accesos remotos                          | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX8 — Soporte de asistencia telefónica y remota para incidencias de entornos MAX              | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX9 — Asistencia presencial en los diferentes eventos MAX                                     | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX10 — Soporte presencial en eventos especiales (MAX Install Party)                           | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX11 — Gestión, mantenimiento y actualización de equipos MAX en remoto                        | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX12 — Instalación y configuración de dispositivos solicitadas por los centros educativos     | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX13 — Mantenimiento y soporte del servidor de repositorio individual para centros educativos | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| MAX14 — Herramienta de gestión centralizada de maquetas de MAX                                 | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
 
 #### AV — Aulas Virtuales (AV)
 
-| **Subproyecto**                                                                                  | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**          |
-| ------------------------------------------------------------------------------------------------ | ----------------------- | -------------------------- | --------------------------- | ------------------------------ |
-| AV1 — Actualización y comprobación periódicas de servidores físicos y virtuales de BBDD de los entornos de aulas virtuales | INSUFICIENTE            | PM                         | NO                          | revisión sin herramientas.     |
-| AV2 — Mantenimiento de los servidores virtuales FrontEnd de los entornos de aulas virtuales | INSUFICIENTE            | PM                         | NO                          | supervisión sin balanceo.      |
-| AV3 — Despliegue periódico de nuevos grupos de aulas virtuales y ampliación de los actuales | INSUFICIENTE            | PM                         | NO                          | despliegue sin automatización. |
-| AV4 — Redistribución periódica de los NFS de datos de las aulas virtuales | INSUFICIENTE            | PM                         | NO                          | redistribución sin criterios.  |
+| **Subproyecto**                                                                                                            | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**          |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------ | --------- | ------------------------------ |
+| AV1 — Actualización y comprobación periódicas de servidores físicos y virtuales de BBDD de los entornos de aulas virtuales | INSUFICIENTE            | PM     | NO        | revisión sin herramientas.     |
+| AV2 — Mantenimiento de los servidores virtuales FrontEnd de los entornos de aulas virtuales                                | INSUFICIENTE            | PM     | NO        | supervisión sin balanceo.      |
+| AV3 — Despliegue periódico de nuevos grupos de aulas virtuales y ampliación de los actuales                                | INSUFICIENTE            | PM     | NO        | despliegue sin automatización. |
+| AV4 — Redistribución periódica de los NFS de datos de las aulas virtuales                                                  | INSUFICIENTE            | PM     | NO        | redistribución sin criterios.  |
 
 #### POR — Servicio de LDAP y Portal Educativo (POR)
 
 | **Subproyecto**                                                         | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**               |
-| ----------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ----------------------------------- |
-| POR1 — Ampliación periódica del sistema de esclavos LDAP de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | ampliación sin replicación técnica. |
-| POR2 — Migración del sistema LDAP máster de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | migración sin procedimientos.       |
+| ----------------------------------------------------------------------- | ----------------------- | ------ | --------- | ----------------------------------- |
+| POR1 — Ampliación periódica del sistema de esclavos LDAP de EducaMadrid | INSUFICIENTE            | PM     | NO        | ampliación sin replicación técnica. |
+| POR2 — Migración del sistema LDAP máster de EducaMadrid                 | INSUFICIENTE            | PM     | NO        | migración sin procedimientos.       |
 
 #### SEG — Seguridad (SEG)
 
-| **Subproyecto**                                                        | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**              |
-| ---------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ---------------------------------- |
-| SEG1 — Mantenimiento y mejora del sistema de control de cambios en DNS | INSUFICIENTE            | PM                         | NO                          | control básico sin auditoría.      |
-| SEG2 — Mantenimiento y mejora de un LDAP Máster independiente para usuarios privilegiados | INSUFICIENTE            | PM                         | NO                          | segregación sin arquitectura.      |
-| SEG3 — Gestión, mantenimiento e implantación anual de los certificados de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | gestión sin ciclo de vida.         |
-| SEG4 — Gestión y mantenimiento periódico de dominios DNS | INSUFICIENTE            | PM                         | NO                          | gestión DNS sin automatización.    |
-| SEG5 — Análisis y corrección de vulnerabilidades | INSUFICIENTE            | PM                         | NO                          | vulnerabilidades sin herramientas. |
-| SEG6 — Gestión, mantenimiento y ajuste de la herramienta para la detección de intrusiones, monitorización de la integridad, análisis de logs y respuesta ante incidentes. | INSUFICIENTE            | PM                         | NO                          | logs sin correlación SIEM.         |
-| SEG7 — Realización de auditorías internas de aplicaciones | INSUFICIENTE            | PM                         | NO                          | auditorías sin metodología.        |
-| SEG8 — Realización de auditorías internas continuas de los sistemas | INSUFICIENTE            | PM                         | NO                          | control continuo sin métricas.     |
-| SEG9 — Mantenimiento y uso de logs centralizados | INSUFICIENTE            | PM                         | NO                          | logs sin explotación técnica.      |
-| SEG10 — Implementación y mantenimiento de claves RSA unificadas | INSUFICIENTE            | PM                         | NO                          | claves sin gestión avanzada.       |
-| SEG11 — Asistencia y soporte presencial en los diferentes eventos de Ciberseguridad de EducaMadrid | INSUFICIENTE            | PM                         | NO                          | soporte sin procedimientos.        |
+| **Subproyecto**                                                                                                                                                           | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------ | --------- | ---------------------------------- |
+| SEG1 — Mantenimiento y mejora del sistema de control de cambios en DNS                                                                                                    | INSUFICIENTE            | PM     | NO        | control básico sin auditoría.      |
+| SEG2 — Mantenimiento y mejora de un LDAP Máster independiente para usuarios privilegiados                                                                                 | INSUFICIENTE            | PM     | NO        | segregación sin arquitectura.      |
+| SEG3 — Gestión, mantenimiento e implantación anual de los certificados de EducaMadrid                                                                                     | INSUFICIENTE            | PM     | NO        | gestión sin ciclo de vida.         |
+| SEG4 — Gestión y mantenimiento periódico de dominios DNS                                                                                                                  | INSUFICIENTE            | PM     | NO        | gestión DNS sin automatización.    |
+| SEG5 — Análisis y corrección de vulnerabilidades                                                                                                                          | INSUFICIENTE            | PM     | NO        | vulnerabilidades sin herramientas. |
+| SEG6 — Gestión, mantenimiento y ajuste de la herramienta para la detección de intrusiones, monitorización de la integridad, análisis de logs y respuesta ante incidentes. | INSUFICIENTE            | PM     | NO        | logs sin correlación SIEM.         |
+| SEG7 — Realización de auditorías internas de aplicaciones                                                                                                                 | INSUFICIENTE            | PM     | NO        | auditorías sin metodología.        |
+| SEG8 — Realización de auditorías internas continuas de los sistemas                                                                                                       | INSUFICIENTE            | PM     | NO        | control continuo sin métricas.     |
+| SEG9 — Mantenimiento y uso de logs centralizados                                                                                                                          | INSUFICIENTE            | PM     | NO        | logs sin explotación técnica.      |
+| SEG10 — Implementación y mantenimiento de claves RSA unificadas                                                                                                           | INSUFICIENTE            | PM     | NO        | claves sin gestión avanzada.       |
+| SEG11 — Asistencia y soporte presencial en los diferentes eventos de Ciberseguridad de EducaMadrid                                                                        | INSUFICIENTE            | PM     | NO        | soporte sin procedimientos.        |
 
 #### CON — Automatización y contenedores (CON)
 
-| **Subproyecto**                                                      | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**            |
-| -------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------- |
-| CON1 — Mantenimiento y mejora del sistema de gestión de contenedores | INSUFICIENTE            | PM                         | NO                          | scripts sin orquestación.        |
-| CON2 — Mantenimiento y mejora de los scripts y sistemas de automatización de tareas | INSUFICIENTE            | PM                         | NO                          | automatización sin herramientas. |
-| CON3 — Mantenimiento y mejora del sistema auxiliar de automatización | INSUFICIENTE            | PM                         | NO                          | sistema auxiliar sin definición. |
+| **Subproyecto**                                                                     | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**            |
+| ----------------------------------------------------------------------------------- | ----------------------- | ------ | --------- | -------------------------------- |
+| CON1 — Mantenimiento y mejora del sistema de gestión de contenedores                | INSUFICIENTE            | PM     | NO        | scripts sin orquestación.        |
+| CON2 — Mantenimiento y mejora de los scripts y sistemas de automatización de tareas | INSUFICIENTE            | PM     | NO        | automatización sin herramientas. |
+| CON3 — Mantenimiento y mejora del sistema auxiliar de automatización                | INSUFICIENTE            | PM     | NO        | sistema auxiliar sin definición. |
 
 #### MIG — Gestión de la migración de servidores entre CPDs (MIG)
 
 | **Subproyecto**                                                             | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**              |
-| --------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | ---------------------------------- |
-| MIG1 — Coordinación y planificación de la revisión de los entornos migrados | INSUFICIENTE            | PM                         | NO                          | coordinación sin metodología.      |
-| MIG2 — Fases preparatorias y planificación técnica de la migración | INSUFICIENTE            | PM                         | NO                          | planificación sin fases definidas. |
-| MIG3 — Preparación de servidores y documentación de sistemas | INSUFICIENTE            | PM                         | NO                          | preparación sin automatización.    |
-| MIG4 — verificación de la migración | INSUFICIENTE            | PM                         | NO                          | verificación sin criterios claros. |
-| MIG5 — Mantenimiento y soporte tras la migración | INSUFICIENTE            | PM                         | NO                          | soporte sin indicadores.           |
+| --------------------------------------------------------------------------- | ----------------------- | ------ | --------- | ---------------------------------- |
+| MIG1 — Coordinación y planificación de la revisión de los entornos migrados | INSUFICIENTE            | PM     | NO        | coordinación sin metodología.      |
+| MIG2 — Fases preparatorias y planificación técnica de la migración          | INSUFICIENTE            | PM     | NO        | planificación sin fases definidas. |
+| MIG3 — Preparación de servidores y documentación de sistemas                | INSUFICIENTE            | PM     | NO        | preparación sin automatización.    |
+| MIG4 — verificación de la migración                                         | INSUFICIENTE            | PM     | NO        | verificación sin criterios claros. |
+| MIG5 — Mantenimiento y soporte tras la migración                            | INSUFICIENTE            | PM     | NO        | soporte sin indicadores.           |
 
 #### IA — Inteligencia Artificial (IA)
 
-| **Subproyecto**                                                           | **Grado de desarrollo** | **VA** | **Error** | **Observación breve**                        |
-| ------------------------------------------------------------------------- | ----------------------- | -------------------------- | --------------------------- | -------------------------------------------- |
-| IA1 — EVALUAR el rendimiento de los modelos seleccionados | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| IA2 — Ingeniería de Prompts adaptados para cada servicio | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| IA3 — Testeo de los guardarraíles para el entorno educativo | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| IA4 — Evaluar Posibilidades de Integración en Distintos Aplicativos | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
-| IA5 — Evaluación de Capacidades de Respuesta y Límites por Usuario | NO INCLUIDA             | NO                         | NO                          | No se incluye una solución técnica concreta. |
+| **Subproyecto**                                                     | **Grado de desarrollo**       | **VA** | **Error** | **Observación breve**                            |
+| ------------------------------------------------------------------- | ----------------------------- | ------ | --------- | ------------------------------------------------ |
+| IA1 — EVALUAR el rendimiento de los modelos seleccionados           | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| IA2 — Ingeniería de Prompts adaptados para cada servicio            | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| IA3 — Testeo de los guardarraíles para el entorno educativo         | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| IA4 — Evaluar Posibilidades de Integración en Distintos Aplicativos | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
+| IA5 — Evaluación de Capacidades de Respuesta y Límites por Usuario  | SIN SOLUCIÓN PROPIA EVALUABLE | NO     | NO        | No se identifica una propuesta propia evaluable. |
 
 ### Resumen cuantitativo del anexo
 
@@ -2854,7 +2838,7 @@ El **grado de desarrollo** y el **nivel cualitativo** son dimensiones relacionad
 
 | **Clasificación**                    | **Número de proyectos** | **Porcentaje** |
 | ------------------------------------ | ----------------------: | -------------: |
-| No incluidos                         |                      21 |        23,60 % |
+| Sin solución propia evaluable        |                      21 |        23,60 % |
 | Desarrollo insuficiente o deficiente |                      65 |        73,03 % |
 | Desarrollo suficiente                |                       3 |         3,37 % |
 | **TOTAL DE PROYECTOS**               |                  **89** |   **100,00 %** |
@@ -2871,4 +2855,4 @@ Los indicadores no son excluyentes entre sí ni respecto del grado de desarrollo
 
 ### Conclusión del anexo
 
-El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no incluyen solución concreta. MAX e IA carecen de desarrollo técnico evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual.
+El patrón dominante es el desarrollo insuficiente: 65 de los 89 subproyectos se clasifican como insuficientes y 21 no aportan una solución propia evaluable. MAX e IA incluyen epígrafes formales, pero el texto propio identificado no desarrolla una solución técnica evaluable, mientras las carencias de BD, MON, CLO, COR, CON y MIG son recurrentes. UPD5, UPD8 y OTR1 alcanzan desarrollo suficiente y el valor añadido real es residual.

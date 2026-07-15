@@ -35,7 +35,7 @@ La clasificación más frecuente sigue siendo el desarrollo insuficiente o gené
 
 ### Conclusión del resumen ejecutivo
 
-La oferta presenta una comprensión general aceptable y una cobertura documental extensa, pero no acredita de forma homogénea cómo se ejecutarán, validarán y controlarán numerosas actuaciones. Las deficiencias de concreción técnica se acumulan con una planificación incompleta para el periodo contractual, por lo que la calidad global resulta insuficiente. La oferta obtiene **9,70 puntos sobre 30** y no alcanza el umbral mínimo de 15 puntos.
+La oferta presenta una comprensión general aceptable y una cobertura documental extensa, pero no permite verificar de forma homogénea cómo se ejecutarán, validarán y controlarán numerosas actuaciones. Las deficiencias de concreción técnica se acumulan con una planificación incompleta para el periodo contractual. La oferta obtiene **9,70 puntos sobre 30** y no alcanza el umbral mínimo de 15 puntos.
 
 ## INTRODUCCIÓN
 
@@ -55,7 +55,7 @@ De conformidad con el **artículo 145 de la LCSP**, los criterios de adjudicaci�
 
 Asimismo, el **artículo 146.3 de la LCSP** permite establecer umbrales mínimos en los criterios cualitativos sujetos a juicio de valor. Conforme al Documento de Invitación, las ofertas deben alcanzar un **nivel mínimo de calidad técnica equivalente al cincuenta por ciento de la puntuación máxima asignable a estos criterios** para continuar en el procedimiento.
 
-La aplicación de este umbral no constituye una decisión discrecional: una vez constatado su incumplimiento, la oferta afectada no puede continuar en las fases posteriores del procedimiento. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**.
+La puntuación se determina mediante juicio técnico motivado. Una vez obtenido el total, la aplicación aritmética del umbral no añade una valoración discrecional adicional. La valoración debe permitir **comprobar de forma clara la puntuación obtenida y motivar la correspondiente propuesta de admisión o exclusión**, sin confundir el resultado con la solvencia del licitador ni con un incumplimiento técnico autónomo.
 
 La evaluación se ajusta igualmente al **principio de evaluabilidad**, conforme al cual únicamente pueden valorarse los elementos de la oferta que estén suficientemente desarrollados y que permitan su comprobación objetiva. Las declaraciones genéricas, las capacidades presumidas, las referencias no desarrolladas o las soluciones futuras no descritas en la memoria no pueden suplirse mediante inferencias del órgano evaluador.
 
@@ -1412,27 +1412,23 @@ La memoria técnica incorpora referencias a la integración con servicios de dir
 
 - **Análisis de la propuesta**
 
-**No obstante, el análisis detallado de la documentación revela importantes carencias en la comprensión del entorno tecnológico real asociado a este requisito.** La memoria realiza referencias al denominado LDAP Plano como si se tratara de un servicio LDAP convencional cuando, según la documentación técnica incluida en el Documento de Invitación, dicho componente corresponde realmente a una base de datos PostgreSQL utilizada como repositorio de información. Esta confusión evidencia una comprensión imperfecta de la arquitectura actual de la plataforma y limita la fiabilidad técnica de la propuesta formulada.
 
-Adicionalmente, la solución se desarrolla mediante planteamientos genéricos sobre integración de identidades sin detallar flujos de sincronización, mecanismos de resolución de incidencias, procedimientos de integración, esquemas de replicación ni procesos de validación asociados a la gestión de identidades. La memoria reproduce en buena medida los objetivos perseguidos por el requisito sin desarrollar suficientemente los mecanismos técnicos necesarios para alcanzarlos. **Esta circunstancia resulta plenamente coherente con la clasificación de desarrollo deficiente recogida en el Anexo I.**
+La solución se desarrolla mediante planteamientos genéricos sobre integración de identidades sin detallar flujos de sincronización, mecanismos de resolución de incidencias, procedimientos de integración, esquemas de replicación ni procesos de validación asociados a la gestión de identidades. La memoria reproduce en buena medida los objetivos perseguidos por el requisito sin desarrollar suficientemente los mecanismos técnicos necesarios para alcanzarlos. **Esta circunstancia resulta plenamente coherente con la clasificación de desarrollo deficiente recogida en el Anexo I.**
 
-**La propuesta acredita una comprensión básica de la finalidad del servicio, pero las inconsistencias detectadas sobre la arquitectura de identidad existente, unidas a la limitada definición técnica de la solución, impiden considerar que la respuesta alcance niveles adecuados de especialización.** La existencia de errores de interpretación sobre componentes esenciales del entorno reduce considerablemente la confianza en la capacidad de ejecución efectiva del servicio solicitado.
+La propuesta acredita una comprensión básica de la finalidad del servicio. No alcanza un nivel superior porque la limitada definición de flujos, validaciones y procedimientos no permite verificar la especialización técnica de la integración propuesta..
 
-**Debe señalarse que las inconsistencias observadas no implican una ausencia total de comprensión del requisito ni del entorno funcional objeto del contrato.** Sin embargo, constituyen indicios objetivos de un conocimiento parcial o imperfecto de determinados componentes tecnológicos específicos de la plataforma EducaMadrid. Por ello, la valoración realizada distingue entre una comprensión general adecuada de la finalidad del servicio y el conocimiento detallado de determinadas implementaciones concretas actualmente desplegadas.
-
-**Debe señalarse que las inconsistencias observadas no implican una ausencia total de comprensión del requisito ni del entorno funcional objeto del contrato.** Sin embargo, constituyen indicios objetivos de un conocimiento parcial o imperfecto de determinados componentes tecnológicos específicos de la plataforma EducaMadrid. Por ello, la valoración realizada distingue entre una comprensión general adecuada de la finalidad del servicio y el conocimiento detallado de determinadas implementaciones concretas actualmente desplegadas.
+La valoración distingue la comprensión funcional acreditada de la profundidad técnica verificable. El efecto desfavorable se imputa a esta última dimensión y no a una arquitectura interna que no consta acreditada en la documentación contractual examinada.
 
 - **Fortalezas y valor añadido**
 
 La memoria técnica incorpora referencias a la integración con servicios de directorio y contempla la necesidad de garantizar la interoperabilidad entre las aplicaciones externas y los sistemas corporativos de autenticación. **La propuesta reconoce adecuadamente la importancia de la gestión centralizada de identidades dentro del ecosistema EducaMadrid y describe de forma general las actividades orientadas a facilitar dicha integración.** Desde una perspectiva funcional, puede considerarse que el requisito se encuentra cubierto.
 
-**No obstante, el análisis detallado de la documentación revela importantes carencias en la comprensión del entorno tecnológico real asociado a este requisito.** La memoria realiza referencias al denominado LDAP Plano como si se tratara de un servicio LDAP convencional cuando, según la documentación técnica incluida en el Documento de Invitación, dicho componente corresponde realmente a una base de datos PostgreSQL utilizada como repositorio de información. Esta confusión evidencia una comprensión imperfecta de la arquitectura actual de la plataforma y limita la fiabilidad técnica de la propuesta formulada.
 
 - **Carencias, omisiones, errores o riesgos**
 
-**No obstante, el análisis detallado de la documentación revela importantes carencias en la comprensión del entorno tecnológico real asociado a este requisito.** La memoria realiza referencias al denominado LDAP Plano como si se tratara de un servicio LDAP convencional cuando, según la documentación técnica incluida en el Documento de Invitación, dicho componente corresponde realmente a una base de datos PostgreSQL utilizada como repositorio de información. Esta confusión evidencia una comprensión imperfecta de la arquitectura actual de la plataforma y limita la fiabilidad técnica de la propuesta formulada.
+La oferta no concreta flujos de sincronización, validaciones ni procedimientos de resolución de incidencias. Esta falta de verificabilidad, y no la tecnología interna de «LDAP Plano», fundamenta la carencia.
 
-**La propuesta acredita una comprensión básica de la finalidad del servicio, pero las inconsistencias detectadas sobre la arquitectura de identidad existente, unidas a la limitada definición técnica de la solución, impiden considerar que la respuesta alcance niveles adecuados de especialización.** La existencia de errores de interpretación sobre componentes esenciales del entorno reduce considerablemente la confianza en la capacidad de ejecución efectiva del servicio solicitado.
+La propuesta acredita una comprensión básica de la finalidad del servicio, pero la limitada definición técnica impide alcanzar el nivel siguiente.
 
 - **Valoración cualitativa**
 
@@ -1482,13 +1478,12 @@ La memoria contempla actuaciones orientadas a facilitar la integración entre ap
 
 **A pesar de ello, la solución propuesta adolece de una importante falta de precisión técnica.** La documentación no desarrolla suficientemente las particularidades asociadas a los distintos motores de bases de datos presentes en la plataforma ni los procedimientos específicos necesarios para garantizar una integración robusta y sostenible.
 
-Adicionalmente, se observa una inconsistencia relevante al describir determinados entornos Drupal sobre PostgreSQL cuando, según la documentación técnica del contrato, dichos sistemas se encuentran soportados sobre MySQL. **Esta circunstancia pone de manifiesto un conocimiento imperfecto de la arquitectura actual y limita la capacidad de valorar favorablemente la especialización técnica demostrada por la oferta.**
 
 La ausencia de arquitecturas de integración claramente definidas, procedimientos de validación específicos o mecanismos detallados de interoperabilidad resulta coherente con la clasificación de desarrollo deficiente reflejada en el Anexo I.
 
-**Aunque la propuesta cubre formalmente el requisito, las inconsistencias detectadas respecto al entorno tecnológico real y la limitada profundidad técnica de la solución reducen significativamente la calidad de la respuesta.** La capacidad de acreditar conocimiento especializado del ecosistema de datos de EducaMadrid resulta insuficiente para justificar una valoración superior.
+Aunque la propuesta cubre formalmente el requisito, la limitada profundidad técnica de la solución reduce la calidad de la respuesta. La ausencia de arquitecturas de integración, validaciones específicas y mecanismos detallados de interoperabilidad impide alcanzar una valoración superior.
 
-**Debe señalarse que las inconsistencias observadas no implican una ausencia total de comprensión del requisito ni del entorno funcional objeto del contrato.** Sin embargo, constituyen indicios objetivos de un conocimiento parcial o imperfecto de determinados componentes tecnológicos específicos de la plataforma EducaMadrid. Por ello, la valoración realizada distingue entre una comprensión general adecuada de la finalidad del servicio y el conocimiento detallado de determinadas implementaciones concretas actualmente desplegadas.
+La valoración se apoya exclusivamente en la profundidad y verificabilidad de la integración propuesta, sin presumir una arquitectura interna no identificada en la documentación contractual examinada.
 
 - **Fortalezas y valor añadido**
 
@@ -1498,9 +1493,8 @@ La ausencia de arquitecturas de integración claramente definidas, procedimiento
 
 - **Carencias, omisiones, errores o riesgos**
 
-**A pesar de ello, la solución propuesta adolece de una importante falta de precisión técnica.** La documentación no desarrolla suficientemente las particularidades asociadas a los distintos motores de bases de datos presentes en la plataforma ni los procedimientos específicos necesarios para garantizar una integración robusta y sostenible.
+**La solución propuesta adolece de una importante falta de precisión técnica.** La documentación no desarrolla suficientemente las particularidades asociadas a los distintos motores de bases de datos presentes en la plataforma ni los procedimientos específicos necesarios para garantizar una integración robusta y sostenible.
 
-Adicionalmente, se observa una inconsistencia relevante al describir determinados entornos Drupal sobre PostgreSQL cuando, según la documentación técnica del contrato, dichos sistemas se encuentran soportados sobre MySQL. **Esta circunstancia pone de manifiesto un conocimiento imperfecto de la arquitectura actual y limita la capacidad de valorar favorablemente la especialización técnica demostrada por la oferta.**
 
 - **Valoración cualitativa**
 
@@ -2252,7 +2246,7 @@ A esta circunstancia se añade la existencia de requisitos para los que no ha si
 
 **Asimismo, en otros apartados donde sí existe respuesta, ésta se limita frecuentemente a describir actividades genéricas de revisión, análisis, seguimiento o validación, sin incorporar elementos técnicos que permitan valorar la profundidad real de la solución propuesta.** Esta situación afecta especialmente a proyectos relacionados con ENS, ciberseguridad, monitorización, desarrollo seguro o gestión del programa de Bug Bounty, ámbitos que en la memoria reciben un tratamiento claramente inferior al nivel de detalle técnico que cabría esperar para alcanzar valoraciones elevadas.
 
-En consecuencia, el contraste con la memoria confirma una cobertura parcial significativa, pero también una respuesta frecuentemente genérica, carencias técnicas relevantes y dos requisitos sin solución evaluable. Los 26 desarrollos insuficientes y la ausencia de solución evaluable para ESIS11 y ESIS14 sitúan el subcriterio en el nivel MEDIA.
+La revaloración reconoce 25 desarrollos suficientes, con contenido materialmente relevante en ELIF, IFP, parte de MoodleMisc, actualización de sistemas, monitorización, seguridad y desarrollo seguro. Estas fortalezas permiten alcanzar el límite superior de MEDIA. No se alcanza ALTA porque las carencias verificadas afectan a 26 desarrollos de bloques relevantes —entre ellos integración, Dinámicas y numerosos servicios externos— y ESIS11 y ESIS14 no aportan una solución concreta evaluable. El recuento ordena la evidencia, pero la nota deriva de la importancia y profundidad cualitativa de esos contenidos.
 
 **Nivel cualitativo:** MEDIA
 
@@ -2274,27 +2268,25 @@ En consecuencia, el contraste con la memoria confirma una cobertura parcial sign
 
 ### Consideraciones generales sobre la planificación
 
-La planificación se valora como herramienta real de gestión: correspondencia con los proyectos, secuencia y duración de tareas, dependencias, hitos, recursos, entregables y mecanismos de riesgo, contingencia, calidad y trazabilidad.
+La planificación se valora como herramienta real de gestión conforme a los rasgos publicados: correspondencia con los proyectos, secuencia y duración de tareas, dependencias, hitos, objetivos, entregables y mecanismos de riesgo, contingencia, calidad y trazabilidad.
 
 ### Calendario de los trabajos a desarrollar — máximo 11 puntos
 
-La planificación temporal constituye el núcleo principal de este criterio, por cuanto debe permitir verificar la distribución de los trabajos a lo largo del periodo contractual, la adecuada secuenciación de actividades, la compatibilidad entre los recursos asignados y el volumen de trabajo previsto, así como la cobertura continuada de los servicios incluidos en el contrato.
+La planificación temporal constituye el núcleo principal de este criterio, por cuanto debe permitir verificar la distribución de los trabajos a lo largo del periodo contractual, la secuenciación, la duración, las relaciones entre tareas y la cobertura continuada de los servicios incluidos en el contrato.
 
 **La propuesta presentada por empresa_n incorpora un cronograma general en el que se reflejan distintas actuaciones distribuidas temporalmente a lo largo de un periodo determinado.** Esta representación permite obtener una visión general de la intención organizativa de la empresa y de las principales líneas de actuación previstas para la ejecución del servicio.
 
-**No obstante, el análisis detallado del cronograma revela una primera limitación de carácter estructural que afecta a su interpretabilidad.** La documentación no incorpora ninguna leyenda que permita determinar el significado de los colores empleados, la naturaleza de las distintas marcas gráficas reflejadas ni la relación existente entre dichas representaciones y los recursos efectivamente asignados. Como consecuencia, no resulta posible establecer con certeza qué perfiles participan en cada actividad ni cuál es la dedicación real prevista para cada una de ellas.
+**No obstante, el análisis detallado del cronograma revela una limitación de interpretabilidad.** La documentación no incorpora una leyenda que permita determinar el significado de los colores y valores de las celdas. Esta circunstancia se utiliza únicamente como evidencia de que no pueden reconstruirse con seguridad las duraciones, relaciones e hitos representados.
 
-**Esta carencia adquiere especial relevancia en un contrato de elevada complejidad técnica y funcional, donde la correcta asignación de recursos especializados constituye un elemento fundamental para garantizar la viabilidad del servicio.** La ausencia de información que permita relacionar actividades, perfiles y dedicaciones dificulta significativamente la evaluación de la suficiencia de los medios previstos para la ejecución de los trabajos.
+**A esta limitación se suma una deficiencia objetiva de especial importancia.** El apartado «Esfuerzo estimado» del Anexo II expresa el esfuerzo para los dos años de contrato, mientras que el cronograma de la oferta únicamente desarrolla actuaciones entre junio de 2026 y mayo de 2027. Esta circunstancia impide verificar la secuencia completa durante aproximadamente la mitad del periodo de ejecución previsto.
 
-**A esta limitación se suma una segunda deficiencia de especial importancia.** El contrato objeto de licitación contempla una duración de dos años, mientras que la planificación aportada únicamente desarrolla actuaciones comprendidas entre junio de 2026 y mayo de 2027, sin incluir una planificación equivalente para el segundo año contractual. Esta circunstancia impide verificar cómo se prestarán los servicios durante aproximadamente la mitad del periodo de ejecución previsto.
-
-La ausencia de planificación correspondiente al segundo año afecta de forma directa a la valoración de este criterio, ya que no sólo limita la visibilidad sobre la continuidad operativa del servicio, sino que también imposibilita analizar la asignación de recursos, la distribución de cargas de trabajo, la evolución de los proyectos y la cobertura efectiva de las actividades recurrentes durante una parte sustancial del contrato.
+La ausencia de planificación correspondiente al segundo año afecta directamente al detalle, la duración y la coherencia temporal del servicio, y no permite verificar la continuidad de las actividades recurrentes durante una parte sustancial del contrato.
 
 **Igualmente, relevante resulta la inexistencia de una asociación clara entre determinadas actividades reflejadas en el cronograma y los requisitos específicos analizados en el capítulo anterior.** En aquellos casos donde la propuesta técnica presentaba carencias significativas o no incluía una solución evaluable, Tampoco se concretan para el requisito evaluado actividades de planificación claramente vinculadas que permitan inferir cómo se llevarán a cabo dichos trabajos. Como consecuencia, la trazabilidad entre requisitos, propuesta técnica y planificación resulta limitada.
 
 **Otro aspecto que condiciona negativamente la valoración es la dificultad para justificar determinadas duraciones y niveles de dedicación asignados a trabajos de elevada complejidad técnica.** El cronograma no incorpora un desglose suficiente de actividades, subtareas, entregables asociados ni criterios de validación intermedios que permitan verificar la razonabilidad temporal de algunas de las actuaciones previstas. Ello dificulta considerablemente la evaluación objetiva de la carga de trabajo real contemplada para proyectos de integración, ciberseguridad, automatización o evolución de infraestructuras.
 
-Por todo ello, aunque la propuesta incorpora una planificación básica que permite identificar la existencia de una organización temporal inicial de los trabajos, las carencias detectadas limitan de forma muy significativa su utilidad como instrumento de gestión y seguimiento del servicio.
+Por todo ello, la propuesta incorpora una planificación básica que permite identificar tareas y meses y supera la parte inferior de BAJA. No alcanza el límite superior del nivel porque omite el segundo año y no permite verificar de forma suficiente duraciones, relaciones e hitos. La nota refleja esa combinación de contenido temporal existente y cobertura contractual incompleta.
 
 **Nivel cualitativo:** BAJA
 
@@ -2411,9 +2403,9 @@ Las puntuaciones parciales responden a las evidencias identificadas en cada subp
 
 La propuesta de **empresa_n** obtiene una puntuación de **9,70 puntos sobre 30** en los criterios sujetos a juicio de valor.
 
-El umbral mínimo exigido para continuar en el procedimiento es de **15 puntos sobre 30**. Por tanto, la oferta **NO ALCANZA** el nivel mínimo de calidad técnica establecido.
+El umbral mínimo exigido para continuar en el procedimiento es de **15 puntos sobre 30**. Por tanto, la oferta **NO ALCANZA** el umbral.
 
-En consecuencia, procede proponer la **exclusión de la oferta del procedimiento**.
+En consecuencia, una vez motivada la puntuación mediante juicio técnico, procede proponer la **exclusión de la oferta del procedimiento** por aplicación aritmética del umbral. Esta conclusión no constituye una apreciación sobre la solvencia del licitador ni añade un incumplimiento técnico distinto de los expresamente identificados.
 
 ### Garantía de igualdad de trato y objetividad
 
